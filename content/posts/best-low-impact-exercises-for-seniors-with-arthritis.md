@@ -3,7 +3,7 @@ title: "Best low-impact exercises for seniors with arthritis"
 date: 2026-05-17T18:35:33+00:00
 draft: false
 description: "Discover the best low impact exercises for seniors with arthritis. This guide covers safe, doctor-recommended activities like water aerobics, tai chi, yoga,"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6926037/pexels-photo-6926037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["exercise"]
 slug: "best-low-impact-exercises-for-seniors-with-arthritis"
 affiliate_disclosure: true
