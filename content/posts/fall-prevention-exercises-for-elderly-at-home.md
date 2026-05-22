@@ -3,7 +3,7 @@ title: "Fall prevention exercises for elderly at home"
 date: 2026-05-17T20:11:55+00:00
 draft: false
 description: "Discover the best fall prevention exercises for elderly adults to do safely at home. Build strength, improve balance, and reduce fall risk with this easy, ex"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/19825309/pexels-photo-19825309.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["balance"]
 slug: "fall-prevention-exercises-for-elderly-at-home"
 affiliate_disclosure: true
