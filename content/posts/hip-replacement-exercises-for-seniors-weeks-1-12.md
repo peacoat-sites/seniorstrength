@@ -3,7 +3,7 @@ title: "Hip replacement exercises for seniors (weeks 1-12)"
 date: 2026-05-18T12:25:58+00:00
 draft: false
 description: "Discover safe hip replacement exercises seniors can follow week by week, from gentle bed exercises in week 1 to full activity by week 12. Rebuild strength an"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8657189/pexels-photo-8657189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pain"]
 slug: "hip-replacement-exercises-for-seniors-weeks-1-12"
 affiliate_disclosure: true
