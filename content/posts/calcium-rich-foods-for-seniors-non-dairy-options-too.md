@@ -3,7 +3,7 @@ title: "Calcium-rich foods for seniors (non-dairy options too)"
 date: 2026-05-17T20:57:23+00:00
 draft: false
 description: "Discover the best calcium rich foods for seniors, including non-dairy options, easy meal tips, and expert advice to protect your bones and stay strong after"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/31522680/pexels-photo-31522680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["nutrition"]
 slug: "calcium-rich-foods-for-seniors-non-dairy-options-too"
 affiliate_disclosure: true
