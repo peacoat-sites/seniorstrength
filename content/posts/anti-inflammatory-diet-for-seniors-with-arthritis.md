@@ -3,7 +3,7 @@ title: "Anti-inflammatory diet for seniors with arthritis"
 date: 2026-05-20T11:44:38+00:00
 draft: false
 description: "Discover how an anti inflammatory diet for seniors with arthritis can reduce joint pain naturally. Learn the best foods to eat, foods to avoid, and easy meal"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6478667/pexels-photo-6478667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["nutrition"]
 slug: "anti-inflammatory-diet-for-seniors-with-arthritis"
 affiliate_disclosure: true
