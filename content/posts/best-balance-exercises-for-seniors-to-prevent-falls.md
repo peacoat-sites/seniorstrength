@@ -3,7 +3,7 @@ title: "Best balance exercises for seniors to prevent falls"
 date: 2026-05-20T11:49:22+00:00
 draft: false
 description: "Discover the best balance exercises to prevent falls seniors can do safely at home. These 5 easy exercises build strength, stability, and confidence — starti"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/20118561/pexels-photo-20118561.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["balance"]
 slug: "best-balance-exercises-for-seniors-to-prevent-falls"
 affiliate_disclosure: true
