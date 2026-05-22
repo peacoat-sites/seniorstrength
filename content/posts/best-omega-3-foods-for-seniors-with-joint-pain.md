@@ -3,7 +3,7 @@ title: "Best omega-3 foods for seniors with joint pain"
 date: 2026-05-17T20:46:35+00:00
 draft: false
 description: "Discover the best omega-3 foods for seniors with joint pain. Learn which fish, seeds, and nuts fight inflammation naturally and help you move more comfortabl"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/32884236/pexels-photo-32884236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["nutrition"]
 slug: "best-omega-3-foods-for-seniors-with-joint-pain"
 affiliate_disclosure: true
