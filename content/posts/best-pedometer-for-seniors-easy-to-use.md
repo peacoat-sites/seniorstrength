@@ -3,7 +3,7 @@ title: "Best pedometer for seniors (easy to use)"
 date: 2026-05-17T20:54:32+00:00
 draft: false
 description: "Discover the best pedometer for seniors with this friendly, expert guide. Compare easy-to-use step counters, wristbands, and smart options to find the perfec"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/12324970/pexels-photo-12324970.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["gear"]
 slug: "best-pedometer-for-seniors-easy-to-use"
 affiliate_disclosure: true
