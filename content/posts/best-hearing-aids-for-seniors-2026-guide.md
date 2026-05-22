@@ -3,7 +3,7 @@ title: "Best hearing aids for seniors (2026 guide)"
 date: 2026-05-18T12:23:38+00:00
 draft: false
 description: "Discover the best hearing aids for seniors in 2026. Compare top-rated devices, OTC vs. prescription options, costs, and expert tips to help you hear better a"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4108124/pexels-photo-4108124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["gear"]
 slug: "best-hearing-aids-for-seniors-2026-guide"
 affiliate_disclosure: true
