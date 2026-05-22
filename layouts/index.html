@@ -1,0 +1,71 @@
+{{ define "main" }}
+<section class="hero">
+  <div style="max-width:700px;margin:0 auto;text-align:center">
+    <h1>Stay Strong After 60</h1>
+    <p>Evidence-based guides for exercise, balance, pain relief, and healthy living — written for adults who want to stay active and independent.</p>
+    <div class="hero-badges">
+      <span class="hero-badge">💪 Exercise Guides</span>
+      <span class="hero-badge">🥗 Nutrition</span>
+      <span class="hero-badge">⚖️ Balance &amp; Fall Prevention</span>
+      <span class="hero-badge">😌 Pain Relief</span>
+    </div>
+  </div>
+</section>
+
+<div class="page-grid">
+  <main>
+    {{- $pages := where .Site.RegularPages "Section" "posts" -}}
+    {{- $featured := first 1 $pages -}}
+    {{- $rest := after 1 (first 7 $pages) -}}
+
+    {{- range $featured }}
+    <div class="section-head"><span class="section-title">Featured</span></div>
+    <div class="card card-featured" style="margin-bottom:32px">
+      {{ with .Params.image }}<img class="card-img" src="{{ . }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
+      <div class="card-body">
+        <div class="card-cat">{{ with .Params.categories }}{{ index . 0 | title }}{{ end }}</div>
+        <div class="card-title" style="font-size:1.4rem"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+        <div class="card-excerpt">{{ .Summary | plainify | truncate 160 }}</div>
+        <div class="card-meta" style="margin-top:16px"><span>{{ .PublishDate.Format "Jan 2, 2006" }}</span><span>{{ .ReadingTime }} min read</span></div>
+      </div>
+    </div>
+    {{- end }}
+
+    <div class="section-head"><span class="section-title">Latest Articles</span><a class="section-link" href="/posts/">View all</a></div>
+    <div class="card-grid">
+    {{- range $rest }}
+      <div class="card">
+        {{ with .Params.image }}<img class="card-img" src="{{ . }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
+        <div class="card-body">
+          <div class="card-cat">{{ with .Params.categories }}{{ index . 0 | title }}{{ end }}</div>
+          <div class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+          <div class="card-meta"><span>{{ .PublishDate.Format "Jan 2" }}</span><span>{{ .ReadingTime }} min</span></div>
+        </div>
+      </div>
+    {{- end }}
+    </div>
+  </main>
+
+  <aside class="sidebar">
+    <div id="newsletter" class="newsletter-card">
+      <h3>Weekly Wellness Tips</h3>
+      <p>Senior-focused health and fitness guidance, delivered weekly.</p>
+      <div class="newsletter-form"><input type="email" placeholder="your@email.com" disabled><button disabled style="opacity:.6">Soon</button></div>
+    </div>
+    <div class="sidebar-card">
+      <div class="sidebar-card-head">Browse by Topic</div>
+      <div class="sidebar-card-body" style="display:flex;flex-direction:column;gap:6px">
+        {{- range first 8 .Site.Taxonomies.categories.ByCount }}
+        <a href="{{ .Page.Permalink }}" style="display:flex;justify-content:space-between;font-size:13px;padding:4px 0;border-bottom:1px solid var(--border)">
+          <span>{{ .Page.Title | title }}</span><span style="color:var(--muted);font-weight:600">{{ .Count }}</span>
+        </a>
+        {{- end }}
+      </div>
+    </div>
+    <div class="ad-unit">
+      <ins class="adsbygoogle" style="display:block" data-ad-client="{{ .Site.Params.adsense_id }}" data-ad-slot="{{ .Site.Params.adsense_slot_sidebar1 }}" data-ad-format="auto" data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+  </aside>
+</div>
+{{ end }}
