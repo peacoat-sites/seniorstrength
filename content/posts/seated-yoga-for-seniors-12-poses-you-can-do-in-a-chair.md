@@ -3,7 +3,7 @@ title: "Seated yoga for seniors: 12 poses you can do in a chair"
 date: 2026-05-17T18:47:48+00:00
 draft: false
 description: "Discover 12 easy seated yoga poses for seniors that you can do in a chair at home. Improve flexibility, balance, and reduce joint pain safely with this begin"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37185455/pexels-photo-37185455.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["exercise"]
 slug: "seated-yoga-for-seniors-12-poses-you-can-do-in-a-chair"
 affiliate_disclosure: true
