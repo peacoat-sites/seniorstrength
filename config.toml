@@ -1,0 +1,38 @@
+baseURL = "https://seniorstrength.today/"
+languageCode = "en-us"
+title = "Senior Strength Today"
+enableRobotsTXT = true
+
+[params]
+  description        = "Exercise, balance, pain relief, nutrition, and lifestyle guides for adults over 60."
+  tagline            = "Stay strong, stay active"
+  niche              = "Senior Health & Fitness"
+  primary_color      = "#c9a84c"
+  hero_color_1       = "#1a2744"
+  hero_color_2       = "#0d1b38"
+  hero_color_3       = "#1a3a5c"
+  hero_color_4       = "#0a1628"
+  adsense_id         = "ca-pub-3466203197759215"
+  adsense_slot_incontent   = "5320009977"
+  adsense_slot_sidebar1    = "5911265823"
+  adsense_slot_sidebar2    = "4043650389"
+  image_query        = "senior fitness exercise healthy elderly"
+  author             = "Senior Strength Editorial Team"
+  author_real_name   = "Stephen Brenish"
+  author_real_title  = "Senior Wellness Researcher"
+  disclaimer         = "This site provides general information only. Always consult your physician before starting any exercise program."
+
+[taxonomies]
+  category = "categories"
+  tag      = "tags"
+
+[outputs]
+  home    = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  page    = ["HTML"]
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[permalinks]
+  posts = "/:slug/"
