@@ -3,7 +3,7 @@ title: "Gardening as exercise for seniors: benefits and tips"
 date: 2026-05-17T20:55:33+00:00
 draft: false
 description: "Discover how gardening exercise for seniors builds strength, improves balance, and boosts mental health. Get expert safety tips and practical advice to turn"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/2121544/pexels-photo-2121544.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["lifestyle"]
 slug: "gardening-as-exercise-for-seniors-benefits-and-tips"
 affiliate_disclosure: true
