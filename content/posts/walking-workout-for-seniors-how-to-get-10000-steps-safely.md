@@ -3,7 +3,7 @@ title: "Walking workout for seniors: how to get 10000 steps safely"
 date: 2026-05-17T18:48:49+00:00
 draft: false
 description: "Discover how to safely build a walking workout for seniors and reach 10,000 steps a day. Get a week-by-week plan, safety tips, and expert advice designed for"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/15120889/pexels-photo-15120889.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["exercise"]
 slug: "walking-workout-for-seniors-how-to-get-10000-steps-safely"
 affiliate_disclosure: true
