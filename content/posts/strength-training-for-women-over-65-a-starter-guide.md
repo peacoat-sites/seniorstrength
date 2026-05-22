@@ -3,7 +3,7 @@ title: "Strength training for women over 65: a starter guide"
 date: 2026-05-17T20:45:34+00:00
 draft: false
 description: "Discover the benefits of strength training for women over 65 with this beginner-friendly guide. Learn safe exercises, weekly schedules, and expert tips to bu"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/14190564/pexels-photo-14190564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["exercise"]
 slug: "strength-training-for-women-over-65-a-starter-guide"
 affiliate_disclosure: true
