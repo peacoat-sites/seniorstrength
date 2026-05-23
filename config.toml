@@ -5,6 +5,7 @@ title = "Senior Strength Today"
 enableRobotsTXT = true
 
 [params]
+author = "Stephen Brenish"
   description        = "Exercise, balance, pain relief, nutrition, and lifestyle guides for adults over 60."
   tagline            = "Stay strong, stay active"
   niche              = "Senior Health & Fitness"
