@@ -1,22 +1,22 @@
 ---
-title: "Contact Us"
-date: 2026-01-01
-draft: false
-description: "Get in touch with Senior Strength Today"
+title: "Contact"
+description: "Get in touch with Carol Mitchum at seniorstrength.today."
 ---
 
-## Contact Us
+# Contact Us
 
-We'd love to hear from you. Whether you have a question about our content, a suggestion for a topic, or a general inquiry, reach out anytime.
+Have a question, correction, or feedback about something you read on seniorstrength.today? We'd love to hear from you.
 
-**Email:** contact@seniorstrength.today
+**Email:** [support@seniorstrength.today](mailto:support@seniorstrength.today)
 
-We aim to respond to all messages within 2–3 business days.
+Carol Mitchum personally reads every message and aims to respond within 2–3 business days.
 
-## Corrections & Feedback
+## What to Include
 
-If you notice an error in any of our articles or have feedback on how we can improve, please don't hesitate to reach out. Accuracy matters to us and we appreciate readers who help us get it right.
+To help us respond quickly, please include:
+- The article or topic your question is about
+- Any specific details that would help us assist you
 
-## Advertising & Partnerships
+## What We Can't Help With
 
-For advertising inquiries or partnership opportunities, please email contact@seniorstrength.today with the subject line "Partnership Inquiry."
+We're a content-only publication and cannot provide personalized senior health and fitness advice. For professional guidance, please consult a qualified physician or certified personal trainer specializing in senior fitness.
