@@ -19,10 +19,14 @@ author = "Stephen Brenish"
   adsense_slot_sidebar1    = "5911265823"
   adsense_slot_sidebar2    = "4043650389"
   image_query        = "senior fitness exercise healthy elderly"
-  author             = "Senior Strength Editorial Team"
   author_real_name   = "Stephen Brenish"
   author_real_title  = "Senior Wellness Researcher"
-  disclaimer         = "This site provides general information only. Always consult your physician before starting any exercise program."
+
+  persona_name       = "Carol Mitchum"
+  persona_title      = "Senior Wellness Editor"
+  persona_bio        = "Fitness writer who has spent years researching exercise science and physical wellness for adults over 60."
+  persona_initials   = "CM"
+  disclaimer         = "This content is for informational purposes only and is not a substitute for professional medical advice. Always consult your physician before starting any new exercise program."
 
 [taxonomies]
   category = "categories"
