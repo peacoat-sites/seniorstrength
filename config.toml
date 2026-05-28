@@ -5,11 +5,6 @@ title = "Senior Strength Today"
 enableRobotsTXT = true
 
 [params]
-hero_color_4 = "#080204"
-hero_color_3 = "#f87171"
-hero_color_2 = "#1a0610"
-hero_color_1 = "#0d0306"
-primary_color = "#f87171"
 logo_text_2 = "Strength"
 logo_text_1 = "Senior"
 author = "Stephen Brenish"
