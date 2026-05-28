@@ -5,8 +5,11 @@ title = "Senior Strength Today"
 
 
 
+
 enableRobotsTXT = true
 enableEmoji = true
+
+disableHugoGeneratorInject = true
 
 [pagination]
   pagerSize = 12
