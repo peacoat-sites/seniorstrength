@@ -9,6 +9,7 @@ title = "Senior Strength Today"
 
 disableHugoGeneratorInject = true
 
+
 enableRobotsTXT = true
 enableEmoji = true
 
