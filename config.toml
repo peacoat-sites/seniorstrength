@@ -4,7 +4,7 @@ title = "Senior Strength Today"
 enableRobotsTXT = true
 
 [params]
-  page_bg = "#f6f9ff"
+  page_bg = "#eff6ff"
   nav_style = "dark"
 logo_text_2 = "Strength"
 logo_text_1 = "Senior"
@@ -25,7 +25,7 @@ author = "Stephen Brenish"
   persona_bio        = "Fitness writer who has spent years researching exercise science and physical wellness for adults over 60."
   persona_initials   = "CM"
   disclaimer         = "This content is for informational purposes only and is not a substitute for professional medical advice. Always consult your physician before starting any new exercise program."
-primary_color = "#0369a1"
+primary_color = "#1d4ed8"
 hero_color_1 = "#0d0306"
 hero_color_2 = "#1a0610"
 hero_color_3 = "#f87171"
