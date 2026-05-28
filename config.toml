@@ -1,7 +1,9 @@
+enableRobotsTXT = true
+enableEmoji = true
+
 baseURL = "https://seniorstrength.today/"
 languageCode = "en-us"
 title = "Senior Strength Today"
-enableRobotsTXT = true
 
 [params]
   page_bg = "#eff6ff"
