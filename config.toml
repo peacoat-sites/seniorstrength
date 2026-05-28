@@ -4,6 +4,8 @@ title = "Senior Strength Today"
 enableRobotsTXT = true
 
 [params]
+  page_bg = "#f6f9ff"
+  nav_style = "dark"
 logo_text_2 = "Strength"
 logo_text_1 = "Senior"
 author = "Stephen Brenish"
