@@ -7,9 +7,9 @@ description: "Learn about Carol Mitchum, the Senior Wellness Editor behind senio
 
 # About Carol Mitchum
 
-I've spent years reading the research on exercise science and healthy aging â€” not as a passive consumer, but as someone who has watched family members navigate the physical challenges that come with getting older, and who has become deeply invested in understanding what the science actually says versus what gets recycled in mainstream wellness content.
+I've spent years reading the research on exercise science and healthy aging ,  not as a passive consumer, but as someone who has watched family members navigate the physical challenges that come with getting older, and who has become deeply invested in understanding what the science actually says versus what gets recycled in mainstream wellness content.
 
-I'm a fitness writer who focuses on adults over 60. My background is in research and communication, not physical therapy or medicine, which means I read widely, source carefully, and write for people who want real information â€” not vague motivational content. I started Senior Strength Today because I kept finding that senior fitness content fell into two camps: overly cautious to the point of being useless, or reckless about what adults with existing conditions can safely do. Neither serves the people I write for.
+I'm a fitness writer who focuses on adults over 60. My background is in research and communication, not physical therapy or medicine, which means I read widely, source carefully, and write for people who want real information ,  not vague motivational content. I started Senior Strength Today because I kept finding that senior fitness content fell into two camps: overly cautious to the point of being useless, or reckless about what adults with existing conditions can safely do. Neither serves the people I write for.
 
 My goal is to be the writer who explains the evidence clearly, acknowledges the nuances, and respects your ability to make informed decisions with the help of your own healthcare provider.
 
@@ -17,7 +17,7 @@ My goal is to be the writer who explains the evidence clearly, acknowledges the 
 
 The catalyst was straightforward: a family member was told after a hospital stay that they needed to "stay active" with no further guidance. What does that mean when you're 72, have mild osteoporosis, and haven't exercised regularly in a decade? The internet offered little help. Most content was either written for athletes or was so generic it said nothing.
 
-Senior Strength Today exists to fill that gap â€” with evidence-based, practical content on movement, strength, balance, nutrition, and lifestyle for real people in their 60s, 70s, and beyond.
+Senior Strength Today exists to fill that gap ,  with evidence-based, practical content on movement, strength, balance, nutrition, and lifestyle for real people in their 60s, 70s, and beyond.
 
 ## What You'll Find Here
 
@@ -30,7 +30,7 @@ Senior Strength Today exists to fill that gap â€” with evidence-based, prac
 
 ## A Note on Our Content
 
-Every article on this site is grounded in peer-reviewed research, guidance from organizations like the American College of Sports Medicine and National Institute on Aging, and my years of studying this field. I link to primary sources wherever possible and update articles when new research changes the picture. Nothing here is a substitute for your physician's advice â€” please always consult your doctor before starting a new exercise program, especially if you have existing health conditions.
+Every article on this site is grounded in peer-reviewed research, guidance from organizations like the American College of Sports Medicine and National Institute on Aging, and my years of studying this field. I link to primary sources wherever possible and update articles when new research changes the picture. Nothing here is a substitute for your physician's advice ,  please always consult your doctor before starting a new exercise program, especially if you have existing health conditions.
 
 ## Get in Touch
 
