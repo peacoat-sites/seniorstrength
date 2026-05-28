@@ -38,7 +38,7 @@ Feeling foggy, forgetful, or unusually tired? A vitamin B12 deficiency could be 
 
 B12 is essential for healthy nerve function, red blood cell production, and keeping your mind sharp. Because the ability to absorb B12 from food depends heavily on stomach acid, many seniors simply cannot get enough from diet alone, even if they eat plenty of meat, fish, and dairy.
 
-  * The recommended daily intake for B12 is **2.4 mcg** , but many doctors suggest higher doses for seniors
+  * The recommended daily intake for B12 is **2.4 mcg**, but many doctors suggest higher doses for seniors
   * Sublingual (under-the-tongue) B12 tablets bypass the need for stomach acid
   * People taking metformin for diabetes or proton pump inhibitors for heartburn are at especially high risk of deficiency
   * A simple blood test can confirm whether your levels are where they should be
@@ -62,7 +62,7 @@ Research published in journals including _JAMA_ has shown omega-3s can help lowe
 
 Magnesium is involved in more than 300 chemical reactions in the human body, yet studies consistently show that most older adults do not get enough of it. Low magnesium levels are linked to poor sleep, muscle cramps, elevated blood pressure, and even increased risk of type 2 diabetes.
 
-Seniors are at particular risk because kidney function affects magnesium retention, and many commonly prescribed medications ,  including certain diuretics and proton pump inhibitors ,  can deplete magnesium levels over time.
+Seniors are at particular risk because kidney function affects magnesium retention, and many commonly prescribed medications,  including certain diuretics and proton pump inhibitors,  can deplete magnesium levels over time.
 
   * The recommended daily intake for adults over 70 is **420 mg for men** and **320 mg for women**
   * Magnesium glycinate is a gentle form that is well absorbed and less likely to cause digestive upset
@@ -84,11 +84,11 @@ Probiotic supplements containing well-researched strains like _Lactobacillus_ an
 
 The supplement industry is not as tightly regulated as prescription medications, which means quality varies widely between brands. Knowing how to choose wisely protects both your health and your wallet.
 
-Always look for products that have been independently tested by organizations like **USP (United States Pharmacopeia)** , **ConsumerLab** , or **NSF International**. These seals mean the product has been tested for purity, potency, and safety.
+Always look for products that have been independently tested by organizations like **USP (United States Pharmacopeia)**, **ConsumerLab**, or **NSF International**. These seals mean the product has been tested for purity, potency, and safety.
 
   * Start with one new supplement at a time so you can notice any changes or reactions
   * Always inform your doctor and pharmacist about all supplements you are taking
-  * Be cautious of supplements claiming miraculous results ,  if it sounds too good to be true, it usually is
+  * Be cautious of supplements claiming miraculous results,  if it sounds too good to be true, it usually is
   * Review your supplement routine with your doctor at least once a year as needs change
   * Store supplements in a cool, dry place away from direct sunlight
 
@@ -96,7 +96,7 @@ Always look for products that have been independently tested by organizations li
 
 ### Is it safe to take multiple supplements at the same time if you are over 70?
 
-In many cases, yes ,  but it depends on your specific health conditions and any medications you take. Some supplements can interact with prescription drugs. For example, vitamin K can interfere with blood thinners like warfarin, and high-dose fish oil may increase bleeding risk. Always review your full supplement list with your doctor or pharmacist before adding anything new.
+In many cases, yes,  but it depends on your specific health conditions and any medications you take. Some supplements can interact with prescription drugs. For example, vitamin K can interfere with blood thinners like warfarin, and high-dose fish oil may increase bleeding risk. Always review your full supplement list with your doctor or pharmacist before adding anything new.
 
 ### Should seniors over 70 take a daily multivitamin?
 
@@ -104,7 +104,7 @@ A senior-specific multivitamin can be a convenient safety net, but it is not a s
 
 ### How do I know if I actually have a vitamin deficiency?
 
-The most reliable way is through a blood test ordered by your doctor. Common tests check for vitamin D, B12, folate, and iron levels. Many deficiencies develop slowly and quietly, with only subtle symptoms like fatigue, weakness, or mood changes. Do not wait for obvious symptoms ,  ask your doctor to run a basic nutritional panel at your next visit so you have a clear starting point.
+The most reliable way is through a blood test ordered by your doctor. Common tests check for vitamin D, B12, folate, and iron levels. Many deficiencies develop slowly and quietly, with only subtle symptoms like fatigue, weakness, or mood changes. Do not wait for obvious symptoms,  ask your doctor to run a basic nutritional panel at your next visit so you have a clear starting point.
 
 ## You Deserve to Feel Your Best
 
@@ -118,8 +118,8 @@ You have already taken a wonderful first step simply by learning more. Talk to y
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) ,  The definitive consumer guide to Medicare ,  enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) ,  Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) ,  Senior-specific Cosequin formula with added Omega-3s ,  designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) ,  The #1 veterinarian-recommended joint supplement brand ,  clinically studied for reducing joint pain in dogs.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22),  The definitive consumer guide to Medicare,  enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17),  Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32),  Senior-specific Cosequin formula with added Omega-3s,  designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36),  The #1 veterinarian-recommended joint supplement brand,  clinically studied for reducing joint pain in dogs.
 

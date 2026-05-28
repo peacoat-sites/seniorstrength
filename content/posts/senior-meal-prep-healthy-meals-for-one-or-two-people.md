@@ -9,7 +9,7 @@ slug: "senior-meal-prep-healthy-meals-for-one-or-two-people"
 affiliate_disclosure: true
 ---
 
-Cooking for one or two people can feel like more trouble than it’s worth. You end up with giant portions, leftover ingredients going to waste, and a refrigerator full of food you’re tired of eating by Wednesday. That’s exactly why **meal prep for seniors** has become such a game-changer ,  a little planning on the weekend means healthy, delicious meals all week long without the daily stress.
+Cooking for one or two people can feel like more trouble than it’s worth. You end up with giant portions, leftover ingredients going to waste, and a refrigerator full of food you’re tired of eating by Wednesday. That’s exactly why **meal prep for seniors** has become such a game-changer,  a little planning on the weekend means healthy, delicious meals all week long without the daily stress.
 
 Whether you’re cooking just for yourself or sharing meals with a partner, smart meal prep saves time, money, and energy. It also helps you stay on track with nutrition, which becomes even more important as we age.
 
@@ -29,7 +29,7 @@ Studies show that people who plan their meals ahead of time tend to eat more fru
 
 ## Getting Started: The Right Mindset and Tools
 
-You don’t need a professional kitchen or hours of free time to meal prep successfully. Starting small is the key ,  even prepping just two or three meals ahead of time makes a real difference in your week.
+You don’t need a professional kitchen or hours of free time to meal prep successfully. Starting small is the key,  even prepping just two or three meals ahead of time makes a real difference in your week.
 
 Before you begin, gather a few essential tools that will make the process easier and safer in the kitchen.
 
@@ -51,7 +51,7 @@ Here are some senior-friendly meal ideas that are easy to prep in small batches 
 
 ### Breakfasts
 
-  * **Overnight oats:** Mix rolled oats, milk or yogurt, and fruit in a mason jar the night before ,  ready to eat in the morning
+  * **Overnight oats:** Mix rolled oats, milk or yogurt, and fruit in a mason jar the night before,  ready to eat in the morning
   * **Mini egg muffins:** Bake eggs with vegetables and cheese in a muffin tin; store in the fridge for up to four days
   * **Greek yogurt parfaits:** Layer yogurt, berries, and a sprinkle of granola in small jars for grab-and-go breakfasts
 
@@ -89,7 +89,7 @@ Try writing your meal plan for the week first, then build your shopping list fro
   * **Buy proteins in bulk and freeze portions:** Chicken breasts, salmon fillets, and ground turkey freeze well
   * **Choose smaller package sizes:** Even if the larger size is cheaper per ounce, it’s not a bargain if half of it goes bad
 
-Many grocery stores also offer senior discount days ,  usually once a week ,  so it’s worth asking your local store if they participate. Every bit of savings helps.
+Many grocery stores also offer senior discount days,  usually once a week,  so it’s worth asking your local store if they participate. Every bit of savings helps.
 
 ## Staying Safe in the Kitchen as You Age
 
@@ -109,7 +109,7 @@ Taking care of your safety in the kitchen means you can keep enjoying the wonder
 
 ### How long can prepped meals safely stay in the refrigerator?
 
-Most cooked meals stay safe in the refrigerator for three to four days when stored in airtight containers. Soups, stews, and casseroles can often last up to five days. When in doubt, smell and visually inspect the food ,  and remember, when in doubt, throw it out.
+Most cooked meals stay safe in the refrigerator for three to four days when stored in airtight containers. Soups, stews, and casseroles can often last up to five days. When in doubt, smell and visually inspect the food,  and remember, when in doubt, throw it out.
 
 Labeling your containers with the date you prepared them is a simple habit that takes the guesswork out of food safety completely.
 
@@ -117,7 +117,7 @@ Labeling your containers with the date you prepared them is a simple habit that 
 
 Excellent high-protein options that prep well include eggs, Greek yogurt, canned tuna or salmon, chicken breast, lentils, chickpeas, and cottage cheese. Seniors generally need about 1.0 to 1.2 grams of protein per kilogram of body weight per day to maintain muscle mass.
 
-Spreading protein intake across all meals ,  rather than eating it all at dinner ,  is the most effective strategy for muscle preservation as we age.
+Spreading protein intake across all meals,  rather than eating it all at dinner,  is the most effective strategy for muscle preservation as we age.
 
 ### Is meal prepping expensive to get started?
 
@@ -125,7 +125,7 @@ Getting started with meal prep doesn’t require a large upfront investment. You
 
 Over time, meal prep almost always saves money by reducing food waste, limiting takeout meals, and encouraging smarter grocery shopping habits.
 
-Meal prep for seniors isn’t about perfection ,  it’s about making your week a little easier, your meals a little healthier, and your time in the kitchen a little more enjoyable. Start with just one or two prepped items this weekend and build from there. You’ve got this, and your body will thank you every single day of the week.
+Meal prep for seniors isn’t about perfection,  it’s about making your week a little easier, your meals a little healthier, and your time in the kitchen a little more enjoyable. Start with just one or two prepped items this weekend and build from there. You’ve got this, and your body will thank you every single day of the week.
 
 ---
 
@@ -133,6 +133,6 @@ Meal prep for seniors isn’t about perfection ,  it’s about making your week 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) ,  Senior-specific Cosequin formula with added Omega-3s ,  designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) ,  The #1 veterinarian-recommended joint supplement brand ,  clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32),  Senior-specific Cosequin formula with added Omega-3s,  designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36),  The #1 veterinarian-recommended joint supplement brand,  clinically studied for reducing joint pain in dogs.
 
