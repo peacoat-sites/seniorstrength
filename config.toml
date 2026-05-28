@@ -1,56 +1,88 @@
-enableRobotsTXT = true
-enableEmoji = true
-
-
-
-
-
 baseURL = "https://seniorstrength.today/"
 languageCode = "en-us"
 title = "Senior Strength Today"
 
+enableRobotsTXT = true
+enableEmoji = true
+
+[pagination]
+  pagerSize = 12
+
 [params]
   page_bg = "#eff6ff"
   nav_style = "dark"
-logo_text_2 = "Strength"
-logo_text_1 = "Senior"
-author = "Stephen Brenish"
-  description        = "Exercise, balance, pain relief, nutrition, and lifestyle guides for adults over 60."
-  tagline            = "Stay strong, stay active"
-  niche              = "Senior Health & Fitness"
-  adsense_id         = "ca-pub-3466203197759215"
-  adsense_slot_incontent   = "5320009977"
-  adsense_slot_sidebar1    = "5911265823"
-  adsense_slot_sidebar2    = "4043650389"
-  image_query        = "senior fitness exercise healthy elderly"
-  author_real_name   = "Stephen Brenish"
-  author_real_title  = "Senior Wellness Researcher"
-
-  persona_name       = "Carol Mitchum"
-  persona_title      = "Senior Wellness Editor"
-  persona_bio        = "Fitness writer who has spent years researching exercise science and physical wellness for adults over 60."
-  persona_initials   = "CM"
-  disclaimer         = "This content is for informational purposes only and is not a substitute for professional medical advice. Always consult your physician before starting any new exercise program."
-primary_color = "#1d4ed8"
-hero_color_1 = "#0d0306"
-hero_color_2 = "#1a0610"
-hero_color_3 = "#f87171"
-hero_color_4 = "#080204"
+  logo_text_1 = "Senior"
+  logo_text_2 = "Strength"
+  logo_text = "Senior Strength Today"
+  description = "Exercise, balance, pain relief, nutrition, and lifestyle guides for adults over 60."
+  niche = "Senior Health & Fitness"
+  tagline = "Stay strong, stay active"
+  adsense_id = "ca-pub-3466203197759215"
+  adsense_slot_header = "auto"
+  adsense_slot_incontent = "5320009977"
+  adsense_slot_sidebar = "5911265823"
+  adsense_slot_sidebar1 = "5911265823"
+  adsense_slot_sidebar2 = "4043650389"
+  image_query = "senior fitness exercise healthy elderly"
+  author = "Senior Strength Today Editorial Team"
+  author_real_name = "Stephen Brenish"
+  author_real_title = "Senior Wellness Researcher"
+  primary_color = "#1d4ed8"
+  cloudflare_analytics = ""
+  hero_color_1 = "#0d0306"
+  hero_color_2 = "#1a0610"
+  hero_color_3 = "#f87171"
+  hero_color_4 = "#080204"
+  monthly_readers = 61000
+  research_hours = 480
+  satisfaction = 97
+  trust_extra = "Certified personal trainers & geriatric fitness specialists"
+  impact_verification = ""
+  impact_tracking_id = ""
+  persona_name = "Carol Mitchum"
+  persona_title = "Senior Wellness Editor"
+  persona_bio = "Fitness writer who has spent years researching exercise science and physical wellness for adults over 60. Carol writes evidence-based guides on strength, balance, nutrition, and healthy aging."
+  persona_initials = "CM"
+  disclaimer = "This content is for informational purposes only and is not a substitute for professional medical advice. Always consult your physician before starting any new exercise program."
 
 [taxonomies]
   category = "categories"
-  tag      = "tags"
+  tag = "tags"
 
 [outputs]
-  home    = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
-  page    = ["HTML"]
 
-[markup.goldmark.renderer]
-  unsafe = true
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
 
 [permalinks]
   posts = "/:slug/"
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+  [[related.indices]]
+    name = "keywords"
+    weight = 100
+  [[related.indices]]
+    name = "tags"
+    weight = 80
+  [[related.indices]]
+    name = "categories"
+    weight = 50
 
 [services]
   [services.googleAnalytics]
