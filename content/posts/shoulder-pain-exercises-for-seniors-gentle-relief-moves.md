@@ -129,3 +129,13 @@ When done correctly and gently, these exercises should produce mild, temporary d
 Yes, gentle range-of-motion and stretching exercises are generally very beneficial for arthritis in the shoulder. Movement helps keep the joint lubricated and can reduce stiffness and pain over time. However, always check with your rheumatologist or doctor before starting a new exercise routine if you have been diagnosed with a specific type of arthritis.
 
 Your shoulders have carried you through decades of life — cooking, gardening, hugging loved ones, and so much more. They deserve your care and attention. By practicing these gentle **shoulder pain exercises for seniors** regularly, listening to your body, and building healthy daily habits, you are giving yourself a real chance at lasting comfort and greater independence. Start slowly, stay consistent, and remember: every single movement you make is a step in the right direction. You have got this!
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+

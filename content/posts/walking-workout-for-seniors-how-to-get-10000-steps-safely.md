@@ -114,3 +114,13 @@ Not at all! Research consistently shows that multiple shorter walks throughout t
 Starting or rebuilding a walking habit in your 60s, 70s, or beyond is one of the most powerful things you can do for your health, your independence, and your happiness. You don’t need a gym membership, special equipment, or a perfect body — just a comfortable pair of shoes and the willingness to take the next step. Be patient with yourself, celebrate small wins, and remember that every single step you take is an investment in a stronger, healthier you. You’ve got this.
 
 Photo by [Mobio Marketing](https://unsplash.com/@mobio_be?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+

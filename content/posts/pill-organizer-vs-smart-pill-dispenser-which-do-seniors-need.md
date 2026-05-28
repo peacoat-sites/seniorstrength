@@ -133,3 +133,13 @@ Managing your medications well is one of the most powerful things you can do for
 Start simple if you are not sure. A good quality weekly organizer with AM and PM slots costs very little and can make a big difference right away. If you find yourself still struggling with missed doses after a few weeks, then it is time to level up to something smarter.
 
 You have already taken the first step by reading this far. Now go give your medication routine the upgrade it deserves — your future self will thank you.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+

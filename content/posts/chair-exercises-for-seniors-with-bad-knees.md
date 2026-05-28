@@ -114,3 +114,13 @@ Gentle, low-impact exercise like the movements described here is generally safe 
 Many people do chair exercises successfully after knee replacement surgery, but the timing and specific movements should be guided by your surgeon or physical therapist. They’ll have a tailored recovery plan for you. Once you’re cleared for independent exercise, chair-based routines are often a recommended part of ongoing rehabilitation and long-term knee health maintenance.
 
 Living with knee pain doesn’t mean giving up on an active, strong, and independent life. These chair exercises for seniors are designed with your comfort, safety, and real-world needs in mind. Every gentle rep you complete is an investment in your mobility, your balance, and your wellbeing. You’ve got this — one seated step at a time.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+

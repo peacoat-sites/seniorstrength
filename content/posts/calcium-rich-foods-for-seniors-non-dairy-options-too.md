@@ -121,3 +121,13 @@ Spreading your calcium intake throughout the day — rather than trying to get i
 Getting enough calcium after 60 is one of the most loving things you can do for your future self. Whether you enjoy dairy, prefer plant-based foods, or love a good tin of sardines, there are options that will work beautifully for your lifestyle and taste preferences.
 
 Start small. Add one new calcium-rich food to your meals this week and build from there. Your bones are with you for life — and with a little daily attention, they can stay strong and supportive for many wonderful years to come.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+

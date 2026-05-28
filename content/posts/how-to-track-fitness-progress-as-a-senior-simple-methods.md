@@ -111,3 +111,13 @@ A temporary dip in performance is completely normal and happens to everyone — 
 Tracking your fitness doesn’t have to be complicated or intimidating. Whether you prefer a simple notebook on your kitchen table or a fitness watch on your wrist, what matters most is that you’re paying attention to your body and celebrating its growing strength.
 
 You’ve already done the hardest part — you decided to prioritize your health. Now let your records remind you, week after week and month after month, just how capable and resilient you truly are. Keep moving, keep noting, and keep celebrating every single step forward.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+

@@ -107,3 +107,13 @@ Absolutely — it’s actually one of the most recommended exercises for people 
 Starting something new can feel daunting at any age — but water aerobics truly is one of those rare activities where almost everyone feels better after their very first session. The water is forgiving, the community is warm, and the benefits for your body and mind are real. Whether you’re managing joint pain, rebuilding your fitness after an illness, or simply looking for a fun way to stay active, the pool is waiting for you. Take that first step, and give yourself the gift of movement that feels good. You deserve it.
 
 Photo by [Jonathan Marchant](https://unsplash.com/@cool_guy_jon?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+
