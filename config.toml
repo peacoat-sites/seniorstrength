@@ -3,6 +3,7 @@ enableEmoji = true
 
 
 
+
 baseURL = "https://seniorstrength.today/"
 languageCode = "en-us"
 title = "Senior Strength Today"
