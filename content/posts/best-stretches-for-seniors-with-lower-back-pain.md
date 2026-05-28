@@ -19,7 +19,7 @@ As we age, the muscles and ligaments that support the spine naturally lose some 
 
 Conditions like osteoarthritis, spinal stenosis, and muscle imbalances become more common after age 60. Even simple things like sitting for long periods or sleeping on an old mattress can trigger or worsen back pain.
 
-The encouraging news is that movement — not rest — is usually the best medicine. Gentle stretching keeps muscles loose, improves circulation, and helps your spine stay supported and healthy.
+The encouraging news is that movement ,  not rest ,  is usually the best medicine. Gentle stretching keeps muscles loose, improves circulation, and helps your spine stay supported and healthy.
 
 ## Important Safety Tips Before You Begin
 
@@ -29,7 +29,7 @@ Before starting any new stretching routine, it is always a good idea to check wi
 
 Here are a few general guidelines to keep in mind:
 
-  * Move slowly and never force a stretch — discomfort is okay, but sharp pain is a signal to stop
+  * Move slowly and never force a stretch ,  discomfort is okay, but sharp pain is a signal to stop
   * Always breathe steadily and deeply throughout each stretch
   * Use a yoga mat or carpeted surface to protect your joints
   * Keep a sturdy chair nearby for balance when needed
@@ -87,7 +87,7 @@ Here are three easy chair stretches for lower back relief:
   * **Seated hip flexor stretch:** Sit at the edge of your chair and slide your right foot behind you, keeping your back straight. You should feel a gentle stretch in the front of your right hip. Hold and switch sides.
   * **Seated figure-four stretch:** Cross your right ankle over your left knee and gently lean forward. This targets the piriformis muscle, which is a common contributor to lower back pain. Hold and switch sides.
 
-Chair stretches can be done anywhere — at your kitchen table, in the living room, or even at your desk. There is no excuse to skip them!
+Chair stretches can be done anywhere ,  at your kitchen table, in the living room, or even at your desk. There is no excuse to skip them!
 
 ## How Often Should Seniors Stretch for Back Pain?
 
@@ -112,7 +112,7 @@ Consider adding these supportive practices to your daily life:
 
   * **Stay hydrated:** The discs in your spine are largely made of water, and staying well-hydrated helps keep them cushioned and healthy
   * **Strengthen your core:** Simple exercises like gentle bridges and seated abdominal contractions support the muscles that protect your spine
-  * **Watch your posture:** Try not to slump when sitting — use a lumbar pillow if needed
+  * **Watch your posture:** Try not to slump when sitting ,  use a lumbar pillow if needed
   * **Stay active:** Low-impact activities like walking, swimming, and tai chi are excellent for back health
   * **Get quality sleep:** Sleep on a supportive mattress and try placing a pillow between your knees if you sleep on your side
 
@@ -128,7 +128,7 @@ Yes, daily stretching is generally safe and highly beneficial for most seniors w
 
 ### How long does it take for stretching to relieve lower back pain in seniors?
 
-Most people begin to notice some improvement in flexibility and a reduction in discomfort within two to four weeks of consistent daily stretching. Significant pain relief and improved mobility often become more noticeable after six to eight weeks. Consistency is the most important factor — even short daily sessions add up over time.
+Most people begin to notice some improvement in flexibility and a reduction in discomfort within two to four weeks of consistent daily stretching. Significant pain relief and improved mobility often become more noticeable after six to eight weeks. Consistency is the most important factor ,  even short daily sessions add up over time.
 
 ### What stretches should seniors avoid if they have lower back pain?
 
@@ -142,8 +142,8 @@ Photo by [The Good Funeral Guide](https://unsplash.com/@good_funeral_guide?utm_s
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) ,  Dual smoke and carbon monoxide detector with 10-year sealed battery ,  no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) ,  Professional-grade DIY home security system with optional 24/7 monitoring ,  top way to qualify for insurance discounts.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) ,  Senior-specific Cosequin formula with added Omega-3s ,  designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) ,  The #1 veterinarian-recommended joint supplement brand ,  clinically studied for reducing joint pain in dogs.
 

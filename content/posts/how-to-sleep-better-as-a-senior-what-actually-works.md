@@ -12,7 +12,7 @@ affiliate_disclosure: true
 
 ## The Sleep Struggle: Why Nights Get Tougher After 60
 
-You're lying awake at 2 AM again, staring at the ceiling, knowing you have a full day ahead. If you're over 60, you're not alone—nearly half of older adults struggle with insomnia or poor sleep quality. The frustration is real, but the good news is that learning how to sleep better as a senior is absolutely possible with the right strategies.
+You're lying awake at 2 AM again, staring at the ceiling, knowing you have a full day ahead. If you're over 60, you're not alone, nearly half of older adults struggle with insomnia or poor sleep quality. The frustration is real, but the good news is that learning how to sleep better as a senior is absolutely possible with the right strategies.
 
 Sleep changes are a normal part of aging, but they don't have to control your nights. Your body produces less melatonin as you age, your circadian rhythm shifts earlier, and health conditions can interrupt rest. The key is understanding what's happening and taking action with proven techniques that actually work for your body and lifestyle.
 
@@ -26,11 +26,11 @@ Health conditions play a major role too. Sleep apnea, restless leg syndrome, noc
 
 ## Create Your Ideal Sleep Environment
 
-Your bedroom is your sleep sanctuary, and it deserves attention. The perfect sleep environment is cool (around 65-68°F), dark, and quiet—these conditions trigger your body's natural sleep signals.
+Your bedroom is your sleep sanctuary, and it deserves attention. The perfect sleep environment is cool (around 65-68°F), dark, and quiet, these conditions trigger your body's natural sleep signals.
 
 Start with blackout curtains or an eye mask to block light completely. Even small amounts of light can suppress melatonin production. If you live in a noisy area, consider white noise machines, earplugs, or a fan to mask disruptive sounds. These simple additions make a surprising difference for many seniors.
 
-Your mattress and pillows matter more than you might think. An older, sagging mattress causes body ache that keeps you awake. Look for supportive pillows that keep your neck aligned—cervical pillows work particularly well for side sleepers. If budget allows, memory foam or latex mattresses often provide better support than older spring models.
+Your mattress and pillows matter more than you might think. An older, sagging mattress causes body ache that keeps you awake. Look for supportive pillows that keep your neck aligned, cervical pillows work particularly well for side sleepers. If budget allows, memory foam or latex mattresses often provide better support than older spring models.
 
 **Pro Tip:** Keep your bedroom temperature slightly cool but use warm bedding. This combination signals your body that it's time to sleep while keeping you comfortable throughout the night.
 
@@ -38,7 +38,7 @@ Invest in breathable bedding made from natural fibers like cotton or bamboo. The
 
 ## Establish a Consistent Sleep Schedule
 
-Your body loves routine, especially as you age. Going to bed and waking up at the same time every day—even weekends—helps regulate your internal clock and improves sleep quality significantly.
+Your body loves routine, especially as you age. Going to bed and waking up at the same time every day, even weekends, helps regulate your internal clock and improves sleep quality significantly.
 
 Pick a bedtime that allows for 7-9 hours of sleep before your natural wake time. If you wake at 6 AM, aim to be asleep by 9-10 PM. Consistency matters more than the specific time, so choose hours you can realistically maintain most days.
 
@@ -58,13 +58,13 @@ If you wake in the middle of the night, resist the urge to check the clock or yo
 
 ## Nutrition and Hydration for Better Sleep
 
-What you eat and drink directly affects your sleep quality. Avoid caffeine after 2 PM, as it stays in your system longer as you age—sometimes up to 10 hours. This includes coffee, tea, chocolate, and energy drinks.
+What you eat and drink directly affects your sleep quality. Avoid caffeine after 2 PM, as it stays in your system longer as you age, sometimes up to 10 hours. This includes coffee, tea, chocolate, and energy drinks.
 
 Heavy meals close to bedtime disrupt sleep, so eat your main meal at lunch when possible. If you're hungry before bed, choose light snacks like a banana with peanut butter, Greek yogurt, or almonds. These foods contain tryptophan and magnesium, which promote sleepiness.
 
 Limit fluids 2-3 hours before bed to reduce nighttime bathroom trips. This is crucial for seniors, as nocturia is one of the biggest sleep disruptors. If you need medication with food, take it at dinner rather than evening snack time.
 
-Magnesium-rich foods like leafy greens, pumpkin seeds, and fish support sleep naturally. A warm glass of milk or herbal tea containing chamomile or valerian root can also help. Avoid alcohol in the evening—while it might make you drowsy initially, it disrupts sleep architecture and causes early waking.
+Magnesium-rich foods like leafy greens, pumpkin seeds, and fish support sleep naturally. A warm glass of milk or herbal tea containing chamomile or valerian root can also help. Avoid alcohol in the evening, while it might make you drowsy initially, it disrupts sleep architecture and causes early waking.
 
 ## Relaxation Techniques That Work
 
@@ -100,7 +100,7 @@ Melatonin is generally safe for short-term use in older adults, typically at dos
 
 ### How long does it take to improve sleep as a senior?
 
-Most people see improvements within 2-3 weeks of consistent sleep habit changes, though full benefits typically appear after 6-8 weeks. Your brain needs time to establish new patterns and associations with better sleep. Be patient and consistent—the changes you make now build better sleep for months and years ahead.
+Most people see improvements within 2-3 weeks of consistent sleep habit changes, though full benefits typically appear after 6-8 weeks. Your brain needs time to establish new patterns and associations with better sleep. Be patient and consistent, the changes you make now build better sleep for months and years ahead.
 
 ---
 
@@ -108,6 +108,6 @@ Most people see improvements within 2-3 weeks of consistent sleep habit changes,
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) ,  Senior-specific Cosequin formula with added Omega-3s ,  designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) ,  The #1 veterinarian-recommended joint supplement brand ,  clinically studied for reducing joint pain in dogs.
 

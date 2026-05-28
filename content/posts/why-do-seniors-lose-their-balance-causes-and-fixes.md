@@ -2,7 +2,7 @@
 title: "Why do seniors lose their balance? Causes and fixes"
 date: 2026-05-17T20:10:57+00:00
 draft: false
-description: "Discover why seniors lose balance and what you can do about it. Learn the real causes — from muscle weakness to medications — and get practical, proven fixes"
+description: "Discover why seniors lose balance and what you can do about it. Learn the real causes ,  from muscle weakness to medications ,  and get practical, proven fixes"
 image: "https://images.pexels.com/photos/29658108/pexels-photo-29658108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["balance"]
 slug: "why-do-seniors-lose-their-balance-causes-and-fixes"
@@ -25,7 +25,7 @@ Before we dive into causes, it helps to understand how balance actually works. Y
   * **Inner ear (vestibular system):** Tiny fluid-filled canals detect motion and head position.
   * **Proprioception:** Sensors in your muscles and joints tell your brain how your body is positioned.
 
-When any one of these systems weakens — which happens naturally with age — your balance suffers. When two or three are affected at the same time, the risk of falling rises significantly.
+When any one of these systems weakens ,  which happens naturally with age ,  your balance suffers. When two or three are affected at the same time, the risk of falling rises significantly.
 
 ## The Most Common Reasons Seniors Lose Their Balance
 
@@ -41,7 +41,7 @@ The hips, thighs, and ankles are especially important for balance. When these mu
 
 ### Inner Ear Changes and Vestibular Disorders
 
-The vestibular system inside your inner ear naturally declines with age. Conditions like benign paroxysmal positional vertigo (BPPV) — where tiny calcium crystals shift out of place — can cause sudden dizziness that feels completely disorienting.
+The vestibular system inside your inner ear naturally declines with age. Conditions like benign paroxysmal positional vertigo (BPPV) ,  where tiny calcium crystals shift out of place ,  can cause sudden dizziness that feels completely disorienting.
 
 BPPV is actually very common in older adults and, importantly, it is highly treatable. A simple series of head movements called the Epley maneuver, performed by a physical therapist, can resolve it quickly.
 
@@ -65,7 +65,7 @@ Something as simple as an updated eyeglass prescription or cataract surgery has 
 
 ### Neuropathy and Joint Problems
 
-Peripheral neuropathy — often caused by diabetes or vitamin B12 deficiency — damages the nerves in the feet and lower legs. When you cannot feel the ground properly, your brain loses a critical piece of balance information.
+Peripheral neuropathy ,  often caused by diabetes or vitamin B12 deficiency ,  damages the nerves in the feet and lower legs. When you cannot feel the ground properly, your brain loses a critical piece of balance information.
 
 Arthritis in the knees, hips, and ankles also limits the range of motion needed to make quick balance corrections. Pain itself causes people to move more cautiously, which ironically can sometimes make unsteadiness worse.
 
@@ -112,7 +112,7 @@ Your environment matters just as much as your physical fitness. A few simple cha
 
 If you have noticed increasing unsteadiness, please do not just accept it as normal aging. Ask your doctor for a fall risk assessment. Ask for a medication review. Request a referral to a physical therapist who specializes in vestibular rehabilitation.
 
-Blood tests can also identify treatable contributors like low vitamin D, vitamin B12 deficiency, or thyroid problems — all of which can affect balance and coordination.
+Blood tests can also identify treatable contributors like low vitamin D, vitamin B12 deficiency, or thyroid problems ,  all of which can affect balance and coordination.
 
 ## You Have More Control Than You Think
 
@@ -134,7 +134,7 @@ Occasional lightheadedness when standing up quickly is common and is usually cau
 
 Balance absolutely can improve with exercise at any age, including in people in their 80s and 90s. Clinical studies have shown that consistent balance and strength training can reduce fall risk by 20 to 40 percent in older adults. The key is starting gently, being consistent, and choosing exercises appropriate for your current fitness level.
 
-Remember, every small step you take toward better balance is an investment in your independence, your confidence, and your quality of life. You deserve to move through the world feeling safe and strong — and with the right knowledge and habits, that is completely within reach.
+Remember, every small step you take toward better balance is an investment in your independence, your confidence, and your quality of life. You deserve to move through the world feeling safe and strong ,  and with the right knowledge and habits, that is completely within reach.
 
 Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
@@ -144,6 +144,6 @@ Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstr
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) ,  Senior-specific Cosequin formula with added Omega-3s ,  designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) ,  The #1 veterinarian-recommended joint supplement brand ,  clinically studied for reducing joint pain in dogs.
 

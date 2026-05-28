@@ -2,7 +2,7 @@
 title: "How to reduce fall risk in elderly parents"
 date: 2026-05-19T11:58:46+00:00
 draft: false
-description: "Learn proven strategies to reduce fall risk in elderly parents — from balance exercises and home safety tips to medication reviews and the right footwear. Pr"
+description: "Learn proven strategies to reduce fall risk in elderly parents ,  from balance exercises and home safety tips to medication reviews and the right footwear. Pr"
 image: "https://images.pexels.com/photos/8769387/pexels-photo-8769387.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["balance"]
 slug: "how-to-reduce-fall-risk-in-elderly-parents"
@@ -15,7 +15,7 @@ If you’ve watched a parent grip the wall for balance or shuffle carefully acro
 
 Falls aren’t just bumps and bruises for seniors. A single fall can lead to a hip fracture, head injury, or long hospital stay that changes everything.
 
-Even falls that don’t cause serious injury often create a lasting fear of falling again. That fear can lead to less movement, weaker muscles, and — ironically — an even higher chance of falling in the future.
+Even falls that don’t cause serious injury often create a lasting fear of falling again. That fear can lead to less movement, weaker muscles, and ,  ironically ,  an even higher chance of falling in the future.
 
 Here’s what makes falls especially risky after age 60:
 
@@ -27,7 +27,7 @@ Here’s what makes falls especially risky after age 60:
 
 ## The Most Common Causes of Falls in Seniors
 
-Understanding what causes falls is the first step to preventing them. Most falls happen because of a combination of factors — not just one single issue.
+Understanding what causes falls is the first step to preventing them. Most falls happen because of a combination of factors ,  not just one single issue.
 
 Some causes come from inside the body, like muscle weakness or poor balance. Others come from the environment, like loose rugs, poor lighting, or cluttered hallways.
 
@@ -45,7 +45,7 @@ The most frequently reported causes include:
 
 Photo by [charles Lebegue](https://unsplash.com/@carlitaux?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-The home is where most falls happen, and small changes can dramatically improve safety. You don’t need a major renovation — just a careful walk-through with fresh eyes.
+The home is where most falls happen, and small changes can dramatically improve safety. You don’t need a major renovation ,  just a careful walk-through with fresh eyes.
 
 Start in the bathroom, which is one of the most hazardous rooms in any house. Wet floors, low toilet seats, and hard surfaces all increase risk.
 
@@ -68,7 +68,7 @@ Start in the bathroom, which is one of the most hazardous rooms in any house. We
 
 ## Exercises That Build Balance and Strength
 
-Exercise is one of the most powerful tools to reduce fall risk in elderly adults — and it’s never too late to start. Even gentle, consistent movement rebuilds the strength and balance that protect against falls.
+Exercise is one of the most powerful tools to reduce fall risk in elderly adults ,  and it’s never too late to start. Even gentle, consistent movement rebuilds the strength and balance that protect against falls.
 
 Research consistently shows that programs focusing on balance training and lower-body strengthening can reduce falls by up to 30%. The key is finding exercises that feel safe and enjoyable enough to stick with.
 
@@ -86,7 +86,7 @@ Tai chi is also worth mentioning. Multiple studies have found it to be exception
 
 Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Many seniors take four or more prescription medications daily, and certain combinations can cause dizziness, lightheadedness, or delayed reactions. This is one of the most overlooked causes of falls — and one of the most fixable.
+Many seniors take four or more prescription medications daily, and certain combinations can cause dizziness, lightheadedness, or delayed reactions. This is one of the most overlooked causes of falls ,  and one of the most fixable.
 
 Encourage your parent to bring a complete medication list to their next doctor’s appointment and ask specifically about fall-related side effects. A pharmacist can also conduct a medication review to spot risky interactions.
 
@@ -110,17 +110,17 @@ The ideal shoe for an older adult has a thin, non-slip rubber sole, a low heel, 
 
   * Non-slip rubber soles with good grip
   * Firm heel counter (the back of the shoe should feel rigid)
-  * Low or flat heel — avoid anything over one inch
-  * Proper fit — not too loose or tight
+  * Low or flat heel ,  avoid anything over one inch
+  * Proper fit ,  not too loose or tight
   * Avoid walking barefoot or in socks on smooth floors
 
-For seniors who need extra support, a cane or walker can provide significant stability. Make sure any assistive device is properly fitted by a physical therapist — an improperly used cane can actually increase fall risk.
+For seniors who need extra support, a cane or walker can provide significant stability. Make sure any assistive device is properly fitted by a physical therapist ,  an improperly used cane can actually increase fall risk.
 
 ## Building a Supportive Routine and Communication Plan
 
 Photo by [Samuel Lopez Cruz](https://unsplash.com/@fotogugu?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Fall prevention isn’t a one-time fix — it’s an ongoing habit. Helping your parent build a daily routine that includes exercise, hydration, and regular sleep can make a real difference over time.
+Fall prevention isn’t a one-time fix ,  it’s an ongoing habit. Helping your parent build a daily routine that includes exercise, hydration, and regular sleep can make a real difference over time.
 
 Dehydration and fatigue are surprisingly common fall triggers in older adults. Encourage your parent to drink water consistently throughout the day and to rest when tired rather than pushing through exhaustion.
 
@@ -132,7 +132,7 @@ Consider setting up a simple emergency alert system. Medical alert devices that 
 
 ### What is the most effective way to reduce fall risk in elderly adults?
 
-The most effective approach combines multiple strategies at once — regular balance and strength exercises, home safety modifications, and a medication review with a doctor. Research shows that multi-component programs addressing more than one risk factor are far more effective than any single change alone.
+The most effective approach combines multiple strategies at once ,  regular balance and strength exercises, home safety modifications, and a medication review with a doctor. Research shows that multi-component programs addressing more than one risk factor are far more effective than any single change alone.
 
 Starting with a visit to the doctor to assess individual risk factors is a smart first step. From there, a physical therapist can design a personalized exercise program and an occupational therapist can help evaluate the home environment.
 
@@ -144,14 +144,14 @@ Programs like tai chi or community-based fall prevention classes such as Steppin
 
 ### When should I be concerned about my parent’s fall risk?
 
-If your parent has already fallen once in the past year, that is a significant warning sign — people who fall once are two to three times more likely to fall again. Other red flags include frequent near-misses, reluctance to walk without holding onto furniture, complaints of dizziness, or avoiding activities they used to enjoy out of fear.
+If your parent has already fallen once in the past year, that is a significant warning sign ,  people who fall once are two to three times more likely to fall again. Other red flags include frequent near-misses, reluctance to walk without holding onto furniture, complaints of dizziness, or avoiding activities they used to enjoy out of fear.
 
 Bring these concerns to their doctor right away. Many healthcare providers use a simple screening tool called the Timed Up and Go (TUG) test to measure fall risk quickly and objectively.
 
 ## You Can Help Keep Your Parent Safe
 
-Helping to reduce fall risk in your elderly parent is one of the most loving things you can do — and it doesn’t have to be overwhelming. Start with one or two changes, celebrate each small improvement, and build from there.
+Helping to reduce fall risk in your elderly parent is one of the most loving things you can do ,  and it doesn’t have to be overwhelming. Start with one or two changes, celebrate each small improvement, and build from there.
 
-With the right exercises, a safer home environment, the right footwear, and open communication with their healthcare team, your parent can stay steady, strong, and independent for many more years to come. You’ve got this — and so do they.
+With the right exercises, a safer home environment, the right footwear, and open communication with their healthcare team, your parent can stay steady, strong, and independent for many more years to come. You’ve got this ,  and so do they.
 
 Photo by [Eduardo Cano Photo Co.](https://unsplash.com/@eduardocanophotoco?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
