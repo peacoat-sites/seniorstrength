@@ -1,6 +1,6 @@
 ---
 title: "Tai chi for seniors: best beginner routines for balance"
-date: 2026-05-20T11:47:06+00:00
+date: 2026-05-25T22:59:48.470586+00:00
 draft: false
 description: "Discover the best tai chi for seniors beginners routines to improve balance, prevent falls, and boost confidence. Easy moves, expert tips, and a simple weekl"
 image: "https://images.pexels.com/photos/10202907/pexels-photo-10202907.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

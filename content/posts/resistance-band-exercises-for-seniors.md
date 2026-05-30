@@ -1,9 +1,9 @@
 ---
 title: "Resistance Band Exercises For Seniors"
-date: 2026-05-30T00:30:44.772264+00:00
+date: 2026-05-27T10:44:57.484534+00:00
 draft: false
 description: "Discover safe and effective resistance band exercises for seniors to build strength, improve mobility, and boost independence. Perfect for all fitness levels."
-image: ""
+image: "https://images.pexels.com/photos/8417516/pexels-photo-8417516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["resistance", "band", "exercises", "seniors"]
 author: "Dana Hargrove"

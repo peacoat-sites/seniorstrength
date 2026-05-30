@@ -1,9 +1,9 @@
 ---
 title: "Best Strength Exercises For Seniors At Home"
-date: 2026-05-30T00:34:50.168058+00:00
+date: 2026-05-25T07:24:54.159063+00:00
 draft: false
 description: "Stay strong and independent with the best strength exercises for seniors at home. Safe, effective moves to build muscle, improve balance, and boost daily energy"
-image: ""
+image: "https://images.pexels.com/photos/8899516/pexels-photo-8899516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["best", "strength", "exercises", "seniors", "home"]
 author: "Claire Novak"

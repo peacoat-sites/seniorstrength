@@ -1,6 +1,6 @@
 ---
 title: "Healthy weight for seniors: what BMI means after 65"
-date: 2026-05-18T12:28:01+00:00
+date: 2026-05-17T22:14:58.600302+00:00
 draft: false
 description: "Confused about healthy weight seniors BMI after 65? Learn why BMI works differently for older adults, what a healthy weight really means, and practical tips"
 image: "https://images.pexels.com/photos/26726124/pexels-photo-26726124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

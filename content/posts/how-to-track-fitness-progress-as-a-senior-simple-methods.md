@@ -1,6 +1,6 @@
 ---
 title: "How to track fitness progress as a senior (simple methods)"
-date: 2026-05-17T20:47:32+00:00
+date: 2026-05-22T15:15:09.691281+00:00
 draft: false
 description: "Learn how to track fitness progress seniors can use every day with simple, low-tech methods and easy-to-understand markers that keep you motivated and moving"
 image: "https://images.pexels.com/photos/8578425/pexels-photo-8578425.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

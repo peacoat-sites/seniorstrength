@@ -1,6 +1,6 @@
 ---
 title: "Best walking shoes for seniors with wide feet (2026 guide)"
-date: 2026-05-17T20:13:10+00:00
+date: 2026-05-26T17:14:53.284228+00:00
 draft: false
 description: "Discover the best walking shoes for seniors with wide feet in our 2026 guide. Expert tips, top brand picks, and podiatrist advice to keep you walking comfort"
 image: "https://images.pexels.com/photos/8692291/pexels-photo-8692291.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

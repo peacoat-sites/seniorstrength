@@ -1,6 +1,6 @@
 ---
 title: "How to improve balance in seniors over 70"
-date: 2026-05-17T20:52:28+00:00
+date: 2026-05-21T11:56:47.735826+00:00
 draft: false
 description: "Discover how to improve balance in seniors over 70 with gentle exercises, nutrition tips, home safety advice, and expert guidance to reduce fall risk and boo"
 image: "https://images.pexels.com/photos/18092434/pexels-photo-18092434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

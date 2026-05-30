@@ -1,6 +1,6 @@
 ---
 title: "How to lose belly fat after 60 safely"
-date: 2026-05-17T20:07:26+00:00
+date: 2026-05-18T20:56:59.218466+00:00
 draft: false
 description: "Discover safe, effective ways to lose belly fat after 60. Learn expert-backed tips on exercise, nutrition, sleep, and stress management tailored for seniors"
 image: "https://images.pexels.com/photos/12351498/pexels-photo-12351498.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

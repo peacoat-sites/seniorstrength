@@ -1,6 +1,6 @@
 ---
 title: "How to reduce fall risk in elderly parents"
-date: 2026-05-19T11:58:46+00:00
+date: 2026-05-24T16:50:24.423573+00:00
 draft: false
 description: "Learn proven strategies to reduce fall risk in elderly parents,  from balance exercises and home safety tips to medication reviews and the right footwear. Pr"
 image: "https://images.pexels.com/photos/8769387/pexels-photo-8769387.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

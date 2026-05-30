@@ -1,6 +1,6 @@
 ---
 title: "10-Minute morning stretches for seniors over 70"
-date: 2026-05-17T18:29:46+00:00
+date: 2026-05-26T17:57:02.357938+00:00
 draft: false
 description: "Discover a simple 10-minute morning stretches for seniors routine designed for those over 70. Reduce stiffness, improve flexibility, and start each day feeli"
 image: "https://images.pexels.com/photos/16131189/pexels-photo-16131189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

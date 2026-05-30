@@ -1,6 +1,6 @@
 ---
 title: "How much protein do seniors need per day?"
-date: 2026-05-17T20:41:30+00:00
+date: 2026-05-29T08:21:13.560556+00:00
 draft: false
 description: "Discover how much protein seniors need daily to maintain muscle, energy, and independence. Get expert-backed recommendations, food sources, and easy tips for"
 image: "https://images.pexels.com/photos/3932237/pexels-photo-3932237.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

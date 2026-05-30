@@ -1,6 +1,6 @@
 ---
 title: "How to reduce joint inflammation naturally for seniors"
-date: 2026-05-21T12:14:16+00:00
+date: 2026-05-23T05:13:46.436705+00:00
 draft: false
 description: "Discover proven, natural ways to reduce joint inflammation seniors face daily. Learn about anti-inflammatory foods, gentle exercise, supplements, and healthy"
 image: "https://images.pexels.com/photos/7653345/pexels-photo-7653345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

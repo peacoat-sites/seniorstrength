@@ -1,6 +1,6 @@
 ---
 title: "Best stretches for seniors with lower back pain"
-date: 2026-05-17T20:14:11+00:00
+date: 2026-05-27T22:49:11.265858+00:00
 draft: false
 description: "Discover the best stretches for lower back pain seniors can safely do every day. Reduce stiffness, ease discomfort, and move better with these gentle, expert"
 image: "https://images.pexels.com/photos/7648279/pexels-photo-7648279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

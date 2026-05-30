@@ -1,6 +1,6 @@
 ---
 title: "Meditation for seniors: how to start and why it helps"
-date: 2026-05-17T20:06:21+00:00
+date: 2026-05-18T07:18:54.117556+00:00
 draft: false
 description: "Discover how meditation for seniors beginners can reduce stress, improve sleep, and sharpen memory. This friendly, step-by-step guide makes it easy to start"
 image: "https://images.pexels.com/photos/6643395/pexels-photo-6643395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

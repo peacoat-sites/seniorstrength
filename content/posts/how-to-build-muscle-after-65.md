@@ -1,9 +1,9 @@
 ---
 title: "How To Build Muscle After 65"
-date: 2026-05-30T00:39:44.187283+00:00
+date: 2026-05-25T04:25:42.854422+00:00
 draft: false
 description: "Discover proven strategies to build muscle after 65. Learn safe exercises, nutrition tips, and recovery techniques to gain strength and improve your health at a"
-image: ""
+image: "https://images.pexels.com/photos/17559311/pexels-photo-17559311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["build", "muscle", "after"]
 author: "Dana Hargrove"

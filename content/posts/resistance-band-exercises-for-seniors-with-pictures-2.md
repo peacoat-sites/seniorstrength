@@ -1,6 +1,6 @@
 ---
 title: "Resistance band exercises for seniors (with pictures)"
-date: 2026-05-18T12:24:49+00:00
+date: 2026-05-26T04:14:31.340000+00:00
 draft: false
 description: "Discover the 7 best resistance band exercises for seniors to build strength, improve balance, and stay independent. Safe, beginner-friendly moves with full i"
 image: "https://images.pexels.com/photos/18092431/pexels-photo-18092431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

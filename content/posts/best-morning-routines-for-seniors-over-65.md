@@ -1,6 +1,6 @@
 ---
 title: "Best morning routines for seniors over 65"
-date: 2026-05-20T11:45:53+00:00
+date: 2026-05-25T19:30:07.598946+00:00
 draft: false
 description: "Discover the best morning routine for seniors over 65,  including gentle exercise, nourishing breakfast ideas, mental wellness tips, and simple habits that b"
 image: "https://images.pexels.com/photos/13020558/pexels-photo-13020558.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

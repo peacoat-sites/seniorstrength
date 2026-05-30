@@ -1,9 +1,9 @@
 ---
 title: "Balance Exercises For Seniors To Prevent Falls"
-date: 2026-05-30T00:28:14.959971+00:00
+date: 2026-05-25T00:16:56.048876+00:00
 draft: false
 description: "Discover the best balance exercises for seniors to prevent falls, improve stability, and boost confidence. Simple, safe routines to help older adults stay activ"
-image: ""
+image: "https://images.pexels.com/photos/6922191/pexels-photo-6922191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Balance & Mobility"]
 tags: ["balance", "exercises", "seniors", "prevent", "falls"]
 author: "Maria Vasquez"

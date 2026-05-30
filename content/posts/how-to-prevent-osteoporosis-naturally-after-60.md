@@ -1,6 +1,6 @@
 ---
 title: "How to prevent osteoporosis naturally after 60"
-date: 2026-05-17T20:08:36+00:00
+date: 2026-05-20T17:04:09.981640+00:00
 draft: false
 description: "Discover proven, natural ways to prevent osteoporosis after 60. Learn which foods, exercises, supplements, and lifestyle habits protect your bone density and"
 image: "https://images.pexels.com/photos/10427839/pexels-photo-10427839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

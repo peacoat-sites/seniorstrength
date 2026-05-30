@@ -1,6 +1,6 @@
 ---
 title: "Best magnifying glasses for seniors with macular degeneration"
-date: 2026-05-17T20:09:53+00:00
+date: 2026-05-19T03:33:46.338328+00:00
 draft: false
 description: "Discover the best magnifying glasses seniors with macular degeneration can use to read, pursue hobbies, and stay independent. Expert tips, top features, and"
 image: "https://images.pexels.com/photos/6648542/pexels-photo-6648542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Shoulder pain exercises for seniors: gentle relief moves"
-date: 2026-05-17T20:50:31+00:00
+date: 2026-05-21T02:06:21.566573+00:00
 draft: false
 description: "Discover the best shoulder pain exercises for seniors with these gentle, safe moves designed to ease stiffness, restore mobility, and help you feel your best"
 image: "https://images.pexels.com/photos/4108167/pexels-photo-4108167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

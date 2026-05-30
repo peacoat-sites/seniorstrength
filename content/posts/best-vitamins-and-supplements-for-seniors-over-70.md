@@ -1,6 +1,6 @@
 ---
 title: "Best vitamins and supplements for seniors over 70"
-date: 2026-05-17T20:49:30+00:00
+date: 2026-05-28T18:20:59.383351+00:00
 draft: false
 description: "Discover the best vitamins and supplements for seniors over 70, including vitamin D, B12, omega-3s, magnesium, and more. Medically accurate, senior-friendly"
 image: "https://images.pexels.com/photos/4534639/pexels-photo-4534639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

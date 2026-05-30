@@ -1,6 +1,6 @@
 ---
 title: "Why do seniors lose their balance? Causes and fixes"
-date: 2026-05-17T20:10:57+00:00
+date: 2026-05-26T00:06:15.552482+00:00
 draft: false
 description: "Discover why seniors lose balance and what you can do about it. Learn the real causes,  from muscle weakness to medications,  and get practical, proven fixes"
 image: "https://images.pexels.com/photos/29658108/pexels-photo-29658108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Chair exercises for seniors with bad knees"
-date: 2026-05-17T17:15:51+00:00
+date: 2026-05-29T06:09:40.675523+00:00
 draft: false
 description: "Discover the best chair exercises for seniors with bad knees. Build strength, reduce stiffness, and stay active safely with this easy, practical seated worko"
 image: "https://images.pexels.com/photos/3215595/pexels-photo-3215595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

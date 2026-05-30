@@ -1,6 +1,6 @@
 ---
 title: "Standing balance exercises seniors can do holding a chair"
-date: 2026-05-19T11:59:53+00:00
+date: 2026-05-23T12:18:53.651686+00:00
 draft: false
 description: "Discover the best standing balance exercises seniors can do safely at home using a chair. Improve stability, build confidence, and reduce fall risk with thes"
 image: "https://images.pexels.com/photos/25358278/pexels-photo-25358278.png?auto=compress&cs=tinysrgb&h=650&w=940"
