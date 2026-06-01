@@ -1,4 +1,5 @@
 ---
+quiz_page: true
 title: "Is a Strength-Training Routine Right for You? (Free 7-Question Quiz)"
 description: "Take this quick 7-question quiz to see how well a strength-training routine fits your goals, habits, and readiness as an older adult. Encouraging and easy."
 slug: "is-strength-training-right-for-you"
