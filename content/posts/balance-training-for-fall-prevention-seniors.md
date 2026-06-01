@@ -3,7 +3,7 @@ title: "Balance Training For Fall Prevention Seniors"
 date: 2026-05-30T10:54:54.919474+00:00
 draft: false
 description: "Discover effective balance training exercises designed to help seniors prevent falls, improve stability, and maintain independence for a safer, more confident d"
-image: ""
+image: "https://images.pexels.com/photos/4803866/pexels-photo-4803866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Balance & Mobility"]
 tags: ["balance", "training", "fall", "prevention", "seniors"]
 author: "Dana Hargrove"

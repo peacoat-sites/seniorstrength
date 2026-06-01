@@ -3,7 +3,7 @@ title: "Best Low Impact Exercises For Bad Knees"
 date: 2026-06-01T15:36:50.340453+00:00
 draft: false
 description: "Discover the best low impact exercises for bad knees that reduce pain and build strength. Stay active safely with gentle workouts approved for knee health."
-image: ""
+image: "https://images.pexels.com/photos/4803861/pexels-photo-4803861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Low-Impact Workouts"]
 tags: ["best", "impact", "exercises", "knees"]
 author: "Alex Reeves"

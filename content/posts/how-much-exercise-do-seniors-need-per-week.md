@@ -3,7 +3,7 @@ title: "How Much Exercise Do Seniors Need Per Week"
 date: 2026-05-31T11:10:33.613350+00:00
 draft: false
 description: "Stay active and healthy in your golden years. Discover exactly how much exercise seniors need per week, including cardio, strength training, and flexibility tip"
-image: ""
+image: "https://images.pexels.com/photos/6974983/pexels-photo-6974983.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["General Fitness"]
 tags: ["much", "exercise", "seniors", "need", "week"]
 author: "Maria Vasquez"

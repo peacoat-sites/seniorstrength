@@ -3,7 +3,7 @@ title: "Low Impact Cardio For Seniors"
 date: 2026-05-30T10:57:40.029895+00:00
 draft: false
 description: "Discover the best low impact cardio exercises for seniors to boost heart health, improve mobility, and stay active safely. Start moving better today with these "
-image: ""
+image: "https://images.pexels.com/photos/6815679/pexels-photo-6815679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Low-Impact Workouts"]
 tags: ["impact", "cardio", "seniors"]
 author: "Alex Reeves"
