@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "gentle-stretching-routine-for-seniors"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does it take to see real improvement in flexibility?"
+    a: "Most people notice small improvements in how they feel within one to two weeks of consistent daily stretching. Measurable range-of-motion changes typically take four to eight weeks. The research suggests that adults over 60 can absolutely gain significant flexibility with consistent work, but consistency is the key word. Three sessions a week produces results. One session a week is better than nothing but won't move the needle much."
+  - q: "Is it normal to feel sore after stretching?"
+    a: "Mild muscle soreness the following day can happen, especially when you're new to stretching. What shouldn't happen is joint pain, sharp sensations during the stretch, or any pain that persists for more than 24 to 48 hours. If you're consistently sore after stretching, you're likely going too deep or holding too long. Back off and rebuild gradually."
+  - q: "Can stretching help with arthritis pain?"
+    a: "The research here is mixed but generally positive. Gentle range-of-motion stretching can reduce stiffness and improve function in people with osteoarthritis, particularly in the knees, hips, and shoulders. However, stretching is not appropriate for acutely inflamed joints. On high-inflammation days, rest or very gentle movement is usually the right call. Work with your doctor or physical therapist to develop a plan that accounts for your specific arthritis pattern."
+  - q: "Should seniors stretch every day?"
+    a: "Daily stretching is generally safe and often beneficial, as long as you're not forcing range of motion or stretching through pain. Unlike strength training, which requires recovery days between sessions, flexibility work doesn't stress the body in the same way. That said, listen to your body. If something feels irritated, give it a day."
+  - q: "What's the biggest mistake seniors make with stretching?"
+    a: "Honestly? Holding their breath and going too fast. The second biggest is trying to recreate flexibility they had at 30 and pushing aggressively toward that old range. Where you are today is your starting point, not a failure. Aggressive stretching in older adults increases injury risk dramatically. Progress comes from working consistently at your current edge, not beyond it."
 ---
 
 Most people think stretching is the *safe* part of fitness. The low-stakes warm-up before the real work begins. I used to think that too, until I watched a 68-year-old client nearly hit the floor attempting a standing quad stretch she'd seen in a magazine. She was healthy, active, and completely blindsided by how fast her balance gave out. That moment changed how I think about flexibility work for older adults entirely.

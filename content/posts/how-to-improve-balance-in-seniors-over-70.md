@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/18092434/pexels-photo-18092434.jpeg?aut
 categories: ["balance"]
 slug: "how-to-improve-balance-in-seniors-over-70"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does it take to improve balance in seniors over 70?"
+    a: "Many seniors begin noticing improvements in as little as four to six weeks of consistent practice. Balance training works by strengthening muscles and retraining the nervous system, both of which respond well to regular, gentle exercise. The key word is consistent. Exercising a few days, then stopping, won’t deliver lasting results. Aim for at least three to five sessions per week, even if each session is only 10 to 15 minutes long."
+  - q: "Is it safe to do balance exercises alone at home?"
+    a: "Most basic balance exercises are safe to do at home, provided you use a sturdy chair or counter for support when needed. Never practice single-leg standing or similar movements near stairs, on slippery surfaces, or when you are feeling tired or unwell. If you have had a recent fall, significant mobility issues, or have been diagnosed with a condition affecting your balance, check with your doctor or physical therapist before starting a new exercise routine."
+  - q: "Does walking count as balance exercise?"
+    a: "Walking is wonderful for overall health and does contribute to balance by strengthening leg muscles and promoting coordination. However, it works best when combined with targeted balance exercises like those described in this article. Walking on uneven terrain such as grass, gravel paths, or gentle hiking trails can provide an extra balance challenge for those who are already reasonably steady on their feet. Always wear supportive footwear and go with a companion when trying new terrain."
 ---
 
 Have you ever reached for something on a high shelf and felt a sudden wobble,  or hesitated at the top of the stairs because you weren’t sure of your footing? You are not alone. Millions of people over 70 experience these moments every day. The good news is that there are proven, gentle ways to **improve balance in seniors over 70**, and many of them can be done right at home, starting today.

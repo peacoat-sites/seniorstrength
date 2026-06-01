@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/32131084/pexels-photo-32131084.jpeg?aut
 categories: ["exercise"]
 slug: "how-to-build-leg-strength-after-70-beginner-guide-2"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does it take to see results from leg exercises?"
+    a: "Most people notice improvements in strength and energy within 4–6 weeks of consistent exercise. Early changes are often neurological, your brain gets better at activating your muscles before the muscles themselves grow larger. Visible changes in muscle tone often follow within 8–12 weeks."
+  - q: "Are these exercises safe if I have knee pain or arthritis?"
+    a: "Many of these exercises are gentle enough for people with mild to moderate arthritis or knee discomfort. In fact, strengthening the muscles around the knee often reduces pain over time by taking pressure off the joint. However, always check with your doctor or physiotherapist first, and modify any movement that causes sharp or worsening pain."
+  - q: "How many days a week should seniors do leg strength training?"
+    a: "Two to three days per week is the sweet spot for beginners. This gives your muscles enough stimulus to grow while allowing adequate recovery time between sessions. As you become more experienced, you can adjust based on how your body responds and what your doctor recommends."
 ---
 
 Picture this: you reach for something on a low shelf, and as you straighten back up, your legs feel shaky and uncertain. Or maybe climbing a flight of stairs has started to feel like a real effort. If this sounds familiar, you are not alone,  and more importantly, you can do something about it starting today. Building leg strength after 70 is one of the best investments you can make in your independence and quality of life. The good news is that **leg strength exercises for seniors** do not have to be complicated, painful, or done in a gym.

@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/12895247/pexels-photo-12895247.jpeg?aut
 categories: ["nutrition"]
 slug: "how-to-eat-for-bone-health-after-60"
 affiliate_disclosure: true
+faqs:
+  - q: "How much calcium do I actually need after 60?"
+    a: "Adults over 50 are advised to consume 1,200 mg of calcium per day. This is higher than the recommendation for younger adults because calcium absorption becomes less efficient with age. Most experts suggest getting the majority of this through food, dairy products, fortified foods, leafy greens, and canned fish with bones, rather than relying heavily on supplements."
+  - q: "Can exercise replace a good diet for bone health?"
+    a: "Exercise and nutrition are partners, not substitutes for each other. Weight-bearing exercises like walking, strength training, and dancing stimulate bone formation and help maintain density. However, without the raw materials, calcium, vitamin D, protein, and other nutrients, exercise alone cannot build or maintain strong bones. You truly need both for the best results."
+  - q: "Is it too late to improve my bone health after 60?"
+    a: "It is absolutely not too late. While you cannot fully reverse bone loss that has already occurred, research consistently shows that dietary changes, appropriate supplementation, and exercise can slow further loss and meaningfully reduce fracture risk, even in your 70s and 80s. Every positive step you take today protects your independence and quality of life tomorrow. Starting now always beats waiting. Your bones have supported you through every adventure, challenge, and joy of your life. Now it’s your turn to support them. A thoughtful, nourishing bone health diet after 60 doesn’t require perf"
 ---
 
 You notice it in small ways at first,  a wrist that aches after gardening, stairs that feel steeper than they used to, or a doctor mentioning your bone density has dropped since your last scan. Millions of adults over 60 are quietly losing bone mass every year, often without realizing it until a fracture happens. The good news? Your **bone health diet after 60** is one of the most powerful tools you have to slow bone loss, strengthen your skeleton, and stay active for decades to come.

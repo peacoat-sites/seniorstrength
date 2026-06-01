@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/25358278/pexels-photo-25358278.png?auto
 categories: ["balance"]
 slug: "standing-balance-exercises-seniors-can-do-holding-a-chair"
 affiliate_disclosure: true
+faqs:
+  - q: "How often should seniors do standing balance exercises?"
+    a: "Most physical therapists recommend doing balance exercises two to three times per week for best results. This gives your muscles and nervous system enough stimulation to improve while still allowing recovery time between sessions. Even short five-minute sessions done consistently are far more effective than occasional longer workouts."
+  - q: "Is it normal to feel shaky when first starting balance exercises?"
+    a: "Yes, absolutely, and it is actually a good sign. That shakiness means your stabilizing muscles are being challenged and recruited in new ways. It should lessen noticeably within two to three weeks as those muscles grow stronger. However, if you feel dizzy, lightheaded, or experience pain, stop immediately and consult your doctor before continuing."
+  - q: "Can standing balance exercises reduce fall risk in seniors?"
+    a: "Yes, and the evidence is strong. A major review published in the British Journal of Sports Medicine found that balance and functional exercises reduced fall rates in older adults by approximately 24 percent. The key is consistency, doing the exercises regularly over several weeks is what produces lasting improvement in both strength and coordination. Photo by Age Cymru on Unsplash"
 ---
 
 Have you ever reached for something on a high shelf and felt that unsettling wobble,  that split-second panic where you grab for something solid? You are not alone. Millions of seniors deal with balance concerns every single day. The good news is that simple **standing balance exercises seniors** can do right at home, using nothing more than a sturdy chair, can make a real difference. Better balance means more confidence, more independence, and fewer falls.

@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/16131189/pexels-photo-16131189.jpeg?aut
 categories: ["exercise"]
 slug: "10-minute-morning-stretches-for-seniors-over-70"
 affiliate_disclosure: true
+faqs:
+  - q: "Is it safe to stretch every morning if I have arthritis?"
+    a: "For most people with arthritis, gentle daily stretching is not only safe, it’s actually recommended by many rheumatologists (arthritis specialists). Movement helps lubricate the joints and reduces stiffness. That said, always check with your own doctor first, as the type and severity of arthritis varies widely from person to person."
+  - q: "Should I stretch before or after my morning walk?"
+    a: "For seniors, doing a few gentle stretches before a walk, especially calf and hip stretches, can help prepare your joints for movement and reduce injury risk. A more thorough stretch session is also beneficial after your walk, when your muscles are warm and more pliable. Both approaches have real benefits."
+  - q: "What if I can’t stand up safely without help?"
+    a: "That’s perfectly okay, nearly every stretch in this routine can be modified to be done entirely from a chair or even from the edge of your bed. Seated stretching is just as effective for improving flexibility and reducing stiffness. Focus on what you can do comfortably, and don’t hesitate to ask a physical therapist for a personalized adaptation."
 ---
 
 You wake up in the morning and the first thing you feel is stiffness,  in your back, your hips, maybe your knees. Sound familiar? For many people over 70, those first few minutes out of bed can feel like a real challenge. The good news is that a simple 10-minute routine of **morning stretches for seniors** can make a remarkable difference in how you feel all day long. No gym required, no special equipment, and no experience needed.

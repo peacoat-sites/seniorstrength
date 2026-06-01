@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/6648551/pexels-photo-6648551.jpeg?auto=
 categories: ["exercise"]
 slug: "how-to-start-exercising-at-70-with-no-experience"
 affiliate_disclosure: true
+faqs:
+  - q: "Is it safe to start exercising at 70 with no prior experience?"
+    a: "Yes, absolutely. Research consistently shows that older adults who begin exercising, at any age, experience significant health benefits. The key is to start slowly, choose low-impact activities, and get clearance from your doctor first. Your body is more adaptable than you might think."
+  - q: "How long will it take to see results from exercising at 70?"
+    a: "Many seniors begin to notice improvements in energy, mood, and sleep quality within just two to four weeks of regular activity. Physical changes like improved strength and endurance typically become noticeable within six to eight weeks of consistent exercise."
+  - q: "What if I have arthritis or joint pain, can I still exercise?"
+    a: "In most cases, yes, and exercise is often recommended as part of arthritis management. Low-impact activities like swimming, water aerobics, cycling, and gentle yoga put minimal stress on your joints while still building strength and flexibility. Always consult your doctor or a physical therapist for guidance tailored to your specific condition."
 ---
 
 Maybe you’ve spent decades putting everyone else first,  your career, your family, your home,  and now you’re looking in the mirror wondering where to even begin. If you’re searching for **how to start exercising at 70**, you are not alone, and you are absolutely not too late. Millions of seniors begin their fitness journey after 70 and go on to feel stronger, more energetic, and more independent than they have in years.

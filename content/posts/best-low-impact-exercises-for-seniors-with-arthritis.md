@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/6926037/pexels-photo-6926037.jpeg?auto=
 categories: ["exercise"]
 slug: "best-low-impact-exercises-for-seniors-with-arthritis"
 affiliate_disclosure: true
+faqs:
+  - q: "Is it safe to exercise when my arthritis is painful?"
+    a: "Gentle movement is usually safe and even helpful during mild to moderate arthritis pain. Moving your joints gently can actually reduce stiffness and improve your comfort. However, if you are experiencing a significant flare-up, meaning intense pain, visible swelling, or warmth around the joint, rest for a day or two and contact your doctor if symptoms persist."
+  - q: "How long before I start seeing results from low impact exercise?"
+    a: "Most seniors notice some improvement in joint flexibility and pain levels within 4 to 6 weeks of regular exercise. Improvements in muscle strength and balance may take a little longer, around 8 to 12 weeks. The important thing is to stay consistent, even on days when progress feels slow."
+  - q: "What if I have never exercised regularly before, where should I start?"
+    a: "Start small and build gradually. Even five minutes of gentle walking or seated stretching is a legitimate starting point. From there, add a few minutes each week as your body adapts. Consider joining a senior fitness class at your local community center, where an instructor can guide you and you will have the added benefit of social connection."
 ---
 
 You wake up in the morning, and before you even get out of bed, your knees and fingers remind you that arthritis is part of your daily life. Maybe you used to love walking in the park or dancing with friends, but now the thought of exercise feels more daunting than exciting. You are not alone,  and here is the good news: **low impact exercises for seniors with arthritis** can actually reduce your pain, improve your flexibility, and help you get back to doing the things you love.

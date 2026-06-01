@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/35978212/pexels-photo-35978212.jpeg?aut
 categories: ["exercise"]
 slug: "pickleball-for-seniors-health-benefits-and-beginner-tips"
 affiliate_disclosure: true
+faqs:
+  - q: "Is pickleball safe for seniors with knee or hip problems?"
+    a: "For most seniors with mild to moderate knee or hip issues, pickleball is considered a low-impact activity that is generally safe and even therapeutic. The smaller court reduces running distance significantly, lowering stress on joints. However, you should always consult your orthopedic specialist or physician before starting if you have had a joint replacement or are managing significant arthritis. Wearing supportive footwear and warming up properly also makes a meaningful difference in protecting vulnerable joints during play."
+  - q: "How much does it cost to start playing pickleball?"
+    a: "Starting pickleball is very affordable compared to many other sports. A solid beginner paddle costs between $40 and $80, and a tube of balls runs about $10 to $15. Court fees at public recreation centers are typically $2 to $5 per session, and many offer senior discounts or free open-play times. Some community centers provide equipment to borrow at no charge, so your initial investment could literally be zero. Once you’re hooked, you can upgrade your gear gradually as your game improves."
+  - q: "What if I’ve never played a racket sport before?"
+    a: "No prior racket experience is needed whatsoever. Many of today’s most enthusiastic senior pickleball players never played tennis, badminton, or any similar sport in their lives. The paddle is light, the court is small, and the rules are simple enough to learn in under 15 minutes. Beginner clinics are designed specifically for people starting from absolute zero, and the welcoming culture of the pickleball community means you’ll find patient, encouraging playing partners at any open-play session."
 ---
 
 Finding an exercise routine that’s genuinely fun, social, and easy on aging joints can feel almost impossible. Many seniors start walking programs that quickly become boring, or try gym workouts that leave their knees aching. If that sounds familiar, you’re going to love what **pickleball for seniors** has to offer. This fast-growing sport is sweeping retirement communities, recreation centers, and parks across the country,  and for very good reason.

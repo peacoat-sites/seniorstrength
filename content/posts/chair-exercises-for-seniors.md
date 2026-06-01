@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "chair-exercises-for-seniors"
 affiliate_disclosure: true
+faqs:
+  - q: "How often should seniors do chair exercises?"
+    a: "Three to four sessions per week is the target for most adults. Your muscles need 48 hours to recover from strength training, so alternating days works well. On rest days, walking, swimming, or gentle stretching keeps you active without interfering with recovery. Consistency over 8 to 12 weeks is where you'll see real, lasting change."
+  - q: "Can chair exercises actually build muscle, or are they just for flexibility?"
+    a: "They absolutely build muscle, provided you're using enough resistance to make the last 2 to 3 repetitions of each set genuinely challenging. Bodyweight alone will improve endurance and coordination, but to build strength and muscle mass (which counters sarcopenia, the age-related muscle loss that accelerates after 60), you need progressive resistance. Resistance bands and light dumbbells are enough to get there."
+  - q: "Is it safe to do these exercises if I have osteoporosis?"
+    a: "Most chair exercises are appropriate with osteoporosis, and some are specifically beneficial since resistance training helps maintain bone density. However, exercises that involve significant forward trunk flexion under load (certain rowing variations, for example) carry more risk if you have vertebral involvement. A session with a physical therapist to review your specific situation before starting is worthwhile investment, not excessive caution."
+  - q: "What if I get tired or short of breath during the routine?"
+    a: "Stop, rest, and assess. Mild breathlessness during active exercise is normal. Breathlessness that persists at rest, chest tightness, dizziness, or unusual pain are not. Those are signals to stop entirely and contact a healthcare provider. For general fatigue mid-routine, rest as long as you need between exercises. There's no rule that says rest periods must be short. Quality of movement matters far more than the clock."
+  - q: "How do I know when I'm ready to progress to standing exercises?"
+    a: "A reliable signal: when you can complete 3 sets of 12 sit-to-stands with arms crossed over your chest, controlling the lowering phase on each rep, you have the lower body strength and control for most basic standing exercises. Balance is a separate variable. If your chair-supported balance holds are solid at 30 seconds per leg, you're likely ready to try standing movements with support nearby. Moving between the two isn't a one-or-the-other choice. Most people benefit from continuing some chair work even as they add standing exercises."
 ---
 
 Most fitness advice for older adults treats a chair like a concession, something you use when you can't do the "real" exercises standing up. That framing is completely backwards. A chair is a tool, and when you use it correctly, it becomes one of the most effective pieces of equipment for building the strength, balance, and mobility that actually keep you independent and on your feet.

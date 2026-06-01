@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/31589185/pexels-photo-31589185.jpeg?aut
 categories: ["balance"]
 slug: "vestibular-exercises-for-seniors-with-dizziness"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does it take for vestibular exercises to work?"
+    a: "Most seniors begin to notice improvement within two to four weeks of consistent daily practice. Significant results, reduced dizziness frequency, better balance, and greater confidence, are typically seen within six to eight weeks. Every person is different, so be patient with yourself and celebrate small victories along the way."
+  - q: "Can vestibular exercises make dizziness worse?"
+    a: "It is completely normal to feel mild dizziness during and shortly after vestibular exercises, especially in the first week or two. This temporary discomfort is actually a sign that your brain is being appropriately challenged and adapting. However, if your dizziness is severe, lasts for a long time after exercise, or is accompanied by vomiting or fainting, stop and consult your doctor before continuing."
+  - q: "Are vestibular exercises safe for seniors with osteoporosis or arthritis?"
+    a: "Most of the exercises described here are performed while seated or standing with support, making them low-impact and generally safe for seniors with osteoporosis or arthritis. However, everyone’s situation is unique. Share these exercises with your doctor or physical therapist before starting, and they can confirm which movements are appropriate for your specific health conditions and mobility level."
 ---
 
 ## When the Room Won’t Stop Spinning

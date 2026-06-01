@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/29658114/pexels-photo-29658114.jpeg?aut
 categories: ["pain"]
 slug: "neck-pain-stretches-for-seniors-do-these-daily"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does it take for neck stretches to relieve pain in seniors?"
+    a: "Many seniors notice some improvement within three to five days of doing these stretches daily. More significant relief typically builds over two to four weeks of consistent practice. Every person is different, but patience and regularity are key."
+  - q: "Is it safe for seniors to do neck stretches every day?"
+    a: "Yes, gentle neck stretches are generally safe to perform every day for most seniors in good health. The stretches described here are low-intensity and designed for older adults. If you have a specific neck condition, check with your doctor or physical therapist before beginning."
+  - q: "Can neck stretches also help with headaches?"
+    a: "Absolutely. Many tension headaches in seniors originate from tight muscles in the neck and upper shoulders. Regularly doing neck pain stretches for seniors, especially the upper trapezius and chin tuck exercises, can noticeably reduce both the frequency and intensity of tension headaches over time."
 ---
 
 ## Why Your Neck Hurts More as You Get Older

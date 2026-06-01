@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/37185455/pexels-photo-37185455.jpeg?aut
 categories: ["exercise"]
 slug: "seated-yoga-for-seniors-12-poses-you-can-do-in-a-chair"
 affiliate_disclosure: true
+faqs:
+  - q: "Is chair yoga safe for seniors with osteoporosis?"
+    a: "Chair yoga can be very beneficial for people with osteoporosis (a condition where bones become thinner and more fragile), but certain poses need to be modified. Forward bends and deep twists should be done gently and with minimal range of motion. Always consult your doctor or a physical therapist before beginning, and consider working with a yoga instructor experienced in teaching people with bone density concerns."
+  - q: "Can chair yoga help with arthritis pain?"
+    a: "Yes, gentle, regular movement is one of the best things you can do for arthritic joints. Chair yoga keeps joints lubricated and mobile without placing excessive stress on them. Many seniors report reduced stiffness and improved day-to-day comfort after just a few weeks of consistent practice. Start slowly, never push into painful ranges, and warm up your joints gently before each session."
+  - q: "Do I need a special chair for seated yoga?"
+    a: "No special equipment is required. A standard armless dining chair works perfectly. The most important things are that the chair is stable, doesn’t wobble, and allows you to sit with your feet flat on the floor. Avoid chairs with wheels or very soft cushions that might shift during movement. If your feet don’t quite reach the floor, place a folded blanket or a firm pillow under them for support."
 ---
 
 You want to stay active and flexible, but getting down on a yoga mat,  and back up again,  just isn’t as easy as it used to be. Maybe your knees ache, your balance isn’t what it was, or you simply worry about falling. The good news? You don’t need a mat, special clothing, or perfect balance to enjoy the benefits of yoga. **Seated yoga for seniors** lets you experience all the stretching, breathing, and calming benefits of traditional yoga from the comfort and safety of a sturdy chair.

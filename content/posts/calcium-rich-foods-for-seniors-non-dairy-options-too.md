@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/31522680/pexels-photo-31522680.jpeg?aut
 categories: ["nutrition"]
 slug: "calcium-rich-foods-for-seniors-non-dairy-options-too"
 affiliate_disclosure: true
+faqs:
+  - q: "Should seniors take a calcium supplement if they eat calcium-rich foods?"
+    a: "It depends on how much calcium you are getting from food each day. If your diet consistently provides close to 1,200 mg, a supplement may not be necessary. However, if you struggle to eat enough calcium-rich foods, a supplement can help fill the gap. Always talk to your doctor first, because too much calcium from supplements has been linked to kidney stones and, in some studies, cardiovascular concerns."
+  - q: "Are there any calcium-rich foods that are easy to eat for seniors with dental issues?"
+    a: "Absolutely. Soft foods like yogurt, ricotta cheese, silken tofu, cooked beans, and canned fish are all gentle on sensitive teeth or dentures. Smoothies made with fortified milk or plant-based milk are another excellent option. Cooked leafy greens like kale and collard greens become very soft when sautéed and are easy to chew. You do not need to miss out on calcium just because chewing is difficult."
+  - q: "What foods or habits can actually block calcium absorption?"
+    a: "Several common habits can reduce how much calcium your body actually uses. Drinking very large amounts of caffeine or alcohol regularly, eating too much sodium, and consuming excessive amounts of spinach or beet greens (high in oxalates) can all interfere with calcium absorption. Spreading your calcium intake throughout the day, rather than trying to get it all at once, also helps your body absorb it more efficiently. Aim for no more than 500 mg in a single meal or snack."
 ---
 
 Have you ever been told by your doctor that your calcium levels are low,  and felt completely unsure about what to eat next? You are not alone. Millions of seniors struggle to get enough calcium each day, often because they avoid dairy due to lactose intolerance, taste preferences, or digestive issues. The good news is that **calcium rich foods for seniors** go far beyond a glass of milk. There are delicious, easy-to-find options that can help protect your bones and keep you strong well into your 70s and 80s.
