@@ -1,0 +1,149 @@
+{
+  "title": "Is a Strength-Training Routine Right for You?",
+  "intro": "Answer 7 quick questions to see how well a strength-training routine fits your goals, habits, and readiness. This is a friendly self-reflection tool for general education, not medical advice.",
+  "disclaimer": "This quiz is for general education and encouragement, not medical advice. Talk to your doctor before starting a new exercise program, especially if you have any health concerns or have been inactive for a while.",
+  "questions": [
+    {
+      "q": "When you think about everyday tasks like carrying groceries, climbing stairs, or getting up from a low chair, how do they feel lately?",
+      "options": [
+        {
+          "t": "Harder than they used to be, and I'd love that to change",
+          "s": 3
+        },
+        {
+          "t": "Manageable, but I notice the effort more than before",
+          "s": 1
+        },
+        {
+          "t": "No trouble at all, I'm just curious about strength training",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "What's your main reason for considering strength training?",
+      "options": [
+        {
+          "t": "To stay independent, steady, and strong as I age",
+          "s": 3
+        },
+        {
+          "t": "I've heard it's good for me, but I'm not sure of my goal yet",
+          "s": 1
+        },
+        {
+          "t": "No real reason, I'm mostly just browsing",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How would you describe your week right now in terms of movement?",
+      "options": [
+        {
+          "t": "I'm active most days and would gladly add some strength work",
+          "s": 3
+        },
+        {
+          "t": "I move a little but could fit in two short sessions a week",
+          "s": 1
+        },
+        {
+          "t": "My days are pretty full and finding time feels tough",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you feel about trying gentle exercises like sit-to-stands, wall push-ups, or light resistance bands?",
+      "options": [
+        {
+          "t": "Sounds great, I'm ready to give them a go",
+          "s": 3
+        },
+        {
+          "t": "A little unsure, but I'd try with clear instructions",
+          "s": 1
+        },
+        {
+          "t": "That kind of thing isn't really for me",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "Do you have a comfortable spot to do a short routine, like a sturdy chair, a bit of open floor, or a nearby wall?",
+      "options": [
+        {
+          "t": "Yes, I could set something up easily at home",
+          "s": 3
+        },
+        {
+          "t": "Probably, with a little rearranging",
+          "s": 1
+        },
+        {
+          "t": "Not really, my space is quite limited",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you feel about going slow and starting with just a few minutes at a time?",
+      "options": [
+        {
+          "t": "That suits me perfectly, slow and steady is my style",
+          "s": 3
+        },
+        {
+          "t": "I can be patient, though I'd like to see progress",
+          "s": 1
+        },
+        {
+          "t": "I tend to want quick results or lose interest",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "When something new feels a bit awkward at first, how do you usually respond?",
+      "options": [
+        {
+          "t": "I stick with it, knowing it gets easier with practice",
+          "s": 3
+        },
+        {
+          "t": "I'll keep trying if I have some encouragement and a plan",
+          "s": 1
+        },
+        {
+          "t": "I usually give up before it clicks",
+          "s": 0
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": "A gentle on-ramp may suit you best right now",
+      "body": "Strength training might not feel like the easiest fit at this exact moment, and that's completely okay. The good news is you don't have to dive in. Start with the smallest possible step, like a few sit-to-stands while you watch TV or some easy stretches in the morning. Building a little movement into your day first makes everything else feel more natural later. There's no rush, and every small effort counts.",
+      "cta": "Explore gentle chair-based movements"
+    },
+    {
+      "min": 8,
+      "max": 14,
+      "title": "Strength training could work well for you, with a simple plan",
+      "body": "You have several things going for you, including the willingness to try and at least some room in your week. With a clear, beginner-friendly routine and a bit of encouragement, you could build real strength without feeling overwhelmed. The key is starting small and staying consistent. A short two-day-a-week plan is a perfect place to begin, and you can always build from there as your confidence grows.",
+      "cta": "See a beginner home routine"
+    },
+    {
+      "min": 15,
+      "max": 21,
+      "title": "You're a strong candidate, let's get started",
+      "body": "You're ready, motivated, and well set up to make strength training a rewarding part of your routine. Your goals are clear, you're open to trying new movements, and you have the patience to let progress build. That's a wonderful combination. Now it's about putting it into action with the right exercises and steady habits, so you can keep getting stronger week after week.",
+      "cta": "Browse our full strength-training guides"
+    }
+  ]
+}
