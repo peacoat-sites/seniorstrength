@@ -3,7 +3,7 @@ title: "Why Do Seniors Lose Their Balance"
 date: 2026-06-04T12:23:45.647102+00:00
 draft: false
 description: "Discover the common reasons seniors lose their balance, including muscle weakness, medication effects, and inner ear issues, plus tips to improve stability and "
-image: "https://images.pexels.com/photos/6922189/pexels-photo-6922189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6815698/pexels-photo-6815698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Balance & Mobility"]
 tags: ["seniors", "lose", "their", "balance"]
 author: "Dana Hargrove"
