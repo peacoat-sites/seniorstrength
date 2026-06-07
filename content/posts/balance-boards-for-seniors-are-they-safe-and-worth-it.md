@@ -134,11 +134,3 @@ Improving your balance is one of the most powerful investments you can make in y
 Start small, stay safe, and remember that every minute you spend on that wobbly board is a minute you’re investing in a stronger, steadier future. You don’t have to be an athlete,  you just have to show up and try. And that alone makes all the difference.
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32),  Senior-specific Cosequin formula with added Omega-3s,  designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36),  The #1 veterinarian-recommended joint supplement brand,  clinically studied for reducing joint pain in dogs.
-
