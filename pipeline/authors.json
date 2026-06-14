@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "dr-patricia-williams",
+    "name": "Dr. Patricia Williams",
+    "title": "Medical Reviewer",
+    "specialty": "Sports Medicine & Senior Fitness Safety",
+    "bio": "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+  },
+  {
+    "slug": "james-cooper",
+    "name": "James Cooper",
+    "title": "Certified Trainer",
+    "specialty": "Senior Fitness Programming & Strength Training",
+    "bio": "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+  },
+  {
+    "slug": "linda-chen",
+    "name": "Linda Chen",
+    "title": "Physical Therapist",
+    "specialty": "Fall Prevention, Balance & Mobility",
+    "bio": "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+  },
+  {
+    "slug": "robert-davis",
+    "name": "Robert Davis",
+    "title": "Nutrition Writer",
+    "specialty": "Senior Nutrition & Muscle Maintenance",
+    "bio": "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+  },
+  {
+    "slug": "helen-santos",
+    "name": "Helen Santos",
+    "title": "Group Fitness Instructor",
+    "specialty": "Senior Group Exercise & Community Fitness",
+    "bio": "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+  }
+]
