@@ -6,8 +6,6 @@ description: "Discover the best exercises for osteoporosis to strengthen bones, 
 image: "https://images.pexels.com/photos/6922164/pexels-photo-6922164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Joint Health"]
 tags: ["best", "exercises", "osteoporosis"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "best-exercises-for-osteoporosis"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not meaningfully for bone density, no. Both are non-weight-bearing, so the forces transmitted through bone are low. They're excellent for cardiovascular health and low-impact joint conditioning, which matters, but if bone density is the primary goal, they need to be paired with weight-bearing and resistance work rather than substituted for it."
   - q: "Should I take calcium and vitamin D alongside exercise?"
     a: "Almost certainly yes, though the specific amounts depend on your blood levels and dietary intake. Exercise stimulates bone formation, but the raw materials still have to be there. Most guidelines suggest 1200mg of calcium daily for women over 50 (from food and supplements combined) and vitamin D3 in the range of 800 to 2000 IU daily, but get your 25-OH vitamin D level checked before assuming you need a high dose."
+author: "James Cooper"
+author_slug: "james-cooper"
+author_title: "Certified Trainer"
+author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+
 ---
 
 Most advice about osteoporosis exercise is dangerously incomplete. Not wrong, exactly, but incomplete in ways that can lead you straight into a fracture rather than away from one.

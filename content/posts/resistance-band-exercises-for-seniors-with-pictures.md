@@ -14,6 +14,11 @@ faqs:
     a: "The right band should make the last 2–3 reps of each set feel challenging but still doable with good form. If you finish 15 reps feeling like you could do 15 more easily, it’s time to try a slightly heavier band. If you can’t complete 8 reps without losing form or holding your breath, drop down to a lighter band."
   - q: "Can resistance bands really build muscle, or are they just for rehab?"
     a: "Resistance bands absolutely build real muscle, research backs this up. A 2019 study published in the journal SAGE Open Medicine found that resistance band training produced similar muscle strength gains to traditional weight training. The key is progressive overload, gradually making the exercises more challenging over time, just as you would with weights."
+author: "Robert Davis"
+author_slug: "robert-davis"
+author_title: "Nutrition Writer"
+author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+
 ---
 
 You want to stay strong and active, but the gym feels intimidating,  and your joints aren’t exactly thrilled about heavy weights anymore. Sound familiar? The good news is that **resistance band exercises for seniors** offer a safe, affordable, and surprisingly effective way to build strength right from your living room. These stretchy, colorful bands are gentle on your joints, easy to store, and powerful enough to challenge your muscles at any fitness level.

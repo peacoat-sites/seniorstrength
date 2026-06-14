@@ -14,6 +14,11 @@ faqs:
     a: "Most beginners notice improvements in balance, posture, and energy levels within three to four weeks of consistent practice. More significant benefits, like reduced fall risk and improved joint flexibility, typically become noticeable after two to three months. The key word is consistent. Even short sessions of 10–15 minutes practiced regularly outperform occasional longer sessions."
   - q: "Can seniors do tai chi if they’ve never exercised before?"
     a: "Absolutely. Tai chi is actually one of the best starting points for seniors who are completely new to exercise. There are no complicated athletic skills to learn, no minimum fitness level required, and the pace is entirely self-directed. Many seniors in their 70s and 80s begin tai chi with no prior exercise history and go on to practice it joyfully for years. It truly is a practice for every body, at every starting point."
+author: "Dr. Patricia Williams"
+author_slug: "dr-patricia-williams"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+
 ---
 
 ## When Balance Becomes a Daily Worry

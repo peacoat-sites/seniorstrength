@@ -6,8 +6,6 @@ description: "Discover safe, gentle exercises for seniors with arthritis that re
 image: "https://images.pexels.com/photos/6815699/pexels-photo-6815699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Low-Impact Workouts"]
 tags: ["gentle", "exercises", "seniors", "with", "arthritis"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "gentle-exercises-for-seniors-with-arthritis"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Inappropriate exercise, meaning high-impact, high-load activities that compress already-damaged joints, can aggravate symptoms. But appropriate exercise does not accelerate cartilage loss and actually appears to support joint health over time. The distinction really does come down to type, intensity, and pacing."
   - q: "What if I can't afford a gym or pool membership?"
     a: "You don't need one. Chair-based exercises, resistance band work, and walking cost almost nothing. The Arthritis Foundation's website (arthritis.org) has a library of free exercise videos. Several evidence-based programs, including Walk With Ease, have free or very low-cost printed guides. A single appointment with a physical therapist to get a personalized home exercise program can be worth more than months of gym access."
+author: "Robert Davis"
+author_slug: "robert-davis"
+author_title: "Nutrition Writer"
+author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+
 ---
 
 Arthritis affects roughly 1 in 2 adults over the age of 65. And yet the advice most people get after their diagnosis often boils down to "stay active" followed by a pamphlet listing exercises that look nothing like what their body can actually do that day. If you've ever rolled your eyes at a generic workout recommendation while your knees are swollen and your fingers won't close all the way in the morning, you're not imagining the disconnect. The advice isn't wrong exactly. It's just incomplete.

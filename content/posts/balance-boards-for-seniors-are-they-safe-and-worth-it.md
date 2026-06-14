@@ -14,6 +14,11 @@ faqs:
     a: "Many seniors report feeling noticeably steadier after just 3 to 4 weeks of consistent daily practice. Research on balance training generally shows meaningful improvements in stability and fall-related confidence within 6 to 8 weeks. The key word is consistency, even short sessions of 5 minutes a day add up quickly over time."
   - q: "Is a balance board better than just doing balance exercises on the floor?"
     a: "Both approaches are valuable and they work very well together. Floor-based balance exercises like single-leg stands and heel-to-toe walking are excellent and require no equipment at all. A balance board adds an extra layer of challenge by introducing an unstable surface, which more aggressively trains the small stabilizing muscles and your proprioceptive system. Think of the board as a helpful addition to your routine, not a replacement for other exercises."
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
+author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+
 ---
 
 You reach for something on the top shelf, and for just a moment, your feet feel unsure beneath you. Or maybe you’ve caught yourself grabbing the counter more often than you used to. If this sounds familiar, you’re not alone,  balance issues are one of the most common concerns for adults over 60. Many seniors are now turning to a **balance board for seniors** as a simple, at-home tool to rebuild stability and confidence on their feet.

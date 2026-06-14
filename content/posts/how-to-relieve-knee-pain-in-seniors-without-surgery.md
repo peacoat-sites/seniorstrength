@@ -14,6 +14,11 @@ faqs:
     a: "The timeline varies depending on the cause of your pain and the treatments you choose. Some people notice improvement from physical therapy and lifestyle changes within two to four weeks, while others may take two to three months to experience significant relief. Medical interventions like corticosteroid injections often work more quickly, sometimes providing relief within a few days. Patience and consistency are essential, most non-surgical approaches require time and commitment before their full benefits become apparent."
   - q: "When should a senior actually consider surgery for knee pain?"
     a: "Surgery is generally considered when knee pain is severe enough to significantly limit daily activities, when non-surgical treatments have been tried consistently for at least three to six months without adequate relief, and when imaging confirms advanced joint damage. Modern procedures like partial knee replacement have become far less invasive than they once were, with faster recovery times for older adults. However, most orthopedic surgeons agree that exhausting non-surgical options first is almost always the right approach for seniors who are good candidates for conservative care."
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
+author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+
 ---
 
 ## When Every Step Feels Like a Battle

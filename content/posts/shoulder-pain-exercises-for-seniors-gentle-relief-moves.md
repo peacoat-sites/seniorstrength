@@ -14,6 +14,11 @@ faqs:
     a: "When done correctly and gently, these exercises should produce mild, temporary discomfort at most, not sharp or increasing pain. If an exercise makes your pain noticeably worse during or after the session, stop doing it and consult your doctor or physical therapist. It may be that you need a modified version or a different approach entirely."
   - q: "Are these exercises safe for seniors with arthritis?"
     a: "Yes, gentle range-of-motion and stretching exercises are generally very beneficial for arthritis in the shoulder. Movement helps keep the joint lubricated and can reduce stiffness and pain over time. However, always check with your rheumatologist or doctor before starting a new exercise routine if you have been diagnosed with a specific type of arthritis. Your shoulders have carried you through decades of life, cooking, gardening, hugging loved ones, and so much more. They deserve your care and attention. By practicing these gentle shoulder pain exercises for seniors regularly, listening to yo"
+author: "Helen Santos"
+author_slug: "helen-santos"
+author_title: "Group Fitness Instructor"
+author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+
 ---
 
 If you wake up in the morning and reaching for your coffee cup sends a sharp ache through your shoulder, you are definitely not alone. Millions of seniors deal with shoulder discomfort every single day. The good news is that the right **shoulder pain exercises for seniors** can make a real difference,  often without medication or expensive treatments. These gentle moves can help restore mobility, ease stiffness, and get you back to doing the things you love.

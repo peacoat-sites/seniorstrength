@@ -14,6 +14,11 @@ faqs:
     a: "Getting more than 2,000–2,500 mg of calcium per day, especially from supplements, has been linked in some studies to a slightly increased risk of kidney stones and possibly cardiovascular issues. This is why food-first is always the preferred approach, with supplements only filling genuine gaps. Stick to the recommended 1,200 mg total per day for adults over 60, and never take more than 500 mg of supplemental calcium at one time for best absorption."
   - q: "Is walking enough exercise to protect bone density after 60?"
     a: "Walking is genuinely beneficial for bone health because it’s a weight-bearing activity that stresses your leg bones, hips, and spine in a healthy way. However, research suggests that walking alone may not be sufficient to meaningfully increase bone density in older adults who already have some bone loss. For the best results, pair your daily walks with resistance training at least twice a week. Even light resistance work, using bands, light weights, or your own body weight, makes a significant difference when done consistently."
+author: "Helen Santos"
+author_slug: "helen-santos"
+author_title: "Group Fitness Instructor"
+author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+
 ---
 
 If you’ve recently had a bone density scan and heard words like “osteopenia” or “low bone mass,” you’re not alone. Millions of adults over 60 face the very real fear of fractures, falls, and losing their independence. The good news is that there are proven, practical ways to **prevent osteoporosis naturally after 60**,  and it’s never too late to start protecting your bones.

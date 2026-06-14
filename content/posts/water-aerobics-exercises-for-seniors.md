@@ -6,8 +6,6 @@ description: "Discover the best water aerobics exercises for seniors to boost st
 image: "https://images.pexels.com/photos/8899509/pexels-photo-8899509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Low-Impact Workouts"]
 tags: ["water", "aerobics", "exercises", "seniors"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "water-aerobics-exercises-for-seniors"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Water immersion does affect heart rate and blood pressure, so this is a genuine conversation to have with your cardiologist or primary care doctor before starting. Many people with managed cardiovascular conditions participate in water aerobics safely and benefit significantly. The key word is 'managed' and the requirement is medical clearance first. Don't skip that step."
   - q: "What's the ideal water temperature for older adult exercise?"
     a: "Most pools suitable for aerobic exercise are maintained between 83 and 86 degrees Fahrenheit. Cooler water (around 80 degrees) is actually fine for more vigorous exercise since you generate body heat. Warmer water (above 90 degrees) is better suited to gentle therapeutic movement and can cause cardiovascular strain during more intense exercise. If the pool you're considering is a hot therapeutic pool, confirm the temperature and intensity level are appropriate before committing to harder workouts there."
+author: "Helen Santos"
+author_slug: "helen-santos"
+author_title: "Group Fitness Instructor"
+author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+
 ---
 
 Picture this: your doctor tells you to "stay active" after a knee replacement, a flare-up of arthritis, or a fall that shook your confidence more than it hurt your body. You want to exercise. You know you need to. But every option you can think of either hurts your joints, scares you with its fall risk, or feels like it was designed for someone thirty years younger. Then somebody mentions the pool. Maybe you dismiss it. Water aerobics sounds like gentle bobbing around with foam noodles, not a real workout. I've heard that from dozens of clients, and almost every single one of them changed their mind within two weeks of actually getting in the water.

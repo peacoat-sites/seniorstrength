@@ -14,6 +14,11 @@ faqs:
     a: "You can find solid options starting around $150 to $300 for ergonomic desk chairs. Quality lift chairs typically range from $600 to $2,000 depending on features. Zero gravity recliners fall between $300 and $1,500. While budget matters, think of a supportive chair as a health investment. A chair that eliminates daily pain is worth considerably more than its price tag in quality of life."
   - q: "Can a chair actually help reduce chronic back pain?"
     a: "Yes, absolutely. Research consistently shows that proper seating posture and lumbar support can significantly reduce both the frequency and severity of lower back pain. Many seniors experience noticeable improvement within just a few weeks of switching to a properly supportive chair. Of course, a chair works best as part of a broader approach that includes gentle movement, stretching, and guidance from your doctor or physical therapist."
+author: "Robert Davis"
+author_slug: "robert-davis"
+author_title: "Nutrition Writer"
+author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+
 ---
 
 If you find yourself shifting uncomfortably after just a few minutes of sitting, you are far from alone. Millions of seniors deal with chronic back pain every single day, and the wrong chair can make it so much worse. Finding the **best chair for seniors with back pain** can genuinely transform your daily comfort, your posture, and even your mood.

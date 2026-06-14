@@ -14,6 +14,11 @@ faqs:
     a: "Gentle, low-impact exercise like the movements described here is generally safe for most knee conditions, including osteoarthritis. In fact, physical therapists often recommend these exact types of exercises to reduce knee pain over time. That said, if you experience sharp pain, swelling, or your pain significantly worsens during or after exercise, stop and consult your healthcare provider. Some mild muscle soreness after a workout is normal, sharp joint pain is not."
   - q: "Can I do these exercises if I’ve had knee replacement surgery?"
     a: "Many people do chair exercises successfully after knee replacement surgery, but the timing and specific movements should be guided by your surgeon or physical therapist. They’ll have a tailored recovery plan for you. Once you’re cleared for independent exercise, chair-based routines are often a recommended part of ongoing rehabilitation and long-term knee health maintenance. Living with knee pain doesn’t mean giving up on an active, strong, and independent life. These chair exercises for seniors are designed with your comfort, safety, and real-world needs in mind. Every gentle rep you complete"
+author: "Helen Santos"
+author_slug: "helen-santos"
+author_title: "Group Fitness Instructor"
+author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+
 ---
 
 Picture this: you wake up in the morning, and before your feet even hit the floor, your knees are already reminding you they’re there. That familiar ache can make the idea of exercise feel impossible,  or even risky. But here’s the good news: **chair exercises for seniors** are one of the safest, most effective ways to stay active, build strength, and improve your overall health, even when your knees aren’t cooperating.

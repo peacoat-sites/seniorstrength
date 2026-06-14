@@ -14,6 +14,11 @@ faqs:
     a: "Many seniors report feeling more confident and steady within just two to four weeks of consistent practice. Balance improvements happen gradually but steadily when you train regularly. Remember that progress is not always dramatic, often the first signs are smaller and just as meaningful, like feeling less anxious on stairs or recovering more quickly from a small stumble. Celebrate every improvement, no matter how modest."
   - q: "Can I do heel-to-toe walking if I use a cane or walker?"
     a: "If you currently use a mobility aid, it is best to consult your doctor or physical therapist before attempting tandem walking independently. They can assess your current balance level and may work with you on modified versions in a supervised setting. In some cases, a therapist may guide you through partial heel-to-toe steps while you use one hand on a support rail, allowing you to gain the benefits safely and progressively."
+author: "James Cooper"
+author_slug: "james-cooper"
+author_title: "Certified Trainer"
+author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+
 ---
 
 Have you ever felt a sudden wobble while walking across the room, or grabbed onto a countertop just to steady yourself? If so, you are not alone. Millions of seniors deal with balance challenges every single day. The good news is that a simple, no-equipment exercise called **heel to toe walking for seniors** can make a real difference,  and you can start practicing it today.

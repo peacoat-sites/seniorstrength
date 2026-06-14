@@ -14,6 +14,11 @@ faqs:
     a: "Yes, in fact, proper walking shoes are especially important for seniors with diabetes. Diabetes can reduce circulation and sensation in the feet, making blisters and pressure points particularly dangerous. Look for shoes labeled “diabetic-friendly” or “therapeutic,” with seamless interiors, deep toe boxes, and accommodating widths. Brands like Propét and New Balance offer Medicare-approved diabetic footwear options."
   - q: "How often should seniors replace their walking shoes?"
     a: "Most podiatrists recommend replacing walking shoes every 300 to 500 miles, or roughly every six to twelve months for regular daily walkers. Even if the outside of the shoe looks fine, the cushioning and support structures inside break down over time. Worn-out shoes can contribute to joint pain, balance problems, and an increased risk of falls, so don’t hold on to them too long."
+author: "Dr. Patricia Williams"
+author_slug: "dr-patricia-williams"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+
 ---
 
 If you’ve ever squeezed your feet into shoes that felt like a vice grip by midday, you’re not alone. Millions of seniors struggle to find comfortable footwear that actually fits,  and for those with wider feet, the search can feel downright frustrating. Finding the **best walking shoes for seniors with wide feet** doesn’t have to be a guessing game anymore. This guide is here to help you walk comfortably, safely, and confidently every single day.

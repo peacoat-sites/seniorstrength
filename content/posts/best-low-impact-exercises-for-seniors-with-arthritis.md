@@ -14,6 +14,11 @@ faqs:
     a: "Most seniors notice some improvement in joint flexibility and pain levels within 4 to 6 weeks of regular exercise. Improvements in muscle strength and balance may take a little longer, around 8 to 12 weeks. The important thing is to stay consistent, even on days when progress feels slow."
   - q: "What if I have never exercised regularly before, where should I start?"
     a: "Start small and build gradually. Even five minutes of gentle walking or seated stretching is a legitimate starting point. From there, add a few minutes each week as your body adapts. Consider joining a senior fitness class at your local community center, where an instructor can guide you and you will have the added benefit of social connection."
+author: "Helen Santos"
+author_slug: "helen-santos"
+author_title: "Group Fitness Instructor"
+author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+
 ---
 
 You wake up in the morning, and before you even get out of bed, your knees and fingers remind you that arthritis is part of your daily life. Maybe you used to love walking in the park or dancing with friends, but now the thought of exercise feels more daunting than exciting. You are not alone,  and here is the good news: **low impact exercises for seniors with arthritis** can actually reduce your pain, improve your flexibility, and help you get back to doing the things you love.

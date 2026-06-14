@@ -6,8 +6,6 @@ description: "Discover proven strategies to build muscle after 60, including str
 image: "https://images.pexels.com/photos/6922167/pexels-photo-6922167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["build", "muscle", "after"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-build-muscle-after-60"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If you're doing both in the same session, do strength training first. Cardiovascular fatigue blunts strength performance and technique. If you can separate them to different days, even better, though for general health, doing both matters more than the order."
   - q: "Do I need to eat right after my workout for muscle building?"
     a: "The 'anabolic window' of 30 minutes post-workout has been largely overstated. What matters more is total daily protein intake and spreading it across meals. That said, eating a protein-containing meal within a couple of hours of training is sensible and practical. You don't need a shake on the gym floor, but don't skip the next meal either."
+author: "Robert Davis"
+author_slug: "robert-davis"
+author_title: "Nutrition Writer"
+author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+
 ---
 
 Most people over 60 are told to "be careful" with strength training. What they actually need is to do more of it.

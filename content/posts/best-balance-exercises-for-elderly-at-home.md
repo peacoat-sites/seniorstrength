@@ -6,8 +6,6 @@ description: "Discover the best balance exercises for elderly at home to prevent
 image: "https://images.pexels.com/photos/6922183/pexels-photo-6922183.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Balance & Mobility"]
 tags: ["best", "balance", "exercises", "elderly", "home"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "best-balance-exercises-for-elderly-at-home"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Stop and sit down. Dizziness during balance exercises can mean several things: a blood pressure drop (especially if you stood up quickly), a vestibular issue, or simple exertion. If it happens once, note what you were doing and try a less challenging variation next time. If it happens repeatedly, see your doctor or an ENT before continuing."
   - q: "Can these exercises help if I already use a cane or walker?"
     a: "Yes, with modifications. Many of these can be done with one hand on your assistive device instead of a chair. Consult with a physical therapist about which exercises are appropriate given your specific situation, because the answer depends on why you're using the device in the first place."
+author: "Dr. Patricia Williams"
+author_slug: "dr-patricia-williams"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+
 ---
 
 Most balance guides for older adults list the same five exercises, tell you to hold a chair, and call it a day. That's not useless advice. It's just incomplete in ways that matter.

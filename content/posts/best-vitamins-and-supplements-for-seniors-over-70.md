@@ -14,6 +14,11 @@ faqs:
     a: "A senior-specific multivitamin can be a convenient safety net, but it is not a substitute for a healthy diet. Look for formulas designed for adults over 50 or 70, which typically contain higher amounts of B12, vitamin D, and calcium and lower amounts of iron (since iron deficiency is less common in older adults). They work best when used to complement, not replace, nutritious meals."
   - q: "How do I know if I actually have a vitamin deficiency?"
     a: "The most reliable way is through a blood test ordered by your doctor. Common tests check for vitamin D, B12, folate, and iron levels. Many deficiencies develop slowly and quietly, with only subtle symptoms like fatigue, weakness, or mood changes. Do not wait for obvious symptoms, ask your doctor to run a basic nutritional panel at your next visit so you have a clear starting point."
+author: "Helen Santos"
+author_slug: "helen-santos"
+author_title: "Group Fitness Instructor"
+author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+
 ---
 
 Do you find yourself feeling more tired than usual, noticing your bones ache more than they used to, or simply wondering if your diet is still giving you everything your body needs? You are not alone. Many people searching for the best **vitamins supplements seniors over 70** are asking exactly the same questions. As we age past 70, our bodies absorb nutrients less efficiently, our appetites often shrink, and our nutritional needs shift in important ways.

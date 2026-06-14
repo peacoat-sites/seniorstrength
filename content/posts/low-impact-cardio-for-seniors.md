@@ -6,8 +6,6 @@ description: "Discover the best low impact cardio exercises for seniors to boost
 image: "https://images.pexels.com/photos/6815679/pexels-photo-6815679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Low-Impact Workouts"]
 tags: ["impact", "cardio", "seniors"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "low-impact-cardio-for-seniors"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The honest answer is: more than most people think they need, but less than they fear. Even 75 to 90 minutes per week of moderate-intensity low impact cardio (spread across three or more sessions) produces measurable improvements in cardiovascular fitness, blood pressure, and functional mobility for previously sedentary older adults. The 150 minutes per week target is the well-established benchmark for full health benefits. But starting at 60 minutes and building is far better than doing nothing while aiming for perfection."
   - q: "I get bored easily with cardio. Any honest advice?"
     a: "I'll be honest: boredom is a real training problem, not a character flaw. The solution is variety and social structure. Rotating between two or three different activities across the week reduces monotony. Group classes, walking partners, or even a good podcast series reserved only for exercise sessions can transform consistency. Some clients do better with goal-based activities (training for a charity walk, for example) than open-ended exercise. Finding what makes you want to show up is not a nice-to-have, it's a core component of any effective fitness strategy."
+author: "Robert Davis"
+author_slug: "robert-davis"
+author_title: "Nutrition Writer"
+author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+
 ---
 
 Most people assume the biggest obstacle to cardio after 60 is motivation. I used to think that too. But after years of working with older adults, I've come to believe the real obstacle is misinformation, specifically the idea that "low impact" means "low effort" or, worse, that it's somehow a consolation prize for people who can't do "real" exercise. That assumption is wrong, and in some cases it's keeping people sedentary when they absolutely don't have to be.

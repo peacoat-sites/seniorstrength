@@ -14,6 +14,11 @@ faqs:
     a: "Most basic balance exercises are safe to do at home, provided you use a sturdy chair or counter for support when needed. Never practice single-leg standing or similar movements near stairs, on slippery surfaces, or when you are feeling tired or unwell. If you have had a recent fall, significant mobility issues, or have been diagnosed with a condition affecting your balance, check with your doctor or physical therapist before starting a new exercise routine."
   - q: "Does walking count as balance exercise?"
     a: "Walking is wonderful for overall health and does contribute to balance by strengthening leg muscles and promoting coordination. However, it works best when combined with targeted balance exercises like those described in this article. Walking on uneven terrain such as grass, gravel paths, or gentle hiking trails can provide an extra balance challenge for those who are already reasonably steady on their feet. Always wear supportive footwear and go with a companion when trying new terrain."
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
+author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+
 ---
 
 Have you ever reached for something on a high shelf and felt a sudden wobble,  or hesitated at the top of the stairs because you weren’t sure of your footing? You are not alone. Millions of people over 70 experience these moments every day. The good news is that there are proven, gentle ways to **improve balance in seniors over 70**, and many of them can be done right at home, starting today.

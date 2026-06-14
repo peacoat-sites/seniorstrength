@@ -14,6 +14,11 @@ faqs:
     a: "Yes, absolutely, and it is actually a good sign. That shakiness means your stabilizing muscles are being challenged and recruited in new ways. It should lessen noticeably within two to three weeks as those muscles grow stronger. However, if you feel dizzy, lightheaded, or experience pain, stop immediately and consult your doctor before continuing."
   - q: "Can standing balance exercises reduce fall risk in seniors?"
     a: "Yes, and the evidence is strong. A major review published in the British Journal of Sports Medicine found that balance and functional exercises reduced fall rates in older adults by approximately 24 percent. The key is consistency, doing the exercises regularly over several weeks is what produces lasting improvement in both strength and coordination. Photo by Age Cymru on Unsplash"
+author: "James Cooper"
+author_slug: "james-cooper"
+author_title: "Certified Trainer"
+author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+
 ---
 
 Have you ever reached for something on a high shelf and felt that unsettling wobble,  that split-second panic where you grab for something solid? You are not alone. Millions of seniors deal with balance concerns every single day. The good news is that simple **standing balance exercises seniors** can do right at home, using nothing more than a sturdy chair, can make a real difference. Better balance means more confidence, more independence, and fewer falls.

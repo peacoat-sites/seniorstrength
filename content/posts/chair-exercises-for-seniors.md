@@ -6,8 +6,6 @@ description: "Discover safe and effective chair exercises for seniors to improve
 image: "https://images.pexels.com/photos/11674389/pexels-photo-11674389.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Low-Impact Workouts"]
 tags: ["chair", "exercises", "seniors"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "chair-exercises-for-seniors"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Stop, rest, and assess. Mild breathlessness during active exercise is normal. Breathlessness that persists at rest, chest tightness, dizziness, or unusual pain are not. Those are signals to stop entirely and contact a healthcare provider. For general fatigue mid-routine, rest as long as you need between exercises. There's no rule that says rest periods must be short. Quality of movement matters far more than the clock."
   - q: "How do I know when I'm ready to progress to standing exercises?"
     a: "A reliable signal: when you can complete 3 sets of 12 sit-to-stands with arms crossed over your chest, controlling the lowering phase on each rep, you have the lower body strength and control for most basic standing exercises. Balance is a separate variable. If your chair-supported balance holds are solid at 30 seconds per leg, you're likely ready to try standing movements with support nearby. Moving between the two isn't a one-or-the-other choice. Most people benefit from continuing some chair work even as they add standing exercises."
+author: "Dr. Patricia Williams"
+author_slug: "dr-patricia-williams"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+
 ---
 
 Most fitness advice for older adults treats a chair like a concession, something you use when you can't do the "real" exercises standing up. That framing is completely backwards. A chair is a tool, and when you use it correctly, it becomes one of the most effective pieces of equipment for building the strength, balance, and mobility that actually keep you independent and on your feet.

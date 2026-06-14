@@ -6,8 +6,6 @@ description: "Discover the best protein sources for seniors to build and maintai
 image: "https://images.pexels.com/photos/11397572/pexels-photo-11397572.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Nutrition"]
 tags: ["best", "protein", "sources", "seniors", "building"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "best-protein-sources-for-seniors-building-muscle"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It matters, but it's not the emergency it's sometimes made out to be. The old idea of a 30-minute 'anabolic window' has been largely revised. What research supports is getting a solid protein-rich meal within about two hours before or after training. Post-workout, aiming for 30 to 40 grams of protein that includes leucine is a reasonable target. Total daily intake distributed evenly across meals is probably more important overall than hitting an exact minute on the clock."
   - q: "What if I have a poor appetite and can't eat this much protein?"
     a: "This is genuinely common in older adults and worth taking seriously, not brushing off. If appetite is a persistent issue, talk to your doctor because it can be a sign of something worth investigating. Practically speaking, liquid protein sources like Greek yogurt smoothies, protein shakes, and milk-based soups are often easier to get down than solid food. Eating smaller, more frequent meals can help. Adding calorie-dense, protein-rich foods like eggs, nut butter, and cheese to meals you already enjoy is more sustainable than trying to force down extra meals."
+author: "Dr. Patricia Williams"
+author_slug: "dr-patricia-williams"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+
 ---
 
 You're at the gym, you've just finished your third set of seated leg presses, and the trainer hands you a protein shake made with some chalky powder that tastes like vanilla-flavored chalk dust. "You need at least 30 grams after every workout," he says. You nod, drink it, and wonder if this is really what it takes. Maybe. But what most people don't realize is that the protein question for adults over 60 is far more nuanced than a post-workout shake, and getting it wrong doesn't just slow your results. It can quietly work against the very muscle you're trying to build.

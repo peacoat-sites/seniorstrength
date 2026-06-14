@@ -14,6 +14,11 @@ faqs:
     a: "Mild discomfort during the first few minutes of walking that eases as you warm up is usually normal. However, sharp, worsening, or persistent pain is a signal to stop and speak with your doctor or a physical therapist. Lower-impact surfaces like grass or rubberized tracks can also reduce joint stress significantly."
   - q: "Do I need to walk all my steps at once?"
     a: "Not at all! Research consistently shows that multiple shorter walks throughout the day provide the same health benefits as one long walk. Three 15-minute walks, two 20-minute walks, any combination works. What matters most is the total movement, not how it’s arranged."
+author: "Robert Davis"
+author_slug: "robert-davis"
+author_title: "Nutrition Writer"
+author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+
 ---
 
 You lace up your shoes, step outside, and wonder: _am I doing enough?_ Maybe your doctor mentioned getting more steps in, or you saw someone talk about 10,000 steps on the news. But the idea of walking that much can feel overwhelming,  especially if your knees ache, your energy dips by afternoon, or you haven’t been active in a while. The good news? A walking workout for seniors doesn’t have to be extreme. It just has to be smart, steady, and built around _your_ body.

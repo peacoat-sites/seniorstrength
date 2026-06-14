@@ -14,6 +14,11 @@ faqs:
     a: "The biggest culprits are added sugars, refined carbohydrates, and ultra-processed foods. Sugary drinks like soda, fruit juice, and sweetened coffee drinks are particularly harmful because they deliver large amounts of calories without making you feel full. White bread, pastries, and packaged snack foods can also spike blood sugar and promote fat storage. Alcohol is another factor worth considering. While moderate drinking is generally considered acceptable for most older adults, alcohol is calorie-dense and can disrupt sleep, both of which contribute to belly fat over time. Reducing alcohol in"
   - q: "How long does it take to see results when trying to lose belly fat after 60?"
     a: "Most people begin to notice changes within four to six weeks of consistent effort, though this varies depending on your starting point, health conditions, and how consistently you follow your plan. Early results may include feeling less bloated, having more energy, and noticing that your clothes fit a little better. Remember that belly fat, especially visceral fat deep within the abdomen, takes time to reduce safely. Slow, steady progress of one to two pounds per week is considered ideal by most health professionals and is far more sustainable than rapid weight loss. Be patient with yourself a"
+author: "Robert Davis"
+author_slug: "robert-davis"
+author_title: "Nutrition Writer"
+author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+
 ---
 
 You’ve noticed it creeping up on you,  that stubborn belly that wasn’t there a decade ago, and now seems impossible to shake no matter what you do. You’re not alone. Millions of people over 60 struggle with exactly this challenge. The good news is that it _is_ possible to **lose belly fat after 60** safely and effectively,  you just need the right approach for your body at this stage of life.

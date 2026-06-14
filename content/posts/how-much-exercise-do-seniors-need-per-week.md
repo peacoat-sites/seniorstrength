@@ -6,8 +6,6 @@ description: "Stay active and healthy in your golden years. Discover exactly how
 image: "https://images.pexels.com/photos/6974983/pexels-photo-6974983.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["General Fitness"]
 tags: ["much", "exercise", "seniors", "need", "week"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-much-exercise-do-seniors-need-per-week"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The talk test is your most practical tool. During moderate-intensity activity, you should be able to speak in short sentences but not hold a lengthy conversation comfortably. During vigorous activity, you can say only a few words before needing to catch your breath. For those who prefer numbers, moderate intensity generally corresponds to 50 to 70 percent of your maximum heart rate, and vigorous falls between 70 and 85 percent. A rough formula for estimated maximum heart rate is 220 minus your age, though this varies individually."
   - q: "I was very active in my 40s and 50s but have been mostly sedentary for the past five years. Where do I start?"
     a: "Start where you are, not where you were. Previous fitness is a real asset, your body has a 'muscle memory' effect that can speed adaptation, but jumping back to your former level of activity after years of reduced movement is a reliable path to injury. Begin at about 40 to 50 percent of what you think you can handle, let your joints and tendons catch up with your motivation for the first three to four weeks, and then build progressively. Your history of fitness is an advantage; just don't let it talk you into skipping the ramp-up phase."
+author: "Robert Davis"
+author_slug: "robert-davis"
+author_title: "Nutrition Writer"
+author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+
 ---
 
 Maybe you've just had a check-up where your doctor said something like "you really should be more active," and you nodded along, but walked out of the office still not knowing what that actually means for your life. Or maybe you've been exercising for years and you're wondering if what you're doing is enough, or possibly too much. Either way, you're looking for a real answer, not a pamphlet with stick figures on it.

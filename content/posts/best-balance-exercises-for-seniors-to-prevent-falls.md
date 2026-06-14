@@ -14,6 +14,11 @@ faqs:
     a: "Yes, but it is important to get medical clearance from your doctor first, especially after a significant fall. A physical therapist can assess your specific situation and design a personalized program that is both safe and effective for you. Starting with chair-supported exercises and progressing very gradually is the safest approach for anyone recovering from a fall or dealing with significant balance challenges."
   - q: "Can I do balance exercises if I have arthritis or knee pain?"
     a: "Many balance exercises are gentle enough to be done with arthritis or mild knee pain, but always listen to your body. Chair-supported exercises and water-based activities like pool walking are especially kind on stiff or painful joints. A physical therapist or your doctor can recommend modifications that protect your joints while still helping you build the strength and stability you need to stay safe."
+author: "James Cooper"
+author_slug: "james-cooper"
+author_title: "Certified Trainer"
+author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+
 ---
 
 Do you ever feel a moment of unsteadiness when you stand up too quickly, or find yourself grabbing a countertop for support? You are not alone. Millions of adults over 60 experience balance challenges every day, and falls are one of the leading causes of injury in older adults. The good news is that simple, consistent **balance exercises to prevent falls seniors** can do at home really do make a powerful difference.

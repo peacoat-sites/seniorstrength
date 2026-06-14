@@ -6,8 +6,6 @@ description: "Discover the key benefits of exercise for older adults, from impro
 image: "https://images.pexels.com/photos/6922171/pexels-photo-6922171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["General Fitness"]
 tags: ["benefits", "exercise", "older", "adults"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "benefits-of-exercise-for-older-adults"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The research here is fairly consistent: regular moderate exercise improves both sleep quality and sleep duration in older adults. A 2019 meta-analysis in Advances in Preventive Medicine found significant improvements in both measures. It may take a few weeks to notice the effect, and exercising too close to bedtime can backfire for some people."
   - q: "What if I've never really exercised before?"
     a: "You're not starting from zero, you're starting from where you are, which is a completely reasonable place to begin. Adults who were sedentary for decades still respond to exercise. In some ways, the gains in the first few months for previously sedentary older adults are steeper than for people who've been consistently active, because there's more low-hanging fruit."
+author: "Helen Santos"
+author_slug: "helen-santos"
+author_title: "Group Fitness Instructor"
+author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+
 ---
 
 Three years ago, a woman named Carol walked into the community center where I run a fitness class for adults 60 and up. She was 71, recently widowed, and had spent most of the previous decade avoiding anything strenuous because her doctor had once, offhandedly, told her to "take it easy." She'd taken that advice and run with it. In the wrong direction.

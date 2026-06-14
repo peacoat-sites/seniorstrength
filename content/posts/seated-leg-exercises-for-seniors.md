@@ -6,8 +6,6 @@ description: "Discover the best seated leg exercises for seniors to build streng
 image: "https://images.pexels.com/photos/6539793/pexels-photo-6539793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Low-Impact Workouts"]
 tags: ["seated", "exercises", "seniors"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "seated-leg-exercises-for-seniors"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Mild breathlessness during exercise is normal, but you should be able to carry on a conversation. If you're gasping, stop and rest. If you experience chest discomfort, dizziness, unusual shortness of breath, or heart palpitations during exercise, stop immediately and seek medical attention. Before beginning any new exercise program, particularly if you have a heart condition, high blood pressure, or other chronic health issues, get clearance from your physician. This isn't just cautious advice for the sake of it. It genuinely matters."
   - q: "Can I do these exercises every day?"
     a: "Muscles need recovery time to grow stronger. Doing strength exercises every single day doesn't give your tissue time to repair and rebuild. Three times per week is the research-supported sweet spot for older adults. On the days between, gentle movement like walking, stretching, or seated range-of-motion exercises is great. But the specific strengthening sessions should have rest days built in."
+author: "James Cooper"
+author_slug: "james-cooper"
+author_title: "Certified Trainer"
+author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+
 ---
 
 Maybe you sat down to rest five minutes ago and you're not entirely sure your knees are going to cooperate when you stand back up. Or maybe you've been told by a doctor, a physical therapist, or a well-meaning family member that you need to "do some exercise," but the idea of hitting the gym or getting down on a floor mat feels either impossible or just plain unappealing. Here's something that might surprise you: some of the most effective lower-body strengthening work you can do happens entirely from a chair. Not as a compromise. Not as a "beginner" stepping stone you'll eventually graduate from. As a legitimate, research-supported approach to building the leg strength, joint stability, and functional mobility that keep you independent and safe in your daily life.

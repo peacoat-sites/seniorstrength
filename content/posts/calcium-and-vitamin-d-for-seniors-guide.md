@@ -6,8 +6,6 @@ description: "Discover how calcium and vitamin D support bone health in seniors.
 image: "https://images.pexels.com/photos/8899513/pexels-photo-8899513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Nutrition"]
 tags: ["calcium", "vitamin", "seniors", "guide"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "calcium-and-vitamin-d-for-seniors-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The research on K2 is genuinely interesting. It directs calcium toward bones and away from arterial walls, at least in theory, and a 2019 study in Nutrients found that vitamin K2 supplementation improved bone density markers in postmenopausal women. It's not standard advice yet, but if your doctor is open to it and you're taking higher doses of calcium, it's a reasonable conversation to have."
   - q: "How do I know if my current supplement dose is actually working?"
     a: "Ask your doctor to check your serum 25(OH)D level (target 40-60 ng/mL for most older adults) and schedule a DEXA scan if you haven't had one recently. A DEXA scan measures bone mineral density directly and gives you a T-score that tells you exactly where you stand. It's the actual measure that matters, not whether you remember to take your pills."
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
+author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+
 ---
 
 Most seniors are taking calcium wrong. Not the wrong supplement necessarily, but the wrong dose at the wrong time in the wrong form, often without the one nutrient that determines whether any of it actually works. After years of watching clients dutifully swallow their calcium carbonate every morning with coffee and then wonder why their DEXA scans kept getting worse, I want to give you the real picture.

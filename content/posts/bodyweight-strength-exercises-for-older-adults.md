@@ -6,8 +6,6 @@ description: "Build functional strength safely with the best bodyweight exercise
 image: "https://images.pexels.com/photos/6922189/pexels-photo-6922189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["bodyweight", "strength", "exercises", "older", "adults"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "bodyweight-strength-exercises-for-older-adults"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and you might be surprised how quickly the body responds when given consistent stimulus after a long rest. Starting from a deconditioned baseline actually means you have more room for rapid early progress. The key is starting conservatively, perhaps at half the volume suggested here, and adding more over two to three weeks as you confirm your body is tolerating the training well. Delayed onset muscle soreness, the achiness that arrives 24 to 48 hours after a new workout, is normal and expected in the first two to three weeks. Sharp pain, joint swelling, or persistent discomfort lasting mo"
   - q: "Should I be doing cardio instead?"
     a: "Cardiovascular exercise and strength training serve different purposes and both are valuable. Cardio supports heart health, metabolic function, and endurance. Strength training protects muscle mass, bone density, and functional independence. For older adults, the research increasingly points to strength training as the priority that most people are missing, while many already walk or do some form of aerobic activity. The current guidelines from the Centers for Disease Control and Prevention recommend that older adults get 150 minutes of moderate-intensity cardio per week AND two or more streng"
+author: "James Cooper"
+author_slug: "james-cooper"
+author_title: "Certified Trainer"
+author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+
 ---
 
 Maybe you sat down in a chair recently and noticed it took more effort than it used to. Or you caught yourself gripping the railing on the stairs in a way you never thought twice about before. These moments can feel alarming, but here's something I want you to hear right away: they are incredibly common, and they are not a sign that decline is inevitable. Muscle loss, known clinically as sarcopenia, begins in our 40s and accelerates after 60, but research consistently shows that strength training can reverse meaningful amounts of that loss at virtually any age. The remarkable part is that you don't need a gym membership, a rack of dumbbells, or any equipment at all to start building real strength. Your own bodyweight, used correctly, is a genuinely powerful tool.

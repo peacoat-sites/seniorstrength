@@ -14,6 +14,11 @@ faqs:
     a: "Most hearing aids last between three and seven years with proper care. Rechargeable models tend to have a longer lifespan since they avoid the wear and tear of frequently replacing tiny batteries. Regular cleaning, avoiding moisture, and annual checkups with your audiologist will help maximize your hearing aid’s life."
   - q: "Can I wear hearing aids while exercising or swimming?"
     a: "Many modern hearing aids carry an IP rating indicating water and dust resistance, look for a rating of IP67 or higher for the best protection during sweaty workouts or light rain. However, most hearing aids are not designed for swimming or full submersion. If you’re very active, ask your audiologist specifically about sport-friendly or water-resistant models before purchasing. Hearing loss doesn’t have to mean missing out. Today’s hearing aids are powerful, discreet, and packed with features that can genuinely transform your daily life. Whether you choose a premium prescription device or an af"
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
+author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+
 ---
 
 You’re at a family dinner, laughing and talking,  but you keep missing punchlines. You ask people to repeat themselves. You smile and nod even when you’re not sure what was said. If this sounds familiar, you’re not alone. Millions of seniors deal with hearing loss every day, and finding the **best hearing aids for seniors** can feel overwhelming with so many options on the market. The good news? Today’s hearing aids are smaller, smarter, and more affordable than ever before.

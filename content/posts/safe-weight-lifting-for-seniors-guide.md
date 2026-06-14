@@ -6,8 +6,6 @@ description: "Discover safe weight lifting tips for seniors. Learn proper techni
 image: "https://images.pexels.com/photos/6922181/pexels-photo-6922181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["safe", "weight", "lifting", "seniors", "guide"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "safe-weight-lifting-for-seniors-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Noticeable strength gains typically appear within 4-6 weeks of consistent training, even before visible muscle changes. Meaningful changes in body composition and functional strength tend to show up at 12-16 weeks. Anyone promising faster results is selling something."
   - q: "Do I need a trainer, or can I start on my own?"
     a: "You can start on your own with a well-designed program, but two or three sessions with a certified trainer who has experience working with older adults is a genuinely good investment early on. Not because you need hand-holding, but because having someone watch your movement patterns and catch compensations before they become habits saves a lot of trouble later. Look for a CSCS (Certified Strength and Conditioning Specialist) or a trainer with an ACSM or NSCA credential."
+author: "Helen Santos"
+author_slug: "helen-santos"
+author_title: "Group Fitness Instructor"
+author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+
 ---
 
 Most fitness content aimed at older adults spends three paragraphs warning you about your doctor before it says anything useful. Let's skip that part. You're an adult. You know your own body. What you might not know is how badly the standard "light weights, high reps" advice that gets recycled for seniors actually serves you, and in some cases, actively works against you.

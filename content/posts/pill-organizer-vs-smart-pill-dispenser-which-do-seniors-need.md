@@ -14,6 +14,11 @@ faqs:
     a: "In most cases, standard smart pill dispensers are not covered by traditional Medicare. However, some Medicare Advantage plans may cover medication management tools as part of supplemental benefits, it is worth calling your plan directly to ask. Additionally, some pharmacies and home health programs provide dispensers at reduced cost or through rental programs for qualifying patients."
   - q: "What if I have arthritis and struggle to open pill organizer lids?"
     a: "There are pill organizers specifically designed for people with arthritis or limited hand strength. Look for models that use a push-button or flip-top opening mechanism rather than a tight snap lid. Organizers with larger compartments and textured grips are also much easier to handle. If you visit a pharmacy in person, the pharmacist can often show you several options and let you try the lids before you buy."
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
+author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+
 ---
 
 You set your medications out on the kitchen counter, fully intending to take them after breakfast. Then the phone rings, a neighbor stops by, and suddenly it’s dinnertime,  and you have no idea whether you took your morning pills or not. Sound familiar? You are not alone. Millions of older adults struggle with managing multiple medications every day, and choosing the right **pill organizer for seniors** can make all the difference between staying on track and risking a missed or double dose.

@@ -6,8 +6,6 @@ description: "Discover how often seniors should strength train to build muscle, 
 image: "https://images.pexels.com/photos/6293160/pexels-photo-6293160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["often", "should", "seniors", "strength", "train"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-often-should-seniors-strength-train"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "One week off doesn't undo months of training. Come back at slightly reduced intensity (roughly 80% of where you left off feels right for most people) and build back over one to two weeks. Consistency across months and years matters far more than any individual week."
   - q: "How do I know if I'm training too often?"
     a: "Persistent joint soreness that doesn't resolve with a rest day, declining performance over multiple sessions (getting weaker rather than stronger), sleep disruption, and loss of motivation are all signs that frequency or volume might be too high. Any of these warrant pulling back and reassessing, ideally with a trainer or physical therapist who knows your history."
+author: "James Cooper"
+author_slug: "james-cooper"
+author_title: "Certified Trainer"
+author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+
 ---
 
 Most people who ask me this question are already doing it wrong. Not dangerously wrong, just inefficiently wrong in a way that either leaves results on the table or quietly sets them up for an overuse injury six months down the road. The honest answer to "how often should seniors strength train?" is more nuanced than almost every generic fitness article will tell you, and it took me years of working directly with older adults to understand why.

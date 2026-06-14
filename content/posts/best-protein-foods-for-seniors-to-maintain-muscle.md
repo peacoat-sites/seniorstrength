@@ -14,6 +14,11 @@ faqs:
     a: "Protein supplements like whey or plant-based protein powders can be a helpful and safe option for seniors who struggle to meet their protein needs through food alone. They are particularly useful after illness, surgery, or during periods of reduced appetite. Look for supplements with minimal added sugars and artificial ingredients. Always discuss any new supplement with your doctor or pharmacist, especially if you have kidney disease, since very high protein intakes may not be appropriate for everyone."
   - q: "How does hydration affect muscle health in seniors?"
     a: "Staying well-hydrated is essential for muscle function, recovery, and overall health. Dehydration can cause muscles to feel weaker, increase cramping risk, and impair the body’s ability to use protein effectively. Seniors are at higher risk for dehydration because the sense of thirst naturally diminishes with age. Aim for at least 6 to 8 cups of fluid daily, and remember that water-rich foods like soups, fruits, and vegetables also contribute to your hydration. Building and maintaining strong muscles after 60 is absolutely possible, and it starts with what’s on your plate. By choosing the righ"
+author: "Helen Santos"
+author_slug: "helen-santos"
+author_title: "Group Fitness Instructor"
+author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+
 ---
 
 You’ve probably noticed it happening gradually,  tasks that used to feel easy now take more effort, and you just don’t feel as strong as you once did. For many people between the ages of 60 and 80, this is a very real and frustrating experience. The good news is that focusing on the right **protein foods for seniors muscle** health can make a significant difference. Getting enough high-quality protein each day helps preserve muscle mass, supports balance, and keeps you active and independent longer.

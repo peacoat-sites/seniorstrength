@@ -6,8 +6,6 @@ description: "Stay fit and healthy with the best exercise routine for 65 year ol
 image: "https://images.pexels.com/photos/8638031/pexels-photo-8638031.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["General Fitness"]
 tags: ["best", "exercise", "routine", "year", "woman"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "best-exercise-routine-for-65-year-old-woman"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Strength gains typically begin to show up within 4-6 weeks for new lifters, though early improvements are largely neurological (your brain getting better at recruiting muscle fibers) before visible muscle changes occur. Balance improvements can come faster, sometimes within 3-4 weeks of consistent practice. Give any new routine a full 8-12 weeks before you evaluate whether it's working."
   - q: "Is walking enough on its own?"
     a: "For cardiovascular health, regular brisk walking is genuinely beneficial. But walking alone won't stop muscle loss, won't improve upper body strength, and isn't sufficient for bone density maintenance. It's a great complement to a complete program, not a substitute for one."
+author: "Helen Santos"
+author_slug: "helen-santos"
+author_title: "Group Fitness Instructor"
+author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+
 ---
 
 Three things I've watched derail more women over 65 than almost anything else: doing too much too soon, following routines designed for 35-year-olds, and skipping strength training because someone told them cardio was "safer." All three are mistakes. The last one is genuinely dangerous.

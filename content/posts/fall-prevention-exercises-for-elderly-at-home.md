@@ -14,6 +14,11 @@ faqs:
     a: "Yes, but always check with your doctor first, especially if you were injured. In most cases, gentle exercise is not only safe after a fall but strongly recommended to rebuild strength and confidence. A physical therapist can create a personalized program tailored to your recovery and specific risk factors."
   - q: "Are there any exercises seniors should avoid for fall prevention?"
     a: "Exercises that involve rapid direction changes, jumping, or unstable surfaces (like a Bosu ball without supervision) may not be appropriate for all seniors. High-impact activities can also put stress on aging joints. Stick to low-impact, controlled movements like those listed above, and always prioritize slow, deliberate motion over speed or intensity. You have every reason to feel optimistic. Staying steady on your feet is absolutely within your reach, and it starts with one small step today. Whether it’s your first calf raise holding onto the kitchen counter or your twentieth sit-to-stand re"
+author: "Helen Santos"
+author_slug: "helen-santos"
+author_title: "Group Fitness Instructor"
+author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+
 ---
 
 Every year, millions of older adults experience a fall,  and many happen right inside the home. If you’ve ever felt a little unsteady getting up from the couch or noticed your balance isn’t quite what it used to be, you’re not alone. The good news is that **fall prevention exercises for elderly adults** can make a real, measurable difference. Starting a simple routine at home can help you feel steadier, stronger, and more confident every single day.

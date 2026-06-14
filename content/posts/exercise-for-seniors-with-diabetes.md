@@ -6,8 +6,6 @@ description: "Discover safe and effective exercise tips for seniors with diabete
 image: "https://images.pexels.com/photos/18512796/pexels-photo-18512796.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["General Fitness"]
 tags: ["exercise", "seniors", "with", "diabetes"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "exercise-for-seniors-with-diabetes"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Moderate hyperglycemia (roughly 180 to 250 mg/dL) without ketones is generally not a contraindication to moderate exercise. In fact, light to moderate aerobic activity will usually bring it down. Above 250 mg/dL, especially with ketones present, exercise can paradoxically worsen hyperglycemia because the body is in a state of insulin deficiency and stress hormones will further raise glucose. Check for ketones if you have a way to do so, hold the workout, hydrate, and contact your provider if levels don't come down."
   - q: "How long before I see results in my blood glucose numbers?"
     a: "You'll often see acute effects, lower post-meal readings, better morning glucose, within the first week of consistent effort. Longer-term changes in A1C, which reflects average glucose over roughly three months, typically become measurable after eight to twelve weeks of consistent training. That's a short runway for a meaningful clinical outcome. The catch is the word 'consistent.' Two or three weeks of effort followed by two weeks off resets much of the benefit. The strongest predictor of improved glucose control from exercise isn't the type of exercise. It's adherence."
+author: "Robert Davis"
+author_slug: "robert-davis"
+author_title: "Nutrition Writer"
+author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+
 ---
 
 Most people managing type 2 diabetes get told to "walk more and eat less sugar." That's not wrong, exactly. It's just incomplete enough to be nearly useless, and in some cases, actively dangerous. Exercise affects blood glucose in ways that aren't intuitive, and getting it wrong doesn't just mean a wasted workout. It can mean a hypoglycemic episode on the treadmill at 7 a.m. with nobody around. That's the gap most coverage fails to bridge.

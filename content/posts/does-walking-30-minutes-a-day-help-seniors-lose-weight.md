@@ -14,6 +14,11 @@ faqs:
     a: "The best time to walk is whenever you’ll actually do it consistently. That said, walking after meals, particularly after lunch or dinner, has been shown to improve blood sugar regulation and support fat metabolism. Morning walks can also be beneficial because they boost your energy and metabolism for the rest of the day. The key is finding a time that fits your routine and sticking with it."
   - q: "Can seniors with joint pain still benefit from walking for weight loss?"
     a: "Absolutely. Walking is one of the most joint-friendly forms of exercise available. Unlike running or aerobics, walking places far less stress on the knees, hips, and ankles. If you experience joint pain, start with shorter, slower walks and wear supportive footwear. Walking on softer surfaces like grass or a track can also reduce impact. Always consult your doctor if pain persists or worsens."
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
+author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+
 ---
 
 You’ve probably heard it a hundred times: “Just go for a walk.” But if you’re a senior trying to shed a few pounds, you might be wondering if something that simple can really make a difference. The good news is that **walking to lose weight seniors** is one of the most effective, low-impact strategies you can start today,  no gym membership required.

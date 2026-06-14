@@ -6,8 +6,6 @@ description: "Discover simple standing exercises for seniors that require no equ
 image: "https://images.pexels.com/photos/8417532/pexels-photo-8417532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Low-Impact Workouts"]
 tags: ["standing", "exercises", "seniors", "equipment"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "standing-exercises-for-seniors-no-equipment"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For most people starting out, yes. The chair isn't a crutch; it's a safety tool. Exercising close to a support means you can challenge your limits more aggressively than you would if falling were the consequence of losing balance. Over time, you'll naturally use it less."
   - q: "Can I do these exercises if I have knee or hip arthritis?"
     a: "Most of them, yes, with some modifications. Sit-to-stand may need to be done from a higher surface if deep knee bending is painful. Lateral leg raises are usually well-tolerated because they don't load the joint under compression. That said, if you're having a flare-up, this is a conversation to have with your doctor or physical therapist, not something to work around on your own."
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
+author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+
 ---
 
 Most people don't start thinking seriously about strength training until something goes wrong. A stumble on the porch steps. A moment of grabbing the wall to steady themselves. A doctor's appointment where the words "bone density" or "fall risk" come up for the first time. If that sounds familiar, you're not behind. You're exactly where a lot of people are when they first walk into my office.

@@ -6,8 +6,6 @@ description: "Discover the best balance exercises for seniors to prevent falls, 
 image: "https://images.pexels.com/photos/6922191/pexels-photo-6922191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Balance & Mobility"]
 tags: ["balance", "exercises", "seniors", "prevent", "falls"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "balance-exercises-for-seniors-to-prevent-falls"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Absolutely yes, and absolutely yes. Many common medications affect balance, including blood pressure medications (which can cause dizziness when you stand), sedatives, sleep aids, antihistamines, and some antidepressants. Your trainer needs to know what you're taking. If you've noticed new dizziness or unsteadiness after starting a medication, that conversation belongs with your prescribing doctor first. A medication review by your physician or pharmacist is one of the most overlooked fall prevention strategies available."
   - q: "At what point should I work with a physical therapist rather than exercising on my own?"
     a: "If you've had two or more falls in the past year, if you have a neurological condition like Parkinson's disease or peripheral neuropathy, if you've had a hip or knee replacement, or if you feel genuinely unsafe getting up from a chair without support, please start with a physical therapist rather than going it alone. They can identify the specific deficits driving your fall risk and design a program that addresses your actual weak points. Self-guided programs like the one in this article are a solid starting point for many people, but they're not a substitute for professional assessment when y"
+author: "Robert Davis"
+author_slug: "robert-davis"
+author_title: "Nutrition Writer"
+author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+
 ---
 
 Every 11 seconds, an older adult is treated in an emergency room for a fall-related injury. That statistic from the CDC stopped me cold the first time I read it, and it still does. But here's what I find even more striking: most of those falls are preventable. Not through luck or extreme caution or giving up the things you love to do. Through training. Specific, consistent, well-chosen training that actually changes how your body responds when the ground isn't where you expected it to be.

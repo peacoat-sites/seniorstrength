@@ -14,6 +14,11 @@ faqs:
     a: "Occasional lightheadedness when standing up quickly is common and is usually caused by a temporary drop in blood pressure called orthostatic hypotension. It becomes more common with age and with certain medications. If it happens frequently, mention it to your doctor, as it can be a significant fall risk."
   - q: "Can balance really improve with exercise, or is that just for younger people?"
     a: "Balance absolutely can improve with exercise at any age, including in people in their 80s and 90s. Clinical studies have shown that consistent balance and strength training can reduce fall risk by 20 to 40 percent in older adults. The key is starting gently, being consistent, and choosing exercises appropriate for your current fitness level. Remember, every small step you take toward better balance is an investment in your independence, your confidence, and your quality of life. You deserve to move through the world feeling safe and strong, and with the right knowledge and habits, that is comp"
+author: "James Cooper"
+author_slug: "james-cooper"
+author_title: "Certified Trainer"
+author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+
 ---
 
 ## When Simple Tasks Start Feeling Risky

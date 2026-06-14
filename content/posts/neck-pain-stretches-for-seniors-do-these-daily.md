@@ -14,6 +14,11 @@ faqs:
     a: "Yes, gentle neck stretches are generally safe to perform every day for most seniors in good health. The stretches described here are low-intensity and designed for older adults. If you have a specific neck condition, check with your doctor or physical therapist before beginning."
   - q: "Can neck stretches also help with headaches?"
     a: "Absolutely. Many tension headaches in seniors originate from tight muscles in the neck and upper shoulders. Regularly doing neck pain stretches for seniors, especially the upper trapezius and chin tuck exercises, can noticeably reduce both the frequency and intensity of tension headaches over time."
+author: "Dr. Patricia Williams"
+author_slug: "dr-patricia-williams"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+
 ---
 
 ## Why Your Neck Hurts More as You Get Older

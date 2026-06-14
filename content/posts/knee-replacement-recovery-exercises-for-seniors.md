@@ -14,6 +14,11 @@ faqs:
     a: "You should avoid high-impact activities like running, jumping, and sports that involve sudden pivoting movements for at least three to six months. Deep squats that bend the knee past 90 degrees are also generally discouraged early in recovery. Your surgeon will give you a personalized list of restrictions based on your specific procedure and progress."
   - q: "How long does it take to fully recover from knee replacement?"
     a: "Most seniors experience significant improvement within six to twelve weeks and can return to light daily activities. Full recovery, including the return of strength and complete range of motion, typically takes six months to a full year. Sticking consistently with your knee replacement recovery exercises is the single most important factor in how quickly and completely you recover. Your new knee is a gift, and these exercises are how you unwrap its full potential. Be patient with yourself, trust the process, and know that every gentle bend and careful step is moving you toward the active, comf"
+author: "James Cooper"
+author_slug: "james-cooper"
+author_title: "Certified Trainer"
+author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+
 ---
 
 Waking up after knee replacement surgery and wondering if you’ll ever move freely again is one of the most common fears seniors face. The good news is that with the right **knee replacement recovery exercises for seniors**, most people are walking independently and feeling stronger within weeks. Recovery can feel slow and frustrating at first, but movement,  done safely,  is truly your best medicine.

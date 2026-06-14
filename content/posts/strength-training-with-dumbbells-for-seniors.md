@@ -6,8 +6,6 @@ description: "Discover safe and effective dumbbell strength training exercises d
 image: "https://images.pexels.com/photos/6293001/pexels-photo-6293001.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["strength", "training", "with", "dumbbells", "seniors"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "strength-training-with-dumbbells-for-seniors"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Almost certainly yes. Older adults have a higher protein requirement per pound of body weight than younger adults to achieve the same muscle protein synthesis, a phenomenon researchers call 'anabolic resistance.' A general target of 1.2 to 1.6 grams of protein per kilogram of body weight per day is supported by current evidence and is a reasonable place to aim. A registered dietitian can help you sort out what that looks like practically."
   - q: "How long before I notice real results?"
     a: "Strength improvements typically appear within four to six weeks, often before visible muscle changes. The early gains are largely neurological (your nervous system gets more efficient at recruiting muscle fibers) rather than structural. Visible changes in muscle size take longer, usually three to four months of consistent training. Functional benefits, like climbing stairs more easily or feeling steadier on your feet, often show up in the six to eight week range."
+author: "Helen Santos"
+author_slug: "helen-santos"
+author_title: "Group Fitness Instructor"
+author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+
 ---
 
 Most fitness content aimed at seniors is either patronizing or reckless. It's either "gentle chair exercises for beginners!" with stock photos of smiling people holding two-pound weights, or it's generic bodybuilding advice with zero acknowledgment that a 68-year-old recovering from a hip replacement isn't the same as a 30-year-old starting a bulk. The truth sits in the middle, and it's more interesting than either extreme.

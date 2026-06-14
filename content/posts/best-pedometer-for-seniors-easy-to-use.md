@@ -14,6 +14,11 @@ faqs:
     a: "Modern pedometers are quite accurate, typically within 5 to 10 percent of your true step count. Clip-on devices worn at the hip tend to be slightly more accurate than wrist-based trackers. For health motivation purposes, even a small margin of error does not affect the value of tracking your daily movement trends."
   - q: "Can a pedometer help seniors lose weight?"
     a: "A pedometer alone will not cause weight loss, but it is a powerful motivational tool that supports an active lifestyle. Research consistently shows that people who track their steps walk significantly more than those who do not. Combined with a balanced diet and your doctor’s guidance, increased daily walking can absolutely contribute to healthy weight management over time."
+author: "Robert Davis"
+author_slug: "robert-davis"
+author_title: "Nutrition Writer"
+author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+
 ---
 
 You started walking more to stay healthy, but keeping track of your steps feels surprisingly complicated. Maybe your phone is always in another room, or the fitness apps seem designed for someone half your age. Finding the **best pedometer for seniors** shouldn’t require a technology degree,  it should just work, right out of the box.

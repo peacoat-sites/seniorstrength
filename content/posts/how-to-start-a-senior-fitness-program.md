@@ -6,8 +6,6 @@ description: "Discover how to start a senior fitness program safely with expert 
 image: "https://images.pexels.com/photos/7927790/pexels-photo-7927790.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["General Fitness"]
 tags: ["start", "senior", "fitness", "program"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-start-a-senior-fitness-program"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Start with what you can do, not what you think you should be able to do. Water-based exercise (aqua aerobics, pool walking) significantly reduces joint loading and is an excellent entry point for people with arthritis or joint pain. Many YMCAs offer aquatic programs for around $10-15 per session without a membership. A physical therapist can also design a land-based program that works around specific limitations."
   - q: "How do I know if I'm pushing too hard?"
     a: "The 'talk test' is a practical and reliable guide: if you can speak in full sentences during aerobic exercise, you're in a reasonable intensity zone. For strength work, if you can't complete the last two reps of a set with reasonable control and form, the weight or resistance is too high. Pain that persists more than 48 hours after a session, sharp pain during exercise, or chest tightness or unusual shortness of breath are all signals to stop and check in with your doctor."
+author: "Helen Santos"
+author_slug: "helen-santos"
+author_title: "Group Fitness Instructor"
+author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+
 ---
 
 Most people start their senior fitness program the exact same wrong way. They do too much, too fast, get hurt or exhausted by week two, and then quietly decide that exercise "just isn't for them anymore." I've watched this happen repeatedly, and honestly, the fitness industry deserves a lot of the blame for it.

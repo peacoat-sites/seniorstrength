@@ -6,8 +6,6 @@ description: "Discover the best exercises to strengthen knees for seniors. Impro
 image: "https://images.pexels.com/photos/8899526/pexels-photo-8899526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Joint Health"]
 tags: ["exercises", "strengthen", "knees", "seniors"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "exercises-to-strengthen-knees-for-seniors"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Some people find a sleeve-style knee brace helpful for mild support and proprioception during exercise, and there's no harm in it if it makes you feel more confident. Rigid or hinged braces are a different matter and should only be used if your doctor or physical therapist has recommended them for a specific reason. One caution: don't let a brace become a crutch that allows you to skip the muscle work. The goal is to build internal support so you eventually need less external support, not more."
   - q: "When should I see a physical therapist rather than exercising on my own?"
     a: "If you have sharp or stabbing knee pain, pain that wakes you from sleep, significant swelling without a known cause, a recent injury or fall, or if you've been doing consistent strengthening work for 8 weeks with no improvement, please see a professional. A physical therapist can assess your movement patterns, identify compensation strategies you might not even be aware of, and tailor a program specifically to your anatomy and limitations. Self-guided programs work well for many people, but there's no shame and plenty of wisdom in getting professional eyes on your situation. The goal here isn'"
+author: "Robert Davis"
+author_slug: "robert-davis"
+author_title: "Nutrition Writer"
+author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+
 ---
 
 You wake up in the morning, swing your legs over the side of the bed, and feel that familiar ache in your knees before you've even taken a single step. Maybe you've started avoiding stairs when you can. Maybe a walk around the block that used to feel effortless now requires planning around the soreness you know is coming afterward. If any of this sounds familiar, you're not alone, and you're not stuck. Knee pain and weakness in adults over 60 is one of the most common complaints I hear, but it's also one of the most responsive to the right kind of exercise. The key word there is "right." Because not all knee exercises are created equal, and some popular advice that gets passed around can actually make things worse.

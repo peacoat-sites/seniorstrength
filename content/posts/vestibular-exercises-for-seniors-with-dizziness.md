@@ -14,6 +14,11 @@ faqs:
     a: "It is completely normal to feel mild dizziness during and shortly after vestibular exercises, especially in the first week or two. This temporary discomfort is actually a sign that your brain is being appropriately challenged and adapting. However, if your dizziness is severe, lasts for a long time after exercise, or is accompanied by vomiting or fainting, stop and consult your doctor before continuing."
   - q: "Are vestibular exercises safe for seniors with osteoporosis or arthritis?"
     a: "Most of the exercises described here are performed while seated or standing with support, making them low-impact and generally safe for seniors with osteoporosis or arthritis. However, everyone’s situation is unique. Share these exercises with your doctor or physical therapist before starting, and they can confirm which movements are appropriate for your specific health conditions and mobility level."
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
+author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+
 ---
 
 ## When the Room Won’t Stop Spinning

@@ -6,8 +6,6 @@ description: "Discover the best exercise routine for a 70 year old man to boost 
 image: "https://images.pexels.com/photos/7322452/pexels-photo-7322452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["General Fitness"]
 tags: ["best", "exercise", "routine", "year"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "best-exercise-routine-for-70-year-old-man"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most people notice improved energy and daily movement quality within 3 to 4 weeks. Measurable strength gains typically begin around 6 to 8 weeks. Visible muscle changes take longer, often 3 to 6 months. The less conditioned you are starting out, the faster the initial progress tends to be."
   - q: "Should a 70-year-old man do cardio or strength training first?"
     a: "If you're doing both in the same session, do strength first. Cardiovascular fatigue will compromise your form and effort on resistance exercises. If they're on separate days, the order is less important. Most men this age do better keeping cardio and strength sessions separate when possible."
+author: "Dr. Patricia Williams"
+author_slug: "dr-patricia-williams"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+
 ---
 
 Most men I work with who are 70 don't think of themselves as "seniors." They think of themselves as guys who used to run 5Ks, or who built a deck with their own hands twenty years ago, or who want to keep up with grandkids who are now somehow in high school. That gap between who they feel they are and what their body will currently let them do, that's usually what brings them to my office.

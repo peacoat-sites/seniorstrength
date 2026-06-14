@@ -14,6 +14,11 @@ faqs:
     a: "For most seniors, 5 to 15 minutes per session is plenty. You do not need lengthy sessions to experience benefits, in fact, shorter and more frequent sessions tend to work better than occasional long ones. Start with just five minutes and build up gradually as your muscles become more accustomed to the practice."
   - q: "Can foam rolling help with balance problems in older adults?"
     a: "While foam rolling itself is not a balance exercise, it can support better balance indirectly. By releasing tension in the calves, hips, and ankles, foam rolling helps your muscles respond more freely during movement, which can contribute to better stability. For the best results, combine foam rolling with dedicated balance exercises recommended by your doctor or a certified fitness professional."
+author: "Dr. Patricia Williams"
+author_slug: "dr-patricia-williams"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+
 ---
 
 Do your muscles feel stiff and achy after a morning walk, or does your back tighten up after sitting for too long? You are not alone. Millions of adults over 60 deal with everyday muscle tension that makes simple activities feel harder than they should. The good news is that a **foam roller for seniors** can offer a simple, affordable way to ease that tightness right at home,  no gym membership required.

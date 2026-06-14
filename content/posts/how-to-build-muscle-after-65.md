@@ -6,8 +6,6 @@ description: "Discover proven strategies to build muscle after 65. Learn safe ex
 image: "https://images.pexels.com/photos/17559311/pexels-photo-17559311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["build", "muscle", "after"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-build-muscle-after-65"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Both have important roles. Cardiovascular fitness supports heart health, endurance, and recovery. Resistance training builds muscle mass and protects bone density. The American College of Sports Medicine recommends adults over 65 get 150 minutes of moderate-intensity aerobic activity per week alongside two or more strength training sessions. If that feels overwhelming right now, start with strength training, since it addresses the most acute functional concerns, and add cardio gradually. Doing cardio on different days than heavy strength training reduces interference with muscle building."
   - q: "What if I've never exercised and I'm starting from zero at 70 or 75?"
     a: "Starting from zero actually has some advantages: you have a lot of room to improve, and your body will respond to even modest training stimuli with noticeable gains. What changes is the starting point, not the destination. Work with a trainer who has specific experience with older adults, start at a lower intensity than you think you need, and be patient with the early weeks. The fundamentals of progressive overload and adequate protein still apply completely."
+author: "Helen Santos"
+author_slug: "helen-santos"
+author_title: "Group Fitness Instructor"
+author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+
 ---
 
 You're at the gym, or maybe just standing in your living room with a pair of light dumbbells, and someone — a friend, an article, your own inner voice — has told you that building muscle after 65 is basically impossible. That your body is too far gone, that the best you can do is slow the decline. I've heard that from so many clients when they first walk through my door. And I'll be direct with you: it's wrong. Provably, scientifically wrong. What *is* true is that muscle building after 65 looks different, requires smarter strategy, and punishes the mistakes that younger people can get away with. Get those things right, and your body will respond in ways that genuinely surprise you.

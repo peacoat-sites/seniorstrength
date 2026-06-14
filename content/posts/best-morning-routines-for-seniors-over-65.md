@@ -14,6 +14,11 @@ faqs:
     a: "An effective morning routine for seniors does not need to take more than 60 to 90 minutes. A practical breakdown might include 10 minutes for hydration and gentle in-bed stretching, 20 to 30 minutes for exercise, 20 minutes for a nourishing breakfast, and 10 to 15 minutes for a mental wellness practice. The key is choosing activities that feel enjoyable and sustainable for you personally. A routine you look forward to is one you will actually stick with, and consistency over time delivers the greatest health benefits."
   - q: "What should seniors avoid in the morning for better health?"
     a: "There are a few common morning habits that can undermine a senior’s health and energy. Try to avoid checking stressful news or social media immediately upon waking, as this can spike anxiety and set a negative tone for the day. Also avoid skipping breakfast, rushing out of bed too quickly without allowing your body to adjust, and consuming too much caffeine early, especially if you have high blood pressure or heart rhythm concerns. Starting your morning slowly, gently, and with kindness toward your body makes a tremendous difference in how you feel by midday and beyond."
+author: "James Cooper"
+author_slug: "james-cooper"
+author_title: "Certified Trainer"
+author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+
 ---
 
 Do you find yourself waking up stiff, groggy, or simply unsure how to start your day with energy and purpose? You are not alone. Millions of adults over 65 struggle with sluggish mornings, and it can affect everything from mood to mobility for the rest of the day. The good news is that building a simple, consistent **morning routine for seniors** can make an enormous difference in how you feel, move, and think every single day.

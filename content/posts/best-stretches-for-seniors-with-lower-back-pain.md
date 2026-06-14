@@ -14,6 +14,11 @@ faqs:
     a: "Most people begin to notice some improvement in flexibility and a reduction in discomfort within two to four weeks of consistent daily stretching. Significant pain relief and improved mobility often become more noticeable after six to eight weeks. Consistency is the most important factor, even short daily sessions add up over time."
   - q: "What stretches should seniors avoid if they have lower back pain?"
     a: "Seniors with lower back pain should generally avoid deep forward bends with straight legs, high-impact jumping movements, and any twist that causes sharp pain. Sit-ups and double leg raises can also place too much stress on the lumbar spine. Always choose gentle, controlled stretches and stop immediately if any movement causes sharp or shooting pain. Photo by The Good Funeral Guide on Unsplash"
+author: "Robert Davis"
+author_slug: "robert-davis"
+author_title: "Nutrition Writer"
+author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+
 ---
 
 If you wake up in the morning with a stiff, aching lower back, you are definitely not alone. Millions of seniors deal with lower back discomfort every single day, making simple activities like getting dressed or walking to the kitchen feel like a challenge. The good news is that **stretches for lower back pain seniors** can trust are simple, gentle, and genuinely effective at bringing relief.

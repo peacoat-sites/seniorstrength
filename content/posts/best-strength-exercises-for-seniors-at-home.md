@@ -6,8 +6,6 @@ description: "Stay strong and independent with the best strength exercises for s
 image: "https://images.pexels.com/photos/8899516/pexels-photo-8899516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["best", "strength", "exercises", "seniors", "home"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "best-strength-exercises-for-seniors-at-home"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. Sit-to-stands, wall push-ups, glute bridges, dead bugs, and calf raises require nothing but a chair and floor space. A resistance band, which typically costs less than $15 and fits in a drawer, opens up pulling exercises that are difficult to replicate otherwise. A band is the single best equipment investment for home training. Everything else is optional."
   - q: "How long before I see results?"
     a: "Neurological gains, meaning your muscles firing more efficiently and coordination improving, show up in two to four weeks. You'll feel stronger before you look stronger. Visible muscle changes take six to twelve weeks of consistent training. The fastest results most people notice are functional ones: getting up from chairs more easily, feeling more stable on stairs, less fatigue doing daily tasks. Those typically appear within four to six weeks and are, frankly, more meaningful than any aesthetic change."
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
+author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+
 ---
 
 Most home workout advice for seniors is written by people who have never watched a 68-year-old try to get up off the floor after a poorly cued exercise went sideways. The recommendations look fine on paper: "do squats, do lunges, stay active." What they skip is the sequencing, the load progression, and the specific reasons certain moves are dramatically more valuable than others at this stage of life. That gap isn't a minor editorial flaw. It's how people get hurt and quit.

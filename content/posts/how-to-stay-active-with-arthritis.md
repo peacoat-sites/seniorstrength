@@ -6,8 +6,6 @@ description: "Discover gentle exercises and expert tips to stay active with arth
 image: "https://images.pexels.com/photos/6972651/pexels-photo-6972651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Joint Health"]
 tags: ["stay", "active", "with", "arthritis"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-stay-active-with-arthritis"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Strength training, when programmed correctly, actually protects joints by building the muscular support around them. The evidence on this is pretty consistent. The risks come from poor form, too-heavy loads too soon, or training through sharp joint pain. Starting with a physical therapist or a certified trainer experienced with older adults makes a real difference in getting this right."
   - q: "Does losing weight help arthritis pain, and if so, how much?"
     a: "Yes, for weight-bearing joints like hips and knees, the evidence is genuinely compelling. Every pound of body weight translates to roughly four pounds of force on the knee joint during walking. Even modest weight loss, in the 10-15 pound range, can produce noticeable reductions in knee pain. That said, the relationship between weight and arthritis is complex and weight loss alone isn't a fix, especially for inflammatory types like RA. Your rheumatologist or primary care doctor is the right person to talk with about this specifically."
+author: "James Cooper"
+author_slug: "james-cooper"
+author_title: "Certified Trainer"
+author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+
 ---
 
 Sixty-three percent of adults over 65 with arthritis say they've cut back on physical activity because of pain. I've worked with enough of them to know that most of the time, that's the wrong call, and it's one that quietly costs them more than the pain itself.

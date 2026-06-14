@@ -6,8 +6,6 @@ description: "Discover the best core strengthening exercises for seniors to impr
 image: "https://images.pexels.com/photos/6922185/pexels-photo-6922185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["core", "strengthening", "exercises", "seniors"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "core-strengthening-exercises-for-seniors"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not really, especially at the start. The foundational work (breathing, bracing, dead bugs, bird dogs, seated marching) requires nothing. A resistance band helps for the anti-rotation press and costs almost nothing. A yoga mat makes floor work more comfortable. That's about it."
   - q: "Should I work with a trainer or can I do this on my own?"
     a: "Either can work, but having at least two or three sessions with a trainer or physical therapist who can watch your form early on is genuinely valuable. Form errors in core work are often invisible to the person doing the exercise. You might think your lower back is flat during a dead bug when it's actually arching significantly. A qualified set of eyes catches things that a mirror can't."
+author: "James Cooper"
+author_slug: "james-cooper"
+author_title: "Certified Trainer"
+author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+
 ---
 
 Most advice about core training for older adults is wrong. Not dangerous, exactly, just wrong in a way that wastes time and sometimes makes things worse. The standard recommendation you'll hear at most gyms goes something like this: "Do some planks, maybe a few crunches, try a bird dog." And sure, those exercises exist on a spectrum somewhere between fine and useful. But they're almost never taught in the right order, for the right reasons, and they skip over the foundational work that actually makes a difference when you're 65, 72, or 84.

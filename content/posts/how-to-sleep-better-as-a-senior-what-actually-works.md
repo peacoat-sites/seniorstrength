@@ -15,6 +15,11 @@ faqs:
     a: "Melatonin is generally safe for short-term use in older adults, typically at doses of 0.5-5 mg taken 30-60 minutes before bed. However, it works best when combined with good sleep habits rather than as a standalone solution. Always check with your doctor before starting melatonin, especially if you take other medications, as interactions are possible."
   - q: "How long does it take to improve sleep as a senior?"
     a: "Most people see improvements within 2-3 weeks of consistent sleep habit changes, though full benefits typically appear after 6-8 weeks. Your brain needs time to establish new patterns and associations with better sleep. Be patient and consistent, the changes you make now build better sleep for months and years ahead."
+author: "Robert Davis"
+author_slug: "robert-davis"
+author_title: "Nutrition Writer"
+author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+
 ---
 
 ## The Sleep Struggle: Why Nights Get Tougher After 60

@@ -6,8 +6,6 @@ description: "Discover the best exercises to improve posture in seniors. Strengt
 image: "https://images.pexels.com/photos/6975783/pexels-photo-6975783.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Balance & Mobility"]
 tags: ["exercises", "improve", "posture", "seniors"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "exercises-to-improve-posture-in-seniors"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The research here is genuinely mixed. Some studies, including a 2019 trial in Spine, found short-term brace use helpful for postural awareness. But passive bracing can reduce the muscular activation you actually need to build. If you use one, treat it as a temporary cue, not a solution."
   - q: "Is walking enough to improve posture?"
     a: "Walking is valuable for many reasons, but it's not sufficient on its own to address posture. If you walk with a forward head position and rounded shoulders, you're just reinforcing that pattern over distance. Targeted strengthening of the muscles that create and hold upright alignment is a different stimulus than cardiovascular movement."
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
+author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+
 ---
 
 Most people assume bad posture in older adults is just gravity winning. I used to think that too. Then I spent a few months going deep on the actual biomechanics, reviewed a stack of research going back to a 2003 landmark study in the *Journal of Bone and Mineral Research* on spinal curvature and mortality risk, and started paying closer attention to what was actually happening with the clients I was seeing in their 60s, 70s, and 80s. What I found changed how I think about this almost completely.

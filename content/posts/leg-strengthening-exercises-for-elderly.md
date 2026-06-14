@@ -6,8 +6,6 @@ description: "Discover safe and effective leg strengthening exercises for elderl
 image: "https://images.pexels.com/photos/5067749/pexels-photo-5067749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["strengthening", "exercises", "elderly"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "leg-strengthening-exercises-for-elderly"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Some carryover happens naturally, especially when you do single-leg movements like step-ups and single-leg calf raises. But balance also involves the inner ear and the nervous system's coordination speed, so dedicated balance work (single-leg standing, tandem walking, standing on an uneven surface like a folded towel) is worth adding rather than assuming strength training covers everything."
   - q: "How long before I notice results?"
     a: "Nervous system adaptation happens first, usually within 2-3 weeks. That means you'll notice movements feeling more coordinated and less effortful before your muscles visibly change. Meaningful strength gains typically show up around weeks 4-8 with consistent training. The timeline varies depending on starting point, training consistency, sleep, and protein intake. None of that is fixed."
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
+author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+
 ---
 
 Most fitness advice for older adults focuses on what feels safe rather than what actually works. That's a problem. "Gentle chair stretches" and "light walking" are fine starting points, but they won't rebuild the quad strength that keeps you out of a nursing home. They won't stop the muscle loss that begins accelerating after 60 and can take 1-2% of your muscle mass per year if you let it. And they definitely won't fix the hip and ankle weakness that turns a small trip on the sidewalk into a six-week recovery.

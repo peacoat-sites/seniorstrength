@@ -14,6 +14,11 @@ faqs:
     a: "For gentle activities like walking, stretching, and light strength work, most healthy seniors can set their own goals safely. However, if you have heart disease, diabetes, joint replacements, osteoporosis, or other chronic conditions, it’s always wise to check with your physician before starting or intensifying any fitness routine. Your doctor can also help you set realistic, safe benchmarks to work toward."
   - q: "What if my fitness numbers go down some months?"
     a: "A temporary dip in performance is completely normal and happens to everyone, including elite athletes. Illness, stress, poor sleep, seasonal changes, or simply a busier week can all affect results. Don’t be discouraged. Look at your trend over three to six months rather than obsessing over a single measurement. The long-term direction is what truly matters for your health."
+author: "Robert Davis"
+author_slug: "robert-davis"
+author_title: "Nutrition Writer"
+author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+
 ---
 
 You’ve been walking every morning, doing your stretching routine, and skipping the second helping at dinner. But when someone asks, “How’s your fitness going?” you pause,  because honestly, you’re not quite sure. This is one of the most common frustrations among active older adults. Learning how to **track fitness progress seniors** often overlook is the missing piece that turns good habits into real, visible results.

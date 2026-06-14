@@ -14,6 +14,11 @@ faqs:
     a: "Absolutely, the Mediterranean diet is considered one of the gold standards for an anti-inflammatory diet for seniors with arthritis. It emphasizes olive oil, fish, vegetables, fruits, whole grains, legumes, and nuts, which are exactly the foods that research shows help reduce inflammation. Multiple clinical studies have found that seniors following a Mediterranean-style diet report less joint pain and better overall quality of life."
   - q: "Can I still eat meat if I have arthritis?"
     a: "Yes, you can still include meat in your diet, moderation and type are the key factors. Skinless poultry like chicken and turkey is a much better choice than red meat for arthritis management. If you enjoy red meat, limit it to once or twice a week and choose leaner cuts. Processed meats like sausage, hot dogs, and bacon should be eaten very rarely, as they are particularly pro-inflammatory."
+author: "James Cooper"
+author_slug: "james-cooper"
+author_title: "Certified Trainer"
+author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+
 ---
 
 If you wake up most mornings with stiff, aching joints that make it hard to get out of bed, you are certainly not alone. Millions of seniors struggle with arthritis every single day, and the pain can feel relentless. The good news is that what you eat may have a powerful impact on how you feel,  and an **anti inflammatory diet for seniors with arthritis** could be one of the most effective tools in your wellness toolkit.

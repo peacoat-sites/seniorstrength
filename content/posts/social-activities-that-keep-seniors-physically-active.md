@@ -14,6 +14,11 @@ faqs:
     a: "Most health experts recommend aiming for at least three to five days per week of moderate physical activity. If social activities like walking groups, dance classes, or fitness classes are your primary form of exercise, attending three times per week is a great starting point. As your stamina improves, you can add more sessions or mix different types of activities throughout the week."
   - q: "Are there free or low-cost social fitness programs for seniors?"
     a: "Yes, many programs are completely free or very affordable. Medicare Advantage plans often include free gym memberships through programs like Silver Sneakers or Renew Active. Community centers, parks and recreation departments, senior centers, and faith organizations frequently offer free or low-cost group fitness and social activity programs. A quick call to your local Area Agency on Aging can connect you with options in your community."
+author: "Dr. Patricia Williams"
+author_slug: "dr-patricia-williams"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+
 ---
 
 Do you find yourself sitting more than you used to? Many seniors notice that as the years go by, it becomes harder to stay motivated to move,  especially when exercising alone feels like a chore. The good news is that **social activities seniors physical** health depends on are closer than you think. Combining movement with friendship is one of the most powerful ways to stay active, happy, and healthy well into your 70s and 80s.

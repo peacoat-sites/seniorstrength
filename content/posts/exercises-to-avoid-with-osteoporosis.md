@@ -6,10 +6,13 @@ description: "Protect your bones and prevent fractures by learning which exercis
 image: "https://images.pexels.com/photos/6293108/pexels-photo-6293108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Injury Prevention"]
 tags: ["exercises", "avoid", "with", "osteoporosis"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "exercises-to-avoid-with-osteoporosis"
 affiliate_disclosure: true
+author: "James Cooper"
+author_slug: "james-cooper"
+author_title: "Certified Trainer"
+author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+
 ---
 
 Three years ago, a woman I'll call Margaret walked into a physical therapy clinic where I was consulting, carrying a printout from a popular fitness website. She'd been doing sit-ups every morning to "strengthen her core" after her doctor told her she had osteoporosis. She was proud of her consistency. She'd been doing this for four months.

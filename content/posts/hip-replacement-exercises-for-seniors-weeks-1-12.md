@@ -14,6 +14,11 @@ faqs:
     a: "Mild muscle soreness, similar to the feeling after a gentle workout, is completely normal and expected. What you should watch for is sharp, stabbing, or sudden pain, which could indicate you’ve overdone it or that something needs medical attention. A good rule of thumb: if your pain level rises above a 5 out of 10, rest and consult your care team."
   - q: "When can seniors stop using a walker after hip replacement?"
     a: "Most seniors transition from a walker to a cane around weeks 3 to 6, depending on their strength and balance. The full transition away from any walking aid often happens between weeks 6 and 10. Your physical therapist will assess your gait and confidence before recommending this change, don’t rush it on your own. Recovering from hip replacement surgery is one of the most positive steps you can take for your long-term health and quality of life. Every single exercise you do, no matter how small it seems, is moving you closer to the active, independent life you deserve. Be patient with your body"
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
+author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+
 ---
 
 Recovering from hip replacement surgery can feel overwhelming,  especially when you’re not sure which movements are safe and which might set you back. If you’re searching for **hip replacement exercises seniors** can rely on, you’re in the right place. This guide walks you through a safe, week-by-week exercise plan from the day you come home all the way through your 12-week milestone.

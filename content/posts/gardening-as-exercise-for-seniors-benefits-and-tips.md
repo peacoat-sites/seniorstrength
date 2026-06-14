@@ -14,6 +14,11 @@ faqs:
     a: "Gardening can burn between 150 and 400 calories per hour depending on the intensity of the task and your individual body weight. Lighter tasks like planting seeds or gentle weeding fall at the lower end, while digging, shoveling, and raking are at the higher end. Over a week, regular gardening sessions add up significantly. Three 45-minute sessions per week could burn anywhere from 400 to 1,000 calories, comparable to several brisk walks."
   - q: "What if I only have a small space or live in an apartment?"
     a: "Small spaces are no barrier to the benefits of gardening exercise for seniors. Container gardening on a balcony, patio, or even a sunny windowsill provides meaningful physical activity and all the mental health benefits of caring for plants. Community gardens are another excellent option, many offer individual plots for a small annual fee. You get the social benefits of gardening alongside others, access to more growing space, and often shared knowledge and tools as well."
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
+author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+
 ---
 
 Many seniors struggle to find an exercise routine that feels enjoyable rather than like a chore. Going to the gym can feel intimidating, and repetitive workouts often lose their appeal quickly. The good news is that **gardening exercise for seniors** offers a wonderful, natural way to stay active,  and you might already love it.

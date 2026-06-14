@@ -14,6 +14,11 @@ faqs:
     a: "Plant foods provide ALA omega-3s, which offer anti-inflammatory benefits, but they do not supply EPA and DHA directly. Your body converts only a small percentage of ALA into these more active forms. If you are vegetarian or vegan and dealing with joint pain, algae-based omega-3 supplements are an excellent solution. They provide EPA and DHA straight from the source, marine algae, without any fish involved."
   - q: "Are omega-3 supplements as effective as eating whole foods for joint pain?"
     a: "Whole foods are generally preferred because they come packaged with other beneficial nutrients like vitamins, minerals, and antioxidants that work together with omega-3s. However, high-quality supplements can be a very effective alternative when diet alone is not enough. Look for supplements with at least 1,000 mg of combined EPA and DHA per serving. Choose brands that are third-party tested for purity, and always check with your physician if you take any medications before starting a new supplement."
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
+author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+
 ---
 
 ## When Every Step Hurts: Understanding Joint Pain in Seniors

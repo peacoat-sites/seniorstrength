@@ -14,6 +14,11 @@ faqs:
     a: "This is a very common concern, and it’s completely understandable. A good strategy is to drink most of your fluids earlier in the day, morning through mid-afternoon, and then taper off in the two to three hours before bed. You don’t have to cut out evening fluids entirely, but shifting the bulk of your intake earlier helps reduce nighttime interruptions without sacrificing your hydration goals."
   - q: "Are sports drinks a good option for seniors?"
     a: "Sports drinks can be helpful in specific situations, such as after intense physical activity, during illness with vomiting or diarrhea, or on an extremely hot day when you’ve been sweating heavily. They contain electrolytes like sodium and potassium that help your body absorb and retain fluids. However, many sports drinks are high in sugar and calories, so they shouldn’t replace plain water for everyday hydration. Look for low-sugar electrolyte options or ask your doctor what’s appropriate for your health needs."
+author: "Helen Santos"
+author_slug: "helen-santos"
+author_title: "Group Fitness Instructor"
+author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+
 ---
 
 You’ve just finished a quiet morning at home and realize you haven’t had a single glass of water yet,  and it’s already noon. Sound familiar? Many older adults find themselves going hours without drinking, often without feeling noticeably thirsty. That’s actually one of the most important things to understand about aging and hydration. These **hydration tips for seniors** can make a real difference in how you feel, think, and move every single day.

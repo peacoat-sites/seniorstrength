@@ -14,6 +14,11 @@ faqs:
     a: "Starting pickleball is very affordable compared to many other sports. A solid beginner paddle costs between $40 and $80, and a tube of balls runs about $10 to $15. Court fees at public recreation centers are typically $2 to $5 per session, and many offer senior discounts or free open-play times. Some community centers provide equipment to borrow at no charge, so your initial investment could literally be zero. Once you’re hooked, you can upgrade your gear gradually as your game improves."
   - q: "What if I’ve never played a racket sport before?"
     a: "No prior racket experience is needed whatsoever. Many of today’s most enthusiastic senior pickleball players never played tennis, badminton, or any similar sport in their lives. The paddle is light, the court is small, and the rules are simple enough to learn in under 15 minutes. Beginner clinics are designed specifically for people starting from absolute zero, and the welcoming culture of the pickleball community means you’ll find patient, encouraging playing partners at any open-play session."
+author: "James Cooper"
+author_slug: "james-cooper"
+author_title: "Certified Trainer"
+author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+
 ---
 
 Finding an exercise routine that’s genuinely fun, social, and easy on aging joints can feel almost impossible. Many seniors start walking programs that quickly become boring, or try gym workouts that leave their knees aching. If that sounds familiar, you’re going to love what **pickleball for seniors** has to offer. This fast-growing sport is sweeping retirement communities, recreation centers, and parks across the country,  and for very good reason.

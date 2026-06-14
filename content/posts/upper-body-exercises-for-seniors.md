@@ -6,8 +6,6 @@ description: "Discover the best upper body exercises for seniors to build streng
 image: "https://images.pexels.com/photos/8637979/pexels-photo-8637979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["upper", "body", "exercises", "seniors"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "upper-body-exercises-for-seniors"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally yes, but the timeline and specific restrictions depend entirely on the type of replacement (total versus reverse total shoulder) and your surgeon's protocol. Most people with reverse total shoulder replacements have permanent restrictions on certain movements. Get cleared specifically by your surgical team before adding any resistance training."
   - q: "How long before I notice real strength improvements?"
     a: "Neural adaptations happen within 3-4 weeks: you'll feel more coordinated and capable even before muscle size changes. Meaningful strength gains are usually noticeable by 8-12 weeks with consistent training. The research on older adults is actually encouraging here; the relative strength gains from a good program are comparable to what younger adults achieve, even if the absolute numbers differ."
+author: "James Cooper"
+author_slug: "james-cooper"
+author_title: "Certified Trainer"
+author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+
 ---
 
 Most upper body exercise advice for older adults is, bluntly, watered-down nonsense. "Try some arm circles!" Cool. That'll really help you lift a carry-on into the overhead bin or push yourself up off the floor after a fall. The exercises that actually build functional strength get skipped because trainers are either overcautious or they're defaulting to the same dusty chair routine they've used since 1987.

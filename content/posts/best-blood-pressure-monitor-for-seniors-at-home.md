@@ -14,6 +14,11 @@ faqs:
     a: "Cuff size is critically important and often overlooked. A cuff that’s too small will give falsely high readings, while one that’s too large may give falsely low readings. Measure the circumference of your upper arm midway between your shoulder and elbow. Most standard cuffs fit arms between 9 and 13 inches in circumference. Large cuffs typically fit 13 to 17 inches. Many brands now offer universal or “ComFit” style cuffs that cover a wider range automatically."
   - q: "Should seniors with atrial fibrillation use a special blood pressure monitor?"
     a: "Seniors with atrial fibrillation (AFib) should look specifically for monitors with irregular heartbeat detection. AFib causes irregular heart rhythms that can make standard blood pressure readings less reliable, and some monitors are better equipped to handle this. The Omron Platinum and Omron Silver both include this feature. Always let your doctor know you’re monitoring at home, and discuss which device is best suited to your specific cardiac history."
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
+author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+
 ---
 
 ## Why Monitoring Blood Pressure at Home Matters for Seniors

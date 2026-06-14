@@ -14,6 +14,11 @@ faqs:
     a: "Most experts recommend balance and strength training at least three times per week for meaningful improvement. Even short sessions of 15–20 minutes are beneficial when done consistently. Programs like tai chi or community-based fall prevention classes such as Stepping On or Otago are well-researched and designed specifically for older adults. Many are available through senior centers, YMCAs, or even online."
   - q: "When should I be concerned about my parent’s fall risk?"
     a: "If your parent has already fallen once in the past year, that is a significant warning sign, people who fall once are two to three times more likely to fall again. Other red flags include frequent near-misses, reluctance to walk without holding onto furniture, complaints of dizziness, or avoiding activities they used to enjoy out of fear. Bring these concerns to their doctor right away. Many healthcare providers use a simple screening tool called the Timed Up and Go (TUG) test to measure fall risk quickly and objectively."
+author: "Dr. Patricia Williams"
+author_slug: "dr-patricia-williams"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+
 ---
 
 If you’ve watched a parent grip the wall for balance or shuffle carefully across a slippery floor, you already know the quiet fear that comes with it. Falls are the leading cause of injury among older adults, and the desire to **reduce fall risk elderly** loved ones face is one of the most important things a family can do together. The good news? Most falls are preventable with the right knowledge, simple home changes, and consistent daily habits.

@@ -6,8 +6,6 @@ description: "Stay strong and mobile as you age with these simple exercises for 
 image: "https://images.pexels.com/photos/6922196/pexels-photo-6922196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["General Fitness"]
 tags: ["exercises", "seniors", "stay", "independent"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "exercises-for-seniors-to-stay-independent"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, absolutely. In fact, a fall is often a signal that balance training is overdue, not that it's too late. Post-fall exercise programs supervised by physical therapists have strong evidence behind them. Many hospitals and rehab centers also offer fall prevention programs specifically for people who've already experienced a fall."
   - q: "How long before I notice improvements?"
     a: "Most people notice meaningful changes in 4 to 8 weeks with consistent effort. Balance often improves faster than strength. The first thing many people report isn't something dramatic: it's that they reached for the railing and then didn't bother, because they didn't need it."
+author: "Helen Santos"
+author_slug: "helen-santos"
+author_title: "Group Fitness Instructor"
+author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+
 ---
 
 Most people don't realize they're losing independence long before a fall happens. It happens quietly: gripping a railing tighter than you used to, skipping stairs when you can take the elevator, hesitating before standing up from a low chair. If any of that sounds familiar, you're not alone, and you're not too late.

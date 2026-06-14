@@ -14,6 +14,11 @@ faqs:
     a: "Walking is genuinely one of the best exercises for seniors with diabetes, it’s low-impact, free, and highly effective at improving insulin sensitivity. Studies show that a 15-minute walk after each meal can significantly reduce post-meal blood sugar spikes. However, adding some strength training twice a week will give you additional benefits that walking alone can’t provide, including better muscle mass and metabolic health."
   - q: "What should I eat before and after exercise?"
     a: "If your blood sugar is in a safe range before exercise, you may not need to eat anything beforehand. If it’s on the lower end (below 100 mg/dL), a small snack with 15–20 grams of carbohydrates and some protein, like apple slices with peanut butter, works well. After exercise, a balanced meal or snack with protein and complex carbohydrates helps your muscles recover and stabilizes blood sugar. Always work with your dietitian or diabetes care team to personalize your nutrition plan. Exercise is one of the most empowering choices you can make for your diabetes and your overall wellbeing. You don’"
+author: "Dr. Patricia Williams"
+author_slug: "dr-patricia-williams"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+
 ---
 
 Managing blood sugar while staying active can feel like walking a tightrope. Many older adults worry that the wrong movement could send their glucose levels spiraling,  or worse, cause an injury. The good news is that **exercises for seniors with diabetes** are not only safe, they are one of the most powerful tools you have to manage your condition and feel better every single day.

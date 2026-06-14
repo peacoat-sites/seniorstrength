@@ -14,6 +14,11 @@ faqs:
     a: "In most cases, daily movement is safe and encouraged, as long as you vary the intensity. Gentle activities like walking, stretching, or yoga can be done daily, while higher-intensity strength training typically needs a rest day between sessions. Always consult your healthcare provider to create a schedule appropriate for your specific health conditions. The goal is consistent, sustainable activity, not exhaustion."
   - q: "What if I’ve been sedentary for years? Where do I start?"
     a: "Starting from scratch is actually a wonderful position to be in, because even small amounts of new activity produce noticeable improvements quickly. Begin with just 5 to 10 minutes of walking each day and gradually build from there. A visit to your doctor for a check-up before beginning is always a smart first step. From there, consider working with a certified senior fitness trainer who can help you progress safely, confidently, and at your own pace."
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
+author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+
 ---
 
 You lace up your sneakers, feel motivated for a few days, and then life gets in the way. Sound familiar? Finding lasting **motivation to exercise seniors** often struggle with is one of the most common health challenges for people aged 60 and beyond. The good news? With the right strategies, staying active can actually become something you look forward to,  not something you dread.

@@ -14,6 +14,11 @@ faqs:
     a: "Yes, it genuinely can. Proper hydration supports healthy cartilage, helps the kidneys flush inflammatory waste products from the body, and keeps the synovial fluid in your joints at optimal levels. Water is one of the simplest and most underrated tools for joint health, and it’s completely free."
   - q: "Are natural remedies safe to use alongside prescription arthritis medications?"
     a: "Many natural approaches, such as eating more fish, walking regularly, or losing weight, are safe alongside most prescription treatments and may even enhance their effectiveness. However, some supplements like fish oil, turmeric, and boswellia can interact with blood thinners and other medications. Always share every supplement you’re considering with your doctor or pharmacist before adding it to your routine."
+author: "James Cooper"
+author_slug: "james-cooper"
+author_title: "Certified Trainer"
+author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+
 ---
 
 ## When Every Morning Feels Like a Battle

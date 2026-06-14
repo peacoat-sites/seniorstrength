@@ -14,6 +14,11 @@ faqs:
     a: "Yes, absolutely. Macular degeneration often reduces contrast sensitivity as well as central acuity. Built-in LED lighting increases contrast significantly, making text and images much easier to distinguish. Most low vision specialists strongly recommend illuminated magnifiers over non-lit models for AMD patients."
   - q: "Can a magnifying glass slow or stop macular degeneration progression?"
     a: "No, a magnifying glass is a low vision aid, not a medical treatment. It helps you see better with the vision you have but does not affect the progression of AMD itself. For information about treatments that may slow progression, speak with your ophthalmologist about options like AREDS2 supplements or anti-VEGF injections if you have wet AMD."
+author: "Dr. Patricia Williams"
+author_slug: "dr-patricia-williams"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+
 ---
 
 If you’ve ever found yourself holding a restaurant menu at arm’s length, squinting at the tiny print on a prescription bottle, or struggling to read your favorite novel, you’re not alone. Millions of seniors living with macular degeneration face these daily frustrations. Finding the **best magnifying glasses seniors** can use comfortably and confidently can make an enormous difference in independence and quality of life.
