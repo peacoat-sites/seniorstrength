@@ -1,0 +1,41 @@
+{
+  "title": "30-Second Chair Stand Test: Average Range by Age",
+  "source": "Normative ranges from the Senior Fitness Test (Rikli & Jones). Numbers are the typical (middle 50%) range of full stands in 30 seconds. Below the range may signal elevated fall risk; above is above-average for the age group.",
+  "rows": [
+    {
+      "age": "60–64",
+      "women": "12–17",
+      "men": "14–19"
+    },
+    {
+      "age": "65–69",
+      "women": "11–16",
+      "men": "12–18"
+    },
+    {
+      "age": "70–74",
+      "women": "10–15",
+      "men": "12–17"
+    },
+    {
+      "age": "75–79",
+      "women": "10–15",
+      "men": "11–17"
+    },
+    {
+      "age": "80–84",
+      "women": "9–14",
+      "men": "10–15"
+    },
+    {
+      "age": "85–89",
+      "women": "8–13",
+      "men": "8–14"
+    },
+    {
+      "age": "90–94",
+      "women": "4–11",
+      "men": "7–12"
+    }
+  ]
+}
