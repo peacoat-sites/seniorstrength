@@ -3,7 +3,7 @@ title: "Strength Training With Dumbbells For Seniors"
 date: 2026-06-08T21:50:23.664535+00:00
 draft: false
 description: "Discover safe and effective dumbbell strength training exercises designed for seniors to build muscle, improve balance, boost energy, and maintain independence "
-image: "https://images.pexels.com/photos/6293001/pexels-photo-6293001.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7322466/pexels-photo-7322466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["strength", "training", "with", "dumbbells", "seniors"]
 slug: "strength-training-with-dumbbells-for-seniors"
@@ -103,7 +103,7 @@ One purchase I do recommend: a full-length mirror if you don't have one. Watchin
 
 The truth about dumbbell training for adults over 60 is that it's less complicated than the fitness industry wants you to believe, and more effective than the overly cautious crowd will admit. Pick the right movements. Add load progressively. Recover between sessions. The rest is mostly noise.
 
-*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
+*Photo: [Alena Darmel](https://www.pexels.com/@a-darmel) via Pexels*
 
 ---
 

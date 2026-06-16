@@ -3,7 +3,7 @@ title: "Does walking 30 minutes a day help seniors lose weight?"
 date: 2026-05-23T16:43:43.010951+00:00
 draft: false
 description: "Discover how walking to lose weight seniors style,  just 30 minutes a day,  can help you shed pounds, boost energy, and improve your health after 60. Expert"
-image: "https://images.pexels.com/photos/27309469/pexels-photo-27309469.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/19971195/pexels-photo-19971195.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["lifestyle"]
 slug: "does-walking-30-minutes-a-day-help-seniors-lose-weight"
 affiliate_disclosure: true

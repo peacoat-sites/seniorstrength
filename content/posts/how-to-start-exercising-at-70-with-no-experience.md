@@ -3,7 +3,7 @@ title: "How to start exercising at 70 with no experience"
 date: 2026-05-27T17:49:52.344234+00:00
 draft: false
 description: "Wondering how to start exercising at 70 with no experience? Discover safe, beginner-friendly exercises, a simple weekly plan, and expert tips to help seniors"
-image: "https://images.pexels.com/photos/6648551/pexels-photo-6648551.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6922179/pexels-photo-6922179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["exercise"]
 slug: "how-to-start-exercising-at-70-with-no-experience"
 affiliate_disclosure: true

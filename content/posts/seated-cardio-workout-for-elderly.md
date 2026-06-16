@@ -3,7 +3,7 @@ title: "Seated Cardio Workout For Elderly"
 date: 2026-06-04T12:20:45.829899+00:00
 draft: false
 description: "Discover gentle seated cardio exercises designed for elderly adults to boost heart health, improve mobility, and increase energy levels safely from the comfort "
-image: "https://images.pexels.com/photos/8899511/pexels-photo-8899511.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6539867/pexels-photo-6539867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Low-Impact Workouts"]
 tags: ["seated", "cardio", "workout", "elderly"]
 slug: "seated-cardio-workout-for-elderly"
@@ -109,7 +109,7 @@ If you have a pacemaker, uncontrolled hypertension, recent cardiac events, or an
 
 Some days the workout will feel easy. Some days, for no obvious reason, it'll feel harder. Both are normal. What matters is showing up consistently enough that your body has no choice but to adapt. Seated or standing, that's the whole game.
 
-*Photo: [Anna Shvets](https://www.pexels.com/@shvetsa) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

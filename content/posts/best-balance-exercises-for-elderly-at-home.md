@@ -3,7 +3,7 @@ title: "Best Balance Exercises For Elderly At Home"
 date: 2026-06-12T21:43:13.113987+00:00
 draft: false
 description: "Discover the best balance exercises for elderly at home to prevent falls, boost stability, and improve confidence with safe, easy routines you can do daily."
-image: "https://images.pexels.com/photos/6922183/pexels-photo-6922183.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8899507/pexels-photo-8899507.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Balance & Mobility"]
 tags: ["best", "balance", "exercises", "elderly", "home"]
 slug: "best-balance-exercises-for-elderly-at-home"
@@ -127,7 +127,7 @@ If you've already had a fall, if you have a diagnosed vestibular disorder like B
 
 Balance training at home doesn't require a gym, a trainer present at every session, or fancy equipment. It requires showing up to ten minutes of deliberate, progressively challenging practice most days of the week. The exercises above cover the full system: ankle stability, hip strength, gait mechanics, vestibular training, dual-task processing. Work through them in order. Get bored with them, because boredom means they're becoming easy, which means they're working.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "How To Build Muscle After 60"
 date: 2026-06-13T21:17:36.041359+00:00
 draft: false
 description: "Discover proven strategies to build muscle after 60, including strength training tips, nutrition advice, and recovery techniques to help you gain strength and s"
-image: "https://images.pexels.com/photos/6922167/pexels-photo-6922167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5067768/pexels-photo-5067768.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["build", "muscle", "after"]
 slug: "how-to-build-muscle-after-60"
@@ -91,7 +91,7 @@ The honest truth is that most of what holds older adults back from building real
 
 Use it.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Anna Shvets](https://www.pexels.com/@shvetsa) via Pexels*
 
 ---
 

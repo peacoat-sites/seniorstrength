@@ -3,7 +3,7 @@ title: "Bodyweight Strength Exercises For Older Adults"
 date: 2026-06-02T12:53:30.857563+00:00
 draft: false
 description: "Build functional strength safely with the best bodyweight exercises for older adults. Improve balance, mobility, and independence with no equipment needed."
-image: "https://images.pexels.com/photos/6922189/pexels-photo-6922189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4775197/pexels-photo-4775197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["bodyweight", "strength", "exercises", "older", "adults"]
 slug: "bodyweight-strength-exercises-for-older-adults"
@@ -117,7 +117,7 @@ Rest days matter too. Doing the same exercises every single day doesn't accelera
 
 Starting a bodyweight training practice after 60 isn't about recapturing youth or competing with anyone. It's about making the next decade feel more capable, more confident, and more your own. The body you have right now is already capable of more than you might believe. Give it consistent, progressive challenge, enough protein and sleep to recover, and the patience to let adaptation happen. That's really all the formula requires. And if you're not sure where to begin, a single session with a certified trainer or physical therapist who works with older adults can give you a personalized starting point that's worth far more than any generic program.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Maksim Goncharenok](https://www.pexels.com/@maksgelatin) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Water aerobics for seniors: benefits and beginner moves"
 date: 2026-05-19T15:13:51.054499+00:00
 draft: false
 description: "Discover the amazing benefits of water aerobics for seniors and learn 5 simple beginner moves to get started safely. Gentle on joints, great for strength, ba"
-image: "https://images.pexels.com/photos/36715246/pexels-photo-36715246.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7020820/pexels-photo-7020820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["exercise"]
 slug: "water-aerobics-for-seniors-benefits-and-beginner-moves"
 affiliate_disclosure: true

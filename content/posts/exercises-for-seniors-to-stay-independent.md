@@ -3,7 +3,7 @@ title: "Exercises For Seniors To Stay Independent"
 date: 2026-06-05T21:25:30.765574+00:00
 draft: false
 description: "Stay strong and mobile as you age with these simple exercises for seniors designed to improve balance, flexibility, and strength to help you maintain independen"
-image: "https://images.pexels.com/photos/6922196/pexels-photo-6922196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8417516/pexels-photo-8417516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["General Fitness"]
 tags: ["exercises", "seniors", "stay", "independent"]
 slug: "exercises-for-seniors-to-stay-independent"
@@ -127,7 +127,7 @@ One more thing: if you have osteoporosis, a recent joint replacement, or signifi
 
 That last one is the whole point, really. Not a milestone workout or a weight on a bar. Just a railing you didn't need. That's what staying independent looks like, and it's absolutely within reach.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 
 ---
 

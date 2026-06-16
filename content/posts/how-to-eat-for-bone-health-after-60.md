@@ -3,7 +3,7 @@ title: "How to eat for bone health after 60"
 date: 2026-05-20T17:38:50.781207+00:00
 draft: false
 description: "Discover the best bone health diet after 60 with expert-backed nutrition tips. Learn which foods, nutrients, and daily habits protect bone density and reduce"
-image: "https://images.pexels.com/photos/12895247/pexels-photo-12895247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7456815/pexels-photo-7456815.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["nutrition"]
 slug: "how-to-eat-for-bone-health-after-60"
 affiliate_disclosure: true

@@ -3,7 +3,7 @@ title: "Benefits Of Exercise For Older Adults"
 date: 2026-06-07T21:11:41.150654+00:00
 draft: false
 description: "Discover the key benefits of exercise for older adults, from improved strength and balance to better heart health and mental wellbeing. Start moving for a healt"
-image: "https://images.pexels.com/photos/6922171/pexels-photo-6922171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6787500/pexels-photo-6787500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["General Fitness"]
 tags: ["benefits", "exercise", "older", "adults"]
 slug: "benefits-of-exercise-for-older-adults"
@@ -103,7 +103,7 @@ The honest truth is that most of what people fear about getting older, losing in
 
 Carol still comes to class every Tuesday and Thursday. She turned 74 in March. She doesn't use the armrests anymore.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Marcus Aurelius](https://www.pexels.com/@marcus-aurelius) via Pexels*
 
 ---
 

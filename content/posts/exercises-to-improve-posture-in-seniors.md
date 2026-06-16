@@ -3,7 +3,7 @@ title: "Exercises To Improve Posture In Seniors"
 date: 2026-06-03T14:07:30.995989+00:00
 draft: false
 description: "Discover the best exercises to improve posture in seniors. Strengthen muscles, reduce back pain, and stand taller with these safe, easy routines for older adult"
-image: "https://images.pexels.com/photos/6975783/pexels-photo-6975783.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6787204/pexels-photo-6787204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Balance & Mobility"]
 tags: ["exercises", "improve", "posture", "seniors"]
 slug: "exercises-to-improve-posture-in-seniors"
@@ -107,7 +107,7 @@ Posture work is slow, sometimes tedious, and the payoff isn't always obvious in 
 
 Start with two or three of these exercises. Master those before adding more. And if you're not sure where your particular pattern of muscle weakness or tightness is worst, a single session with a physical therapist for a postural assessment is money well spent.
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [Marcus Aurelius](https://www.pexels.com/@marcus-aurelius) via Pexels*
 
 ---
 

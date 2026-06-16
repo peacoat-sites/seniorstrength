@@ -3,7 +3,7 @@ title: "Calcium And Vitamin D For Seniors Guide"
 date: 2026-06-06T21:05:51.026557+00:00
 draft: false
 description: "Discover how calcium and vitamin D support bone health in seniors. Learn recommended daily intake, best food sources, supplement tips, and deficiency warning si"
-image: "https://images.pexels.com/photos/8899513/pexels-photo-8899513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/3850750/pexels-photo-3850750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Nutrition"]
 tags: ["calcium", "vitamin", "seniors", "guide"]
 slug: "calcium-and-vitamin-d-for-seniors-guide"
@@ -95,7 +95,7 @@ Magnesium deserves a mention here. It's a cofactor for vitamin D metabolism, and
 
 Get the blood test. Know your numbers. Adjust from there. That's a more reliable foundation than any amount of general advice, including this.
 
-*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
+*Photo: [ready made](https://www.pexels.com/@readymade) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Exercises To Avoid With Osteoporosis"
 date: 2026-06-11T22:03:12.908678+00:00
 draft: false
 description: "Protect your bones and prevent fractures by learning which exercises to avoid with osteoporosis, plus safe alternatives to stay active and strong."
-image: "https://images.pexels.com/photos/6293108/pexels-photo-6293108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/20552877/pexels-photo-20552877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Injury Prevention"]
 tags: ["exercises", "avoid", "with", "osteoporosis"]
 slug: "exercises-to-avoid-with-osteoporosis"
@@ -99,7 +99,7 @@ Swimming is safe and great for cardiovascular health, muscle strength, and joint
 
 Not necessarily, but you absolutely need medical clearance and professional guidance before resuming. The acute phase after a fracture requires careful management, and the exercises you do during recovery look very different from a general maintenance program. A physical therapist working with your orthopedic or rheumatology team is the right person to help structure this. Don't try to self-manage a post-fracture exercise return based on online information alone, including this article.
 
-*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
+*Photo: [水 金](https://www.pexels.com/@531194097) via Pexels*
 
 ---
 

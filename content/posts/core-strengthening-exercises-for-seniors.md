@@ -3,7 +3,7 @@ title: "Core Strengthening Exercises For Seniors"
 date: 2026-06-05T12:21:15.699287+00:00
 draft: false
 description: "Discover the best core strengthening exercises for seniors to improve balance, posture, and stability. Safe, effective moves to help older adults stay active an"
-image: "https://images.pexels.com/photos/6922185/pexels-photo-6922185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8032898/pexels-photo-8032898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["core", "strengthening", "exercises", "seniors"]
 slug: "core-strengthening-exercises-for-seniors"
@@ -107,7 +107,7 @@ If you've had a recent back surgery, a compression fracture, significant osteopo
 
 The real goal here isn't a stronger core for its own sake. It's the ability to stay in your own home, to pick up your grandkids, to hike a trail at 75 without your back giving out two days later. Those outcomes are available to most people who do this work consistently. What makes the difference is starting with the right foundation rather than the exercises that just *look* like they're doing something.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 
 ---
 

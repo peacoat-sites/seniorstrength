@@ -3,7 +3,7 @@ title: "How To Improve Balance After 60"
 date: 2026-06-09T21:47:31.956475+00:00
 draft: false
 description: "Discover simple exercises and tips to improve balance after 60, reduce fall risk, and stay active, confident, and independent as you age gracefully."
-image: "https://images.pexels.com/photos/6815693/pexels-photo-6815693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8637980/pexels-photo-8637980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Balance & Mobility"]
 tags: ["improve", "balance", "after"]
 slug: "how-to-improve-balance-after-60"
@@ -89,7 +89,7 @@ Using an assistive device while you need it doesn't make your balance worse. It 
 
 For most people, mid-morning is ideal, after the early stiffness of waking has worn off but before fatigue sets in later in the day. Avoid training immediately after taking medications that cause dizziness, and never train balance when you're tired enough that your attention is impaired. Balance training requires focus. A distracted 20-minute session near a sturdy surface beats an exhausted one any day of the week.
 
-*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
+*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 
 ---
 

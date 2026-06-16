@@ -3,7 +3,7 @@ title: "Best protein foods for seniors to maintain muscle"
 date: 2026-05-18T07:00:00.536226+00:00
 draft: false
 description: "Discover the best protein foods for seniors muscle health. Learn how much protein you need, top food sources, and easy tips to stay strong and active after 6"
-image: "https://images.pexels.com/photos/3743169/pexels-photo-3743169.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/11768113/pexels-photo-11768113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["nutrition"]
 slug: "best-protein-foods-for-seniors-to-maintain-muscle"
 affiliate_disclosure: true

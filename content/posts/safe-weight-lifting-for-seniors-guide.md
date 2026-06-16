@@ -3,7 +3,7 @@ title: "Safe Weight Lifting For Seniors Guide"
 date: 2026-06-05T12:23:18.327157+00:00
 draft: false
 description: "Discover safe weight lifting tips for seniors. Learn proper techniques, recommended exercises, and expert advice to build strength, improve balance, and stay in"
-image: "https://images.pexels.com/photos/6922181/pexels-photo-6922181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4720813/pexels-photo-4720813.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["safe", "weight", "lifting", "seniors", "guide"]
 slug: "safe-weight-lifting-for-seniors-guide"
@@ -105,7 +105,7 @@ Protein intake is deeply underappreciated. You need more of it to trigger the sa
 
 The longer I do this work, the more convinced I am that the biggest obstacle for most people over 60 isn't ability or even motivation. It's that the information they've been given was too cautious to be useful. Your body responds to challenge. Give it one.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto) via Pexels*
 
 ---
 

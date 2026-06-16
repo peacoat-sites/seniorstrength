@@ -3,7 +3,7 @@ title: "Upper Body Exercises For Seniors"
 date: 2026-06-10T22:01:37.372556+00:00
 draft: false
 description: "Discover the best upper body exercises for seniors to build strength, improve mobility, and boost independence. Safe, effective moves suitable for all fitness l"
-image: "https://images.pexels.com/photos/8637979/pexels-photo-8637979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/12086689/pexels-photo-12086689.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["upper", "body", "exercises", "seniors"]
 slug: "upper-body-exercises-for-seniors"
@@ -113,7 +113,7 @@ Progressive overload still applies after 60. You don't maintain strength by doin
 
 The shoulder that lets you reach overhead, the grip that keeps you steady on stairs, the back that stays upright through a long day: none of that is fixed by fate. It responds to work, at any age. Start simpler than you think you need to, stay consistent longer than feels necessary, and the results tend to take care of themselves.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Wellness Gallery Catalyst Foundation](https://www.pexels.com/@wellness-gallery-catalyst-foundation-229759139) via Pexels*
 
 ---
 

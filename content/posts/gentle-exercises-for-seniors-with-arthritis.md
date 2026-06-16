@@ -3,7 +3,7 @@ title: "Gentle Exercises For Seniors With Arthritis"
 date: 2026-06-10T22:03:32.622807+00:00
 draft: false
 description: "Discover safe, gentle exercises for seniors with arthritis that reduce joint pain, improve mobility, and boost strength. Start moving comfortably today with exp"
-image: "https://images.pexels.com/photos/6815699/pexels-photo-6815699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6974993/pexels-photo-6974993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Low-Impact Workouts"]
 tags: ["gentle", "exercises", "seniors", "with", "arthritis"]
 slug: "gentle-exercises-for-seniors-with-arthritis"
@@ -81,7 +81,7 @@ Please talk to your doctor or a physical therapist before beginning a new exerci
 
 Some days the goal is just to move your body enough to keep it from seizing up, and that is a completely legitimate goal. Not every workout needs to be ambitious. Consistency at a modest level beats intensity followed by two days of recovery almost every time. You know your body better than any program does. Trust that, keep showing up, and adjust as you go.
 
-*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
+*Photo: [T Leish](https://www.pexels.com/@leish) via Pexels*
 
 ---
 

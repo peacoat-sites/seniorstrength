@@ -3,7 +3,7 @@ title: "Best Exercise Routine For 70 Year Old Man"
 date: 2026-06-08T21:52:53.669050+00:00
 draft: false
 description: "Discover the best exercise routine for a 70 year old man to boost strength, balance, and flexibility. Safe, effective workouts tailored for seniors to stay acti"
-image: "https://images.pexels.com/photos/7322452/pexels-photo-7322452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6975756/pexels-photo-6975756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["General Fitness"]
 tags: ["best", "exercise", "routine", "year"]
 slug: "best-exercise-routine-for-70-year-old-man"
@@ -125,7 +125,7 @@ You might be wondering if supplements beyond protein are worth it. Creatine mono
 
 None of this has to happen all at once. The men I've seen make the best progress are the ones who start with two things, do them consistently, and add from there. Not the ones who launched a full program on January 2nd and injured themselves by February. Start smaller than you think you need to. The consistency will get you further than the intensity every single time.
 
-*Photo: [Alena Darmel](https://www.pexels.com/@a-darmel) via Pexels*
+*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
 ---
 

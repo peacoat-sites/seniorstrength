@@ -3,7 +3,7 @@ title: "How To Start A Senior Fitness Program"
 date: 2026-06-07T21:13:39.883504+00:00
 draft: false
 description: "Discover how to start a senior fitness program safely with expert tips on exercises, goals, and building strength, flexibility, and balance for a healthier life"
-image: "https://images.pexels.com/photos/7927790/pexels-photo-7927790.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6815695/pexels-photo-6815695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["General Fitness"]
 tags: ["start", "senior", "fitness", "program"]
 slug: "how-to-start-a-senior-fitness-program"
@@ -87,7 +87,7 @@ The first month is the hardest part, and not for the reason most people think. I
 
 Start smaller than makes sense. Stay more consistent than feels necessary. Let the program earn your trust before you push it.
 
-*Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
+*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
 
 ---
 

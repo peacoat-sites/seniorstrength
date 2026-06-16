@@ -3,7 +3,7 @@ title: "Best Exercises For Osteoporosis"
 date: 2026-06-11T22:05:21.940015+00:00
 draft: false
 description: "Discover the best exercises for osteoporosis to strengthen bones, improve balance, and reduce fracture risk. Learn safe, effective workouts recommended by exper"
-image: "https://images.pexels.com/photos/6922164/pexels-photo-6922164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8899546/pexels-photo-8899546.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Joint Health"]
 tags: ["best", "exercises", "osteoporosis"]
 slug: "best-exercises-for-osteoporosis"
@@ -91,7 +91,7 @@ Always get clearance from your physician or a physical therapist who knows your 
 
 The most important thing I can leave you with isn't a specific exercise. It's this: the fear of doing too much is actually hurting a lot of people with osteoporosis more than a thoughtfully designed, progressive program ever would. Bones respond to challenge. So does the rest of you.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 
 ---
 

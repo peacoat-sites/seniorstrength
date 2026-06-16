@@ -3,7 +3,7 @@ title: "How To Prevent Falls In Elderly At Home"
 date: 2026-06-15T22:18:57.924515+00:00
 draft: false
 description: "Discover practical tips to prevent falls in elderly at home with simple home modifications, exercise routines, and safety strategies to reduce injury risk."
-image: "https://images.pexels.com/photos/11349823/pexels-photo-11349823.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/18459246/pexels-photo-18459246.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Injury Prevention"]
 tags: ["prevent", "falls", "elderly", "home"]
 author: "Helen Santos"
@@ -96,7 +96,7 @@ And then there's this: bifocals and progressive lenses, while excellent for gene
 
 The real shift in thinking I'd encourage is this: fall prevention isn't a checklist you complete once and forget. It's an ongoing habit of looking at your environment, your body, and your medications with honest eyes. Small changes made consistently, and adjusted as life changes, are what make the difference. The people I've seen avoid serious falls weren't necessarily the healthiest or the youngest. They were the ones paying attention.
 
-*Photo: [Mehmet Turgut  Kirkgoz](https://www.pexels.com/@tkirkgoz) via Pexels*
+*Photo: [Jsme  MILA](https://www.pexels.com/@jsme-mila-523821574) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "How To Start Exercising After 70"
 date: 2026-06-15T22:21:03.357088+00:00
 draft: false
 description: "Discover safe and effective ways to start exercising after 70. Build strength, improve balance, and boost energy with beginner-friendly fitness tips for seniors"
-image: "https://images.pexels.com/photos/6874401/pexels-photo-6874401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6922123/pexels-photo-6922123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Fitness Basics"]
 tags: ["start", "exercising", "after"]
 author: "Dr. Patricia Williams"
@@ -100,7 +100,7 @@ What I'd steer most people away from: expensive in-home fitness equipment in the
 
 The truth is, starting at 70 is not starting too late. I've worked with people who began serious strength training at 74 and were climbing hiking trails two years later. The body adapts at every age. It just needs to be asked the right way, in the right amount, consistently enough that the adaptations have time to stick. That's the whole thing, really. Start easier than you think you need to, show up more often than feels necessary, and give it three months before you judge anything.
 
-*Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
+*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 
 ---
 

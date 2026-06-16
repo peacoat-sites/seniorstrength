@@ -3,7 +3,7 @@ title: "Water Aerobics Exercises For Seniors"
 date: 2026-06-02T12:55:53.503306+00:00
 draft: false
 description: "Discover the best water aerobics exercises for seniors to boost strength, flexibility, and balance while protecting joints. Stay active and healthy in the pool "
-image: "https://images.pexels.com/photos/8899509/pexels-photo-8899509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7222189/pexels-photo-7222189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Low-Impact Workouts"]
 tags: ["water", "aerobics", "exercises", "seniors"]
 slug: "water-aerobics-exercises-for-seniors"
@@ -103,7 +103,7 @@ What you can skip, at least at the start: expensive hydrotherapy belts for deep 
 
 If you've spent years dreading exercise or avoiding it because of pain, fear, or frustration with advice that doesn't account for what your body actually is right now, the pool might genuinely change that experience for you. I've watched people in their 70s and 80s rediscover what it feels like to move without bracing for impact. That's not a small thing. Start with one session, go easy, and see how your body responds. The water has a way of surprising people, and in this case, the surprise is usually a good one.
 
-*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
 ---
 

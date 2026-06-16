@@ -3,7 +3,7 @@ title: "Standing Exercises For Seniors No Equipment"
 date: 2026-06-12T21:45:32.548215+00:00
 draft: false
 description: "Discover simple standing exercises for seniors that require no equipment. Improve balance, strength, and mobility safely at home with these easy, effective rout"
-image: "https://images.pexels.com/photos/8417532/pexels-photo-8417532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6975786/pexels-photo-6975786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Low-Impact Workouts"]
 tags: ["standing", "exercises", "seniors", "equipment"]
 slug: "standing-exercises-for-seniors-no-equipment"
@@ -119,7 +119,7 @@ For the strength exercises, slowing down the lowering phase (what trainers call 
 
 Start with what you can do today, not the version you'd like to be able to do in six months. The person who does three modest exercises consistently will get more benefit than the person who attempts a full routine twice and quits. I've watched that play out too many times to count.
 
-*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
+*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
 ---
 

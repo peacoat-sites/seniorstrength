@@ -3,7 +3,7 @@ title: "How Often Should Seniors Strength Train"
 date: 2026-06-09T21:49:56.169737+00:00
 draft: false
 description: "Discover how often seniors should strength train to build muscle, boost balance, and stay independent. Get expert-backed weekly workout recommendations for olde"
-image: "https://images.pexels.com/photos/6293160/pexels-photo-6293160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4720570/pexels-photo-4720570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strength Training"]
 tags: ["often", "should", "seniors", "strength", "train"]
 slug: "how-often-should-seniors-strength-train"
@@ -81,7 +81,7 @@ The honest summary, if there is one: most older adults will do best starting at 
 
 That last part sounds obvious. In practice, it's where almost everyone needs the most help.
 
-*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
+*Photo: [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto) via Pexels*
 
 ---
 

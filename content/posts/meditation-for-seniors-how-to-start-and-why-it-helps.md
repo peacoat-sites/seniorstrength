@@ -3,7 +3,7 @@ title: "Meditation for seniors: how to start and why it helps"
 date: 2026-05-18T07:18:54.117556+00:00
 draft: false
 description: "Discover how meditation for seniors beginners can reduce stress, improve sleep, and sharpen memory. This friendly, step-by-step guide makes it easy to start"
-image: "https://images.pexels.com/photos/6643395/pexels-photo-6643395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8940506/pexels-photo-8940506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["lifestyle"]
 slug: "meditation-for-seniors-how-to-start-and-why-it-helps"
 affiliate_disclosure: true
