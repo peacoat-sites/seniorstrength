@@ -17,6 +17,7 @@ enableEmoji = true
   pagerSize = 12
 
 [params]
+  youtube_channel = "UCkkpo2zsGXyjOPH7HUC2V7A"
   page_bg = "#eff6ff"
   nav_style = "dark"
   logo_text_1 = "Senior"
