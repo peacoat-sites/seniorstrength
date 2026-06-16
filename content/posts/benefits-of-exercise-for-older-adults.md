@@ -96,27 +96,6 @@ The Silver Sneakers program, available free through many Medicare Advantage plan
 
 ---
 
-## Frequently Asked Questions
-
-### Is it safe to start lifting weights at 70 or 80?
-
-Yes, with appropriate guidance. Studies including adults in their 90s have shown meaningful strength gains from resistance training. The key is starting with a manageable load and learning proper form, ideally with a few sessions with a qualified trainer before going solo.
-
-### How much exercise is actually enough to see benefits?
-
-Even 10 to 20 minutes of walking per day shows measurable health benefits compared to being sedentary. More is generally better up to a point, but consistency matters far more than intensity. Three days a week of moderate activity beats one brutal workout followed by five days off.
-
-### What if I have arthritis or chronic joint pain?
-
-Movement is usually part of the treatment, not something to avoid. Low-impact options like swimming, water aerobics, cycling, and chair-based exercise can build strength and reduce stiffness without aggravating joints. A physical therapist can help you find the right approach for your specific joints and pain level.
-
-### Will exercise help with sleep problems?
-
-The research here is fairly consistent: regular moderate exercise improves both sleep quality and sleep duration in older adults. A 2019 meta-analysis in *Advances in Preventive Medicine* found significant improvements in both measures. It may take a few weeks to notice the effect, and exercising too close to bedtime can backfire for some people.
-
-### What if I've never really exercised before?
-
-You're not starting from zero, you're starting from where you are, which is a completely reasonable place to begin. Adults who were sedentary for decades still respond to exercise. In some ways, the gains in the first few months for previously sedentary older adults are steeper than for people who've been consistently active, because there's more low-hanging fruit.
 
 ---
 

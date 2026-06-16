@@ -90,27 +90,6 @@ Magnesium deserves a mention here. It's a cofactor for vitamin D metabolism, and
 
 ---
 
-## FAQ
-
-### Can you get enough calcium and vitamin D from food alone?
-
-For vitamin D, it's genuinely difficult for most older adults, especially in northern climates or with limited sun exposure. Calcium is more achievable from diet, but many people fall short without being aware of it. Tracking your food intake for a few days using a free app like Cronometer can show you where you actually stand before deciding what to supplement.
-
-### What's the best time of day to take vitamin D?
-
-With your largest meal, ideally one that contains some fat. Morning or noon tends to work best for most people simply because that's when appetite is highest and fat intake more reliable. There's some preliminary research suggesting evening vitamin D might affect sleep quality, though the evidence is limited and inconsistent.
-
-### Does calcium supplementation cause heart attacks?
-
-This concern comes from a 2010 meta-analysis in the *BMJ* that raised alarm about supplemental calcium and cardiovascular events. Subsequent research has been more reassuring, and most experts now think the risk, if it exists at all, is specific to high supplemental calcium without adequate vitamin D, magnesium, and K2. Taking calcium with vitamin D and getting K2 from leafy greens or fermented foods appears to mitigate any theoretical risk. Your doctor can help you weigh this in the context of your own cardiovascular history.
-
-### Should I take vitamin K2 with calcium and vitamin D?
-
-The research on K2 is genuinely interesting. It directs calcium toward bones and away from arterial walls, at least in theory, and a 2019 study in *Nutrients* found that vitamin K2 supplementation improved bone density markers in postmenopausal women. It's not standard advice yet, but if your doctor is open to it and you're taking higher doses of calcium, it's a reasonable conversation to have.
-
-### How do I know if my current supplement dose is actually working?
-
-Ask your doctor to check your serum 25(OH)D level (target 40-60 ng/mL for most older adults) and schedule a DEXA scan if you haven't had one recently. A DEXA scan measures bone mineral density directly and gives you a T-score that tells you exactly where you stand. It's the actual measure that matters, not whether you remember to take your pills.
 
 ---
 

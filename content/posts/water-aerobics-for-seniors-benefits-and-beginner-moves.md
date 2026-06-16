@@ -100,19 +100,6 @@ When searching, look for classes labeled “SilverSplash,” “Aqua Fit for Sen
 
 If getting to a class is difficult, look for beginner water aerobics videos designed for seniors on streaming platforms. These can guide you through a safe workout during open swim hours at your local pool.
 
-## Frequently Asked Questions
-
-### Do I need to know how to swim to do water aerobics?
-
-No,  and this surprises many people! Water aerobics classes for seniors take place in the shallow end of the pool where you can stand comfortably. Your face stays out of the water the entire time. You don’t need any swimming ability whatsoever.
-
-### How often should seniors do water aerobics to see results?
-
-Most health guidelines recommend aiming for at least 150 minutes of moderate exercise per week. For water aerobics, that means attending three to four 45-minute classes per week. Even two classes a week will produce noticeable improvements in strength, flexibility, and energy levels within a few weeks.
-
-### Is water aerobics good for seniors with arthritis?
-
-Absolutely,  it’s actually one of the most recommended exercises for people with arthritis. The Arthritis Foundation specifically endorses aquatic exercise because the warm water soothes inflamed joints while the buoyancy removes the pressure that makes land-based exercise painful. Many seniors with arthritis report significant reductions in joint pain after just a few weeks of regular water aerobics.
 
 ## Your Next Step Toward a Stronger, Happier You
 

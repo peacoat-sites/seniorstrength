@@ -93,27 +93,6 @@ If you're doing water aerobics or a group fitness class you love, I'm not tellin
 
 ---
 
-## FAQ
-
-### How much muscle can I realistically expect to build after 65?
-
-The research here varies quite a bit depending on starting point and training history, but multiple studies have shown meaningful gains in muscle mass and strength in adults well into their 70s and 80s. A landmark study out of Tufts University showed significant strength improvements in frail nursing home residents in their 90s after just 10 weeks of resistance training. The ceiling is higher than most people assume.
-
-### Is it safe to lift weights if I have osteoporosis?
-
-Generally, yes, and in many cases resistance training is actively recommended for osteoporosis because it places stress on the bones in a way that stimulates bone density. That said, technique and exercise selection matter significantly. Avoid loaded spinal flexion exercises (like a crunch or deadlift with a rounded back), and work with a physical therapist or trainer familiar with bone health to build an appropriate program.
-
-### What if I have joint pain? Do I have to push through it?
-
-No. There's an important difference between the mild discomfort of muscle fatigue, which is normal, and joint pain, which is a signal to stop and assess. You can almost always find a movement variation that trains the same muscle group without aggravating a painful joint. A knee that hurts during squats might tolerate a seated leg press. Don't push through joint pain. Modify around it.
-
-### Can I get enough protein without eating a lot of meat?
-
-Yes, though it takes more planning. Eggs, Greek yogurt, cottage cheese, edamame, lentils, tofu, tempeh, and high-quality plant protein powders can all contribute substantially. The main thing to pay attention to with plant proteins is leucine content, since leucine is the amino acid most directly involved in triggering muscle protein synthesis, and it's less abundant in most plant sources than in animal proteins. Mixing sources and considering a supplement helps close that gap.
-
-### Does creatine actually work for older adults?
-
-This is one of the supplements with reasonably solid evidence behind it for older adults specifically. Creatine monohydrate (the basic, inexpensive version) has been shown in multiple studies to improve strength and lean mass gains when combined with resistance training in people over 60. A typical dose is 3 to 5 grams per day. It's generally considered safe for healthy kidneys, but check with your doctor if you have any kidney concerns. And don't bother with the fancy branded versions at three times the price.
 
 ---
 

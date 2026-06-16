@@ -105,19 +105,6 @@ You can practice all 12 poses as a complete 20–30 minute routine, or choose ju
 
 If you’re new to exercise in general, start with just 10–15 minutes and gradually build up. Listen to your body,  some days you’ll feel more flexible than others, and that’s completely normal.
 
-## Frequently Asked Questions About Seated Yoga for Seniors
-
-### Is chair yoga safe for seniors with osteoporosis?
-
-Chair yoga can be very beneficial for people with osteoporosis (a condition where bones become thinner and more fragile), but certain poses need to be modified. Forward bends and deep twists should be done gently and with minimal range of motion. Always consult your doctor or a physical therapist before beginning, and consider working with a yoga instructor experienced in teaching people with bone density concerns.
-
-### Can chair yoga help with arthritis pain?
-
-Yes,  gentle, regular movement is one of the best things you can do for arthritic joints. Chair yoga keeps joints lubricated and mobile without placing excessive stress on them. Many seniors report reduced stiffness and improved day-to-day comfort after just a few weeks of consistent practice. Start slowly, never push into painful ranges, and warm up your joints gently before each session.
-
-### Do I need a special chair for seated yoga?
-
-No special equipment is required. A standard armless dining chair works perfectly. The most important things are that the chair is stable, doesn’t wobble, and allows you to sit with your feet flat on the floor. Avoid chairs with wheels or very soft cushions that might shift during movement. If your feet don’t quite reach the floor, place a folded blanket or a firm pillow under them for support.
 
 ## Start Your Chair Yoga Journey Today
 

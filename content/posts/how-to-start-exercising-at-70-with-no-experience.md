@@ -110,19 +110,6 @@ Tracking your progress, even simply writing down what you did each day in a smal
 
 Celebrate every milestone,  your first 20-minute walk, your first full week of consistency, the day you notice the stairs feel easier. These victories matter enormously and deserve recognition.
 
-## Frequently Asked Questions
-
-### Is it safe to start exercising at 70 with no prior experience?
-
-Yes, absolutely. Research consistently shows that older adults who begin exercising,  at any age,  experience significant health benefits. The key is to start slowly, choose low-impact activities, and get clearance from your doctor first. Your body is more adaptable than you might think.
-
-### How long will it take to see results from exercising at 70?
-
-Many seniors begin to notice improvements in energy, mood, and sleep quality within just two to four weeks of regular activity. Physical changes like improved strength and endurance typically become noticeable within six to eight weeks of consistent exercise.
-
-### What if I have arthritis or joint pain,  can I still exercise?
-
-In most cases, yes,  and exercise is often recommended as part of arthritis management. Low-impact activities like swimming, water aerobics, cycling, and gentle yoga put minimal stress on your joints while still building strength and flexibility. Always consult your doctor or a physical therapist for guidance tailored to your specific condition.
 
 ## You Are Ready to Begin
 

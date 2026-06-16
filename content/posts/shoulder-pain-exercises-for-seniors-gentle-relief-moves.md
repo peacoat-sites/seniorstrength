@@ -126,21 +126,6 @@ While most shoulder pain in seniors responds well to gentle exercise and self-ca
 
 A doctor or physical therapist can provide a proper diagnosis and create a personalized plan tailored to your specific situation. There is absolutely no shame in asking for professional support,  it is one of the wisest things you can do for your health.
 
-## Frequently Asked Questions
-
-### How often should seniors do shoulder pain exercises?
-
-Most physical therapists recommend doing gentle shoulder exercises 4–5 times per week for best results. Daily movement is ideal, but giving your body at least one full rest day per week allows tissues to recover and repair. Consistency over time matters far more than doing too much too soon.
-
-### Can shoulder pain exercises make pain worse?
-
-When done correctly and gently, these exercises should produce mild, temporary discomfort at most,  not sharp or increasing pain. If an exercise makes your pain noticeably worse during or after the session, stop doing it and consult your doctor or physical therapist. It may be that you need a modified version or a different approach entirely.
-
-### Are these exercises safe for seniors with arthritis?
-
-Yes, gentle range-of-motion and stretching exercises are generally very beneficial for arthritis in the shoulder. Movement helps keep the joint lubricated and can reduce stiffness and pain over time. However, always check with your rheumatologist or doctor before starting a new exercise routine if you have been diagnosed with a specific type of arthritis.
-
-Your shoulders have carried you through decades of life,  cooking, gardening, hugging loved ones, and so much more. They deserve your care and attention. By practicing these gentle **shoulder pain exercises for seniors** regularly, listening to your body, and building healthy daily habits, you are giving yourself a real chance at lasting comfort and greater independence. Start slowly, stay consistent, and remember: every single movement you make is a step in the right direction. You have got this!
 
 ---
 

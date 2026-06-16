@@ -114,27 +114,6 @@ For the strength exercises, slowing down the lowering phase (what trainers call 
 
 ---
 
-## Frequently Asked Questions
-
-### Is it safe to do standing exercises every day?
-
-Generally, yes for balance work like tandem stance and heel rocks, but strength-focused moves like sit-to-stand and leg raises benefit from a rest day between sessions. Every-day training without recovery can lead to fatigue and increased injury risk, which is the opposite of what you want.
-
-### What if I feel dizzy when I stand up before or during exercise?
-
-Stop and sit down immediately, and don't try to push through it. Dizziness on standing can be orthostatic hypotension (a blood pressure drop when changing positions), an inner ear issue, or a medication side effect. It's worth mentioning to your doctor, especially if it's new or happens regularly. Don't write it off as "just getting older."
-
-### How long until I notice a difference in my balance?
-
-Most people notice something within four to six weeks of consistent practice two to three times a week, often a greater sense of confidence on uneven surfaces or on stairs before they'd describe it as "better balance." Measurable improvements on clinical balance tests typically show up around eight to twelve weeks.
-
-### Do I really need to have a chair nearby?
-
-For most people starting out, yes. The chair isn't a crutch; it's a safety tool. Exercising close to a support means you can challenge your limits more aggressively than you would if falling were the consequence of losing balance. Over time, you'll naturally use it less.
-
-### Can I do these exercises if I have knee or hip arthritis?
-
-Most of them, yes, with some modifications. Sit-to-stand may need to be done from a higher surface if deep knee bending is painful. Lateral leg raises are usually well-tolerated because they don't load the joint under compression. That said, if you're having a flare-up, this is a conversation to have with your doctor or physical therapist, not something to work around on your own.
 
 ---
 

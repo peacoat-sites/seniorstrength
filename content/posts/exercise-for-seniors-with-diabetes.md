@@ -105,27 +105,6 @@ A certified diabetes care and education specialist (CDCES) can be particularly u
 
 ---
 
-## FAQ
-
-### Can exercise actually replace medication for type 2 diabetes?
-
-For some people in early-stage type 2 diabetes, consistent exercise and dietary changes have allowed them to reduce or, in some cases, eliminate certain medications under physician supervision. This is documented and real. But it's not a universal outcome, it's not something to pursue by unilaterally stopping medication, and it doesn't apply to everyone, particularly those who've had diabetes for many years or who require insulin. The honest answer is: exercise can dramatically improve glucose control and may reduce medication needs, but that conversation belongs with your doctor, not a fitness article.
-
-### What's the best exercise if I have knee or hip pain?
-
-Water-based exercise is your best friend here. Pool walking, water aerobics, and aquatic resistance training provide genuine cardiovascular and strength benefit with minimal joint loading. Cycling, either on a stationary bike or recumbent, is another strong option. Seated resistance training with bands can address the upper body and core without any lower extremity stress. Avoid high-impact activity until the underlying pain is evaluated. Pain that changes your gait increases fall risk, which, as covered earlier, is a significant concern when peripheral neuropathy is also in the picture.
-
-### How does exercise affect blood sugar differently for type 1 versus type 2 diabetes?
-
-The glucose-lowering mechanism works similarly in both cases, but type 1 diabetes involves complete insulin deficiency and typically more variable glucose response to exercise. High-intensity exercise can cause sharp glucose spikes in type 1; prolonged aerobic exercise can cause steep drops. The management is more complex and more individualized. If you have type 1 diabetes, the general guidance in this article is a starting point only. Working closely with an endocrinologist who has sports medicine experience is strongly advisable.
-
-### Is it safe to exercise if my blood sugar is high?
-
-Moderate hyperglycemia (roughly 180 to 250 mg/dL) without ketones is generally not a contraindication to moderate exercise. In fact, light to moderate aerobic activity will usually bring it down. Above 250 mg/dL, especially with ketones present, exercise can paradoxically worsen hyperglycemia because the body is in a state of insulin deficiency and stress hormones will further raise glucose. Check for ketones if you have a way to do so, hold the workout, hydrate, and contact your provider if levels don't come down.
-
-### How long before I see results in my blood glucose numbers?
-
-You'll often see acute effects, lower post-meal readings, better morning glucose, within the first week of consistent effort. Longer-term changes in A1C, which reflects average glucose over roughly three months, typically become measurable after eight to twelve weeks of consistent training. That's a short runway for a meaningful clinical outcome. The catch is the word "consistent." Two or three weeks of effort followed by two weeks off resets much of the benefit. The strongest predictor of improved glucose control from exercise isn't the type of exercise. It's adherence.
 
 ---
 

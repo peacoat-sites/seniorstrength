@@ -111,21 +111,6 @@ Start slow,  even 10 minutes a day, three days a week is a wonderful beginning. 
 
 You might notice improvements in just 2–3 weeks: less stiffness in the morning, greater ease when getting up from a chair, and more confidence on your feet.
 
-## Frequently Asked Questions
-
-### Are chair exercises actually effective, or are they too easy to make a difference?
-
-Chair exercises are genuinely effective for building strength, improving flexibility, and boosting circulation. Research shows that resistance exercises done from a seated position can meaningfully increase muscle strength in older adults. They may feel less intense than standing workouts, but done consistently and with proper form, they deliver real results,  especially for people managing joint pain or balance concerns.
-
-### Will exercising make my knee pain worse?
-
-Gentle, low-impact exercise like the movements described here is generally safe for most knee conditions, including osteoarthritis. In fact, physical therapists often recommend these exact types of exercises to reduce knee pain over time. That said, if you experience sharp pain, swelling, or your pain significantly worsens during or after exercise, stop and consult your healthcare provider. Some mild muscle soreness after a workout is normal,  sharp joint pain is not.
-
-### Can I do these exercises if I’ve had knee replacement surgery?
-
-Many people do chair exercises successfully after knee replacement surgery, but the timing and specific movements should be guided by your surgeon or physical therapist. They’ll have a tailored recovery plan for you. Once you’re cleared for independent exercise, chair-based routines are often a recommended part of ongoing rehabilitation and long-term knee health maintenance.
-
-Living with knee pain doesn’t mean giving up on an active, strong, and independent life. These chair exercises for seniors are designed with your comfort, safety, and real-world needs in mind. Every gentle rep you complete is an investment in your mobility, your balance, and your wellbeing. You’ve got this,  one seated step at a time.
 
 ---
 

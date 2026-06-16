@@ -120,19 +120,6 @@ Here is a simple weekly schedule to get you started:
 
 Track how you feel each week. Most people notice improved comfort and ease of movement within two to three weeks of regular practice.
 
-## Frequently Asked Questions
-
-### Is foam rolling safe for seniors with arthritis?
-
-For most people with arthritis, foam rolling is considered safe and can actually help reduce joint stiffness by improving circulation to surrounding soft tissue. However, you should always avoid rolling directly over an inflamed joint or any area that is currently swollen and warm to the touch. Talk to your rheumatologist or physical therapist if you are unsure which areas are appropriate for you to target.
-
-### How long should a senior foam roll each session?
-
-For most seniors, 5 to 15 minutes per session is plenty. You do not need lengthy sessions to experience benefits,  in fact, shorter and more frequent sessions tend to work better than occasional long ones. Start with just five minutes and build up gradually as your muscles become more accustomed to the practice.
-
-### Can foam rolling help with balance problems in older adults?
-
-While foam rolling itself is not a balance exercise, it can support better balance indirectly. By releasing tension in the calves, hips, and ankles, foam rolling helps your muscles respond more freely during movement, which can contribute to better stability. For the best results, combine foam rolling with dedicated balance exercises recommended by your doctor or a certified fitness professional.
 
 ## You Have Got This
 

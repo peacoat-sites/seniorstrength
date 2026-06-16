@@ -133,21 +133,6 @@ Consider these more affordable options:
 
 Look for end-of-season sales, outlet stores, and Medicare or insurance coverage if you have diabetes or a qualifying foot condition,  you may be entitled to therapeutic footwear at low or no cost.
 
-## Frequently Asked Questions
-
-Photo by [Pierre Satch Naturellement Reiki](https://unsplash.com/@pierresatch?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
-
-### What shoe width is considered “wide” for seniors?
-
-Shoe widths are measured with letters. Standard widths are B (women) and D (men). Wide widths begin at D for women and 2E for men. Extra wide options include 2E for women and 4E or 6E for men. If you’ve always bought standard-width shoes but experience discomfort, try going up one full width,  many seniors are surprised by the difference it makes.
-
-### Are walking shoes good for seniors with diabetes?
-
-Yes,  in fact, proper walking shoes are especially important for seniors with diabetes. Diabetes can reduce circulation and sensation in the feet, making blisters and pressure points particularly dangerous. Look for shoes labeled “diabetic-friendly” or “therapeutic,” with seamless interiors, deep toe boxes, and accommodating widths. Brands like Propét and New Balance offer Medicare-approved diabetic footwear options.
-
-### How often should seniors replace their walking shoes?
-
-Most podiatrists recommend replacing walking shoes every 300 to 500 miles, or roughly every six to twelve months for regular daily walkers. Even if the outside of the shoe looks fine, the cushioning and support structures inside break down over time. Worn-out shoes can contribute to joint pain, balance problems, and an increased risk of falls,  so don’t hold on to them too long.
 
 ## Walk Farther, Feel Better, and Stay Active
 

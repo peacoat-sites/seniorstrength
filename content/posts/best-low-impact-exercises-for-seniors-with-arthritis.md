@@ -94,19 +94,6 @@ A simple weekly plan might look like this: walking or water aerobics on Monday, 
 
 Track your progress in a small notebook or on your phone. Noticing that you walked a little farther or held a yoga pose a little longer is genuinely motivating and worth celebrating.
 
-## Frequently Asked Questions
-
-### Is it safe to exercise when my arthritis is painful?
-
-Gentle movement is usually safe and even helpful during mild to moderate arthritis pain. Moving your joints gently can actually reduce stiffness and improve your comfort. However, if you are experiencing a significant flare-up,  meaning intense pain, visible swelling, or warmth around the joint,  rest for a day or two and contact your doctor if symptoms persist.
-
-### How long before I start seeing results from low impact exercise?
-
-Most seniors notice some improvement in joint flexibility and pain levels within 4 to 6 weeks of regular exercise. Improvements in muscle strength and balance may take a little longer,  around 8 to 12 weeks. The important thing is to stay consistent, even on days when progress feels slow.
-
-### What if I have never exercised regularly before,  where should I start?
-
-Start small and build gradually. Even five minutes of gentle walking or seated stretching is a legitimate starting point. From there, add a few minutes each week as your body adapts. Consider joining a senior fitness class at your local community center, where an instructor can guide you and you will have the added benefit of social connection.
 
 ## You Have More Strength Than You Think
 

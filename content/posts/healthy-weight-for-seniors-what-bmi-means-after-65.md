@@ -109,21 +109,6 @@ The goal isn’t to chase a perfect BMI. The goal is to feel strong, energetic, 
 
 **Work with your healthcare team.** Your doctor, dietitian, or physical therapist can create a personalized plan that considers your medications, medical history, and personal goals,  something no BMI chart can do.
 
-## Frequently Asked Questions
-
-Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
-
-### What is considered a healthy BMI for a 70-year-old?
-
-Most geriatric health experts consider a BMI between 23 and 30 to be acceptable for adults over 70, though the ideal range varies by individual. A BMI slightly above the standard “normal” range of 18.5–24.9 may actually offer some health protection for older adults. Always discuss your specific BMI with your doctor in the context of your overall health, not as a standalone number.
-
-### Is it normal to gain weight after 65 even without eating more?
-
-Yes, this is very common and has a biological explanation. As we age, our metabolism naturally slows down, and hormonal changes,  particularly in estrogen and testosterone,  cause fat to redistribute, especially around the abdomen. Muscle loss also means your body burns fewer calories at rest. Small, gradual changes in diet and regular physical activity can help manage this shift.
-
-### Should seniors try to lose weight if their BMI is in the “overweight” range?
-
-Not necessarily,  and certainly not without medical guidance. For seniors with a BMI between 25 and 30, the focus is usually better placed on improving fitness, strength, and nutrition quality rather than on weight loss for its own sake. Aggressive weight loss in older adults can cause muscle and bone loss that does more harm than good. If your doctor recommends weight loss, ask for a referral to a registered dietitian who specializes in senior nutrition.
 
 ## The Bottom Line: Your Health Is Bigger Than a Number
 

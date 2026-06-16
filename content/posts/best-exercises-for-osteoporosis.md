@@ -86,27 +86,6 @@ Always get clearance from your physician or a physical therapist who knows your 
 
 ---
 
-## Frequently Asked Questions
-
-### Can osteoporosis be reversed with exercise?
-
-The honest answer is: sometimes improved, rarely fully reversed. Exercise can genuinely increase bone density, particularly at the sites being loaded, but the degree of change varies considerably by age, hormonal status, nutrition, and baseline density. Thinking of exercise as slowing loss and building resilience is more accurate than expecting a complete reversal.
-
-### Is yoga safe if I have osteoporosis?
-
-Some yoga is fine and some poses carry real risk. Deep spinal forward folds, aggressive twists, and anything requiring you to load through a flexed spine should be modified or avoided with vertebral osteoporosis. A 2016 case series in Topics in Geriatric Rehabilitation documented fractures associated with specific yoga poses in people with low bone density. Look for instructors specifically trained in osteoporosis modifications.
-
-### How often should I be doing resistance training for bone health?
-
-Two to three sessions per week, with at least one rest day between sessions, is the standard evidence-based target. Less than twice a week produces minimal bone benefit; more than three times may not add much and increases injury risk if recovery is inadequate.
-
-### Does swimming or cycling help with osteoporosis?
-
-Not meaningfully for bone density, no. Both are non-weight-bearing, so the forces transmitted through bone are low. They're excellent for cardiovascular health and low-impact joint conditioning, which matters, but if bone density is the primary goal, they need to be paired with weight-bearing and resistance work rather than substituted for it.
-
-### Should I take calcium and vitamin D alongside exercise?
-
-Almost certainly yes, though the specific amounts depend on your blood levels and dietary intake. Exercise stimulates bone formation, but the raw materials still have to be there. Most guidelines suggest 1200mg of calcium daily for women over 50 (from food and supplements combined) and vitamin D3 in the range of 800 to 2000 IU daily, but get your 25-OH vitamin D level checked before assuming you need a high dose.
 
 ---
 

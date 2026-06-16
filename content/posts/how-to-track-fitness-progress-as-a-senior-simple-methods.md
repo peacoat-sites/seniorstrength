@@ -104,19 +104,6 @@ Here are a few motivational strategies that work particularly well for older adu
 
 Remember, the goal isn’t to compete with anyone else. It’s simply to be a little stronger, more flexible, and more energetic than you were last month.
 
-## Frequently Asked Questions
-
-### How often should seniors track their fitness progress?
-
-For daily activity, a quick log each evening works well,  just jot down what you did and how you felt. For measurable tests like chair stands or walking distance, once a month is ideal. Checking in too often can feel discouraging since changes happen gradually, but monthly snapshots clearly show meaningful improvement over time.
-
-### Is it safe for seniors to set fitness goals without a doctor’s input?
-
-For gentle activities like walking, stretching, and light strength work, most healthy seniors can set their own goals safely. However, if you have heart disease, diabetes, joint replacements, osteoporosis, or other chronic conditions, it’s always wise to check with your physician before starting or intensifying any fitness routine. Your doctor can also help you set realistic, safe benchmarks to work toward.
-
-### What if my fitness numbers go down some months?
-
-A temporary dip in performance is completely normal and happens to everyone,  including elite athletes. Illness, stress, poor sleep, seasonal changes, or simply a busier week can all affect results. Don’t be discouraged. Look at your trend over three to six months rather than obsessing over a single measurement. The long-term direction is what truly matters for your health.
 
 ## Keep Going,  Every Step Counts
 

@@ -120,19 +120,6 @@ A vestibular physical therapist is a specialist who can perform a thorough asses
 
 Do not hesitate to advocate for yourself. You deserve to feel steady and confident, and effective, specialized help is available.
 
-## Frequently Asked Questions
-
-### How long does it take for vestibular exercises to work?
-
-Most seniors begin to notice improvement within two to four weeks of consistent daily practice. Significant results,  reduced dizziness frequency, better balance, and greater confidence,  are typically seen within six to eight weeks. Every person is different, so be patient with yourself and celebrate small victories along the way.
-
-### Can vestibular exercises make dizziness worse?
-
-It is completely normal to feel mild dizziness during and shortly after vestibular exercises, especially in the first week or two. This temporary discomfort is actually a sign that your brain is being appropriately challenged and adapting. However, if your dizziness is severe, lasts for a long time after exercise, or is accompanied by vomiting or fainting, stop and consult your doctor before continuing.
-
-### Are vestibular exercises safe for seniors with osteoporosis or arthritis?
-
-Most of the exercises described here are performed while seated or standing with support, making them low-impact and generally safe for seniors with osteoporosis or arthritis. However, everyone’s situation is unique. Share these exercises with your doctor or physical therapist before starting, and they can confirm which movements are appropriate for your specific health conditions and mobility level.
 
 ## You Can Feel Steady Again
 

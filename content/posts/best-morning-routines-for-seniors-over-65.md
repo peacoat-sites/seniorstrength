@@ -113,25 +113,6 @@ This does not require grand gestures. A short phone call or text to a family mem
 
 If you live alone, consider setting a regular morning video call with a friend or joining a senior center program that offers morning activities. These connections give you something to look forward to each day and strengthen the relationships that enrich your life.
 
-## Frequently Asked Questions
-
-### What is the best time for seniors to wake up in the morning?
-
-Most sleep experts recommend that seniors aim to wake up between 6:00 and 8:00 AM to align with natural light patterns that support a healthy circadian rhythm. The most important factor is consistency,  waking at the same time every day, even on weekends, greatly improves sleep quality and daytime energy levels.
-
-Avoid sleeping in past 9:00 AM regularly, as this can disrupt nighttime sleep and leave you feeling groggy rather than refreshed. If you are consistently fatigued in the mornings, discuss this with your doctor, as it can sometimes signal an underlying condition such as sleep apnea or thyroid issues.
-
-### How long should a morning routine for seniors take?
-
-An effective morning routine for seniors does not need to take more than 60 to 90 minutes. A practical breakdown might include 10 minutes for hydration and gentle in-bed stretching, 20 to 30 minutes for exercise, 20 minutes for a nourishing breakfast, and 10 to 15 minutes for a mental wellness practice.
-
-The key is choosing activities that feel enjoyable and sustainable for you personally. A routine you look forward to is one you will actually stick with, and consistency over time delivers the greatest health benefits.
-
-### What should seniors avoid in the morning for better health?
-
-There are a few common morning habits that can undermine a senior’s health and energy. Try to avoid checking stressful news or social media immediately upon waking, as this can spike anxiety and set a negative tone for the day. Also avoid skipping breakfast, rushing out of bed too quickly without allowing your body to adjust, and consuming too much caffeine early, especially if you have high blood pressure or heart rhythm concerns.
-
-Starting your morning slowly, gently, and with kindness toward your body makes a tremendous difference in how you feel by midday and beyond.
 
 ## Your Best Mornings Are Ahead of You
 

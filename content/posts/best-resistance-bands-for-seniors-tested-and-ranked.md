@@ -134,27 +134,6 @@ The real magic of resistance bands is how many exercises you can do with just on
 
 Even 15 to 20 minutes of band exercises three times a week can produce meaningful improvements in strength, balance, and confidence within just a few weeks.
 
-## Frequently Asked Questions
-
-### Are resistance bands safe for seniors with arthritis?
-
-Yes,  resistance bands are generally one of the safest exercise tools for people with arthritis. The smooth, progressive tension is far easier on inflamed joints than the sudden impact of weights or machines.
-
-Choose bands with wide padded handles to reduce grip strain, or use loop bands anchored at the wrist or ankle. Always work within a pain-free range of motion, and consult your doctor or occupational therapist for personalized guidance.
-
-### What resistance level should a senior start with?
-
-Most seniors should begin with a light or extra-light resistance band. This allows you to master proper form and full range of motion before adding challenge. If you can complete 15 repetitions with ease and good form, it’s time to move up one level.
-
-A set that includes multiple resistance levels,  like the TheraBand or Fit Simplify sets,  is ideal because it grows with you as your strength improves over time.
-
-### How long do resistance bands last before they need replacing?
-
-With proper care, a good quality resistance band typically lasts 1 to 2 years of regular use. Fabric bands tend to outlast latex bands. To extend their life, store them away from direct sunlight, avoid stretching them beyond three times their resting length, and wipe them clean after use.
-
-Always inspect your bands before each session. If you notice any small cuts, discoloration, or sticky spots on latex bands, replace them immediately to prevent snapping during exercise.
-
-Resistance bands are one of the most senior-friendly fitness tools ever designed. Whether you’re rebuilding strength after a health setback, managing a chronic condition, or simply staying active and independent, the right band can make all the difference. Start light, stay consistent, and celebrate every small win along the way. You’ve absolutely got this.
 
 ---
 

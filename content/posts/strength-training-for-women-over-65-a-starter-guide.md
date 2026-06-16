@@ -100,19 +100,6 @@ Safety is the top priority when strength training at any age, but especially as 
 
 Progress in strength training is rarely dramatic week to week, but over months the changes are genuinely transformative. Trust the process and be patient with yourself.
 
-## Frequently Asked Questions
-
-### Is it safe to start strength training at 65 or older with no prior experience?
-
-Yes, absolutely. Research shows that women with no previous exercise history can make impressive strength gains when they begin resistance training later in life. The key is starting with light weights, learning proper form, and progressing gradually. Getting clearance from your doctor first and working with a qualified trainer,  even briefly,  will give you the safest and most effective start possible.
-
-### Will strength training make me look bulky or overly muscular?
-
-This is one of the most common concerns women have, and the short answer is no. Women naturally have much lower levels of testosterone than men, which makes it physiologically very difficult to build large, bulky muscles. What strength training will do is give your body a leaner, firmer, more toned appearance,  along with all the functional health benefits that come with it.
-
-### What if I have arthritis or joint pain,  can I still strength train?
-
-In many cases, yes,  and strength training may actually help relieve arthritis symptoms by strengthening the muscles that support and protect your joints. However, it’s essential to work with your doctor or a physical therapist to identify which exercises are appropriate for your specific condition. Low-impact options like seated exercises, resistance bands, and water aerobics are often excellent choices for those with joint concerns.
 
 ## Your Stronger Chapter Starts Now
 

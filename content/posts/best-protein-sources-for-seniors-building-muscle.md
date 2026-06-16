@@ -102,27 +102,6 @@ Creatine monohydrate is one of the most underused supplements in older adults an
 
 ---
 
-## Frequently Asked Questions
-
-### Can you really build muscle after 70?
-
-Yes, absolutely. The research on this is clear and encouraging. Adults in their 70s and even 80s show measurable increases in muscle mass and strength from resistance training combined with adequate protein. The process is slower than it was at 50, and you need to be smarter about recovery, but the biological capacity is there. I've seen clients in their mid-70s add meaningful functional strength within three to four months when they nail the training and the nutrition together.
-
-### Is plant-based protein enough for muscle building in seniors?
-
-It can be, but it requires more planning. Plant proteins generally have lower leucine content and lower digestibility than animal proteins. If you're fully plant-based, you'll likely need to aim for the higher end of the protein range (closer to 1.6g per kilogram), prioritize soy-based sources like tofu and tempeh, and consider a leucine supplement or plant-based protein powder that uses a blend of sources. It's doable. It just takes more attention.
-
-### Does eating more protein harm your kidneys?
-
-For adults with healthy kidney function, no. The concern about high protein and kidney damage applies primarily to people who already have diagnosed kidney disease. If you have chronic kidney disease or have been told to limit protein by your doctor, follow that guidance precisely. For everyone else, current evidence does not support the idea that a high-protein diet damages healthy kidneys. Still, when in doubt, check with your physician before making significant changes.
-
-### How important is protein timing around workouts?
-
-It matters, but it's not the emergency it's sometimes made out to be. The old idea of a 30-minute "anabolic window" has been largely revised. What research supports is getting a solid protein-rich meal within about two hours before or after training. Post-workout, aiming for 30 to 40 grams of protein that includes leucine is a reasonable target. Total daily intake distributed evenly across meals is probably more important overall than hitting an exact minute on the clock.
-
-### What if I have a poor appetite and can't eat this much protein?
-
-This is genuinely common in older adults and worth taking seriously, not brushing off. If appetite is a persistent issue, talk to your doctor because it can be a sign of something worth investigating. Practically speaking, liquid protein sources like Greek yogurt smoothies, protein shakes, and milk-based soups are often easier to get down than solid food. Eating smaller, more frequent meals can help. Adding calorie-dense, protein-rich foods like eggs, nut butter, and cheese to meals you already enjoy is more sustainable than trying to force down extra meals.
 
 ---
 

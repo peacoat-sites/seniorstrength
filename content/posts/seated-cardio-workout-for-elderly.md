@@ -104,27 +104,6 @@ If you have a pacemaker, uncontrolled hypertension, recent cardiac events, or an
 
 ---
 
-## Frequently Asked Questions
-
-### How often should I do seated cardio each week?
-
-Three to five days per week is a reasonable target for most older adults, with at least one rest day between more intense sessions. Even two days a week is genuinely better than nothing, and building from there consistently will compound over time.
-
-### Can seated cardio help with blood pressure?
-
-Regular aerobic exercise, including chair-based cardio, is associated with modest reductions in resting blood pressure in older adults. The effect is real but not dramatic, and it works best alongside other lifestyle factors like sleep and sodium intake. Don't adjust any blood pressure medication based on starting an exercise program without talking to your doctor first.
-
-### Is seated cardio safe after a hip replacement?
-
-Generally yes, with modifications, but you need clearance from your orthopedic surgeon first because restrictions vary by surgical approach and how far along recovery is. Many people do seated cardio as part of post-surgical rehab, often supervised by a physical therapist. Don't assume the same rules apply to you that applied to a friend who had the same surgery.
-
-### Will I lose weight doing seated cardio?
-
-You might, over time, particularly if you're consistent and paying attention to nutrition. But weight loss is a slow process and the scale is a poor measure of what's actually happening in your body. Increased stamina, better sleep, and easier movement in daily life tend to show up sooner and matter more.
-
-### What if I get winded really quickly at first?
-
-That's normal, and it's useful information. Start with shorter intervals, even two to three minutes of movement followed by a minute of gentle marching, and work up gradually. Getting winded quickly early in a program doesn't mean something is wrong. It often means the program is working exactly as it should.
 
 ---
 

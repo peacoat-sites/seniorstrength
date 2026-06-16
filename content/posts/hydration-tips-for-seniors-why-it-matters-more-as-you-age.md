@@ -100,21 +100,6 @@ Watch for these common warning signs:
 
 If you notice several of these signs together, increase your fluid intake right away and contact your doctor if symptoms are severe or don’t improve within a few hours.
 
-## Frequently Asked Questions
-
-Photo by [Ryan Reinoso](https://unsplash.com/@rvisuals?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
-
-### Does coffee count toward my daily fluid intake?
-
-Yes, it does,  though in moderation. Despite its mild diuretic effect, coffee and tea still contribute to your overall fluid intake, especially when consumed in normal amounts (one to three cups per day). Research shows the diuretic effect is relatively small and doesn’t cancel out the hydrating benefits. That said, water and herbal teas are still better primary sources of hydration throughout the day.
-
-### How can I stay hydrated if I’m worried about nighttime bathroom trips?
-
-This is a very common concern, and it’s completely understandable. A good strategy is to drink most of your fluids earlier in the day,  morning through mid-afternoon,  and then taper off in the two to three hours before bed. You don’t have to cut out evening fluids entirely, but shifting the bulk of your intake earlier helps reduce nighttime interruptions without sacrificing your hydration goals.
-
-### Are sports drinks a good option for seniors?
-
-Sports drinks can be helpful in specific situations,  such as after intense physical activity, during illness with vomiting or diarrhea, or on an extremely hot day when you’ve been sweating heavily. They contain electrolytes like sodium and potassium that help your body absorb and retain fluids. However, many sports drinks are high in sugar and calories, so they shouldn’t replace plain water for everyday hydration. Look for low-sugar electrolyte options or ask your doctor what’s appropriate for your health needs.
 
 ## You’re Just One Sip Away From Feeling Better
 

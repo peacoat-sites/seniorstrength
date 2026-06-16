@@ -104,19 +104,6 @@ Always look for products that have been independently tested by organizations li
   * Review your supplement routine with your doctor at least once a year as needs change
   * Store supplements in a cool, dry place away from direct sunlight
 
-## Frequently Asked Questions
-
-### Is it safe to take multiple supplements at the same time if you are over 70?
-
-In many cases, yes,  but it depends on your specific health conditions and any medications you take. Some supplements can interact with prescription drugs. For example, vitamin K can interfere with blood thinners like warfarin, and high-dose fish oil may increase bleeding risk. Always review your full supplement list with your doctor or pharmacist before adding anything new.
-
-### Should seniors over 70 take a daily multivitamin?
-
-A senior-specific multivitamin can be a convenient safety net, but it is not a substitute for a healthy diet. Look for formulas designed for adults over 50 or 70, which typically contain higher amounts of B12, vitamin D, and calcium and lower amounts of iron (since iron deficiency is less common in older adults). They work best when used to complement, not replace, nutritious meals.
-
-### How do I know if I actually have a vitamin deficiency?
-
-The most reliable way is through a blood test ordered by your doctor. Common tests check for vitamin D, B12, folate, and iron levels. Many deficiencies develop slowly and quietly, with only subtle symptoms like fatigue, weakness, or mood changes. Do not wait for obvious symptoms,  ask your doctor to run a basic nutritional panel at your next visit so you have a clear starting point.
 
 ## You Deserve to Feel Your Best
 

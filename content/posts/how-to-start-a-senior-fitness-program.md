@@ -80,27 +80,6 @@ Start with this: stand near a kitchen counter with your fingertips touching it. 
 
 Tai Chi gets a mention here because it deserves one. Multiple randomized controlled trials, including a high-quality 2020 study published in the New England Journal of Medicine's companion journal NEJM Evidence, have found Tai Chi to be as effective or more effective than conventional fall prevention programs. It's also low-impact, scalable to different ability levels, and widely available through community centers and senior centers at low or no cost. Worth looking into even if it feels unfamiliar.
 
-## Frequently Asked Questions
-
-### How long before I see real results from a senior fitness program?
-
-Expect meaningful improvement in energy levels and daily function within four to six weeks of consistent effort. Visible muscle changes and measurable strength gains typically show up around weeks eight to twelve. Balance improvements, interestingly, can appear faster than either of those, sometimes within two to three weeks of regular practice.
-
-### Is it safe to strength train if I have osteoporosis?
-
-Generally yes, and in fact resistance training is one of the most well-supported interventions for improving bone density. The research here leans clearly in favor of appropriate loading. That said, certain exercises (particularly heavy spinal flexion under load) should be avoided or modified. Work with a physical therapist or a certified trainer experienced with osteoporosis before starting, and make sure your physician knows your plan.
-
-### Do I need a gym membership to get started?
-
-No. A resistance band set ($12-20), a sturdy chair, and a safe outdoor walking route cover the majority of what a beginner needs in months one through three. A gym adds equipment variety and social accountability, both of which have real value, but they're not prerequisites for beginning.
-
-### What if I have chronic pain, like arthritis or an old back injury?
-
-Start with what you can do, not what you think you should be able to do. Water-based exercise (aqua aerobics, pool walking) significantly reduces joint loading and is an excellent entry point for people with arthritis or joint pain. Many YMCAs offer aquatic programs for around $10-15 per session without a membership. A physical therapist can also design a land-based program that works around specific limitations.
-
-### How do I know if I'm pushing too hard?
-
-The "talk test" is a practical and reliable guide: if you can speak in full sentences during aerobic exercise, you're in a reasonable intensity zone. For strength work, if you can't complete the last two reps of a set with reasonable control and form, the weight or resistance is too high. Pain that persists more than 48 hours after a session, sharp pain during exercise, or chest tightness or unusual shortness of breath are all signals to stop and check in with your doctor.
 
 ---
 

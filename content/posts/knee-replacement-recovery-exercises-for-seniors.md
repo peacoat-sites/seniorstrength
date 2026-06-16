@@ -135,23 +135,6 @@ Many seniors find that keeping a simple exercise journal,  even just checking of
 
 Recovery is not a straight line, and difficult days are completely normal. What matters most is showing up consistently, even when progress feels invisible. Your new knee is capable of giving you years of improved quality of life,  and the exercises you do today are making that possible.
 
-## Frequently Asked Questions
-
-### How soon after knee replacement surgery can I start exercising?
-
-Most surgeons recommend starting gentle exercises like ankle pumps and quad sets within the first 24 hours after surgery. Your physical therapist will typically visit you in the hospital to begin supervised movement before you even go home. Always follow the specific timeline your medical team provides, as individual recovery varies.
-
-### What exercises should I avoid after knee replacement surgery?
-
-You should avoid high-impact activities like running, jumping, and sports that involve sudden pivoting movements for at least three to six months. Deep squats that bend the knee past 90 degrees are also generally discouraged early in recovery. Your surgeon will give you a personalized list of restrictions based on your specific procedure and progress.
-
-### How long does it take to fully recover from knee replacement?
-
-Most seniors experience significant improvement within six to twelve weeks and can return to light daily activities. Full recovery, including the return of strength and complete range of motion, typically takes six months to a full year. Sticking consistently with your knee replacement recovery exercises is the single most important factor in how quickly and completely you recover.
-
-**Your new knee is a gift,  and these exercises are how you unwrap its full potential.** Be patient with yourself, trust the process, and know that every gentle bend and careful step is moving you toward the active, comfortable life you deserve. You’ve already done the hardest part. Now it’s time to build the strength to enjoy it.
-
-Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
 ---
 

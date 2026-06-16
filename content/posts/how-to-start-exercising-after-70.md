@@ -95,27 +95,6 @@ What I'd steer most people away from: expensive in-home fitness equipment in the
 
 ---
 
-## Frequently Asked Questions
-
-### Is it safe to lift weights after 70?
-
-Yes, and in fact resistance training is one of the most studied and consistently recommended interventions for older adults. The key is starting with light resistance and proper form, ideally with some initial guidance from a trainer or physical therapist. There's no age at which strength training stops being beneficial.
-
-### How much exercise is actually enough at this age?
-
-Current public health guidelines suggest at least 150 minutes of moderate-intensity activity per week for older adults, plus two days of strength work. That said, if you're starting from zero, working up to that over several months is completely reasonable and still produces real benefits. Something is almost always better than nothing.
-
-### What if I have arthritis or chronic joint pain?
-
-Movement generally helps arthritis more than rest does, but the type of movement matters. Low-impact options like water aerobics, cycling, and resistance band work tend to be well-tolerated. A physical therapist can help you identify which movements to avoid and which will actually reduce pain over time. Don't let pain be the reason you stop completely.
-
-### Do I need to feel sore to know it's working?
-
-No. Significant muscle soreness (the kind that limits your movement for two or three days) is a sign you did too much, especially early in a program. Mild fatigue or a light "worked" feeling is fine. But if you're dreading your next session because of how sore you are, dial it back.
-
-### What's the single most important thing to focus on first?
-
-Balance. Hands down. Strength can be rebuilt over months. A fall and the injury, hospitalization, or loss of confidence that follows can set you back years. Even five minutes of balance work daily makes a measurable difference, and it requires no equipment at all.
 
 ---
 

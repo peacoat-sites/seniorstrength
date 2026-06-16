@@ -125,23 +125,6 @@ If you have access to a pool, shallow-water walking is one of the best exercises
 
 By week 12, many people are cleared by their surgeon to resume activities like golf, light hiking, dancing, and cycling on a stationary bike. Always get your surgeon’s green light before starting any new activity.
 
-## Frequently Asked Questions
-
-### How many times a day should seniors do hip replacement exercises?
-
-During weeks 1 through 6, aim for 2 to 3 short sessions per day, with each session lasting 10 to 20 minutes. In weeks 7 through 12, you may consolidate into one longer daily session of 30 to 45 minutes. Always follow your physical therapist’s specific guidance.
-
-### Is it normal to feel sore after doing hip exercises?
-
-Mild muscle soreness,  similar to the feeling after a gentle workout,  is completely normal and expected. What you should watch for is sharp, stabbing, or sudden pain, which could indicate you’ve overdone it or that something needs medical attention. A good rule of thumb: if your pain level rises above a 5 out of 10, rest and consult your care team.
-
-### When can seniors stop using a walker after hip replacement?
-
-Most seniors transition from a walker to a cane around weeks 3 to 6, depending on their strength and balance. The full transition away from any walking aid often happens between weeks 6 and 10. Your physical therapist will assess your gait and confidence before recommending this change,  don’t rush it on your own.
-
-Recovering from hip replacement surgery is one of the most positive steps you can take for your long-term health and quality of life. Every single exercise you do,  no matter how small it seems,  is moving you closer to the active, independent life you deserve. Be patient with your body, celebrate every milestone, and trust the process. You’ve got this.
-
-Photo by [sidath vimukthi](https://unsplash.com/@sidathkc?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
 ---
 

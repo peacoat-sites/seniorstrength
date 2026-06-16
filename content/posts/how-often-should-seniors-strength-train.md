@@ -74,27 +74,6 @@ Chronic conditions change the calculus too. Osteoporosis doesn't mean you should
 
 I'll be honest: the fitness industry is bad at acknowledging this stuff. There's a commercial incentive to tell everyone they can and should do more, and that's not always the right message.
 
-## Frequently Asked Questions
-
-### Is twice a week enough for seniors to actually see results?
-
-Yes, genuinely. Two well-structured full-body sessions per week, with progressive resistance over time, is enough to build meaningful strength and improve functional movement in most older adults. The research is consistent on this point. Where people go wrong is treating "twice a week" as permission to coast; sessions still need to be challenging enough to create an adaptation.
-
-### Should seniors take more rest days than younger people?
-
-Generally, yes, at least early in a program. Older muscles don't signal readiness for the next session as quickly, and connective tissue adapts slower than muscle at any age. What this looks like in practice is 48 to 72 hours between sessions targeting the same muscle groups, rather than the 24 to 48 hours that might work for a 30-year-old.
-
-### Can seniors strength train every day?
-
-For most people over 60, training every single day without rest is not recommended and probably counterproductive. That said, if you're doing varied activity (strength one day, walking or gentle yoga the next), that's different from lifting heavy seven days a week. The principle is adequate recovery between sessions that challenge the same tissues.
-
-### What if I miss a week because of illness or travel?
-
-One week off doesn't undo months of training. Come back at slightly reduced intensity (roughly 80% of where you left off feels right for most people) and build back over one to two weeks. Consistency across months and years matters far more than any individual week.
-
-### How do I know if I'm training too often?
-
-Persistent joint soreness that doesn't resolve with a rest day, declining performance over multiple sessions (getting weaker rather than stronger), sleep disruption, and loss of motivation are all signs that frequency or volume might be too high. Any of these warrant pulling back and reassessing, ideally with a trainer or physical therapist who knows your history.
 
 ---
 

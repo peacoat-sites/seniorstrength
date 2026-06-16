@@ -100,27 +100,6 @@ What I've found actually helps: anchor these exercises to something you're alrea
 
 ---
 
-## Frequently Asked Questions
-
-### How long does it take to see improvements in posture?
-
-Most people notice some reduction in muscle tension and minor positional changes within 4-6 weeks of consistent work. More visible postural changes typically take 8-12 weeks. That timeline assumes you're doing targeted exercises 4-5 days per week, not just occasionally.
-
-### Are these exercises safe if I have osteoporosis?
-
-Many are, with modifications. The chin tucks, seated rows, and hip flexor stretches are generally well-tolerated. The foam roller thoracic extension and any loaded forward flexion are higher-risk and should be cleared with your doctor or physical therapist first. Don't skip that step.
-
-### Can poor posture actually be reversed at 70 or 80?
-
-Meaningfully, yes, though "reverse" is the wrong frame. In cases of significant structural change to the spine, like severe vertebral compression fractures, the bony architecture won't change. But muscle balance, tissue flexibility, and functional alignment can improve at virtually any age. The goal is better, not perfect.
-
-### Should I use a posture brace?
-
-The research here is genuinely mixed. Some studies, including a 2019 trial in *Spine*, found short-term brace use helpful for postural awareness. But passive bracing can reduce the muscular activation you actually need to build. If you use one, treat it as a temporary cue, not a solution.
-
-### Is walking enough to improve posture?
-
-Walking is valuable for many reasons, but it's not sufficient on its own to address posture. If you walk with a forward head position and rounded shoulders, you're just reinforcing that pattern over distance. Targeted strengthening of the muscles that create and hold upright alignment is a different stimulus than cardiovascular movement.
 
 ---
 

@@ -134,27 +134,6 @@ By weeks three and four, most seniors report:
 
 These benefits compound over time. Seniors who practice tai chi regularly for six months or more often describe it as one of the best decisions they’ve ever made for their health and independence.
 
-## Frequently Asked Questions About Tai Chi for Seniors
-
-Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
-
-### Is tai chi safe for seniors with arthritis or knee problems?
-
-Yes, in most cases tai chi is excellent for people with arthritis. The slow, gentle movements help lubricate the joints and reduce stiffness without high-impact stress. That said, always consult your doctor or physical therapist first, especially if you have severe knee or hip conditions.
-
-Many practitioners also perform tai chi while seated in a chair, which makes it accessible for virtually any mobility level.
-
-### How long before seniors see results from tai chi?
-
-Most beginners notice improvements in balance, posture, and energy levels within three to four weeks of consistent practice. More significant benefits,  like reduced fall risk and improved joint flexibility,  typically become noticeable after two to three months.
-
-The key word is _consistent_. Even short sessions of 10–15 minutes practiced regularly outperform occasional longer sessions.
-
-### Can seniors do tai chi if they’ve never exercised before?
-
-Absolutely. Tai chi is actually one of the best starting points for seniors who are completely new to exercise. There are no complicated athletic skills to learn, no minimum fitness level required, and the pace is entirely self-directed.
-
-Many seniors in their 70s and 80s begin tai chi with no prior exercise history and go on to practice it joyfully for years. It truly is a practice for every body, at every starting point.
 
 ## Your Balance Journey Starts Today
 

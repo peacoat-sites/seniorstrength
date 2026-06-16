@@ -98,27 +98,6 @@ What you can skip, at least at the start: expensive hydrotherapy belts for deep 
 
 ---
 
-## Frequently Asked Questions
-
-### Can I do water aerobics if I can't swim?
-
-Yes. The vast majority of water aerobics exercises take place in standing depth water, typically chest to shoulder depth where your feet are firmly on the pool floor the entire time. Swimming ability is not required. That said, comfort in the water matters. If being in a pool at all creates anxiety, consider a few sessions with a swim instructor focused purely on water comfort before joining a fitness class.
-
-### How does water aerobics compare to land-based exercise for building bone density?
-
-This is where I want to be honest with you rather than just cheerful about water exercise. Because water significantly reduces weight-bearing load, it doesn't provide the same bone-building stimulus as walking, hiking, or resistance training on land. If osteoporosis or bone density is a concern for you, water aerobics should ideally complement weight-bearing activity rather than completely replace it. Talk with your doctor about the right balance for your specific situation.
-
-### How long before I notice results?
-
-Most people notice improvements in how they feel during daily activities within four to six weeks of consistent training, three sessions per week. Sleep often improves within the first two weeks. Measurable strength and balance improvements typically show up in physical testing around the 8 to 12 week mark. Results vary based on starting fitness level, consistency, and individual health factors. Patience and consistency matter more than intensity at the start.
-
-### Is it safe if I have a pacemaker or heart condition?
-
-Water immersion does affect heart rate and blood pressure, so this is a genuine conversation to have with your cardiologist or primary care doctor before starting. Many people with managed cardiovascular conditions participate in water aerobics safely and benefit significantly. The key word is "managed" and the requirement is medical clearance first. Don't skip that step.
-
-### What's the ideal water temperature for older adult exercise?
-
-Most pools suitable for aerobic exercise are maintained between 83 and 86 degrees Fahrenheit. Cooler water (around 80 degrees) is actually fine for more vigorous exercise since you generate body heat. Warmer water (above 90 degrees) is better suited to gentle therapeutic movement and can cause cardiovascular strain during more intense exercise. If the pool you're considering is a hot therapeutic pool, confirm the temperature and intensity level are appropriate before committing to harder workouts there.
 
 ---
 

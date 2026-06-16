@@ -130,26 +130,3 @@ That said, supplements can be appropriate when dietary intake falls short. Many 
 
 Calcium supplements are more controversial. Recent research suggests that high-dose calcium supplements (particularly calcium carbonate taken without food) may not be as beneficial as once thought and could pose cardiovascular risks in some people. Always talk to your doctor before starting any supplement regimen. A simple blood test can reveal your current vitamin D levels and guide the right approach for you personally.
 
-## Frequently Asked Questions
-
-### How much calcium do I actually need after 60?
-
-Adults over 50 are advised to consume 1,200 mg of calcium per day. This is higher than the recommendation for younger adults because calcium absorption becomes less efficient with age.
-
-Most experts suggest getting the majority of this through food,  dairy products, fortified foods, leafy greens, and canned fish with bones,  rather than relying heavily on supplements.
-
-### Can exercise replace a good diet for bone health?
-
-Exercise and nutrition are partners, not substitutes for each other. Weight-bearing exercises like walking, strength training, and dancing stimulate bone formation and help maintain density.
-
-However, without the raw materials,  calcium, vitamin D, protein, and other nutrients,  exercise alone cannot build or maintain strong bones. You truly need both for the best results.
-
-### Is it too late to improve my bone health after 60?
-
-It is absolutely not too late. While you cannot fully reverse bone loss that has already occurred, research consistently shows that dietary changes, appropriate supplementation, and exercise can slow further loss and meaningfully reduce fracture risk,  even in your 70s and 80s.
-
-Every positive step you take today protects your independence and quality of life tomorrow. Starting now always beats waiting.
-
-Your bones have supported you through every adventure, challenge, and joy of your life. Now it’s your turn to support them. A thoughtful, nourishing **bone health diet after 60** doesn’t require perfection,  just consistent, caring choices most days of the week. Start with one meal, one new food, one small habit. Your stronger, more resilient skeleton is built one delicious bite at a time. You’ve got this.
-
-Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)

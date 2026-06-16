@@ -94,19 +94,6 @@ By weeks three and four, most beginners notice they can do more repetitions with
 
 By the end of two months of consistent effort, many seniors report better balance, less knee discomfort, and significantly more confidence moving through their daily routines.
 
-## Frequently Asked Questions
-
-### Is it safe to do leg exercises every day after 70?
-
-It is generally better to allow at least one rest day between strength training sessions. Muscles need recovery time to rebuild and grow stronger. Aim for two to three days per week to start, and consider gentle walking or stretching on your off days.
-
-### What if I have bad knees,  can I still do these exercises?
-
-Many of these exercises are actually knee-friendly and can help reduce knee pain over time by strengthening the muscles around the joint. That said, always check with your doctor or physical therapist before starting, especially if you have been diagnosed with arthritis or have had knee surgery. They may suggest small modifications to keep things comfortable.
-
-### How long before I see real results from leg strength exercises?
-
-Most people begin to feel improvements in strength and balance within four to six weeks of regular exercise. Visible muscle tone may take a little longer,  around eight to twelve weeks,  but the functional benefits, like getting up from chairs more easily and feeling steadier on your feet, often arrive much sooner than that.
 
 ## You Are Stronger Than You Think
 

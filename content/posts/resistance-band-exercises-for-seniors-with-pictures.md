@@ -115,19 +115,6 @@ A simple schedule might look like: Monday, Wednesday, and Friday for strength tr
 
 Track your progress in a simple notebook. Write down which exercises you did, how many reps, and how the band felt. You’ll be amazed how quickly you improve.
 
-## Frequently Asked Questions
-
-### Are resistance bands safe if I have arthritis?
-
-Yes, resistance bands are often recommended by physical therapists for people with arthritis because they allow smooth, low-impact movement. Always start with a very light band and avoid any exercise that causes sharp joint pain. Mild muscle fatigue is normal,  joint pain is a signal to stop. Check with your doctor before starting any new exercise program.
-
-### How do I know if I’m using the right resistance level?
-
-The right band should make the last 2–3 reps of each set feel challenging but still doable with good form. If you finish 15 reps feeling like you could do 15 more easily, it’s time to try a slightly heavier band. If you can’t complete 8 reps without losing form or holding your breath, drop down to a lighter band.
-
-### Can resistance bands really build muscle, or are they just for rehab?
-
-Resistance bands absolutely build real muscle,  research backs this up. A 2019 study published in the journal _SAGE Open Medicine_ found that resistance band training produced similar muscle strength gains to traditional weight training. The key is progressive overload,  gradually making the exercises more challenging over time, just as you would with weights.
 
 ## You’ve Got This
 

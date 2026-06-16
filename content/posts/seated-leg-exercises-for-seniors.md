@@ -126,27 +126,6 @@ But here's the connection. Stronger quadriceps, hamstrings, and hip flexors dire
 
 Once you've been doing seated work for four to six weeks and feel more confident in your leg strength, you can begin adding standing exercises at a counter or against a wall, where you have something solid to hold. Chair-to-stand practice (literally just standing up from your chair and sitting back down slowly, 10 times in a row) is one of the single best functional exercises for older adults and bridges the gap between seated work and more dynamic movement.
 
-## Frequently Asked Questions
-
-### How long will it take before I notice a difference?
-
-Most people notice something within three to four weeks of consistent practice. It's usually not dramatic at first. You might notice that getting up from a chair feels slightly less of an effort, or that your legs feel less fatigued after a walk. Visible or measurable strength changes typically take six to eight weeks. The research is clear that older adults respond to strength training, but the timeline requires patience and consistency. Three sessions per week is the target.
-
-### Is it safe if I have arthritis in my knees?
-
-Seated exercises are actually often recommended specifically for people with knee arthritis because they reduce the compressive load on the joint compared to standing exercises. That said, you should always loop in your doctor or physical therapist before starting, especially if your arthritis is severe or you've had recent knee surgery. Some movements, like the seated leg extension, can feel uncomfortable for certain knee conditions, and a professional can help you modify accordingly.
-
-### Do I need any equipment to get started?
-
-No. Every exercise in this guide can be done with just a sturdy chair to begin with. Resistance bands (available for under $15 at most sporting goods stores) and light ankle weights are useful additions once you've built a foundation, but they're not required at the start. The chair itself is the only tool you need on day one.
-
-### What if I feel out of breath during these exercises?
-
-Mild breathlessness during exercise is normal, but you should be able to carry on a conversation. If you're gasping, stop and rest. If you experience chest discomfort, dizziness, unusual shortness of breath, or heart palpitations during exercise, stop immediately and seek medical attention. Before beginning any new exercise program, particularly if you have a heart condition, high blood pressure, or other chronic health issues, get clearance from your physician. This isn't just cautious advice for the sake of it. It genuinely matters.
-
-### Can I do these exercises every day?
-
-Muscles need recovery time to grow stronger. Doing strength exercises every single day doesn't give your tissue time to repair and rebuild. Three times per week is the research-supported sweet spot for older adults. On the days between, gentle movement like walking, stretching, or seated range-of-motion exercises is great. But the specific strengthening sessions should have rest days built in.
 
 ---
 

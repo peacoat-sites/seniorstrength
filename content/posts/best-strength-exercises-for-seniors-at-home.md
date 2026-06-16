@@ -109,27 +109,6 @@ If you have osteoporosis, recent joint replacement, uncontrolled blood pressure,
 
 ---
 
-## FAQ
-
-### How many days a week should seniors strength train at home?
-
-Three days per week with a rest day between sessions is the evidence-backed standard for most older adults. It allows adequate recovery while providing enough stimulus for strength adaptation. Two days per week will also produce gains if three isn't realistic, particularly in the first few months. More than four days per week without a trainer managing your programming usually leads to cumulative fatigue rather than better results.
-
-### Can I build real muscle after 70?
-
-Yes, and the research on this is clear. Studies including adults in their 70s, 80s, and even 90s show measurable gains in muscle mass and strength through progressive resistance training. The rate of gain is slower than in younger adults, and recovery takes longer, but the capacity is there. The key word is progressive: the stimulus has to increase over time. Doing the same 10 reps with the same resistance for months won't build much after the initial adaptation.
-
-### What if I have bad knees?
-
-Bad knees is a broad category. Osteoarthritis, previous surgery, and general wear are different conditions requiring different approaches. That said, most people with knee issues can do sit-to-stands with a higher chair (reducing knee flexion), glute bridges, resistance band rows, and calf raises without any knee stress. Strengthening the muscles around the knee, particularly the quadriceps and glutes, typically reduces knee pain over time rather than worsening it. If a movement causes sharp knee pain, stop that movement and consult a physical therapist for a specific modification.
-
-### Do I need equipment to get started?
-
-No. Sit-to-stands, wall push-ups, glute bridges, dead bugs, and calf raises require nothing but a chair and floor space. A resistance band, which typically costs less than $15 and fits in a drawer, opens up pulling exercises that are difficult to replicate otherwise. A band is the single best equipment investment for home training. Everything else is optional.
-
-### How long before I see results?
-
-Neurological gains, meaning your muscles firing more efficiently and coordination improving, show up in two to four weeks. You'll feel stronger before you look stronger. Visible muscle changes take six to twelve weeks of consistent training. The fastest results most people notice are functional ones: getting up from chairs more easily, feeling more stable on stairs, less fatigue doing daily tasks. Those typically appear within four to six weeks and are, frankly, more meaningful than any aesthetic change.
 
 ---
 

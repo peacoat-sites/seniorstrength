@@ -132,23 +132,6 @@ Balance decline is common, but it is far from inevitable. The combination of reg
 
 Thousands of older adults have significantly improved their balance in just a few months by making these changes. You can too. Start small, stay consistent, and do not hesitate to ask for help from your healthcare team.
 
-## Frequently Asked Questions
-
-### At what age do balance problems typically start?
-
-Most people begin to notice subtle balance changes in their 50s, with more noticeable differences appearing in the 60s and 70s. However, the timeline varies widely depending on activity level, health conditions, and lifestyle habits. Staying active is the best way to delay and minimize these changes.
-
-### Is it normal to feel dizzy when standing up quickly?
-
-Occasional lightheadedness when standing up quickly is common and is usually caused by a temporary drop in blood pressure called orthostatic hypotension. It becomes more common with age and with certain medications. If it happens frequently, mention it to your doctor, as it can be a significant fall risk.
-
-### Can balance really improve with exercise, or is that just for younger people?
-
-Balance absolutely can improve with exercise at any age, including in people in their 80s and 90s. Clinical studies have shown that consistent balance and strength training can reduce fall risk by 20 to 40 percent in older adults. The key is starting gently, being consistent, and choosing exercises appropriate for your current fitness level.
-
-Remember, every small step you take toward better balance is an investment in your independence, your confidence, and your quality of life. You deserve to move through the world feeling safe and strong,  and with the right knowledge and habits, that is completely within reach.
-
-Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
 ---
 

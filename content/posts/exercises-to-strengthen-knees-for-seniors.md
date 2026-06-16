@@ -97,29 +97,6 @@ Balance training deserves its own mention because it's often completely missing 
 
 I've seen clients who did the strength work diligently but skipped the balance component plateau in their progress. When they added it, everything clicked.
 
-## Frequently Asked Questions
-
-### Can I exercise if my knee is currently swollen or inflamed?
-
-Swelling is your knee's way of saying something is irritated. You can still move, but you should avoid anything that increases the swelling further. Gentle range-of-motion work, like seated heel slides, ankle pumps, and straight leg raises, is generally safe and actually helps reduce swelling by encouraging circulation. Ice for 15 to 20 minutes after any activity can help. If significant swelling persists beyond a few days without a clear cause, that warrants a conversation with your doctor before continuing a strengthening program.
-
-### How long before I notice a difference in strength and pain?
-
-Most of my clients notice meaningful improvement in pain levels within 4 to 6 weeks of consistent training. Measurable strength gains start showing up around the 6 to 8 week mark. That's not a guarantee, it's a pattern, and individual factors like starting strength, consistency, sleep, and nutrition all play a role. The people who see the fastest results are usually the ones who show up 3 to 4 times per week without exception, even on days when motivation is low.
-
-### Is walking enough to strengthen my knees?
-
-Walking is beneficial for cardiovascular health, bone density, and mood, and it has some strengthening effect on the legs. But it's generally not enough on its own to meaningfully address knee weakness or osteoarthritis pain. Walking doesn't load the quadriceps and hip muscles sufficiently to create the kind of progressive overload needed for strength gains. Think of walking as a complement to your strengthening program, not a substitute for it.
-
-### Should I use a knee brace during exercise?
-
-Some people find a sleeve-style knee brace helpful for mild support and proprioception during exercise, and there's no harm in it if it makes you feel more confident. Rigid or hinged braces are a different matter and should only be used if your doctor or physical therapist has recommended them for a specific reason. One caution: don't let a brace become a crutch that allows you to skip the muscle work. The goal is to build internal support so you eventually need less external support, not more.
-
-### When should I see a physical therapist rather than exercising on my own?
-
-If you have sharp or stabbing knee pain, pain that wakes you from sleep, significant swelling without a known cause, a recent injury or fall, or if you've been doing consistent strengthening work for 8 weeks with no improvement, please see a professional. A physical therapist can assess your movement patterns, identify compensation strategies you might not even be aware of, and tailor a program specifically to your anatomy and limitations. Self-guided programs work well for many people, but there's no shame and plenty of wisdom in getting professional eyes on your situation.
-
-The goal here isn't to run a marathon or bench-press your body weight. It's to walk to your mailbox without dreading it. To get up from your favorite chair without holding your breath. To feel like your legs are actually supporting you again, rather than something you're managing around. That's completely achievable, and for most people, it starts with exactly the kind of straightforward, consistent work outlined here. Start where you are, progress patiently, and give your body the time it needs to respond. It will.
 
 ---
 

@@ -127,23 +127,6 @@ Other financial options include:
   * **Nonprofit programs:** Organizations like the Starkey Hearing Foundation and Lions Club International offer hearing aids to those in financial need.
   * **Flexible Spending Accounts (FSA) or Health Savings Accounts (HSA):** These pre-tax funds can be used to purchase hearing aids.
 
-## Frequently Asked Questions
-
-### What is the easiest hearing aid to use for seniors?
-
-For most seniors, behind-the-ear (BTE) and receiver-in-canal (RIC) models are the easiest to use thanks to their larger controls and rechargeable options. The Jabra Enhance Pro 20 and Phonak Audéo models consistently earn high marks for user-friendliness. If tech feels intimidating, OTC options like the Lexie B2 Plus offer a simple smartphone app with guided setup.
-
-### How long do hearing aids typically last?
-
-Most hearing aids last between three and seven years with proper care. Rechargeable models tend to have a longer lifespan since they avoid the wear and tear of frequently replacing tiny batteries. Regular cleaning, avoiding moisture, and annual checkups with your audiologist will help maximize your hearing aid’s life.
-
-### Can I wear hearing aids while exercising or swimming?
-
-Many modern hearing aids carry an IP rating indicating water and dust resistance,  look for a rating of IP67 or higher for the best protection during sweaty workouts or light rain. However, most hearing aids are not designed for swimming or full submersion. If you’re very active, ask your audiologist specifically about sport-friendly or water-resistant models before purchasing.
-
-Hearing loss doesn’t have to mean missing out. Today’s hearing aids are powerful, discreet, and packed with features that can genuinely transform your daily life. Whether you choose a premium prescription device or an affordable OTC option, taking that first step is what matters most. **You deserve to hear every laugh, every conversation, and every beautiful moment life has to offer.** Talk to your doctor or audiologist today,  your best hearing days may still be ahead of you.
-
-Photo by [Age Cymru](https://unsplash.com/@agecymru?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
 ---
 

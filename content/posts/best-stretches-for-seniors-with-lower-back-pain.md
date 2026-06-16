@@ -132,21 +132,6 @@ Small daily choices really do add up. A little effort in each of these areas can
 
 You have taken a wonderful first step by educating yourself about stretching and back care. With patience, consistency, and a positive attitude, relief is absolutely within your reach. Your best, most comfortable days are still ahead!
 
-## Frequently Asked Questions
-
-### Is it safe for seniors to stretch every day for lower back pain?
-
-Yes, daily stretching is generally safe and highly beneficial for most seniors with lower back pain. As long as you are not experiencing sharp or worsening pain, gentle daily stretching helps maintain flexibility and reduces muscle tension. Always listen to your body and check with your doctor if you have any specific concerns.
-
-### How long does it take for stretching to relieve lower back pain in seniors?
-
-Most people begin to notice some improvement in flexibility and a reduction in discomfort within two to four weeks of consistent daily stretching. Significant pain relief and improved mobility often become more noticeable after six to eight weeks. Consistency is the most important factor,  even short daily sessions add up over time.
-
-### What stretches should seniors avoid if they have lower back pain?
-
-Seniors with lower back pain should generally avoid deep forward bends with straight legs, high-impact jumping movements, and any twist that causes sharp pain. Sit-ups and double leg raises can also place too much stress on the lumbar spine. Always choose gentle, controlled stretches and stop immediately if any movement causes sharp or shooting pain.
-
-Photo by [The Good Funeral Guide](https://unsplash.com/@good_funeral_guide?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
 ---
 

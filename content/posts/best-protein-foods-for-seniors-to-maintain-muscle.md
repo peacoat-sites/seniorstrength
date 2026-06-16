@@ -117,29 +117,6 @@ Even walking regularly combined with adequate protein intake has shown meaningfu
   * Stay hydrated,  muscles need water to function and recover effectively
   * Consistent, moderate activity beats occasional intense workouts for long-term muscle health
 
-## Frequently Asked Questions
-
-### Can seniors get enough protein from plant-based foods alone?
-
-Absolutely, with thoughtful planning. Plant-based protein foods for seniors like beans, lentils, tofu, edamame, and whole grains can meet daily protein needs when eaten in sufficient quantities and variety. Pairing different plant proteins throughout the day ensures you get all essential amino acids.
-
-Some plant-based seniors may benefit from a protein supplement or fortified foods to close any gaps. A registered dietitian can help design a satisfying plant-forward meal plan that supports muscle health.
-
-### Are protein supplements safe for older adults?
-
-Protein supplements like whey or plant-based protein powders can be a helpful and safe option for seniors who struggle to meet their protein needs through food alone. They are particularly useful after illness, surgery, or during periods of reduced appetite.
-
-Look for supplements with minimal added sugars and artificial ingredients. Always discuss any new supplement with your doctor or pharmacist, especially if you have kidney disease, since very high protein intakes may not be appropriate for everyone.
-
-### How does hydration affect muscle health in seniors?
-
-Staying well-hydrated is essential for muscle function, recovery, and overall health. Dehydration can cause muscles to feel weaker, increase cramping risk, and impair the body’s ability to use protein effectively.
-
-Seniors are at higher risk for dehydration because the sense of thirst naturally diminishes with age. Aim for at least 6 to 8 cups of fluid daily, and remember that water-rich foods like soups, fruits, and vegetables also contribute to your hydration.
-
-Building and maintaining strong muscles after 60 is absolutely possible,  and it starts with what’s on your plate. By choosing the right **protein foods for seniors muscle** support and pairing them with regular movement, you are investing in your strength, independence, and quality of life. Small, consistent choices add up to powerful results. You’ve got this!
-
-Photo by [Tamanna Rumee](https://unsplash.com/@tamanna_rumee?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
 ---
 

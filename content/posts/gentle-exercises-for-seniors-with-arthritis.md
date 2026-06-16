@@ -76,27 +76,6 @@ Please talk to your doctor or a physical therapist before beginning a new exerci
 
 ---
 
-## FAQ
-
-### Is walking good exercise for arthritis?
-
-Walking is genuinely beneficial for most people with arthritis, but the surface and duration matter. Flat, cushioned surfaces (a rubberized track, grass, or a treadmill) are gentler on joints than concrete. Start short, maybe 10 to 15 minutes, and build gradually. If you consistently feel worse in your joints the next morning after walking, consider switching to a lower-impact activity like water exercise while you build baseline strength.
-
-### Should I exercise during an arthritis flare?
-
-Generally, yes, but dramatically scaled back. Focus only on gentle range-of-motion movements through a pain-free arc rather than strength work or aerobic exercise. If a joint is hot, very swollen, or significantly more painful than your usual baseline, that's a signal to rest it and check in with your doctor, especially if the flare is unusual or unexplained.
-
-### How long before I see results from exercising with arthritis?
-
-Most people notice some improvement in stiffness and functional movement within four to six weeks of consistent, appropriate exercise. Meaningful strength gains take longer, typically eight to twelve weeks. The research generally looks at twelve-week programs as a minimum timeframe for measuring significant outcomes. Patience matters here.
-
-### Can exercise actually make arthritis worse?
-
-Inappropriate exercise, meaning high-impact, high-load activities that compress already-damaged joints, can aggravate symptoms. But appropriate exercise does not accelerate cartilage loss and actually appears to support joint health over time. The distinction really does come down to type, intensity, and pacing.
-
-### What if I can't afford a gym or pool membership?
-
-You don't need one. Chair-based exercises, resistance band work, and walking cost almost nothing. The Arthritis Foundation's website (arthritis.org) has a library of free exercise videos. Several evidence-based programs, including Walk With Ease, have free or very low-cost printed guides. A single appointment with a physical therapist to get a personalized home exercise program can be worth more than months of gym access.
 
 ---
 

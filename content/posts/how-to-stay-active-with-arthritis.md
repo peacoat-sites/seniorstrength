@@ -82,27 +82,6 @@ One thing I always tell people: be specific with your doctor about what you want
 
 ---
 
-## Frequently Asked Questions
-
-### Is it safe to exercise during an arthritis flare-up?
-
-During a significant flare, especially with rheumatoid arthritis, you'll want to back off anything that loads the affected joints. Gentle range-of-motion movement is usually fine and helps prevent stiffness, but this is a good moment to check in with your doctor or physical therapist rather than push through on your own. A two-day rest during a bad flare is not going to derail your progress.
-
-### What's the best exercise for knee arthritis specifically?
-
-Cycling and aquatic exercise consistently get strong results for knee osteoarthritis because both minimize impact while keeping the joint moving and the surrounding muscles working. Straight-leg raises and quad sets (tightening the quad while the leg is flat) are also reliably helpful for building the support structure around the knee. Avoid deep squats and high-impact activities until you've built a solid strength base.
-
-### How long before exercise starts reducing my arthritis pain?
-
-Most people notice some improvement in stiffness and function within four to six weeks of consistent, appropriate activity. Meaningful pain reduction often takes eight to twelve weeks. If you're three months in and things have gotten worse, that's a signal to revisit the program with a professional, not to quit entirely.
-
-### Can I strength train with arthritis, or will it damage my joints further?
-
-Strength training, when programmed correctly, actually protects joints by building the muscular support around them. The evidence on this is pretty consistent. The risks come from poor form, too-heavy loads too soon, or training through sharp joint pain. Starting with a physical therapist or a certified trainer experienced with older adults makes a real difference in getting this right.
-
-### Does losing weight help arthritis pain, and if so, how much?
-
-Yes, for weight-bearing joints like hips and knees, the evidence is genuinely compelling. Every pound of body weight translates to roughly four pounds of force on the knee joint during walking. Even modest weight loss, in the 10-15 pound range, can produce noticeable reductions in knee pain. That said, the relationship between weight and arthritis is complex and weight loss alone isn't a fix, especially for inflammatory types like RA. Your rheumatologist or primary care doctor is the right person to talk with about this specifically.
 
 ---
 

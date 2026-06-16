@@ -117,21 +117,6 @@ You may need **extra protein** if you are:
 
 It’s worth noting that people with **chronic kidney disease (CKD)** may actually need to limit protein intake rather than increase it. Always consult your doctor or a registered dietitian before making significant changes to your protein consumption if you have any existing health conditions.
 
-## Frequently Asked Questions
-
-Photo by [Sweet Life](https://unsplash.com/@sweetlifediabetes?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
-
-### Can seniors get too much protein?
-
-For most healthy seniors, consuming higher amounts of protein,  up to 1.6 grams per kilogram of body weight,  is considered safe and beneficial. However, extremely high intakes beyond this range may put additional stress on the kidneys over time. If you have healthy kidneys, moderate increases in protein are very unlikely to cause harm. Always check with your healthcare provider if you’re unsure what level is right for your personal health situation.
-
-### Is protein powder safe for seniors to use?
-
-Yes, protein powder can be a safe and convenient way for seniors to meet their daily protein needs, especially if appetite is reduced. Whey protein is highly bioavailable and well-researched for older adults. Plant-based options like pea or rice protein are excellent alternatives for those with dairy sensitivities. Look for products with minimal added sugars and artificial ingredients, and choose reputable brands that use third-party testing.
-
-### Does the type of protein matter, or is it just about the total amount?
-
-Both the type and the total amount of protein matter for seniors. High-quality, complete proteins,  those containing all essential amino acids,  are most effective at supporting muscle maintenance and repair. Leucine, an amino acid found abundantly in whey protein, eggs, and meat, is particularly important for triggering muscle protein synthesis in older adults. Aim for variety in your protein sources to cover all your amino acid bases throughout the week.
 
 ## You’ve Got This,  One Meal at a Time
 

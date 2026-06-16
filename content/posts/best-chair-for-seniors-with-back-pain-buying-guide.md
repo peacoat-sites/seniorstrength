@@ -117,27 +117,6 @@ Follow these steps for the ideal sitting position:
 
 Even with a perfect setup, try to stand up and move around briefly every 30 to 45 minutes. Extended sitting,  regardless of the chair,  increases back pain and stiffness over time.
 
-## Frequently Asked Questions
-
-Photo by [Rollz International](https://unsplash.com/@rollzint?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
-
-### What type of chair is best for seniors with lower back pain?
-
-For most seniors, an ergonomic chair or a lift recliner with built-in lumbar support is the best choice for lower back pain. The most important features are adjustable lumbar support, a firm but cushioned seat, and a high backrest that supports the full length of the spine.
-
-Zero gravity recliners are also an excellent option if you need more relief during rest and relaxation periods.
-
-### How much should I spend on a good chair for back pain?
-
-You can find solid options starting around $150 to $300 for ergonomic desk chairs. Quality lift chairs typically range from $600 to $2,000 depending on features. Zero gravity recliners fall between $300 and $1,500.
-
-While budget matters, think of a supportive chair as a health investment. A chair that eliminates daily pain is worth considerably more than its price tag in quality of life.
-
-### Can a chair actually help reduce chronic back pain?
-
-Yes,  absolutely. Research consistently shows that proper seating posture and lumbar support can significantly reduce both the frequency and severity of lower back pain. Many seniors experience noticeable improvement within just a few weeks of switching to a properly supportive chair.
-
-Of course, a chair works best as part of a broader approach that includes gentle movement, stretching, and guidance from your doctor or physical therapist.
 
 ## Your Comfort Is Worth the Investment
 

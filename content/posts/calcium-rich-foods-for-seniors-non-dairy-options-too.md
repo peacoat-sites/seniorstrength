@@ -108,25 +108,6 @@ Here are some practical and easy ideas to get you started:
 
 Keeping a mental note,  or even a written food log,  of your daily calcium sources can be eye-opening. Many seniors find that small tweaks to familiar recipes are enough to close the gap.
 
-## Frequently Asked Questions About Calcium for Seniors
-
-### Should seniors take a calcium supplement if they eat calcium-rich foods?
-
-It depends on how much calcium you are getting from food each day. If your diet consistently provides close to 1,200 mg, a supplement may not be necessary.
-
-However, if you struggle to eat enough calcium-rich foods, a supplement can help fill the gap. Always talk to your doctor first, because too much calcium from supplements has been linked to kidney stones and, in some studies, cardiovascular concerns.
-
-### Are there any calcium-rich foods that are easy to eat for seniors with dental issues?
-
-Absolutely. Soft foods like yogurt, ricotta cheese, silken tofu, cooked beans, and canned fish are all gentle on sensitive teeth or dentures. Smoothies made with fortified milk or plant-based milk are another excellent option.
-
-Cooked leafy greens like kale and collard greens become very soft when sautéed and are easy to chew. You do not need to miss out on calcium just because chewing is difficult.
-
-### What foods or habits can actually block calcium absorption?
-
-Several common habits can reduce how much calcium your body actually uses. Drinking very large amounts of caffeine or alcohol regularly, eating too much sodium, and consuming excessive amounts of spinach or beet greens (high in oxalates) can all interfere with calcium absorption.
-
-Spreading your calcium intake throughout the day,  rather than trying to get it all at once,  also helps your body absorb it more efficiently. Aim for no more than 500 mg in a single meal or snack.
 
 ## You Have the Power to Protect Your Bones
 

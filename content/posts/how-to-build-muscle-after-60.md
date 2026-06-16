@@ -84,27 +84,6 @@ And the psychological piece is real. A lot of clients over 60 come in with years
 
 ---
 
-## Frequently Asked Questions
-
-### Is it too late to build muscle after 70 or 75?
-
-No, and the evidence on this is pretty clear. Studies including adults in their 80s and 90s have shown measurable muscle and strength gains from progressive resistance training. The process is slower and recovery takes longer, but the physiological capacity is there. Starting at any age beats not starting.
-
-### How many days a week should I lift weights?
-
-Two to three sessions per week is a solid, evidence-supported target for most adults over 60 who are new or returning to training. More isn't always better. Consistent training with adequate recovery between sessions matters more than frequency alone.
-
-### Will lifting heavy weights hurt my joints?
-
-Not necessarily, and done correctly, resistance training often reduces joint pain over time by strengthening the muscles that support those joints. The key is appropriate loading (not maxing out), good technique, and sensible progression. If you have an existing injury or joint condition, working with a physical therapist or certified trainer who can assess your movement first is genuinely worth doing.
-
-### Should I do cardio or strength training first?
-
-If you're doing both in the same session, do strength training first. Cardiovascular fatigue blunts strength performance and technique. If you can separate them to different days, even better, though for general health, doing both matters more than the order.
-
-### Do I need to eat right after my workout for muscle building?
-
-The "anabolic window" of 30 minutes post-workout has been largely overstated. What matters more is total daily protein intake and spreading it across meals. That said, eating a protein-containing meal within a couple of hours of training is sensible and practical. You don't need a shake on the gym floor, but don't skip the next meal either.
 
 ---
 

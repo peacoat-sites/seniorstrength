@@ -124,25 +124,6 @@ Consider making these knee-friendly adjustments to your daily routine:
 
 Small environmental changes at home can also make a big difference. Adding grab bars in the bathroom, using a raised toilet seat, and installing non-slip mats reduce both fall risk and the strain on your knees during everyday movements.
 
-## Frequently Asked Questions
-
-### Can seniors really build enough muscle to protect their knees after age 60?
-
-Absolutely yes. Research consistently shows that adults can build meaningful muscle strength well into their 70s and 80s with regular resistance exercise. Stronger quadriceps, hamstrings, and calf muscles act like natural shock absorbers for your knee joint, significantly reducing pain and the risk of further damage.
-
-Even chair-based strength exercises performed a few times per week can produce noticeable improvements within four to six weeks. The key is starting at an appropriate level and progressing gradually with guidance from a physical therapist or fitness professional experienced with older adults.
-
-### How long does it take to feel relief from non-surgical knee pain treatments?
-
-The timeline varies depending on the cause of your pain and the treatments you choose. Some people notice improvement from physical therapy and lifestyle changes within two to four weeks, while others may take two to three months to experience significant relief.
-
-Medical interventions like corticosteroid injections often work more quickly, sometimes providing relief within a few days. Patience and consistency are essential,  most non-surgical approaches require time and commitment before their full benefits become apparent.
-
-### When should a senior actually consider surgery for knee pain?
-
-Surgery is generally considered when knee pain is severe enough to significantly limit daily activities, when non-surgical treatments have been tried consistently for at least three to six months without adequate relief, and when imaging confirms advanced joint damage.
-
-Modern procedures like partial knee replacement have become far less invasive than they once were, with faster recovery times for older adults. However, most orthopedic surgeons agree that exhausting non-surgical options first is almost always the right approach for seniors who are good candidates for conservative care.
 
 ## You Deserve to Move Freely and Live Well
 

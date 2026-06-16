@@ -105,21 +105,6 @@ Basic illuminated handheld magnifiers start at around $15 to $30. These can be a
 
 Hands-free desktop magnifiers with lighting range from $50 to $200. Electronic desktop video magnifiers are a larger investment, typically $400 to $3,000, but they’re often partially covered by insurance or available through low vision assistance programs. Your state’s Commission for the Blind or low vision nonprofit organizations may also offer loaner programs or financial assistance.
 
-## Frequently Asked Questions
-
-Photo by [Centre for Ageing Better](https://unsplash.com/@ageing_better?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
-
-### What magnification power is best for macular degeneration?
-
-Most low vision specialists recommend starting in the 5x to 8x range for reading tasks. The right power depends on how much central vision you’ve lost,  a formal low vision evaluation with your eye doctor is the most reliable way to determine your personal ideal magnification level.
-
-### Are lighted magnifying glasses really better for AMD patients?
-
-Yes, absolutely. Macular degeneration often reduces contrast sensitivity as well as central acuity. Built-in LED lighting increases contrast significantly, making text and images much easier to distinguish. Most low vision specialists strongly recommend illuminated magnifiers over non-lit models for AMD patients.
-
-### Can a magnifying glass slow or stop macular degeneration progression?
-
-No,  a magnifying glass is a low vision aid, not a medical treatment. It helps you see better with the vision you have but does not affect the progression of AMD itself. For information about treatments that may slow progression, speak with your ophthalmologist about options like AREDS2 supplements or anti-VEGF injections if you have wet AMD.
 
 ## You Deserve to Keep Doing What You Love
 

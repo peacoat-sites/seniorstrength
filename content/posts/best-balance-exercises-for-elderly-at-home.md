@@ -122,27 +122,6 @@ If you've already had a fall, if you have a diagnosed vestibular disorder like B
 
 ---
 
-## FAQ
-
-### How long does it take to see improvement in balance?
-
-Most people notice a meaningful difference within four to six weeks of daily practice, though some feel more stable within two weeks. Neurological adaptations happen quickly; strength gains take a bit longer. Consistency matters more than any individual session.
-
-### Is it safe to do balance exercises alone, or do I need someone with me?
-
-For most healthy older adults, these exercises are safe to do alone as long as you have a sturdy support surface within arm's reach and you've cleared your floor space. If you have a history of falls or a medical condition affecting your balance, having someone nearby for the first few weeks is a reasonable precaution.
-
-### Should I exercise balance every day, or do I need rest days?
-
-Unlike strength training, balance work doesn't require recovery days in the same way. Daily practice of ten to fifteen minutes is appropriate and actually more effective than less frequent longer sessions. If you're also doing strength training, you can combine them on the same days.
-
-### What if I feel dizzy during these exercises?
-
-Stop and sit down. Dizziness during balance exercises can mean several things: a blood pressure drop (especially if you stood up quickly), a vestibular issue, or simple exertion. If it happens once, note what you were doing and try a less challenging variation next time. If it happens repeatedly, see your doctor or an ENT before continuing.
-
-### Can these exercises help if I already use a cane or walker?
-
-Yes, with modifications. Many of these can be done with one hand on your assistive device instead of a chair. Consult with a physical therapist about which exercises are appropriate given your specific situation, because the answer depends on why you're using the device in the first place.
 
 ---
 

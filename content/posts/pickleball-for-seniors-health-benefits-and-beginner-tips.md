@@ -89,21 +89,6 @@ Your first stop should be the **Places2Play** court locator at the USA Picklebal
 
 Facebook Groups are another excellent resource. Search “pickleball [your city]” to find local groups where players post open play schedules, tournaments, and beginner events. The pickleball community is known for its friendliness and genuine enthusiasm for welcoming new players of any age or ability level.
 
-## Frequently Asked Questions About Pickleball for Seniors
-
-Photo by [Sweet Life](https://unsplash.com/@sweetlifediabetes?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
-
-### Is pickleball safe for seniors with knee or hip problems?
-
-For most seniors with mild to moderate knee or hip issues, pickleball is considered a low-impact activity that is generally safe and even therapeutic. The smaller court reduces running distance significantly, lowering stress on joints. However, you should always consult your orthopedic specialist or physician before starting if you have had a joint replacement or are managing significant arthritis. Wearing supportive footwear and warming up properly also makes a meaningful difference in protecting vulnerable joints during play.
-
-### How much does it cost to start playing pickleball?
-
-Starting pickleball is very affordable compared to many other sports. A solid beginner paddle costs between $40 and $80, and a tube of balls runs about $10 to $15. Court fees at public recreation centers are typically $2 to $5 per session, and many offer senior discounts or free open-play times. Some community centers provide equipment to borrow at no charge, so your initial investment could literally be zero. Once you’re hooked, you can upgrade your gear gradually as your game improves.
-
-### What if I’ve never played a racket sport before?
-
-No prior racket experience is needed whatsoever. Many of today’s most enthusiastic senior pickleball players never played tennis, badminton, or any similar sport in their lives. The paddle is light, the court is small, and the rules are simple enough to learn in under 15 minutes. Beginner clinics are designed specifically for people starting from absolute zero, and the welcoming culture of the pickleball community means you’ll find patient, encouraging playing partners at any open-play session.
 
 ## You’re Ready to Pick Up That Paddle
 

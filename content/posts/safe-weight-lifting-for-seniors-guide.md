@@ -100,27 +100,6 @@ Protein intake is deeply underappreciated. You need more of it to trigger the sa
 
 ---
 
-## Frequently Asked Questions
-
-### Is it safe to lift heavy weights after 70?
-
-For most healthy adults, yes, with appropriate progression and attention to form. A 2017 study in *Medicine and Science in Sports and Exercise* found that high-intensity resistance training in adults aged 74-84 was safe and produced significant strength gains. "Heavy" should be defined relative to your current capacity, not some absolute number on the bar.
-
-### How do I know if I'm lifting enough weight to actually see results?
-
-The last two to three reps of your working sets should feel genuinely hard. If you finish a set of 12 reps and feel like you could easily do 8 more, the weight is too light to drive meaningful adaptation. Aim to leave roughly 2-3 reps "in the tank" at the end of each set, not 10.
-
-### What exercises should seniors avoid?
-
-Fewer than most lists suggest. Exercises to approach carefully rather than avoid outright include behind-the-neck lat pulldowns (hard on the shoulder for most people), heavy loaded spinal flexion if you have osteoporosis, and any movement where you can't yet control the weight through the full range of motion. The exercise is rarely the problem. The load and the form are.
-
-### How long before I notice real strength improvements?
-
-Noticeable strength gains typically appear within 4-6 weeks of consistent training, even before visible muscle changes. Meaningful changes in body composition and functional strength tend to show up at 12-16 weeks. Anyone promising faster results is selling something.
-
-### Do I need a trainer, or can I start on my own?
-
-You can start on your own with a well-designed program, but two or three sessions with a certified trainer who has experience working with older adults is a genuinely good investment early on. Not because you need hand-holding, but because having someone watch your movement patterns and catch compensations before they become habits saves a lot of trouble later. Look for a CSCS (Certified Strength and Conditioning Specialist) or a trainer with an ACSM or NSCA credential.
 
 ---
 

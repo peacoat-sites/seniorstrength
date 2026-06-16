@@ -113,27 +113,6 @@ Soreness is normal. Pain in a joint is not. Learn to distinguish delayed onset m
 
 ---
 
-## Frequently Asked Questions
-
-### Is it too late to start strength training at 65?
-
-No, and I'd push back on that question a little. Studies have documented meaningful muscle and bone density gains in women starting resistance training in their 70s and 80s. Starting at 65 is genuinely ideal timing. The earlier you start building this foundation, the more you're protecting your 75-year-old self.
-
-### How much weight should a 65-year-old woman be lifting?
-
-There's no universal answer here. The right weight is one where the last 2-3 reps of a set feel genuinely challenging but your form stays clean. For a new lifter, that might be 8 lbs on a press and 20 lbs on a row. For someone with a year of training, those numbers look very different. Start lighter than you think you need to, and increase based on how you actually feel.
-
-### Should I exercise if I have osteoporosis?
-
-Yes, with modifications. Weight-bearing and resistance exercise are actually among the most evidence-supported interventions for slowing bone density loss. The key is avoiding high-impact activities, heavy spinal loading, and exercises that involve significant spinal flexion. Working with a physical therapist to design a safe program is genuinely worth it here.
-
-### How long before I see results?
-
-Strength gains typically begin to show up within 4-6 weeks for new lifters, though early improvements are largely neurological (your brain getting better at recruiting muscle fibers) before visible muscle changes occur. Balance improvements can come faster, sometimes within 3-4 weeks of consistent practice. Give any new routine a full 8-12 weeks before you evaluate whether it's working.
-
-### Is walking enough on its own?
-
-For cardiovascular health, regular brisk walking is genuinely beneficial. But walking alone won't stop muscle loss, won't improve upper body strength, and isn't sufficient for bone density maintenance. It's a great complement to a complete program, not a substitute for one.
 
 ---
 

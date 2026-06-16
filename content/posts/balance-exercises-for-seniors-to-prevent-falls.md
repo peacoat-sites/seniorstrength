@@ -100,27 +100,6 @@ Simple exercises that support balance through strength: calf raises (stand behin
 
 ---
 
-## Frequently Asked Questions
-
-### How often should seniors do balance exercises to see real results?
-
-Most research points to at least two to three sessions per week to produce measurable improvements in balance and fall risk. The good news is that sessions don't need to be long. Twenty to 30 minutes of focused balance and strength work is enough, as long as you're consistent over weeks and months. Sporadic effort produces sporadic results, but steady practice compounds quickly with balance training in a way that genuinely surprises people.
-
-### Is it safe to do balance exercises if I've already had a fall?
-
-In most cases, yes, with appropriate modifications and professional guidance. A recent fall is actually one of the strongest reasons to start a structured balance program. That said, if the fall involved a head injury, significant pain, or a medical event like dizziness or fainting, please speak with your physician before starting any new exercise program. A physical therapist can assess your specific situation and build a program around your current abilities, which is always the safest route after a fall.
-
-### What's the single best balance exercise for someone just starting out?
-
-If I had to pick one, it would be the single-leg stand. It's simple, requires no equipment, takes under two minutes, and directly measures and trains the stability you need most. Start with your hands resting on a counter. Aim for 10 seconds. Track your progress weekly. When you can hold it comfortably for 30 seconds with eyes open, try 10 seconds with eyes closed. The progression itself will show you exactly how your balance is improving.
-
-### Can medications affect balance, and should I tell my trainer?
-
-Absolutely yes, and absolutely yes. Many common medications affect balance, including blood pressure medications (which can cause dizziness when you stand), sedatives, sleep aids, antihistamines, and some antidepressants. Your trainer needs to know what you're taking. If you've noticed new dizziness or unsteadiness after starting a medication, that conversation belongs with your prescribing doctor first. A medication review by your physician or pharmacist is one of the most overlooked fall prevention strategies available.
-
-### At what point should I work with a physical therapist rather than exercising on my own?
-
-If you've had two or more falls in the past year, if you have a neurological condition like Parkinson's disease or peripheral neuropathy, if you've had a hip or knee replacement, or if you feel genuinely unsafe getting up from a chair without support, please start with a physical therapist rather than going it alone. They can identify the specific deficits driving your fall risk and design a program that addresses your actual weak points. Self-guided programs like the one in this article are a solid starting point for many people, but they're not a substitute for professional assessment when your situation calls for one.
 
 ---
 

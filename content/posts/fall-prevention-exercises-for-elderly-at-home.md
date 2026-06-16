@@ -108,20 +108,3 @@ Exercise is the foundation, but a few other healthy habits can give your fall-pr
 
 Small changes in your home environment combined with a consistent exercise routine create a powerful safety net. Together, they dramatically reduce the chances of a serious fall.
 
-## Frequently Asked Questions
-
-### How long does it take to see results from fall prevention exercises?
-
-Most older adults start noticing improvements in balance and strength within four to six weeks of consistent practice. You may feel steadier on your feet and more confident moving around your home before you even reach that milestone. The key is sticking with it,  even on days when motivation feels low.
-
-### What if I’ve already had a fall,  is it still safe to exercise?
-
-Yes, but always check with your doctor first, especially if you were injured. In most cases, gentle exercise is not only safe after a fall but strongly recommended to rebuild strength and confidence. A physical therapist can create a personalized program tailored to your recovery and specific risk factors.
-
-### Are there any exercises seniors should avoid for fall prevention?
-
-Exercises that involve rapid direction changes, jumping, or unstable surfaces (like a Bosu ball without supervision) may not be appropriate for all seniors. High-impact activities can also put stress on aging joints. Stick to low-impact, controlled movements like those listed above, and always prioritize slow, deliberate motion over speed or intensity.
-
-You have every reason to feel optimistic. Staying steady on your feet is absolutely within your reach,  and it starts with one small step today. Whether it’s your first calf raise holding onto the kitchen counter or your twentieth sit-to-stand rep, every movement builds a stronger, safer version of you. Keep going, be patient with yourself, and know that the effort you’re putting in now is an investment in years of independent, confident living ahead.
-
-Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)

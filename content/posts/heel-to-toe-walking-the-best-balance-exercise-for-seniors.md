@@ -107,25 +107,6 @@ Consider adding single-leg stands, side leg raises, or seated ankle circles to y
 
 If you have a history of falls, significant dizziness, or a neurological condition, speak with your doctor or a physical therapist before beginning any new balance program. A professional can tailor a plan specifically to your needs and health history.
 
-## Frequently Asked Questions
-
-### Is heel-to-toe walking safe for seniors with arthritis or joint pain?
-
-For most people, yes,  heel-to-toe walking is a low-impact exercise that places minimal stress on the joints. However, if you have significant knee or hip pain, start very slowly and use a wall for support.
-
-If you notice increased joint pain during or after the exercise, pause and speak with your healthcare provider. They may suggest modifications or complementary treatments to make balance training more comfortable for you.
-
-### How long before I notice improvements in my balance?
-
-Many seniors report feeling more confident and steady within just two to four weeks of consistent practice. Balance improvements happen gradually but steadily when you train regularly.
-
-Remember that progress is not always dramatic,  often the first signs are smaller and just as meaningful, like feeling less anxious on stairs or recovering more quickly from a small stumble. Celebrate every improvement, no matter how modest.
-
-### Can I do heel-to-toe walking if I use a cane or walker?
-
-If you currently use a mobility aid, it is best to consult your doctor or physical therapist before attempting tandem walking independently. They can assess your current balance level and may work with you on modified versions in a supervised setting.
-
-In some cases, a therapist may guide you through partial heel-to-toe steps while you use one hand on a support rail,  allowing you to gain the benefits safely and progressively.
 
 ## Your Next Step Starts with One Foot in Front of the Other
 

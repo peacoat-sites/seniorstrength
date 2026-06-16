@@ -107,19 +107,6 @@ Consider keeping a short walking journal,  just jot down your steps, how you fel
 
 Walking with a friend or joining a local senior walking group adds a social element that many people find makes the habit stick much better than walking alone.
 
-## Frequently Asked Questions
-
-### Is 10,000 steps a day realistic for someone in their 70s?
-
-Absolutely,  but it may take a few months to build up to, and that’s completely normal. Many people in their 70s and 80s comfortably walk 10,000 steps daily. The key is gradual progression. Start where you are, add steps slowly, and celebrate every milestone along the way.
-
-### What if I have knee or hip pain when I walk?
-
-Mild discomfort during the first few minutes of walking that eases as you warm up is usually normal. However, sharp, worsening, or persistent pain is a signal to stop and speak with your doctor or a physical therapist. Lower-impact surfaces like grass or rubberized tracks can also reduce joint stress significantly.
-
-### Do I need to walk all my steps at once?
-
-Not at all! Research consistently shows that multiple shorter walks throughout the day provide the same health benefits as one long walk. Three 15-minute walks, two 20-minute walks,  any combination works. What matters most is the total movement, not how it’s arranged.
 
 ## You’re More Capable Than You Think
 

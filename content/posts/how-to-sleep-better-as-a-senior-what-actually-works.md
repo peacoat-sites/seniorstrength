@@ -100,19 +100,6 @@ Your doctor might recommend cognitive behavioral therapy for insomnia (CBT-I), w
 
 Medications should be a last resort, but they exist for those who need them. Your doctor can evaluate whether your current medications affect sleep and adjust them if needed. Always discuss sleep concerns with your healthcare provider rather than self-treating.
 
-## FAQ
-
-### What's the best sleeping position for seniors?
-
-Side sleeping is generally best for older adults, as it reduces sleep apnea risk and improves breathing. Back sleeping is second best, while stomach sleeping can strain your neck and should be avoided. Use a pillow between your knees if side sleeping to maintain spinal alignment and reduce hip pain.
-
-### Is melatonin safe for seniors to take?
-
-Melatonin is generally safe for short-term use in older adults, typically at doses of 0.5-5 mg taken 30-60 minutes before bed. However, it works best when combined with good sleep habits rather than as a standalone solution. Always check with your doctor before starting melatonin, especially if you take other medications, as interactions are possible.
-
-### How long does it take to improve sleep as a senior?
-
-Most people see improvements within 2-3 weeks of consistent sleep habit changes, though full benefits typically appear after 6-8 weeks. Your brain needs time to establish new patterns and associations with better sleep. Be patient and consistent, the changes you make now build better sleep for months and years ahead.
 
 ---
 

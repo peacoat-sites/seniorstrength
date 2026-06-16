@@ -91,27 +91,6 @@ And then there's this: bifocals and progressive lenses, while excellent for gene
 
 ---
 
-## Frequently Asked Questions
-
-### What is the most common cause of falls in older adults at home?
-
-Muscle weakness and balance problems are the leading physical contributors, often combined with environmental hazards like poor lighting, loose rugs, and slippery bathroom surfaces. Medications, particularly combinations of four or more, are a frequently underestimated factor.
-
-### Should I be worried if an elderly parent has already had one fall?
-
-Yes, and this is supported by research: one fall meaningfully increases the risk of another. A single fall warrants a conversation with their doctor about balance assessment, medication review, and whether a physical therapist referral makes sense.
-
-### Are grab bars hard to install, and can I use a tension-mounted one instead?
-
-Tension-mounted grab bars (the kind that don't require drilling) are not safe for weight-bearing use. They can shift or give way unexpectedly. A proper grab bar should be anchored into wall studs. If there's no stud where you need the bar, a blocking board or wall anchor rated for the appropriate load is needed. This is worth hiring someone to do correctly.
-
-### At what age should someone start fall prevention exercises?
-
-Honestly, the earlier the better, because balance and leg strength are easier to maintain than to rebuild. But starting in your 60s or 70s absolutely still produces real results. The research supports meaningful improvements in balance and fall rates even when training begins in the 80s.
-
-### Does a cane or walker help prevent falls, or does it create dependency?
-
-Used correctly, both can reduce fall risk significantly, and neither creates dependency in the way people fear. The bigger risk is avoiding a mobility aid out of pride and falling as a result. A physical therapist can assess which device (if any) is appropriate and, critically, make sure the person knows how to use it correctly. Many people use canes at the wrong height, which actually increases instability.
 
 ---
 

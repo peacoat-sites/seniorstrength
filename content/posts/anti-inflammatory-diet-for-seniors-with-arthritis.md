@@ -112,21 +112,6 @@ Knowing what to eat is one thing,  making those changes stick in your daily rout
   * **Stay hydrated.** Joints need water to stay lubricated. Aim for at least 6 to 8 glasses of water per day, and herbal teas count too.
   * **Work with a registered dietitian.** A professional can personalize an anti-inflammatory plan that accounts for any medications or other health conditions you may have.
 
-## Frequently Asked Questions
-
-Photo by [Ella Olsson](https://unsplash.com/@ellaolsson?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
-
-### How quickly can an anti-inflammatory diet reduce arthritis pain?
-
-Many seniors report noticing some improvement in pain and stiffness within four to six weeks of consistently following an anti-inflammatory eating pattern. However, results vary from person to person, and dietary changes work best as part of a comprehensive arthritis management plan that includes regular gentle exercise, adequate sleep, and any medications prescribed by your doctor.
-
-### Is the Mediterranean diet good for seniors with arthritis?
-
-Absolutely,  the Mediterranean diet is considered one of the gold standards for an anti-inflammatory diet for seniors with arthritis. It emphasizes olive oil, fish, vegetables, fruits, whole grains, legumes, and nuts, which are exactly the foods that research shows help reduce inflammation. Multiple clinical studies have found that seniors following a Mediterranean-style diet report less joint pain and better overall quality of life.
-
-### Can I still eat meat if I have arthritis?
-
-Yes, you can still include meat in your diet,  moderation and type are the key factors. Skinless poultry like chicken and turkey is a much better choice than red meat for arthritis management. If you enjoy red meat, limit it to once or twice a week and choose leaner cuts. Processed meats like sausage, hot dogs, and bacon should be eaten very rarely, as they are particularly pro-inflammatory.
 
 ## You Have the Power to Feel Better
 

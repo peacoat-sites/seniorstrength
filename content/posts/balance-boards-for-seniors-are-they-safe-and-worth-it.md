@@ -118,19 +118,6 @@ Try pairing your balance board sessions with these gentle exercises:
 
 Combining these exercises with regular balance board use gives your nervous system and muscles a well-rounded challenge,  and accelerates your progress.
 
-## Frequently Asked Questions
-
-### Can a complete beginner with poor balance use a balance board safely?
-
-Yes, as long as you start with the right equipment and the right setup. A beginner senior should always begin with a gentle rocker board or an inflatable balance disc, positioned next to a stable surface for hand support. Starting this way makes the exercise accessible even if your current balance is quite poor, and you’ll likely notice improvement within just a few weeks of regular practice.
-
-### How long does it take to see improvements in balance from using a balance board?
-
-Many seniors report feeling noticeably steadier after just 3 to 4 weeks of consistent daily practice. Research on balance training generally shows meaningful improvements in stability and fall-related confidence within 6 to 8 weeks. The key word is consistency,  even short sessions of 5 minutes a day add up quickly over time.
-
-### Is a balance board better than just doing balance exercises on the floor?
-
-Both approaches are valuable and they work very well together. Floor-based balance exercises like single-leg stands and heel-to-toe walking are excellent and require no equipment at all. A balance board adds an extra layer of challenge by introducing an unstable surface, which more aggressively trains the small stabilizing muscles and your proprioceptive system. Think of the board as a helpful addition to your routine, not a replacement for other exercises.
 
 ## You’ve Got This,  One Steady Step at a Time
 

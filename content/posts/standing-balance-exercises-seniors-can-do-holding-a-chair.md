@@ -130,21 +130,6 @@ Improving your balance is one of the most empowering things you can do for your 
 
 Start where you are. Go at your own pace. Trust the process. The steadiness and confidence you are building will show up every time you walk to your mailbox, play with your grandchildren, or simply move through your home feeling sure-footed and free.
 
-## Frequently Asked Questions
-
-### How often should seniors do standing balance exercises?
-
-Most physical therapists recommend doing balance exercises two to three times per week for best results. This gives your muscles and nervous system enough stimulation to improve while still allowing recovery time between sessions. Even short five-minute sessions done consistently are far more effective than occasional longer workouts.
-
-### Is it normal to feel shaky when first starting balance exercises?
-
-Yes, absolutely,  and it is actually a good sign. That shakiness means your stabilizing muscles are being challenged and recruited in new ways. It should lessen noticeably within two to three weeks as those muscles grow stronger. However, if you feel dizzy, lightheaded, or experience pain, stop immediately and consult your doctor before continuing.
-
-### Can standing balance exercises reduce fall risk in seniors?
-
-Yes, and the evidence is strong. A major review published in the British Journal of Sports Medicine found that balance and functional exercises reduced fall rates in older adults by approximately 24 percent. The key is consistency,  doing the exercises regularly over several weeks is what produces lasting improvement in both strength and coordination.
-
-Photo by [Age Cymru](https://unsplash.com/@agecymru?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
 ---
 

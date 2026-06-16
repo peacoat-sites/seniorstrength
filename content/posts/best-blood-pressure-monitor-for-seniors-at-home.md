@@ -119,27 +119,6 @@ Here’s a quick reference guide based on American Heart Association categories:
 
 Don’t panic over a single high reading. One unusual number doesn’t define your health. It’s the pattern over many days that tells the real story.
 
-## Frequently Asked Questions
-
-Photo by [Mobio Marketing](https://unsplash.com/@mobio_be?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
-
-### Are home blood pressure monitors as accurate as the ones at the doctor’s office?
-
-Yes,  when used correctly, clinically validated home monitors are just as accurate as office devices. Look for monitors that carry validation from organizations like the American Medical Association or the British Hypertension Society.
-
-Proper technique matters enormously. Incorrect arm position, a poorly fitted cuff, or moving during a reading can all skew your results. Follow the sitting guidelines and take multiple readings for the best accuracy.
-
-### What cuff size do I need for my blood pressure monitor?
-
-Cuff size is critically important and often overlooked. A cuff that’s too small will give falsely high readings, while one that’s too large may give falsely low readings. Measure the circumference of your upper arm midway between your shoulder and elbow.
-
-Most standard cuffs fit arms between 9 and 13 inches in circumference. Large cuffs typically fit 13 to 17 inches. Many brands now offer universal or “ComFit” style cuffs that cover a wider range automatically.
-
-### Should seniors with atrial fibrillation use a special blood pressure monitor?
-
-Seniors with atrial fibrillation (AFib) should look specifically for monitors with **irregular heartbeat detection**. AFib causes irregular heart rhythms that can make standard blood pressure readings less reliable, and some monitors are better equipped to handle this.
-
-The Omron Platinum and Omron Silver both include this feature. Always let your doctor know you’re monitoring at home, and discuss which device is best suited to your specific cardiac history.
 
 ## You’ve Got This,  Start Monitoring with Confidence
 

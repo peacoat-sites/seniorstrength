@@ -122,27 +122,6 @@ One more thing: if you have osteoporosis, a recent joint replacement, or signifi
 
 ---
 
-## Frequently Asked Questions
-
-### How often should seniors exercise to maintain independence?
-
-Most guidelines, including those from the National Institute on Aging, recommend at least 150 minutes of moderate activity per week for older adults, plus two strength-training sessions. For functional independence specifically, daily practice of balance and mobility work, even just 10 to 15 minutes, tends to produce better results than less frequent, longer sessions.
-
-### Is it safe to start exercising at 75 or 80 if I've been inactive?
-
-Yes, and the research is clear on this. Even adults in their 80s and 90s show measurable strength and balance improvements with appropriate exercise. The key word is appropriate: starting slowly, prioritizing control over intensity, and ideally getting a clearance from your doctor if you have cardiovascular concerns or recent injuries.
-
-### What exercises should seniors avoid?
-
-There's no universal list, but exercises that require rapid directional changes, very deep squats without adequate mobility, or lying flat on your back if you have significant kyphosis (forward spine curvature) need to be approached carefully. High-impact movements aren't automatically off-limits, but they require a base of joint health and balance that not everyone has. When in doubt, a consultation with a physical therapist is worth more than any generalized avoid list.
-
-### Can I improve my balance even if I've already had a fall?
-
-Yes, absolutely. In fact, a fall is often a signal that balance training is overdue, not that it's too late. Post-fall exercise programs supervised by physical therapists have strong evidence behind them. Many hospitals and rehab centers also offer fall prevention programs specifically for people who've already experienced a fall.
-
-### How long before I notice improvements?
-
-Most people notice meaningful changes in 4 to 8 weeks with consistent effort. Balance often improves faster than strength. The first thing many people report isn't something dramatic: it's that they reached for the railing and then didn't bother, because they didn't need it.
 
 ---
 

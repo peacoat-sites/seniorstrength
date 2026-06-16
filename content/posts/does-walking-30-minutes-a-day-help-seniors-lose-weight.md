@@ -122,25 +122,6 @@ Focus on these key principles:
 
 Think of walking and eating well as partners, not competitors. Together, they create a lifestyle that supports healthy weight management for the long term.
 
-## Frequently Asked Questions
-
-### Is 30 minutes of walking a day enough for seniors to lose weight?
-
-Yes, 30 minutes of daily walking can absolutely contribute to weight loss for seniors, especially when combined with healthy eating. You may lose around half a pound to one pound per month from walking alone.
-
-Over a full year, that adds up meaningfully. And the additional health benefits,  better heart health, stronger bones, improved mood,  make every walk worthwhile regardless of the scale.
-
-### What is the best time of day for seniors to walk for weight loss?
-
-The best time to walk is whenever you’ll actually do it consistently. That said, walking after meals,  particularly after lunch or dinner,  has been shown to improve blood sugar regulation and support fat metabolism.
-
-Morning walks can also be beneficial because they boost your energy and metabolism for the rest of the day. The key is finding a time that fits your routine and sticking with it.
-
-### Can seniors with joint pain still benefit from walking for weight loss?
-
-Absolutely. Walking is one of the most joint-friendly forms of exercise available. Unlike running or aerobics, walking places far less stress on the knees, hips, and ankles.
-
-If you experience joint pain, start with shorter, slower walks and wear supportive footwear. Walking on softer surfaces like grass or a track can also reduce impact. Always consult your doctor if pain persists or worsens.
 
 ## Every Step Counts,  Start Today
 
