@@ -25,6 +25,16 @@ If you find yourself shifting uncomfortably after just a few minutes of sitting,
 
 The good news is that today’s market is filled with thoughtfully designed chairs built with older adults in mind. This guide will walk you through everything you need to know before you buy.
 
+
+<div class="value-module">
+  <div class="vm-head">Chair Type Comparison for Back Pain</div>
+  <div class="vm-body">
+    <p class="vm-intro">Different chair styles address back pain through distinct mechanisms — here's how they compare on the features that matter most for seniors.</p>
+    <table><thead><tr><th>Chair Type</th><th>Best For</th><th>Lumbar Support</th><th>Ease of Getting Up</th><th>Typical Price Range</th><th>Key Limitation</th></tr></thead><tbody><tr><td>Power Lift Recliner</td><td>Limited mobility, long sitting sessions</td><td>Good (built-in contour)</td><td>Excellent (motor-assisted)</td><td>$500–$1,500</td><td>Requires outlet; heavy/bulky</td></tr><tr><td>Zero-Gravity Recliner</td><td>Spinal decompression, sciatica</td><td>Excellent (spine-neutral position)</td><td>Moderate (low seat angle)</td><td>$200–$800</td><td>Not ideal for frequent up/down</td></tr><tr><td>High-Seat Fireside Chair</td><td>Arthritis, hip replacements</td><td>Moderate (depends on model)</td><td>Excellent (18–20" seat height)</td><td>$300–$700</td><td>Limited recline options</td></tr><tr><td>Ergonomic Office Chair</td><td>Desk work, active sitting</td><td>Excellent (adjustable)</td><td>Good (swivel + casters)</td><td>$250–$1,200</td><td>May roll on carpet; no recline</td></tr><tr><td>Rocking Chair with Lumbar</td><td>Gentle movement, stiffness relief</td><td>Moderate to Good</td><td>Moderate (requires forward momentum)</td><td>$150–$500</td><td>Takes floor space; no lift assist</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why the Right Chair Matters So Much for Back Pain
 
 As we age, the discs in our spine naturally lose moisture and cushioning. This makes prolonged sitting much harder on our lower backs, hips, and tailbone. A poorly designed chair can compress these already-stressed structures and turn mild discomfort into serious pain.

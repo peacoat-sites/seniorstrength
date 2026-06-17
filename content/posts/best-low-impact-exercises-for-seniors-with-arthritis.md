@@ -25,6 +25,16 @@ You wake up in the morning, and before you even get out of bed, your knees and f
 
 Exercise might feel like the last thing you want to do when your joints are stiff and sore. But staying still often makes arthritis symptoms worse over time. The right kind of movement,  gentle, steady, and smart,  can be one of the best medicines available to you.
 
+
+<div class="value-module">
+  <div class="vm-head">Exercise Selection by Joint & Severity</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this matrix to match exercises to your specific affected joints and current symptom level.</p>
+    <table><thead><tr><th>Primary Joint Affected</th><th>Mild Symptoms (occasional stiffness)</th><th>Moderate Symptoms (daily discomfort)</th><th>Severe Symptoms (significant pain/swelling)</th></tr></thead><tbody><tr><td>Knees</td><td>Walking, stationary cycling, tai chi</td><td>Water aerobics, recumbent bike, chair exercises</td><td>Pool walking, seated leg lifts, gentle stretching</td></tr><tr><td>Hips</td><td>Walking, swimming, elliptical trainer</td><td>Water aerobics, stationary cycling, yoga</td><td>Pool exercises, seated hip circles, lying stretches</td></tr><tr><td>Hands/Wrists</td><td>Walking, cycling, dancing</td><td>Swimming (no gripping), tai chi, walking</td><td>Walking, gentle finger stretches, arm movements</td></tr><tr><td>Spine/Back</td><td>Swimming, walking, gentle yoga</td><td>Water aerobics, recumbent bike, tai chi</td><td>Pool walking, chair yoga, supine stretching</td></tr><tr><td>Multiple Joints</td><td>Swimming, tai chi, gentle cycling</td><td>Warm-water pool classes, chair exercises</td><td>Warm-water therapy, seated movements, range-of-motion exercises</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Movement Matters When You Have Arthritis
 
 Arthritis causes inflammation and stiffness in your joints, and it can affect your knees, hips, hands, wrists, and spine. Many people assume that rest is the answer, but research consistently shows that gentle movement helps keep joints lubricated and muscles strong.

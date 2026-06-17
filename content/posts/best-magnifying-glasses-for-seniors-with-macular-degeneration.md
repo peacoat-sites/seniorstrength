@@ -25,6 +25,16 @@ If you’ve ever found yourself holding a restaurant menu at arm’s length, squ
 
 Macular degeneration affects the central part of your vision, making it harder to read fine print, recognize faces, or see detail in the center of your visual field. The good news? The right magnifying glass,  or a combination of tools,  can help you reclaim so many of the activities you love.
 
+
+<div class="value-module">
+  <div class="vm-head">Magnifier Type Selection by Daily Task</div>
+  <div class="vm-body">
+    <p class="vm-intro">Match your most frequent activities to the magnifier style that works best for that specific use case.</p>
+    <table><thead><tr><th>Daily Task</th><th>Recommended Type</th><th>Magnification Range</th><th>Key Feature to Prioritize</th><th>Typical Price Range</th></tr></thead><tbody><tr><td>Reading mail and labels</td><td>Handheld LED magnifier</td><td>3x–5x</td><td>Bright, even LED lighting</td><td>$15–$40</td></tr><tr><td>Reading books or newspapers (15+ min)</td><td>Stand magnifier or page magnifier</td><td>2x–4x</td><td>Hands-free stability; wide lens (4"+ diameter)</td><td>$25–$60</td></tr><tr><td>Threading needles, crafts, hobbies</td><td>Headband or visor magnifier</td><td>2x–3.5x</td><td>Both hands free; adjustable head strap</td><td>$20–$45</td></tr><tr><td>Reading pill bottles, small print</td><td>Pocket LED magnifier</td><td>5x–10x</td><td>Compact size; high-contrast LED</td><td>$10–$25</td></tr><tr><td>Writing checks, signing documents</td><td>Bar or line magnifier</td><td>2x</td><td>Keeps place on line; full-width view</td><td>$8–$20</td></tr><tr><td>Using smartphone or tablet</td><td>Clip-on screen magnifier or digital magnifier</td><td>2x–12x (digital)</td><td>Adjustable contrast/color inversion</td><td>$30–$150+</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Understanding What Seniors with Macular Degeneration Actually Need
 
 Not all magnifying glasses are created equal, and for someone living with age-related macular degeneration (AMD), the features that matter most are different from a standard magnifier. You need more than just a slightly bigger image.

@@ -34,6 +34,16 @@ So let's get into what actually works.
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Low Impact Exercises: Quick Comparison Guide</div>
+  <div class="vm-body">
+    <p class="vm-intro">This comparison helps you match exercises to your specific knee condition, fitness level, and practical constraints.</p>
+    <table><thead><tr><th>Exercise</th><th>Best For</th><th>Caution If</th><th>Weekly Target</th><th>Equipment Needed</th></tr></thead><tbody><tr><td>Pool Walking / Water Aerobics</td><td>Severe OA, post-surgical (6+ weeks), obesity (BMI 30+)</td><td>Open wounds, ear infections, chlorine sensitivity</td><td>3–4 sessions, 30–45 min each</td><td>Pool access (chest-depth water reduces joint load by ~50%)</td></tr><tr><td>Stationary Cycling</td><td>Mild-to-moderate OA, ACL recovery, general deconditioning</td><td>Significant patellofemoral pain (adjust seat height first)</td><td>4–5 sessions, 20–30 min each</td><td>Recumbent or upright bike; seat high enough for slight knee bend at bottom</td></tr><tr><td>Elliptical Trainer</td><td>Those transitioning from cycling toward weight-bearing</td><td>Balance issues without handrails, acute flare-ups</td><td>3–4 sessions, 20–30 min each</td><td>Gym elliptical or home unit</td></tr><tr><td>Seated Leg Strengthening (straight-leg raises, mini-squats to chair)</td><td>Very weak quads, early post-op, limited mobility</td><td>Acute swelling (reduce reps, not intensity)</td><td>Daily, 2–3 sets of 10–15 reps per leg</td><td>Chair; optional 1–3 lb ankle weight after 2–4 weeks</td></tr><tr><td>Tai Chi</td><td>Balance concerns, fall prevention, chronic pain management</td><td>Deep lunging forms (choose modified or seated versions)</td><td>2–3 sessions, 30–60 min each</td><td>None; group classes improve adherence</td></tr><tr><td>Flat-Ground Walking</td><td>Mild symptoms, weight management, cardiovascular health</td><td>Downhill terrain, uneven surfaces, pain lasting &gt;2 hours post-walk</td><td>5+ sessions, 20–40 min each; build by 10% weekly</td><td>Supportive shoes; trekking poles optional for stability</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why "Low Impact" Isn't Just a Buzzword
 
 When a doctor or trainer says "low impact," they mean exercises where at least one foot stays on the ground at all times, or where your body weight is partially supported by water, a machine, or a surface. The point is to reduce the compressive and shear forces moving through the knee joint during activity.

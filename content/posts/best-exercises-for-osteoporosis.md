@@ -32,6 +32,16 @@ I'll be honest: when I first started working with clients who had osteoporosis d
 
 So let me give you the real picture.
 
+
+<div class="value-module">
+  <div class="vm-head">Exercise Selection by Fracture Risk</div>
+  <div class="vm-body">
+    <p class="vm-intro">Your bone density T-score and fall history determine which exercises are appropriate—this matrix helps match intensity to your actual risk level.</p>
+    <table><caption>Exercise Appropriateness by Osteoporosis Severity and Fall Risk</caption><thead><tr><th>Exercise Type</th><th>Osteopenia (T-score -1.0 to -2.5), Low Fall Risk</th><th>Osteoporosis (T-score below -2.5), Low Fall Risk</th><th>Any T-score, High Fall Risk or Prior Fracture</th></tr></thead><tbody><tr><td><strong>Jumping/Hopping</strong></td><td>Appropriate—50+ moderate impacts per session shown beneficial</td><td>Generally avoid—consult specialist first</td><td>Avoid—fall and fracture risk outweighs benefit</td></tr><tr><td><strong>Resistance Training</strong></td><td>Progress to 70-85% of 1-rep max; 2-3 sessions/week</td><td>Start at 50-60% 1RM; supervised progression recommended</td><td>Moderate loads with stable positions; avoid spinal flexion under load</td></tr><tr><td><strong>Weighted Vests (Walking/Stairs)</strong></td><td>4-10% of body weight; effective for hip loading</td><td>Start at 4% body weight; gradual increase with clearance</td><td>Only if balance is stable; consider belt weights instead</td></tr><tr><td><strong>Spinal Extension Exercises</strong></td><td>Recommended—prone back extension, bird-dog variations</td><td>Recommended—key for vertebral fracture prevention</td><td>Recommended—prioritize these; avoid flexion-based core work</td></tr><tr><td><strong>Balance Training</strong></td><td>Include 2-3x/week as fracture prevention</td><td>Essential—tandem stance, single-leg work, perturbation drills</td><td>Daily priority—supervised initially; progress surface difficulty</td></tr><tr><td><strong>Yoga/Pilates</strong></td><td>Modify flexion-heavy poses; standing poses beneficial</td><td>Avoid loaded spinal flexion and twisting; many poses need modification</td><td>Only bone-safe modified classes; avoid floor-to-stand transitions if unsteady</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why "Just Walk More" Is Not Enough
 
 Walking is probably the most common recommendation older adults hear after an osteoporosis diagnosis. And I get it. Walking is safe, accessible, and genuinely good for you in about fifty different ways. But if building or preserving bone density is your goal, walking alone isn't going to move the needle much, and the research here is pretty consistent on that point.

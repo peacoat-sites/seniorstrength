@@ -25,6 +25,16 @@ You reach for something on the top shelf, and for just a moment, your feet feel 
 
 But are these wobbly-looking boards actually safe? And are they worth your time and money? Let’s break it all down in plain language so you can make the best decision for your body.
 
+
+<div class="value-module">
+  <div class="vm-head">Senior Balance Board Safety Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use these specific criteria to determine if a balance board is appropriate and how to use it safely.</p>
+    <ul><li><strong>Before Starting — Medical Clearance:</strong><ul><li>Get physician approval if you have neuropathy, vertigo, recent joint replacement, or blood pressure medications causing dizziness</li><li>Wait at least 6 months post-hip or knee surgery before unsupported balance training</li></ul></li><li><strong>Board Selection Thresholds:</strong><ul><li>Choose rocker boards with tilt range ≤15° (vs. 20°+ for standard wobble boards)</li><li>Minimum platform width: 15 inches for stable foot placement</li><li>Weight capacity should exceed your weight by at least 50 lbs</li><li>Non-slip surface texture required; avoid smooth wood finishes</li></ul></li><li><strong>Environment Setup:</strong><ul><li>Position within arm's reach of sturdy support (counter, rail, or chair back rated for 250+ lbs)</li><li>Clear 3-foot radius around board of tripping hazards</li><li>Use only on flat, non-carpeted surfaces to prevent board sliding</li></ul></li><li><strong>Session Parameters for Beginners (First 4 Weeks):</strong><ul><li>Start with both hands on support; progress to one hand, then fingertips only</li><li>Initial sessions: 30–60 seconds on board, 3–5 repetitions</li><li>Maximum 10 minutes total per day initially</li><li>Stop immediately if experiencing dizziness, pain, or fatigue</li></ul></li><li><strong>Progression Readiness Signs:</strong><ul><li>Can stand 2 minutes with fingertip support only</li><li>No loss of balance incidents for 2 consecutive weeks</li><li>Comfortable looking straight ahead (not at feet) while balancing</li></ul></li></ul>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Balance Declines as We Age
 
 Balance is a complex system that relies on your eyes, inner ear, muscles, and brain all working together. As we age, each of these systems can weaken gradually,  and the result is that feeling of unsteadiness that many seniors know all too well.

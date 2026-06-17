@@ -32,6 +32,16 @@ If you've landed here, you might be wondering whether you're already past the po
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Balance Exercise Progression Guide</div>
+  <div class="vm-body">
+    <p class="vm-intro">This progression matrix helps you identify your current level and advance safely through increasingly challenging balance exercises.</p>
+    <table><caption>4-Week Balance Training Progression by Stability Level</caption><thead><tr><th>Level</th><th>Self-Assessment Criteria</th><th>Exercises</th><th>Sets × Hold Time</th><th>Advance When</th></tr></thead><tbody><tr><td>Level 1: Supported</td><td>Cannot stand on one foot for 5 seconds without holding something; feel unsteady on stairs</td><td>Heel raises at counter; Side leg lifts holding chair; Weight shifts (left-right) with fingertip support; Tandem stance (heel-to-toe) holding wall</td><td>2 sets × 10-15 sec holds or 8-10 reps, 3 days/week</td><td>Can complete all exercises with only fingertip touch for 2 consecutive sessions</td></tr><tr><td>Level 2: Light Touch</td><td>Can stand on one foot 5-10 seconds with light fingertip support</td><td>Single-leg stance with fingertip on chair; Tandem walking along wall (8-10 steps); Clock reach (stand on one leg, touch imaginary clock positions); Heel-to-toe rocks holding counter</td><td>2 sets × 15-20 sec holds or 10-12 reps, 3-4 days/week</td><td>Can perform single-leg stance 20 seconds with no touch for 2 consecutive sessions</td></tr><tr><td>Level 3: Unsupported</td><td>Can stand on one foot 15-20 seconds without support</td><td>Single-leg stance no support; Tandem walking no wall (10-15 steps); Standing hip circles (small); Single-leg mini squats (chair nearby for safety)</td><td>3 sets × 20-30 sec holds or 10-12 reps, 4 days/week</td><td>Can complete single-leg stance 30 seconds while slowly turning head side-to-side</td></tr><tr><td>Level 4: Dynamic Challenge</td><td>Can stand on one foot 30+ seconds; feel confident with Level 3 exercises</td><td>Single-leg stance on folded towel or cushion; Tandem walking with head turns; Step-ups with pause at top; Backward walking (clear path, spotter nearby first time)</td><td>3 sets × 30 sec holds or 12-15 reps, 4-5 days/week</td><td>Maintenance level reached; continue for fall prevention</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Balance Gets Harder With Age (And Why That's Not the Whole Story)
 
 Balance isn't a single thing your body does. It's a conversation between three systems: your vision, your vestibular system (the inner ear), and your proprioception, which is your body's ability to sense where it is in space. After about age 60, all three of these systems begin to slow down their communication. Your reaction time decreases. Muscle strength in the ankles and hips, which are the first responders when you wobble, tends to decline. And if you've been less active, that decline accelerates.

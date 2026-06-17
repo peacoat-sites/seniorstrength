@@ -34,6 +34,16 @@ This article is about training the whole thing, at home, without equipment you d
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Balance Exercise Progression Ladder</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this decision matrix to identify your current level and progress safely through balance training stages.</p>
+    <table><thead><tr><th>Level</th><th>Entry Test (Pass to Start Here)</th><th>Core Exercises at This Level</th><th>Support Allowed</th><th>Advance When You Can</th></tr></thead><tbody><tr><td>1 – Foundation</td><td>Can stand unsupported for 10 seconds</td><td>Weight shifts side-to-side; marching in place with fingertip support; seated leg lifts</td><td>Two hands on counter or chair back</td><td>Complete 2 minutes of marching with only fingertip touch</td></tr><tr><td>2 – Developing</td><td>March in place 2 min with fingertip support</td><td>Heel-to-toe walking (8–10 steps); single-leg stands (10 sec each side); slow clock reaches</td><td>One hand on support, or fingertips only</td><td>Hold single-leg stand 30 sec each side, no hand support</td></tr><tr><td>3 – Intermediate</td><td>Single-leg stand 30 sec without support</td><td>Tandem stance holds (60 sec); backward walking (10 steps); lateral stepping over low object</td><td>Support nearby but not touching</td><td>Walk heel-to-toe with eyes closed for 6 steps</td></tr><tr><td>4 – Advanced</td><td>Heel-to-toe walk, eyes closed, 6 steps</td><td>Single-leg stands on pillow or folded towel; tandem walking with head turns; step-ups with pause at top</td><td>Support within arm's reach only</td><td>Complete 3 sets of each exercise with consistent form for 2 weeks</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Before You Start: The One Setup Detail Everyone Skips
 
 Clear your floor. Seriously. I cannot count how many times I've watched someone do a perfectly good balance exercise, step back afterward, and catch a heel on a rug edge. If you're working in a kitchen, dining room, or bedroom, remove the throw rugs before you begin. Every time. Non-negotiable.

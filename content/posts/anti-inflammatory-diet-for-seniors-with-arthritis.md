@@ -23,6 +23,16 @@ author_bio: "James Cooper is a NASM-certified personal trainer who works exclusi
 
 If you wake up most mornings with stiff, aching joints that make it hard to get out of bed, you are certainly not alone. Millions of seniors struggle with arthritis every single day, and the pain can feel relentless. The good news is that what you eat may have a powerful impact on how you feel,  and an **anti inflammatory diet for seniors with arthritis** could be one of the most effective tools in your wellness toolkit.
 
+
+<div class="value-module">
+  <div class="vm-head">Weekly Anti-Inflammatory Meal Building Guide</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this practical framework to build arthritis-friendly meals with specific portions and frequency targets based on research-supported anti-inflammatory principles.</p>
+    <table><caption>Weekly Targets and Serving Guidance for Seniors with Arthritis</caption><thead><tr><th>Food Category</th><th>Weekly Target</th><th>Senior-Friendly Serving Size</th><th>Practical Tip</th></tr></thead><tbody><tr><td>Fatty Fish (salmon, sardines, mackerel)</td><td>3–4 servings</td><td>3–4 oz cooked (palm-sized portion)</td><td>Canned salmon with soft bones adds calcium; choose low-sodium varieties</td></tr><tr><td>Colorful Berries</td><td>5–7 servings</td><td>½ cup fresh or frozen</td><td>Frozen berries are equally nutritious and easier on arthritic hands to prepare</td></tr><tr><td>Leafy Greens</td><td>7+ servings</td><td>1 cup raw or ½ cup cooked</td><td>Pre-washed bagged greens reduce prep strain; cooking improves absorption</td></tr><tr><td>Extra Virgin Olive Oil</td><td>Daily</td><td>1–2 tablespoons</td><td>Use in place of butter; drizzle on vegetables after cooking to preserve compounds</td></tr><tr><td>Nuts (walnuts, almonds)</td><td>4–5 servings</td><td>Small handful (1 oz or ~14 walnut halves)</td><td>Choose unsalted; nut butters work well if whole nuts are difficult to chew</td></tr><tr><td>Turmeric</td><td>4–7 times</td><td>½–1 teaspoon powder or fresh grated</td><td>Combine with black pepper and fat to increase curcumin absorption by up to 2000%</td></tr><tr><td>Ginger</td><td>3–5 times</td><td>½ inch fresh root or ¼ teaspoon ground</td><td>Steep in hot water for simple anti-inflammatory tea; gentle on sensitive stomachs</td></tr><tr><td>Whole Grains</td><td>Daily</td><td>½ cup cooked oats, quinoa, or brown rice</td><td>Oatmeal is soft and easy to prepare; avoid instant varieties with added sugar</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Inflammation Is the Enemy of Healthy Joints
 
 Arthritis,  whether osteoarthritis or rheumatoid arthritis,  is fundamentally a condition driven by inflammation. When inflammation runs unchecked in your body, it attacks joint tissue, causing pain, swelling, and stiffness that can rob you of the activities you love.

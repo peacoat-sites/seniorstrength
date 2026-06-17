@@ -21,6 +21,16 @@ author_bio: "Linda Chen is a licensed physical therapist with a specialty in ger
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Quick Cuff-Fit & Reading Check</div>
+  <div class="vm-body">
+    <p class="vm-intro">Before trusting any home reading, run through this brief checklist to ensure accurate, consistent results.</p>
+    <ol><li><strong>Cuff size check:</strong> Measure mid-upper-arm circumference; use standard cuff (22–32 cm) or large cuff (32–42 cm) accordingly—wrong size can skew readings 10–15 mmHg.</li><li><strong>Rest period:</strong> Sit quietly for 5 minutes with feet flat, back supported, arm at heart level on a table.</li><li><strong>Empty bladder first:</strong> A full bladder can add 10–15 mmHg to systolic reading.</li><li><strong>No talking during measurement:</strong> Conversation can raise reading by 10 mmHg or more.</li><li><strong>Bare arm or thin sleeve only:</strong> Thick clothing under the cuff inflates results.</li><li><strong>Take two readings 1 minute apart:</strong> Average them; if they differ by more than 5 mmHg, take a third.</li><li><strong>Log time, arm used, and posture:</strong> Consistency helps your doctor spot real trends versus measurement noise.</li><li><strong>Validate annually:</strong> Bring your monitor to a clinic visit; compare its reading with the office device—difference should be ≤5 mmHg.</li></ol>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Monitoring Blood Pressure at Home Matters for Seniors
 
 You leave the doctor’s office with a clean bill of health, but something still feels off. Maybe you feel dizzy when you stand up, or you notice an occasional headache that won’t quit. For millions of Americans over 60, these small warning signs can be easy to dismiss,  until they aren’t.

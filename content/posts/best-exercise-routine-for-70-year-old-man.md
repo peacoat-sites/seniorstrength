@@ -32,6 +32,16 @@ So let's skip the gentle disclaimers and talk about what actually works.
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Weekly Training Structure With Recovery</div>
+  <div class="vm-body">
+    <p class="vm-intro">Here's a concrete weekly framework showing how to distribute the four priorities while respecting the longer recovery windows a 70-year-old body needs.</p>
+    <table><thead><tr><th>Day</th><th>Focus</th><th>Duration</th><th>Key Activities</th><th>Intensity Marker</th></tr></thead><tbody><tr><td>Monday</td><td>Strength (Lower Body)</td><td>35–40 min</td><td>Goblet squats, step-ups, Romanian deadlifts, calf raises</td><td>RPE 6–7 (could do 3–4 more reps)</td></tr><tr><td>Tuesday</td><td>Balance + Mobility</td><td>25–30 min</td><td>Single-leg stands, tandem walking, hip circles, thoracic rotations</td><td>Controlled, not breathless</td></tr><tr><td>Wednesday</td><td>Active Recovery</td><td>20–30 min</td><td>Walking, light cycling, or swimming at conversational pace</td><td>Can easily hold conversation</td></tr><tr><td>Thursday</td><td>Strength (Upper Body)</td><td>35–40 min</td><td>Rows, chest press, shoulder press, farmer carries</td><td>RPE 6–7</td></tr><tr><td>Friday</td><td>Balance + Mobility</td><td>25–30 min</td><td>Heel-to-toe walks, seated hip stretches, ankle mobility work</td><td>Controlled, not breathless</td></tr><tr><td>Saturday</td><td>Cardio Endurance</td><td>30–45 min</td><td>Brisk walking, cycling, or pool walking with intervals</td><td>RPE 5–6 (slightly breathless)</td></tr><tr><td>Sunday</td><td>Rest</td><td>—</td><td>Complete rest or gentle stretching only</td><td>—</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Your Body Actually Needs at 70 (It's Not What Most Articles Say)
 
 Here's where I'll push back on a lot of generic advice: the fitness world is obsessed with cardio for older adults. Walk more. Take the stairs. Get your heart rate up. And yes, cardiovascular health matters. But in 25 years of working with people in this age group, the men who lose independence, who fall, who can't get up off the floor, who stop driving, who can't lift their own luggage, they almost always lost it because of muscle, not heart rate.

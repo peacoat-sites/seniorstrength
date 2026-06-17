@@ -23,6 +23,16 @@ author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted he
 
 You wake up in the morning and the first thing you feel is stiffness,  in your back, your hips, maybe your knees. Sound familiar? For many people over 70, those first few minutes out of bed can feel like a real challenge. The good news is that a simple 10-minute routine of **morning stretches for seniors** can make a remarkable difference in how you feel all day long. No gym required, no special equipment, and no experience needed.
 
+
+<div class="value-module">
+  <div class="vm-head">Stretch Sequence with Hold Times</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this reference to pace your 10-minute routine with recommended durations based on commonly accepted guidelines for older adults.</p>
+    <table><caption>10-Minute Senior Stretch Sequence (Recommended Hold Times)</caption><thead><tr><th>Order</th><th>Stretch</th><th>Position</th><th>Hold Duration</th><th>Repetitions</th><th>Target Area</th></tr></thead><tbody><tr><td>1</td><td>Ankle Circles</td><td>Lying or seated</td><td>5 sec per circle</td><td>5 each direction, each foot</td><td>Ankles, circulation</td></tr><tr><td>2</td><td>Knee-to-Chest</td><td>Lying on back</td><td>20–30 sec</td><td>2 each leg</td><td>Lower back, hips</td></tr><tr><td>3</td><td>Seated Cat-Cow</td><td>Chair (edge of seat)</td><td>5 sec each position</td><td>5 full cycles</td><td>Spine mobility</td></tr><tr><td>4</td><td>Neck Tilts</td><td>Seated</td><td>15–20 sec</td><td>2 each side</td><td>Neck, upper shoulders</td></tr><tr><td>5</td><td>Shoulder Rolls</td><td>Seated or standing</td><td>3 sec per roll</td><td>10 forward, 10 backward</td><td>Shoulders, upper back</td></tr><tr><td>6</td><td>Seated Hamstring Stretch</td><td>Chair (one leg extended)</td><td>20–30 sec</td><td>2 each leg</td><td>Back of thighs</td></tr><tr><td>7</td><td>Calf Stretch</td><td>Standing (wall support)</td><td>20–30 sec</td><td>2 each leg</td><td>Calves, Achilles</td></tr><tr><td>8</td><td>Chest Opener</td><td>Seated or standing</td><td>15–20 sec</td><td>3 times</td><td>Chest, posture</td></tr></tbody><tfoot><tr><td colspan="6">Total time: approximately 10 minutes. Rest 5–10 seconds between stretches as needed. Always use chair or wall support for standing stretches.</td></tr></tfoot></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Morning Stretching Matters After 70
 
 As we age, our muscles naturally lose some of their flexibility and our joints can become stiffer,  especially after a night of sleep. This is completely normal, but it doesn’t mean you have to just put up with it.

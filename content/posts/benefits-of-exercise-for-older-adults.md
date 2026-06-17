@@ -34,6 +34,16 @@ I've seen this pattern more times than I can count. The "take it easy" advice, g
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Weekly Exercise Minimums by Health Goal</div>
+  <div class="vm-body">
+    <p class="vm-intro">Different outcomes require different exercise types and doses—here's what research supports for adults 60+.</p>
+    <table><thead><tr><th>Health Goal</th><th>Exercise Type</th><th>Minimum Effective Dose</th><th>Key Benchmark to Track</th></tr></thead><tbody><tr><td>Maintain muscle mass</td><td>Resistance training (weights, bands, bodyweight)</td><td>2 sessions/week, 8–10 exercises, 1–3 sets each</td><td>Chair stand test: 12+ stands in 30 seconds</td></tr><tr><td>Preserve bone density</td><td>Weight-bearing + resistance combined</td><td>3–5 days/week, 30 min total weight-bearing; 2 days resistance</td><td>Single-leg stance: hold 30+ seconds each side</td></tr><tr><td>Reduce fall risk</td><td>Balance training (tai chi, tandem walks, single-leg stands)</td><td>3 sessions/week, 15–20 min each</td><td>Timed Up-and-Go: under 12 seconds</td></tr><tr><td>Cardiovascular health</td><td>Moderate aerobic (brisk walking, cycling, swimming)</td><td>150 min/week or 75 min vigorous</td><td>6-minute walk test: 400+ meters</td></tr><tr><td>Cognitive function</td><td>Any aerobic activity at moderate intensity</td><td>120–150 min/week</td><td>Subjective: improved focus, word recall</td></tr><tr><td>Functional independence</td><td>Combined: aerobic + resistance + balance</td><td>Meet minimums for all three categories above</td><td>Can rise from floor unassisted in under 10 seconds</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Exercise Actually Does to an Aging Body
 
 Here's what most people don't realize: the things we assume are just part of getting older, stiffness when you stand up, shakiness on stairs, that foggy feeling after lunch, a lot of that is deconditioning, not aging. The two get tangled together so often that even physicians sometimes don't separate them.
