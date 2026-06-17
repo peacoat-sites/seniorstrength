@@ -1,0 +1,255 @@
+{{- /* Senior Strength Workout Builder */ -}}
+<div class="wb-wrap" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div class="wb-header" style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">
+    🏋️ Personalized Senior Strength Workout Builder
+  </div>
+  <div class="wb-body" style="padding:20px">
+    <p style="margin:0 0 14px;padding:12px 16px;background:color-mix(in srgb,#f59e0b 12%,#fff);border:1px solid color-mix(in srgb,#f59e0b 40%,transparent);border-radius:10px;font-size:.9rem;color:#92400e">
+      <strong>Medical Disclaimer:</strong> Always consult your physician before starting a new exercise program, especially if you have heart disease, joint replacements, osteoporosis, or other medical conditions.
+    </p>
+
+    <!-- Step 1: Profile -->
+    <h3 style="margin:0 0 14px;font-size:1rem;font-weight:700;color:var(--text)">Step 1 — Your Profile</h3>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:20px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Age Range
+        <select id="wb-age" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="60-69">60–69</option>
+          <option value="70-79">70–79</option>
+          <option value="80+">80+</option>
+        </select>
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Fitness Level
+        <select id="wb-level" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="beginner">Beginner — little recent exercise</option>
+          <option value="intermediate">Intermediate — exercise 1–2x/week</option>
+          <option value="active">Active — exercise 3+ times/week</option>
+        </select>
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Session Length
+        <select id="wb-duration" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="15">15 min</option>
+          <option value="20">20 min</option>
+          <option value="30" selected>30 min</option>
+          <option value="45">45 min</option>
+        </select>
+      </label>
+    </div>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:20px">
+      <!-- Equipment -->
+      <div>
+        <p style="margin:0 0 10px;font-size:13px;font-weight:600;color:var(--muted)">Available Equipment</p>
+        <div style="display:flex;flex-direction:column;gap:8px">
+          <label style="display:flex;align-items:center;gap:8px;font-size:14px;cursor:pointer"><input type="checkbox" class="wb-equip" value="none" checked> No equipment (bodyweight only)</label>
+          <label style="display:flex;align-items:center;gap:8px;font-size:14px;cursor:pointer"><input type="checkbox" class="wb-equip" value="bands"> Resistance bands</label>
+          <label style="display:flex;align-items:center;gap:8px;font-size:14px;cursor:pointer"><input type="checkbox" class="wb-equip" value="light-dumbbells"> Light dumbbells (2–5 lbs)</label>
+          <label style="display:flex;align-items:center;gap:8px;font-size:14px;cursor:pointer"><input type="checkbox" class="wb-equip" value="moderate-dumbbells"> Moderate dumbbells (8–15 lbs)</label>
+          <label style="display:flex;align-items:center;gap:8px;font-size:14px;cursor:pointer"><input type="checkbox" class="wb-equip" value="chair" checked> Chair (for support)</label>
+          <label style="display:flex;align-items:center;gap:8px;font-size:14px;cursor:pointer"><input type="checkbox" class="wb-equip" value="stability-ball"> Stability ball</label>
+        </div>
+      </div>
+      <!-- Limitations -->
+      <div>
+        <p style="margin:0 0 10px;font-size:13px;font-weight:600;color:var(--muted)">Limitations (check all that apply)</p>
+        <div style="display:flex;flex-direction:column;gap:8px">
+          <label style="display:flex;align-items:center;gap:8px;font-size:14px;cursor:pointer"><input type="checkbox" class="wb-limit" value="balance"> Balance concerns</label>
+          <label style="display:flex;align-items:center;gap:8px;font-size:14px;cursor:pointer"><input type="checkbox" class="wb-limit" value="knee-hip"> Knee/hip issues (no deep squats)</label>
+          <label style="display:flex;align-items:center;gap:8px;font-size:14px;cursor:pointer"><input type="checkbox" class="wb-limit" value="shoulder"> Shoulder issues (no overhead)</label>
+          <label style="display:flex;align-items:center;gap:8px;font-size:14px;cursor:pointer"><input type="checkbox" class="wb-limit" value="back"> Back issues (no bending forward)</label>
+          <label style="display:flex;align-items:center;gap:8px;font-size:14px;cursor:pointer"><input type="checkbox" class="wb-limit" value="seated-only"> Very limited mobility (seated exercises only)</label>
+        </div>
+      </div>
+    </div>
+
+    <button id="wb-generate" onclick="wbGenerate()" style="display:inline-block;padding:13px 28px;background:var(--accent);color:#fff;border:none;border-radius:10px;font-size:1rem;font-weight:700;cursor:pointer;margin-bottom:24px">
+      Build My Workout
+    </button>
+
+    <!-- Workout output -->
+    <div id="wb-output" style="display:none">
+      <hr style="border:none;border-top:1px solid var(--border);margin:0 0 20px">
+      <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:16px">
+        <h3 id="wb-workout-title" style="margin:0;font-size:1.05rem;font-weight:800"></h3>
+        <div style="display:flex;gap:10px">
+          <button onclick="window.print()" style="padding:9px 18px;border:1.5px solid var(--border-strong);border-radius:8px;background:var(--surface);font-size:.9rem;font-weight:600;cursor:pointer">🖨 Print Workout</button>
+          <button onclick="wbGenerate()" style="padding:9px 18px;background:var(--accent);color:#fff;border:none;border-radius:8px;font-size:.9rem;font-weight:600;cursor:pointer">🔄 New Workout</button>
+        </div>
+      </div>
+
+      <!-- Warm-up -->
+      <div id="wb-warmup" style="display:none;margin-bottom:20px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 8%,#fff);border:1px solid color-mix(in srgb,var(--accent) 25%,transparent)">
+        <p style="margin:0 0 8px;font-size:13px;font-weight:700;color:var(--accent);text-transform:uppercase;letter-spacing:.05em">Warm-Up (2 min)</p>
+        <ul style="margin:0;padding-left:18px;font-size:.9rem;line-height:1.6">
+          <li>March in Place — 2 minutes</li>
+          <li>Shoulder Rolls — 10 each direction</li>
+          <li>Ankle Circles — 10 each direction</li>
+          <li>Gentle Neck Stretch — 30 sec each side</li>
+        </ul>
+      </div>
+
+      <ol id="wb-list" style="padding-left:0;list-style:none;display:flex;flex-direction:column;gap:14px"></ol>
+
+      <div style="margin-top:16px;padding:12px 16px;border-radius:10px;background:var(--surface2);font-size:.85rem;color:var(--stone)">
+        💡 Rest 60–90 seconds between sets. Stop immediately if you feel pain, dizziness, or shortness of breath. This workout is for informational purposes only and is not medical advice.
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var EXERCISES = [
+    // Lower Body
+    {name:"Chair Squat",cat:"lower",equip:["none","chair"],badLimits:["seated-only"],sets:"2-3",reps:"10-12",time:2,desc:"Stand in front of chair, lower until nearly touching the seat, then stand back up. Builds quad and glute strength.",mod:"Hold chair arms for support throughout the movement."},
+    {name:"Heel Raises",cat:"lower",equip:["none","chair"],badLimits:[],sets:"2",reps:"15",time:1.5,desc:"Rise up onto your toes, then lower slowly. Strengthens calves and improves ankle stability and balance.",mod:"Hold chair back with both hands for support."},
+    {name:"Step-Ups",cat:"lower",equip:["none"],badLimits:["knee-hip","seated-only"],sets:"2",reps:"8 each leg",time:2,desc:"Step onto a sturdy low step leading with one foot, then bring the other up. Step back down. Builds lower body strength and coordination.",mod:"Use a very low step (2–4 inches) and hold a railing."},
+    {name:"Seated Leg Press with Band",cat:"lower",equip:["bands"],badLimits:[],sets:"2",reps:"12",time:2,desc:"Seated in a chair, loop resistance band around your foot. Press foot forward extending the knee, then return. Works quads and hip flexors.",mod:"Use the lightest band available."},
+    {name:"Marching in Place",cat:"lower",equip:["none","chair"],badLimits:[],sets:"1",reps:"30 seconds",time:0.5,desc:"Lift knees alternately while standing or seated. Gets blood flowing and warms up hips and legs.",mod:"Keep knee lifts low if needed; seated version works just as well."},
+    {name:"Seated Knee Extensions",cat:"lower",equip:["none"],badLimits:[],sets:"2",reps:"12",time:1.5,desc:"Seated in a chair, straighten one knee fully, hold 2 seconds, lower. Strengthens quads without joint stress.",mod:"Slow and controlled throughout."},
+    {name:"Side Leg Raises",cat:"lower",equip:["none","chair"],badLimits:["seated-only"],sets:"2",reps:"10 each side",time:2,desc:"Standing, hold chair for support. Lift one leg out to the side slowly, then lower. Works hip abductors and improves stability.",mod:"Keep movement small — just a few inches."},
+    // Upper Body
+    {name:"Wall Push-Up",cat:"upper",equip:["none"],badLimits:["shoulder"],sets:"2",reps:"10-12",time:2,desc:"Stand facing wall, hands shoulder-width at chest height. Bend elbows to bring chest toward wall, push back. Works chest and arms.",mod:"Stand closer to wall to reduce resistance."},
+    {name:"Seated Row with Band",cat:"upper",equip:["bands"],badLimits:[],sets:"2",reps:"12",time:2,desc:"Seated, loop band around feet or a door anchor. Pull elbows back squeezing shoulder blades together. Works upper back and posture muscles.",mod:"Use light band; keep elbows close to body."},
+    {name:"Bicep Curl",cat:"upper",equip:["light-dumbbells","moderate-dumbbells","bands"],badLimits:[],sets:"2",reps:"12",time:2,desc:"Standing or seated, curl weights from thighs to shoulders. Keep elbows pinned to your sides. Builds arm strength for daily lifting tasks.",mod:"Start with the lightest weight and slow the lowering phase to 3 seconds."},
+    {name:"Overhead Press",cat:"upper",equip:["light-dumbbells","moderate-dumbbells"],badLimits:["shoulder"],sets:"2",reps:"10",time:2,desc:"Seated, hold weights at shoulder height. Press up until arms are extended, lower slowly. Builds shoulder and upper arm strength.",mod:"Press only to forehead height if full range is uncomfortable."},
+    {name:"Tricep Extension",cat:"upper",equip:["light-dumbbells","bands"],badLimits:["shoulder"],sets:"2",reps:"12",time:2,desc:"Seated, hold weight or band overhead with both hands. Lower behind head bending elbows, then extend. Works triceps for pushing movements.",mod:"Keep the range of motion small if shoulders feel tight."},
+    {name:"Chest Squeeze",cat:"upper",equip:["none"],badLimits:[],sets:"2",reps:"10 hold 5 sec",time:2,desc:"Seated or standing, press palms together at chest height and squeeze hard for 5 seconds. Activates chest and shoulder stabilizers with no equipment.",mod:"Great option if upper-body equipment is unavailable."},
+    {name:"Seated Shoulder Blade Squeeze",cat:"upper",equip:["none"],badLimits:[],sets:"2",reps:"10 hold 5 sec",time:1.5,desc:"Seated upright, pull shoulder blades together and hold 5 seconds. Excellent posture corrector and upper back strengthener.",mod:"Think of squeezing a pencil between your shoulder blades."},
+    // Core
+    {name:"Seated Abdominal Bracing",cat:"core",equip:["none"],badLimits:[],sets:"2",reps:"10 holds × 5 sec",time:2,desc:"Seated tall in chair, take a breath, tighten your core as if bracing for a light punch to the stomach. Hold 5 seconds, release. Foundational core stability.",mod:"Breathe naturally — don't hold your breath during the brace."},
+    {name:"Pelvic Tilts",cat:"core",equip:["none"],badLimits:[],sets:"1",reps:"10",time:1,desc:"Lying on back or seated, gently tilt pelvis forward and back. Strengthens lower core and reduces low back tension.",mod:"Seated version works equally well — great for those who cannot get to the floor."},
+    {name:"Bird Dog",cat:"core",equip:["none"],badLimits:["back","seated-only"],sets:"2",reps:"8 each side",time:2,desc:"On hands and knees, extend opposite arm and leg, hold 3 seconds, return. One of the best exercises for core stability and back health.",mod:"Keep movements slow and the range small to start."},
+    {name:"Dead Bug",cat:"core",equip:["none"],badLimits:["back"],sets:"2",reps:"6 each side",time:2,desc:"Lying on back, arms up, knees bent 90°. Slowly lower one arm and the opposite leg toward floor, return. Excellent anti-rotation core exercise.",mod:"Lower limbs only a few inches to start."},
+    {name:"Seated Trunk Rotation",cat:"core",equip:["none"],badLimits:[],sets:"2",reps:"10 each side",time:1.5,desc:"Seated, arms crossed on chest. Slowly rotate torso to one side, then the other. Improves spinal mobility and oblique strength.",mod:"Keep the movement gentle and pain-free."},
+    {name:"Standing Side Bend",cat:"core",equip:["none"],badLimits:["balance","seated-only"],sets:"1",reps:"8 each side",time:1,desc:"Standing, slide one hand down the side of your thigh bending sideways. Works obliques and lateral core stability.",mod:"Hold a chair with one hand for balance."},
+    // Balance
+    {name:"Single-Leg Stand",cat:"balance",equip:["none","chair"],badLimits:[],sets:"2",reps:"30 sec each side",time:2,desc:"Stand near chair or wall. Lift one foot slightly off floor and balance. One of the best fall-prevention exercises you can do.",mod:"Keep fingertips lightly on the chair back — use only as needed."},
+    {name:"Tandem Walking",cat:"balance",equip:["none"],badLimits:["seated-only"],sets:"1",reps:"20 steps",time:1,desc:"Walk in a straight line placing heel directly in front of toe with each step. Challenges balance and coordination.",mod:"Walk alongside a wall or countertop for safety."},
+    {name:"Weight Shifts",cat:"balance",equip:["none","chair"],badLimits:[],sets:"2",reps:"10",time:1,desc:"Stand with feet hip-width, hands lightly on chair. Slowly shift your weight to one foot, then the other. Foundational balance training.",mod:"Keep both feet flat on floor; shift only as far as comfortable."},
+    {name:"Heel-to-Toe Rock",cat:"balance",equip:["none","chair"],badLimits:[],sets:"2",reps:"10",time:1,desc:"Standing, rock forward onto toes then back onto heels slowly. Improves ankle mobility and balance reflexes.",mod:"Hold chair firmly throughout."},
+    // Flexibility
+    {name:"Seated Hip Flexor Stretch",cat:"flex",equip:["none"],badLimits:[],sets:"1",reps:"30 sec each side",time:1,desc:"Seated at edge of chair, slide one foot back behind you while sitting tall. Feel stretch in the front of the hip. Counteracts sitting tightness.",mod:"Keep the stretch gentle — just to the point of mild tension."},
+    {name:"Calf Stretch",cat:"flex",equip:["none","chair"],badLimits:[],sets:"1",reps:"30 sec each side",time:1,desc:"Stand facing wall, one foot forward one back. Bend front knee keeping back heel down. Stretches calf and Achilles.",mod:"Hold chair or wall for balance."},
+    {name:"Shoulder Rolls",cat:"flex",equip:["none"],badLimits:[],sets:"1",reps:"10 each direction",time:1,desc:"Roll both shoulders forward slowly 10 times, then backward 10 times. Releases shoulder and upper back tension.",mod:"Keep the rolls slow and smooth."},
+    {name:"Neck Stretch",cat:"flex",equip:["none"],badLimits:[],sets:"1",reps:"30 sec each side",time:1,desc:"Seated, gently tilt ear toward shoulder without lifting the shoulder. Hold, then switch sides. Releases neck tension.",mod:"Never force the neck — just let gravity provide a gentle stretch."},
+    {name:"Seated Hamstring Stretch",cat:"flex",equip:["none"],badLimits:[],sets:"1",reps:"30 sec each side",time:1,desc:"Seated at edge of chair, extend one leg straight, lean forward slightly from hips. Stretches back of thigh.",mod:"Keep back straight; stop before any pain."},
+    {name:"Chest Opener Stretch",cat:"flex",equip:["none"],badLimits:["shoulder"],sets:"1",reps:"30 sec",time:1,desc:"Seated or standing, clasp hands behind back and gently squeeze shoulder blades while lifting chest. Opens chest and counters rounded posture.",mod:"If hands don't reach behind back, use a towel or strap."},
+    {name:"Ankle Circles",cat:"flex",equip:["none"],badLimits:[],sets:"1",reps:"10 each direction each ankle",time:1,desc:"Seated, lift one foot and rotate ankle in slow circles. Improves ankle mobility and circulation.",mod:"Great seated exercise requiring no effort — do anytime."},
+    {name:"Wrist and Finger Stretch",cat:"flex",equip:["none"],badLimits:[],sets:"1",reps:"30 sec",time:0.5,desc:"Extend one arm, gently pull fingers back with other hand. Then make a fist and release. Reduces hand stiffness and improves grip.",mod:"Be extra gentle if you have arthritis."},
+    {name:"Seated Figure-4 Stretch",cat:"flex",equip:["none"],badLimits:[],sets:"1",reps:"30 sec each side",time:1,desc:"Seated, place one ankle on the opposite knee. Gently press down on bent knee and lean slightly forward. Deep glute and hip stretch.",mod:"Stop if you have hip replacement — consult doctor before this stretch."},
+    {name:"Thoracic Extension",cat:"flex",equip:["none","chair"],badLimits:[],sets:"1",reps:"10",time:1,desc:"Seated, clasp hands behind head. Gently arch back over the top of the chair while looking up slightly. Opens mid-back and improves posture.",mod:"Keep the movement very small and gentle."}
+  ];
+
+  function shuffle(arr) {
+    var a = arr.slice();
+    for (var i = a.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var t = a[i]; a[i] = a[j]; a[j] = t;
+    }
+    return a;
+  }
+
+  function getChecked(cls) {
+    return Array.from(document.querySelectorAll('.' + cls + ':checked')).map(function(el){ return el.value; });
+  }
+
+  function exerciseFits(ex, equip, limits) {
+    // Must have at least one required equipment item
+    var hasEquip = ex.equip.some(function(e){ return equip.indexOf(e) >= 0; });
+    if (!hasEquip) return false;
+    // Must not violate any limitation
+    var blocked = ex.badLimits.some(function(l){ return limits.indexOf(l) >= 0; });
+    if (blocked) return false;
+    // If seated-only, only allow exercises with 'none' or 'chair' equipment
+    if (limits.indexOf('seated-only') >= 0 && ex.cat !== 'flex' && ex.cat !== 'core') {
+      // Allow seated exercises (none/chair equip, no standing movements)
+      // We allow all core and flex; for others, require explicit equip includes none/bands (seated possible)
+      if (ex.badLimits.indexOf('seated-only') >= 0) return false;
+    }
+    return true;
+  }
+
+  function pickN(pool, n) {
+    return shuffle(pool).slice(0, n);
+  }
+
+  window.wbGenerate = function() {
+    var age = document.getElementById('wb-age').value;
+    var level = document.getElementById('wb-level').value;
+    var duration = parseInt(document.getElementById('wb-duration').value);
+    var equip = getChecked('wb-equip');
+    var limits = getChecked('wb-limit');
+
+    if (equip.length === 0) equip = ['none'];
+
+    var eligible = EXERCISES.filter(function(ex){ return exerciseFits(ex, equip, limits); });
+
+    function pool(cat) { return eligible.filter(function(ex){ return ex.cat === cat; }); }
+
+    // Workout composition by duration
+    var counts;
+    if (duration <= 15) {
+      counts = {lower:1, upper:1, core:1, balance:1, flex:1};
+    } else if (duration <= 20) {
+      counts = {lower:2, upper:1, core:1, balance:1, flex:2};
+    } else if (duration <= 30) {
+      counts = {lower:2, upper:2, core:2, balance:1, flex:2};
+    } else {
+      counts = {lower:3, upper:3, core:2, balance:2, flex:3};
+    }
+
+    var workout = [];
+    ['lower','upper','core','balance','flex'].forEach(function(cat){
+      var picked = pickN(pool(cat), counts[cat]);
+      workout = workout.concat(picked);
+    });
+
+    var showWarmup = duration >= 20;
+    document.getElementById('wb-warmup').style.display = showWarmup ? 'block' : 'none';
+
+    var title = duration + '-Minute ' + (level.charAt(0).toUpperCase() + level.slice(1)) + ' Workout';
+    document.getElementById('wb-workout-title').textContent = title;
+
+    var catLabels = {lower:'Lower Body', upper:'Upper Body', core:'Core', balance:'Balance', flex:'Flexibility'};
+    var catColors = {lower:'#3b82f6', upper:'#8b5cf6', core:'#10b981', balance:'#f59e0b', flex:'#ec4899'};
+
+    var html = '';
+    var num = 1;
+
+    // Group by category for display
+    var grouped = {};
+    workout.forEach(function(ex){
+      if (!grouped[ex.cat]) grouped[ex.cat] = [];
+      grouped[ex.cat].push(ex);
+    });
+
+    ['lower','upper','core','balance','flex'].forEach(function(cat){
+      if (!grouped[cat] || grouped[cat].length === 0) return;
+      grouped[cat].forEach(function(ex){
+        html += '<li style="background:var(--surface2);border-radius:12px;padding:16px 18px;border-left:4px solid ' + catColors[cat] + '">';
+        html += '<div style="display:flex;align-items:flex-start;gap:12px">';
+        html += '<span style="background:' + catColors[cat] + ';color:#fff;font-weight:800;font-size:.85rem;min-width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0">' + num + '</span>';
+        html += '<div style="flex:1">';
+        html += '<div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:4px">';
+        html += '<strong style="font-size:1rem">' + ex.name + '</strong>';
+        html += '<span style="font-size:11px;background:' + catColors[cat] + '22;color:' + catColors[cat] + ';padding:2px 8px;border-radius:20px;font-weight:600">' + catLabels[cat] + '</span>';
+        html += '</div>';
+        html += '<div style="font-size:.9rem;color:var(--accent);font-weight:700;margin-bottom:6px">' + ex.sets + ' sets × ' + ex.reps + ' &nbsp;|&nbsp; ~' + ex.time + ' min</div>';
+        html += '<p style="margin:0 0 6px;font-size:.9rem;line-height:1.5;color:var(--text)">' + ex.desc + '</p>';
+        if (level === 'beginner' && ex.mod) {
+          html += '<p style="margin:4px 0 0;font-size:.85rem;color:#15803d;background:#f0fdf4;border-radius:6px;padding:6px 10px">💡 <strong>Modification:</strong> ' + ex.mod + '</p>';
+        }
+        html += '</div></div></li>';
+        num++;
+      });
+    });
+
+    document.getElementById('wb-list').innerHTML = html;
+    document.getElementById('wb-output').style.display = 'block';
+    document.getElementById('wb-output').scrollIntoView({behavior:'smooth', block:'start'});
+  };
+})();
+</script>
