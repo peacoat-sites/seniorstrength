@@ -1,0 +1,310 @@
+<style>
+.fr-wrap { margin:30px 0; border:1px solid var(--border,rgba(0,0,0,.1)); border-radius:14px; overflow:hidden; font-variant-numeric:tabular-nums }
+.fr-head { padding:15px 20px; background:var(--surface2,#f5f2ec); font-weight:800; font-size:1.1rem; color:var(--text,#1a1a18) }
+.fr-body { padding:20px }
+.fr-disclaimer { margin:0 0 18px; padding:12px 16px; border-radius:10px; background:color-mix(in srgb,var(--accent,#c2410c) 8%,#fff); border:1px solid color-mix(in srgb,var(--accent,#c2410c) 25%,transparent); font-size:.88rem; color:var(--text,#1a1a18); line-height:1.5 }
+.fr-accordion { margin-bottom:12px; border:1px solid var(--border-strong,rgba(0,0,0,.14)); border-radius:10px; overflow:hidden }
+.fr-acc-btn { width:100%; padding:14px 18px; background:var(--surface2,#f5f2ec); border:none; text-align:left; font-weight:700; font-size:1rem; color:var(--text,#1a1a18); cursor:pointer; display:flex; justify-content:space-between; align-items:center; font-family:inherit }
+.fr-acc-btn:hover { background:color-mix(in srgb,var(--accent,#c2410c) 8%,var(--surface2,#f5f2ec)) }
+.fr-acc-body { display:none; padding:18px; border-top:1px solid var(--border,rgba(0,0,0,.1)) }
+.fr-acc-body.open { display:block }
+.fr-instructions { font-size:.92rem; color:var(--muted,#6b6860); line-height:1.5; margin:0 0 14px; padding:10px 14px; background:var(--surface2,#f5f2ec); border-radius:8px }
+.fr-inputs { display:grid; grid-template-columns:repeat(auto-fit,minmax(165px,1fr)); gap:14px; margin-bottom:16px }
+.fr-label { display:flex; flex-direction:column; gap:6px; font-size:13px; font-weight:600; color:var(--muted,#6b6860) }
+.fr-input, .fr-select { width:100%; padding:12px 13px; border:1.5px solid var(--border-strong,rgba(0,0,0,.14)); border-radius:10px; font-size:16px; color:var(--text,#1a1a18); background:var(--surface,#fff); box-sizing:border-box; font-family:inherit; transition:border-color .15s,box-shadow .15s }
+.fr-input:focus, .fr-select:focus { outline:none; border-color:var(--accent,#c2410c); box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#c2410c) 20%,transparent) }
+.fr-badge { display:inline-block; padding:6px 14px; border-radius:20px; font-weight:700; font-size:.95rem; margin-top:10px }
+.fr-badge.good { background:#dcfce7; color:#15803d }
+.fr-badge.warn { background:#fef9c3; color:#a16207 }
+.fr-badge.risk { background:#fee2e2; color:#b91c1c }
+.fr-badge.hidden { display:none }
+.fr-result-text { margin-top:8px; font-size:.9rem; color:var(--muted,#6b6860) }
+.fr-summary { margin-top:20px; padding:16px 20px; border-radius:12px; border:1px solid var(--border-strong,rgba(0,0,0,.14)); background:var(--surface2,#f5f2ec) }
+.fr-summary-title { font-weight:700; font-size:1rem; margin-bottom:8px; color:var(--text,#1a1a18) }
+.fr-summary-text { font-size:.93rem; line-height:1.55; color:var(--text,#1a1a18) }
+.fr-note { margin:16px 0 0; font-size:12px; color:var(--stone,#a09c94); line-height:1.5 }
+@media(max-width:560px){ .fr-inputs { grid-template-columns:1fr } }
+</style>
+
+<div class="fr-wrap">
+  <div class="fr-head">Fall Risk Self-Assessment</div>
+  <div class="fr-body">
+    <div class="fr-disclaimer">
+      <strong>Important:</strong> This assessment is for informational purposes. It does not replace evaluation by a physician or physical therapist. If you have concerns about your fall risk, consult your healthcare provider.
+    </div>
+
+    <!-- TEST 1: 30-Second Chair Stand -->
+    <div class="fr-accordion" id="fr-acc-1">
+      <button class="fr-acc-btn" onclick="frToggle(1)">
+        <span>Test 1 &mdash; 30-Second Chair Stand</span>
+        <span id="fr-arrow-1">&#9660;</span>
+      </button>
+      <div class="fr-acc-body open" id="fr-body-1">
+        <p class="fr-instructions">
+          <strong>How to do it:</strong> Sit in a chair with your arms crossed over your chest. On &ldquo;go,&rdquo; rise to a full standing position, then sit back down. Count how many times you can complete this in 30 seconds, <em>without using your arms for support</em>.
+        </p>
+        <div class="fr-inputs">
+          <label class="fr-label">
+            Number of stands (0&ndash;30)
+            <input class="fr-input" type="number" id="fr-stands" min="0" max="30" placeholder="e.g. 14" oninput="frCalcCST()">
+          </label>
+          <label class="fr-label">
+            Age group
+            <select class="fr-select" id="fr-age" onchange="frCalcCST()">
+              <option value="">Select age group</option>
+              <option value="60">60&ndash;64</option>
+              <option value="65">65&ndash;69</option>
+              <option value="70">70&ndash;74</option>
+              <option value="75">75&ndash;79</option>
+              <option value="80">80&ndash;84</option>
+              <option value="85">85+</option>
+            </select>
+          </label>
+          <label class="fr-label">
+            Gender
+            <select class="fr-select" id="fr-gender" onchange="frCalcCST()">
+              <option value="">Select gender</option>
+              <option value="M">Male</option>
+              <option value="F">Female</option>
+            </select>
+          </label>
+        </div>
+        <div id="fr-cst-result">
+          <span class="fr-badge hidden" id="fr-cst-badge"></span>
+          <div class="fr-result-text" id="fr-cst-text"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- TEST 2: TUG -->
+    <div class="fr-accordion" id="fr-acc-2">
+      <button class="fr-acc-btn" onclick="frToggle(2)">
+        <span>Test 2 &mdash; Timed Up and Go (TUG)</span>
+        <span id="fr-arrow-2">&#9658;</span>
+      </button>
+      <div class="fr-acc-body" id="fr-body-2">
+        <p class="fr-instructions">
+          <strong>How to do it:</strong> You need a stopwatch and a clear 10-foot path. Start seated in a chair. When ready, stand up (you may use the armrests), walk 10 feet to a mark on the floor, turn around, walk back, and sit down. Record the total time in seconds. <em>Wear your regular footwear and use any walking aid you normally use.</em>
+        </p>
+        <div class="fr-inputs">
+          <label class="fr-label">
+            Time in seconds (e.g. 12.5)
+            <input class="fr-input" type="number" id="fr-tug" min="0" max="120" step="0.1" placeholder="e.g. 11.2" oninput="frCalcTUG()">
+          </label>
+        </div>
+        <div id="fr-tug-result">
+          <span class="fr-badge hidden" id="fr-tug-badge"></span>
+          <div class="fr-result-text" id="fr-tug-text"></div>
+        </div>
+        <div class="fr-note">Source: Podsiadlo &amp; Richardson (1991); CDC TUG reference thresholds.</div>
+      </div>
+    </div>
+
+    <!-- TEST 3: Single-Leg Balance -->
+    <div class="fr-accordion" id="fr-acc-3">
+      <button class="fr-acc-btn" onclick="frToggle(3)">
+        <span>Test 3 &mdash; Single-Leg Balance</span>
+        <span id="fr-arrow-3">&#9658;</span>
+      </button>
+      <div class="fr-acc-body" id="fr-body-3">
+        <p class="fr-instructions">
+          <strong>How to do it:</strong> Stand near a wall or sturdy surface for safety, but do <em>not</em> hold on. Lift one foot slightly off the floor and stand on one leg. Start a timer. Stop when you touch the wall, put your foot down, or reach 30 seconds. Record the best of two attempts.
+        </p>
+        <div class="fr-inputs">
+          <label class="fr-label">
+            Seconds held (0&ndash;30)
+            <input class="fr-input" type="number" id="fr-slb" min="0" max="30" step="0.1" placeholder="e.g. 18" oninput="frCalcSLB()">
+          </label>
+        </div>
+        <p style="font-size:.82rem;color:var(--muted,#6b6860);margin:0 0 10px">Uses age group selected in Test 1. Please complete Test 1 first to set your age group.</p>
+        <div id="fr-slb-result">
+          <span class="fr-badge hidden" id="fr-slb-badge"></span>
+          <div class="fr-result-text" id="fr-slb-text"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Overall Summary -->
+    <div class="fr-summary" id="fr-summary" style="display:none">
+      <div class="fr-summary-title">Overall Risk Summary</div>
+      <div class="fr-summary-text" id="fr-summary-text"></div>
+    </div>
+
+    <div class="fr-note">Consult your doctor before starting any new exercise program. This tool is not a diagnostic instrument.</div>
+  </div>
+</div>
+
+<script>
+(function(){
+  // Scoring tables for 30-sec Chair Stand
+  // [below_avg_max, avg_min, avg_max] → below = <=below_avg_max, avg = avg_min..avg_max, above = >=avg_max+1
+  var CST = {
+    M: { 60:[14,15,17], 65:[13,14,17], 70:[12,13,16], 75:[11,12,15], 80:[10,11,14], 85:[8,9,12] },
+    F: { 60:[11,12,15], 65:[10,11,14], 70:[10,11,14], 75:[9,10,13],  80:[8,9,12],   85:[7,8,11] }
+  };
+
+  var cstLevel = 'none', tugLevel = 'none', slbLevel = 'none';
+
+  function frToggle(n) {
+    for (var i=1;i<=3;i++) {
+      var body = document.getElementById('fr-body-'+i);
+      var arrow = document.getElementById('fr-arrow-'+i);
+      if (i===n) {
+        var isOpen = body.classList.contains('open');
+        body.classList.toggle('open', !isOpen);
+        arrow.innerHTML = isOpen ? '&#9658;' : '&#9660;';
+      } else {
+        body.classList.remove('open');
+        arrow.innerHTML = '&#9658;';
+      }
+    }
+  }
+  window.frToggle = frToggle;
+
+  function setBadge(badgeId, textId, level, label, detail) {
+    var badge = document.getElementById(badgeId);
+    var text = document.getElementById(textId);
+    badge.className = 'fr-badge ' + (level==='good'?'good':level==='warn'?'warn':'risk');
+    badge.textContent = label;
+    text.textContent = detail;
+  }
+
+  function frCalcCST() {
+    var stands = parseFloat(document.getElementById('fr-stands').value);
+    var ageVal = document.getElementById('fr-age').value;
+    var gender = document.getElementById('fr-gender').value;
+    var badge = document.getElementById('fr-cst-badge');
+    var text = document.getElementById('fr-cst-text');
+    if (isNaN(stands) || !ageVal || !gender) {
+      badge.className = 'fr-badge hidden';
+      text.textContent = '';
+      cstLevel = 'none';
+      updateSummary();
+      return;
+    }
+    var age = parseInt(ageVal);
+    var row = CST[gender][age];
+    var belowMax = row[0], avgMin = row[1], avgMax = row[2];
+    var label, detail, level;
+    if (stands <= belowMax) {
+      level='risk'; label='Below Average';
+      detail = 'Your score of '+stands+' is below the average range ('+avgMin+'–'+avgMax+') for your age and gender. This may indicate reduced lower-body strength and increased fall risk.';
+      cstLevel = 'risk';
+    } else if (stands <= avgMax) {
+      level='warn'; label='Average';
+      detail = 'Your score of '+stands+' falls in the average range ('+avgMin+'–'+avgMax+') for your age and gender. Keep working on lower-body strength.';
+      cstLevel = 'warn';
+    } else {
+      level='good'; label='Above Average';
+      detail = 'Your score of '+stands+' is above average ('+avgMin+'–'+avgMax+') for your age and gender. Excellent lower-body strength.';
+      cstLevel = 'good';
+    }
+    badge.className = 'fr-badge '+level;
+    badge.textContent = label;
+    text.textContent = detail;
+    updateSummary();
+  }
+  window.frCalcCST = frCalcCST;
+
+  function frCalcTUG() {
+    var secs = parseFloat(document.getElementById('fr-tug').value);
+    var badge = document.getElementById('fr-tug-badge');
+    var text = document.getElementById('fr-tug-text');
+    if (isNaN(secs) || secs <= 0) {
+      badge.className = 'fr-badge hidden';
+      text.textContent = '';
+      tugLevel = 'none';
+      updateSummary();
+      return;
+    }
+    var label, detail, level;
+    if (secs < 10) {
+      level='good'; label='Low Fall Risk';
+      detail = 'Your TUG time of '+secs.toFixed(1)+' seconds is under 10 seconds — associated with low fall risk and good functional mobility.';
+      tugLevel = 'good';
+    } else if (secs <= 13.5) {
+      level='warn'; label='Moderate Risk';
+      detail = 'Your TUG time of '+secs.toFixed(1)+' seconds (10–13.5 s) suggests moderate fall risk. Balance and gait exercises may help.';
+      tugLevel = 'warn';
+    } else {
+      level='risk'; label='Higher Risk';
+      detail = 'Your TUG time of '+secs.toFixed(1)+' seconds is above 13.5 seconds, which is associated with higher fall risk. Please discuss results with your healthcare provider.';
+      tugLevel = 'risk';
+    }
+    badge.className = 'fr-badge '+level;
+    badge.textContent = label;
+    text.textContent = detail;
+    updateSummary();
+  }
+  window.frCalcTUG = frCalcTUG;
+
+  function frCalcSLB() {
+    var secs = parseFloat(document.getElementById('fr-slb').value);
+    var ageVal = document.getElementById('fr-age').value;
+    var badge = document.getElementById('fr-slb-badge');
+    var text = document.getElementById('fr-slb-text');
+    if (isNaN(secs) || secs < 0) {
+      badge.className = 'fr-badge hidden';
+      text.textContent = '';
+      slbLevel = 'none';
+      updateSummary();
+      return;
+    }
+    // Determine age bracket
+    var age = ageVal ? parseInt(ageVal) : 70;
+    // Thresholds: [excellent_min, good_min, fair_min]
+    var thr;
+    if (age < 60)      thr = [30, 20, 10];
+    else if (age < 70) thr = [22, 14, 7];
+    else if (age < 80) thr = [14, 8, 4];
+    else               thr = [6, 3, 1];
+
+    var label, detail, level;
+    if (secs >= thr[0]) {
+      level='good'; label='Excellent';
+      detail = 'Holding '+secs.toFixed(1)+' seconds is excellent for your age group. Strong single-leg balance indicates low fall risk.';
+      slbLevel = 'good';
+    } else if (secs >= thr[1]) {
+      level='good'; label='Good';
+      detail = 'Holding '+secs.toFixed(1)+' seconds is good. Continue balance training to maintain and improve.';
+      slbLevel = 'good';
+    } else if (secs >= thr[2]) {
+      level='warn'; label='Fair';
+      detail = 'Holding '+secs.toFixed(1)+' seconds is fair. Targeted balance exercises can help improve single-leg stability.';
+      slbLevel = 'warn';
+    } else {
+      level='risk'; label='Poor';
+      detail = 'Holding '+secs.toFixed(1)+' seconds suggests limited single-leg balance — a risk factor for falls. Consider working with a physical therapist.';
+      slbLevel = 'risk';
+    }
+    badge.className = 'fr-badge '+level;
+    badge.textContent = label;
+    text.textContent = detail;
+    updateSummary();
+  }
+  window.frCalcSLB = frCalcSLB;
+
+  function updateSummary() {
+    var levels = [cstLevel, tugLevel, slbLevel].filter(function(l){ return l !== 'none'; });
+    if (levels.length === 0) {
+      document.getElementById('fr-summary').style.display = 'none';
+      return;
+    }
+    var riskCount = levels.filter(function(l){ return l === 'risk'; }).length;
+    var warnCount = levels.filter(function(l){ return l === 'warn'; }).length;
+    var combined = riskCount + warnCount;
+    var msg;
+    if (combined === 0) {
+      msg = 'Based on the tests you completed, your results suggest <strong>lower fall risk</strong>. Keep up your activity and continue challenging your balance and strength!';
+    } else if (combined === 1) {
+      msg = 'Your results suggest <strong>low to moderate fall risk</strong>. One test flagged an area of concern. Consider adding targeted balance and strength exercises, and discuss with your doctor at your next visit.';
+    } else if (combined === 2) {
+      msg = 'Your results suggest <strong>moderate fall risk</strong>. Multiple tests indicate areas to address. Consider balance exercises and discuss the results with your doctor or a physical therapist.';
+    } else {
+      msg = 'Your results suggest <strong>higher fall risk</strong>. Several tests indicate reduced strength, balance, or mobility. Please speak with your healthcare provider or physical therapist as soon as possible.';
+    }
+    document.getElementById('fr-summary').style.display = '';
+    document.getElementById('fr-summary-text').innerHTML = msg;
+  }
+})();
+</script>
