@@ -102,8 +102,8 @@ The home you've lived in for decades starts to feel like it doesn't need a secon
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Kidde 10-Year Smoke & CO Detector (4-Pack)](https://www.amazon.com/dp/B0DDWDDGDS/?tag=contentportfo-20)** (~$89) — Whole-home 4-pack of 10-year battery-powered detectors — covers a standard 3-bedroom home.
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Kidde 10-Year Smoke & CO Detector (4-Pack)](https://www.amazon.com/dp/B0DDWDDGDS/?tag=contentportfo-20)** (~$89), Whole-home 4-pack of 10-year battery-powered detectors, covers a standard 3-bedroom home.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

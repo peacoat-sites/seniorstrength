@@ -29,7 +29,7 @@ You’re at a family dinner, laughing and talking,  but you keep missing punchli
   <div class="vm-body">
     <p class="vm-intro">This table compares the five main hearing aid styles across criteria that matter most to seniors with varying dexterity, hearing loss severity, and lifestyle needs.</p>
     <table><thead><tr><th>Style</th><th>Best For</th><th>Dexterity Required</th><th>Typical Battery Life</th><th>Visibility</th><th>Power Level</th></tr></thead><tbody><tr><td>Behind-the-Ear (BTE)</td><td>Severe loss; users wanting easy handling</td><td>Low (larger controls)</td><td>10–14 days (disposable) or 24–30 hrs (rechargeable)</td><td>Moderate (visible behind ear)</td><td>Mild to profound</td></tr><tr><td>Receiver-in-Canal (RIC)</td><td>Mild-to-severe loss; Bluetooth users</td><td>Moderate</td><td>18–24 hrs (rechargeable typical)</td><td>Low-moderate (thin wire, small case)</td><td>Mild to severe</td></tr><tr><td>In-the-Ear (ITE)</td><td>Moderate loss; one-piece simplicity</td><td>Moderate</td><td>5–7 days (size 312 battery)</td><td>Moderate (fills outer ear)</td><td>Mild to severe</td></tr><tr><td>In-the-Canal (ITC)</td><td>Cosmetic discretion; mild-moderate loss</td><td>Higher (small size)</td><td>4–6 days (size 312)</td><td>Low (sits in canal)</td><td>Mild to moderate</td></tr><tr><td>Completely-in-Canal (CIC)</td><td>Maximum invisibility; mild loss</td><td>High (tiny removal cord)</td><td>3–5 days (size 10 battery)</td><td>Very low (nearly invisible)</td><td>Mild to moderate</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -146,6 +146,6 @@ Other financial options include:
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

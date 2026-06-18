@@ -2,7 +2,7 @@
 title: "Seated Leg Exercises For Seniors"
 date: 2026-05-21T00:45:03.089364+00:00
 draft: false
-description: "Discover the best seated leg exercises for seniors to build strength, improve circulation, and boost mobility — all from the comfort of a chair. Safe and easy t"
+description: "Discover the best seated leg exercises for seniors to build strength, improve circulation, and boost mobility, all from the comfort of a chair. Safe and easy t"
 image: "https://images.pexels.com/photos/4971007/pexels-photo-4971007.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Low-Impact Workouts"]
 tags: ["seated", "exercises", "seniors"]
@@ -143,6 +143,6 @@ You don't need a gym membership, a perfect body, or years of athletic experience
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

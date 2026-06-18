@@ -29,7 +29,7 @@ You wake up in the morning and the first thing you feel is stiffness,  in your b
   <div class="vm-body">
     <p class="vm-intro">Use this reference to pace your 10-minute routine with recommended durations based on commonly accepted guidelines for older adults.</p>
     <table><caption>10-Minute Senior Stretch Sequence (Recommended Hold Times)</caption><thead><tr><th>Order</th><th>Stretch</th><th>Position</th><th>Hold Duration</th><th>Repetitions</th><th>Target Area</th></tr></thead><tbody><tr><td>1</td><td>Ankle Circles</td><td>Lying or seated</td><td>5 sec per circle</td><td>5 each direction, each foot</td><td>Ankles, circulation</td></tr><tr><td>2</td><td>Knee-to-Chest</td><td>Lying on back</td><td>20–30 sec</td><td>2 each leg</td><td>Lower back, hips</td></tr><tr><td>3</td><td>Seated Cat-Cow</td><td>Chair (edge of seat)</td><td>5 sec each position</td><td>5 full cycles</td><td>Spine mobility</td></tr><tr><td>4</td><td>Neck Tilts</td><td>Seated</td><td>15–20 sec</td><td>2 each side</td><td>Neck, upper shoulders</td></tr><tr><td>5</td><td>Shoulder Rolls</td><td>Seated or standing</td><td>3 sec per roll</td><td>10 forward, 10 backward</td><td>Shoulders, upper back</td></tr><tr><td>6</td><td>Seated Hamstring Stretch</td><td>Chair (one leg extended)</td><td>20–30 sec</td><td>2 each leg</td><td>Back of thighs</td></tr><tr><td>7</td><td>Calf Stretch</td><td>Standing (wall support)</td><td>20–30 sec</td><td>2 each leg</td><td>Calves, Achilles</td></tr><tr><td>8</td><td>Chest Opener</td><td>Seated or standing</td><td>15–20 sec</td><td>3 times</td><td>Chest, posture</td></tr></tbody><tfoot><tr><td colspan="6">Total time: approximately 10 minutes. Rest 5–10 seconds between stretches as needed. Always use chair or wall support for standing stretches.</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -139,6 +139,6 @@ Starting a new habit at any age takes a little courage, and the fact that you’
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

@@ -31,7 +31,7 @@ Macular degeneration affects the central part of your vision, making it harder t
   <div class="vm-body">
     <p class="vm-intro">Match your most frequent activities to the magnifier style that works best for that specific use case.</p>
     <table><thead><tr><th>Daily Task</th><th>Recommended Type</th><th>Magnification Range</th><th>Key Feature to Prioritize</th><th>Typical Price Range</th></tr></thead><tbody><tr><td>Reading mail and labels</td><td>Handheld LED magnifier</td><td>3x–5x</td><td>Bright, even LED lighting</td><td>$15–$40</td></tr><tr><td>Reading books or newspapers (15+ min)</td><td>Stand magnifier or page magnifier</td><td>2x–4x</td><td>Hands-free stability; wide lens (4"+ diameter)</td><td>$25–$60</td></tr><tr><td>Threading needles, crafts, hobbies</td><td>Headband or visor magnifier</td><td>2x–3.5x</td><td>Both hands free; adjustable head strap</td><td>$20–$45</td></tr><tr><td>Reading pill bottles, small print</td><td>Pocket LED magnifier</td><td>5x–10x</td><td>Compact size; high-contrast LED</td><td>$10–$25</td></tr><tr><td>Writing checks, signing documents</td><td>Bar or line magnifier</td><td>2x</td><td>Keeps place on line; full-width view</td><td>$8–$20</td></tr><tr><td>Using smartphone or tablet</td><td>Clip-on screen magnifier or digital magnifier</td><td>2x–12x (digital)</td><td>Adjustable contrast/color inversion</td><td>$30–$150+</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -132,6 +132,6 @@ Photo by [Ryo Ito](https://unsplash.com/@ryokyleito?utm_source=seniorstrength&ut
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

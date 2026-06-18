@@ -31,7 +31,7 @@ Exercise might feel like the last thing you want to do when your joints are stif
   <div class="vm-body">
     <p class="vm-intro">Use this matrix to match exercises to your specific affected joints and current symptom level.</p>
     <table><thead><tr><th>Primary Joint Affected</th><th>Mild Symptoms (occasional stiffness)</th><th>Moderate Symptoms (daily discomfort)</th><th>Severe Symptoms (significant pain/swelling)</th></tr></thead><tbody><tr><td>Knees</td><td>Walking, stationary cycling, tai chi</td><td>Water aerobics, recumbent bike, chair exercises</td><td>Pool walking, seated leg lifts, gentle stretching</td></tr><tr><td>Hips</td><td>Walking, swimming, elliptical trainer</td><td>Water aerobics, stationary cycling, yoga</td><td>Pool exercises, seated hip circles, lying stretches</td></tr><tr><td>Hands/Wrists</td><td>Walking, cycling, dancing</td><td>Swimming (no gripping), tai chi, walking</td><td>Walking, gentle finger stretches, arm movements</td></tr><tr><td>Spine/Back</td><td>Swimming, walking, gentle yoga</td><td>Water aerobics, recumbent bike, tai chi</td><td>Pool walking, chair yoga, supine stretching</td></tr><tr><td>Multiple Joints</td><td>Swimming, tai chi, gentle cycling</td><td>Warm-water pool classes, chair exercises</td><td>Warm-water therapy, seated movements, range-of-motion exercises</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -117,6 +117,6 @@ Living with arthritis takes real courage and resilience, and choosing to move yo
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

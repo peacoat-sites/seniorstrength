@@ -26,17 +26,17 @@ author_bio: "Helen Santos has been teaching fitness classes designed for adults 
 
 ---
 
-You're at the gym, or maybe just standing in your living room with a pair of light dumbbells, and someone — a friend, an article, your own inner voice — has told you that building muscle after 65 is basically impossible. That your body is too far gone, that the best you can do is slow the decline. I've heard that from so many clients when they first walk through my door. And I'll be direct with you: it's wrong. Provably, scientifically wrong. What *is* true is that muscle building after 65 looks different, requires smarter strategy, and punishes the mistakes that younger people can get away with. Get those things right, and your body will respond in ways that genuinely surprise you.
+You're at the gym, or maybe just standing in your living room with a pair of light dumbbells, and someone, a friend, an article, your own inner voice, has told you that building muscle after 65 is basically impossible. That your body is too far gone, that the best you can do is slow the decline. I've heard that from so many clients when they first walk through my door. And I'll be direct with you: it's wrong. Provably, scientifically wrong. What *is* true is that muscle building after 65 looks different, requires smarter strategy, and punishes the mistakes that younger people can get away with. Get those things right, and your body will respond in ways that genuinely surprise you.
 
 ---
 
-## Why Muscle Loss Happens — and Why It's Not a Sentence
+## Why Muscle Loss Happens, and Why It's Not a Sentence
 
 The process has a name: sarcopenia. It's the gradual loss of skeletal muscle mass and strength that accelerates after about age 50, and if you do nothing, you can lose somewhere between 1 and 3 percent of your muscle mass every year. Over a decade, that adds up fast. The functional consequences are real: less grip strength, slower walking pace, increased fall risk, harder time getting up from a chair. You feel it before you can measure it.
 
 But here's what most people don't realize. Sarcopenia is not simply "aging." It's a combination of aging *and* disuse, often compounded by inadequate protein intake and hormonal shifts. The disuse part is the piece you can do something about, starting this week. Research published in journals like *Medicine & Science in Sports & Exercise* has consistently shown that older adults, including people in their 70s, 80s, and even 90s, respond to resistance training with measurable increases in muscle size and strength. One often-cited study from the 1990s showed nursing home residents in their late 80s increasing leg strength by over 100 percent after ten weeks of progressive resistance training. That's not a minor tweak. That's transformation.
 
-The biology does make things harder. Testosterone and estrogen decline with age, and both hormones support muscle protein synthesis. Your anabolic sensitivity — meaning how efficiently your muscles respond to a training stimulus — decreases. Recovery takes longer. None of that cancels out progress. It just means your program needs to account for these realities rather than ignore them.
+The biology does make things harder. Testosterone and estrogen decline with age, and both hormones support muscle protein synthesis. Your anabolic sensitivity, meaning how efficiently your muscles respond to a training stimulus, decreases. Recovery takes longer. None of that cancels out progress. It just means your program needs to account for these realities rather than ignore them.
 
 ---
 
