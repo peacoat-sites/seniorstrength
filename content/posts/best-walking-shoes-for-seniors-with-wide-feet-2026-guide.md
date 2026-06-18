@@ -5,7 +5,7 @@ draft: false
 description: "Discover the best walking shoes for seniors with wide feet in our 2026 guide. Expert tips, top brand picks, and podiatrist advice to keep you walking comfort"
 image: "https://images.pexels.com/photos/5496981/pexels-photo-5496981.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["gear"]
-slug: "best-walking-shoes-for-seniors-with-wide-feet-2026-guide"
+slug: "best-walking-shoes-for-seniors-with-wide-feet-guide"
 affiliate_disclosure: true
 faqs:
   - q: "What shoe width is considered “wide” for seniors?"
