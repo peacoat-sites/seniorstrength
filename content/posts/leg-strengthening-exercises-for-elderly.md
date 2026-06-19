@@ -25,7 +25,6 @@ author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
 
 ---
-
 Most fitness advice for older adults focuses on what feels safe rather than what actually works. That's a problem. "Gentle chair stretches" and "light walking" are fine starting points, but they won't rebuild the quad strength that keeps you out of a nursing home. They won't stop the muscle loss that begins accelerating after 60 and can take 1-2% of your muscle mass per year if you let it. And they definitely won't fix the hip and ankle weakness that turns a small trip on the sidewalk into a six-week recovery.
 
 Leg strength is, bluntly, one of the most predictive markers of longevity in adults over 60. A 2022 study in the *British Journal of Sports Medicine* tracking over 1,500 middle-aged adults found that lower-body strength and balance at midlife were significantly associated with survival over the following 12 years. That's not a coincidence. Your legs carry you through the world. When they go, a lot else goes with them.
@@ -46,13 +45,13 @@ Aim for 2-3 sets of 8-12 reps, three times a week. That's not a number I made up
 
 **Wall squats:** Stand with your back against a smooth wall, feet about 18 inches out, shoulder-width apart. Slide down until your thighs are parallel to the floor (or as close as comfortable) and hold for 20-60 seconds. This is an isometric exercise, meaning the muscle works hard without the joint moving through range. That matters enormously for anyone with knee arthritis, because you get the quad strengthening without grinding the joint through its most irritated angles.
 
-The wall squat gets underrated because it looks static and unimpressive. Trust me, park your thighs at 45 degrees for 45 seconds three times in a row and tell me how unimpressive it feels.
+The wall squat gets underrated because it looks static and unimpressive. Park your thighs at 45 degrees for 45 seconds three times in a row and tell me how unimpressive it feels.
 
 **Step-ups:** Find a stair, a low step stool, or a sturdy aerobic step box. Step up with one foot, bring the other up, step back down with control. Alternate which foot leads. Start with a 4-6 inch step and work up as strength improves. Hold the wall or a railing for balance initially. This is a single-leg dominant exercise, which forces each leg to work independently and exposes any strength differences between sides. Those asymmetries are often where falls originate.
 
-**Calf raises:** Stand behind a chair, hold the back lightly for balance, and rise onto your toes. Lower slowly. That's it. The calf-Achilles system is dramatically underappreciated in fall prevention. Weak calves mean delayed balance corrections. When you start to trip, you need those muscles to fire fast and hard. Two sets of 15-20 reps feels trivially easy at first. Add single-leg versions after a few weeks and see how trivial it still feels.
+**Calf raises:** Stand behind a chair, hold the back lightly for balance, and rise onto your toes. Lower slowly. The calf-Achilles system is dramatically underappreciated in fall prevention. Weak calves mean delayed balance corrections. When you start to trip, you need those muscles to fire fast and hard. Two sets of 15-20 reps feels trivially easy at first. Add single-leg versions after a few weeks and see how trivial it still feels.
 
-**Glute bridges:** Lie on your back, knees bent, feet flat on the floor. Push through your heels and lift your hips until your body forms a straight line from shoulders to knees. Squeeze the glutes at the top. Lower slowly. The glutes are the largest, most powerful muscles in the lower body, and in sedentary older adults they are almost always underactivated. Weak glutes force the knees into poor alignment under load, which is one reason so many people report knee pain during leg exercises. Fix the glutes and the knees often quiet down.
+**Glute bridges:** Lie on your back, knees bent, feet flat on the floor. Push through your heels and lift your hips until your body forms a straight line from shoulders to knees. Squeeze the glutes at the top. Lower slowly. The glutes are the largest, most powerful muscles in the lower body, and in sedentary older adults they're almost always underactivated. Weak glutes force the knees into poor alignment under load, which is one reason so many people report knee pain during leg exercises. Fix the glutes and the knees often quiet down.
 
 ---
 
@@ -60,15 +59,9 @@ The wall squat gets underrated because it looks static and unimpressive. Trust m
 
 Here's the thing that's missing from most senior fitness guidance: the principle of progressive overload still applies to you. Your muscles don't stop responding to increased challenge because you turned 65. They respond to stimulus the same way they always did. The stimulus just needs to be appropriate to where you are.
 
-Progression doesn't have to mean adding weight every week. It can mean:
+Progression doesn't have to mean adding weight every week. It can mean adding one rep to each set. Slowing the lowering phase down from 2 seconds to 4 seconds. Removing a hand from the support you've been using. Reducing the height of your chair stand by one inch. Adding a second set to a movement you've been doing for one. Pick one change at a time.
 
-- Adding one rep to each set
-- Slowing the lowering phase down from 2 seconds to 4 seconds
-- Removing a hand from the support you've been using
-- Reducing the height of your chair stand by one inch
-- Adding a second set to a movement you've been doing for one
-
-Pick one change at a time. Your nervous system adapts faster than your tendons and ligaments, which means strength can appear to jump quickly at first while the connective tissue is still catching up. That's normal. It's also why "how do I feel the next day" is actually useful information, not something to ignore.
+Your nervous system adapts faster than your tendons and ligaments, which means strength can appear to jump quickly at first while the connective tissue is still catching up. That's normal. It's also why "how do I feel the next day" is actually useful information, not something to ignore.
 
 Mild muscle soreness 24-48 hours after a new exercise is normal and benign. Sharp pain during an exercise, or pain that locates itself in a joint rather than a muscle, is not. Stop, note exactly where and when, and check with a physical therapist or your doctor before continuing. I've seen people push through knee pain that turned out to be a meniscus issue, and that's how a manageable condition becomes a surgical one.
 
@@ -82,7 +75,7 @@ The single-leg stance is the simplest test and the simplest training tool in one
 
 Train it by simply standing on one foot while brushing your teeth, waiting for the kettle, or holding the counter in the kitchen. It's not glamorous. It works.
 
-Tandem walking (placing one foot directly in front of the other, heel-to-toe, like a sobriety test) is another underused tool. Walk 10-15 feet, turn carefully, come back. Repeat a few times. It challenges the balance system in a way that flat, walking doesn't.
+Tandem walking (placing one foot directly in front of the other, heel-to-toe, like a sobriety test) is another underused tool. Walk 10-15 feet, turn carefully, come back. Repeat a few times. It challenges the balance system in a way that flat walking doesn't.
 
 If you're already doing leg strengthening exercises, try performing your calf raises on one leg, or your step-ups with a brief pause at the top before lowering. Small increases in instability during strength work train the nervous system to coordinate balance and force production together, which is exactly what happens when you catch yourself stumbling.
 
@@ -90,7 +83,7 @@ If you're already doing leg strengthening exercises, try performing your calf ra
 
 ## A Note on Equipment and What's Actually Worth Your Money
 
-You don't need a gym membership to build meaningful leg strength. You need a sturdy chair, a wall, and a stair. That's the honest answer.
+You don't need a gym membership to build meaningful leg strength. You need a sturdy chair, a wall, and a stair. That's it.
 
 If you want to invest further, resistance bands are the best value in older adult fitness. A set of loop bands and long bands from a brand like TheraBand or Perform Better runs $15-30 and adds variety to hip abductor work, clamshells, and seated leg strengthening that bodyweight alone doesn't cover as well. I've recommended TheraBand's color-coded resistance system to clients for years because the progression is clear and the material holds up.
 
@@ -100,13 +93,8 @@ What I'd skip: most resistance machines at the gym, at least initially. They iso
 
 ---
 
-
----
-
 The work here isn't complicated. It's also not glamorous. What it is, done consistently and with some attention to progression, is one of the most effective things you can do for how you move through the rest of your life. Start with what you can actually do today. Make it slightly harder next week. That's the whole formula.
 
 *Photo: [Anna Shvets](https://www.pexels.com/@shvetsa) via Pexels*
-
----
 
 *This article is for general informational purposes only and does not constitute medical or fitness advice. Consult your physician or a licensed physical therapist before starting a new exercise program, especially if you have existing health conditions.*

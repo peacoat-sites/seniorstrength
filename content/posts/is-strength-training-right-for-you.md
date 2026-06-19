@@ -11,7 +11,6 @@ author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
 
 ---
-
 Strength training is one of the most powerful things you can do for your body as you get older. It helps you stay steady on your feet, carry groceries without strain, get up from a chair with ease, and keep doing the things you love for years to come. And the best part? It's never too late to start.
 
 But starting something new always comes with questions. Is this a good fit for where you are right now? This quick quiz looks at your goals, your daily habits, and how ready you feel, then offers a gentle, encouraging read on your next step. Answer 7 honest questions and see where you land.

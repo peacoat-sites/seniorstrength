@@ -20,14 +20,13 @@ author_title: "Nutrition Writer"
 author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
 
 ---
-
-You’ve noticed it creeping up on you,  that stubborn belly that wasn’t there a decade ago, and now seems impossible to shake no matter what you do. You’re not alone. Millions of people over 60 struggle with exactly this challenge. The good news is that it _is_ possible to **lose belly fat after 60** safely and effectively,  you just need the right approach for your body at this stage of life.
+You've noticed it creeping up on you, that stubborn belly that definitely wasn't there ten years ago. No matter what you try, it won't budge. Millions of people over 60 deal with this exact problem. Here's the thing: you can lose belly fat after 60 safely and effectively. You just need an approach that actually fits your body at this stage of life.
 
 ## Why Belly Fat Increases After 60
 
-Before you can tackle the problem, it helps to understand why it’s happening in the first place. After 60, your body goes through significant hormonal shifts. Estrogen drops in women, testosterone declines in men, and both changes encourage your body to store more fat around the abdomen.
+Your hormones are shifting. Women's estrogen drops, men's testosterone declines, and both changes signal your body to park more fat around your midsection. It's biology, not laziness.
 
-At the same time, your metabolism naturally slows down as you age. You may also be less active than you were in your 40s, and muscle mass tends to decrease,  which further reduces the number of calories you burn each day. It’s a perfect storm for belly fat, but it’s one you can work through.
+Your metabolism also slows down naturally as you age, roughly 1–2% per decade after 20. You're probably less active than you were in your 40s. Muscle mass decreases, which means fewer calories burned every single day. It's a perfect storm. But storms pass.
 
   * Hormonal changes redirect fat storage to the belly area
   * Metabolism slows by roughly 1–2% per decade after 20
@@ -37,17 +36,17 @@ At the same time, your metabolism naturally slows down as you age. You may also 
 
 ## The Health Risks of Carrying Excess Belly Fat
 
-This isn’t just a cosmetic concern. Visceral fat,  the deep belly fat that surrounds your organs,  is associated with serious health risks. Research consistently links excess belly fat in older adults to higher rates of heart disease, type 2 diabetes, and even cognitive decline.
+This matters beyond how you look. Visceral fat, the deep belly fat wrapped around your organs, links directly to heart disease, type 2 diabetes, and even cognitive decline in older adults. It's serious.
 
-The encouraging part? Even modest reductions in belly fat can significantly improve your health markers. Losing just 5–10% of your body weight can lower blood pressure, improve blood sugar control, and reduce inflammation throughout the body. Small steps truly do make a big difference.
+But here's the good news: even modest belly fat loss changes things. Losing just 5–10% of your body weight lowers blood pressure, improves blood sugar control, and reduces inflammation. Small wins compound fast.
 
 ## Safe and Effective Exercise Strategies for Seniors
 
 Photo by [Vlad Sargu](https://unsplash.com/@vladsargu?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Exercise is one of the most powerful tools you have to lose belly fat after 60,  but the key word here is _safe_. High-impact workouts that worked in your 30s could lead to injury now. The goal is consistent, sustainable movement that your body can handle and enjoy.
+Exercise is one of the most powerful tools you have to lose belly fat after 60. Emphasis on "safe." High-impact workouts that worked in your 30s will injure you now. The goal is consistent movement you can actually enjoy and keep doing.
 
-Strength training is especially important. Building and preserving muscle mass boosts your resting metabolism, which means you burn more calories even when you’re sitting still. Aim for two to three sessions per week using light weights, resistance bands, or bodyweight exercises.
+Strength training matters most. Building muscle boosts your resting metabolism, meaning you burn more calories sitting on the couch. Aim for two to three sessions per week using light weights, resistance bands, or just your body weight.
 
   * **Walking:** 30 minutes most days is a fantastic starting point
   * **Swimming or water aerobics:** Gentle on joints, great for the whole body
@@ -55,54 +54,53 @@ Strength training is especially important. Building and preserving muscle mass b
   * **Resistance band workouts:** Build muscle safely without heavy weights
   * **Cycling:** Stationary or outdoor biking is low-impact and effective
 
-Always check with your doctor before starting a new exercise routine, especially if you have joint issues, heart conditions, or balance concerns. Starting slowly and progressing gradually is always the wisest approach.
+Check with your doctor before starting anything new, especially if you have joint issues, heart conditions, or balance concerns. Start slowly. Progress gradually. That's it.
 
-**Pro Tip:** Try “exercise snacking”,  breaking your activity into three 10-minute walks throughout the day instead of one long session. Research shows this approach is just as effective for fat loss and may feel more manageable when you’re just getting started.
+**Pro Tip:** Try "exercise snacking", break your activity into three 10-minute walks throughout the day instead of one long session. Research shows this works just as well for fat loss and feels less overwhelming when you're getting started.
 
 ## Eating Well to Shrink Your Waistline
 
-You don’t need a crash diet to lose belly fat after 60,  in fact, extreme calorie restriction can backfire by causing muscle loss and nutritional deficiencies. Instead, focus on nutrient-dense foods that keep you full and support a healthy metabolism.
+Don't crash diet. Extreme calorie restriction causes muscle loss and nutritional gaps. You need a better strategy. Focus on foods that fill you up and keep your metabolism working properly.
 
-Protein is your best friend at this stage of life. It helps preserve muscle mass, keeps hunger at bay, and requires more energy to digest than carbohydrates or fat. Aim to include a good protein source at every meal, such as eggs, fish, chicken, Greek yogurt, beans, or tofu.
+Protein is your best weapon at this stage. It preserves muscle, kills hunger, and takes more energy to digest than carbs or fat. Get good protein at every meal: eggs, fish, chicken, Greek yogurt, beans, tofu.
 
   * **Increase fiber intake:** Vegetables, fruits, whole grains, and legumes keep you fuller longer
-  * **Reduce added sugars:** Sugary drinks and sweets are major contributors to belly fat
+  * **Reduce added sugars:** Sugary drinks and sweets drive belly fat specifically
   * **Choose healthy fats:** Olive oil, avocados, and nuts support heart health
-  * **Watch portion sizes:** You may need slightly fewer calories than you did at 50
-  * **Limit ultra-processed foods:** These tend to be calorie-dense and nutrient-poor
-  * **Stay hydrated:** Sometimes thirst is mistaken for hunger
+  * **Watch portion sizes:** You need slightly fewer calories than you did at 50
+  * **Limit ultra-processed foods:** These are calorie-dense and nutrient-poor
+  * **Stay hydrated:** Thirst gets confused with hunger all the time
 
-A Mediterranean-style eating pattern has strong scientific support for reducing belly fat in older adults. It emphasizes vegetables, fish, whole grains, and healthy fats,  and it’s delicious enough to stick with for life.
+A Mediterranean eating pattern has the strongest research backing for reducing belly fat in older adults. Vegetables, fish, whole grains, healthy fats. Simple. Sustainable. Actually delicious.
 
 ## The Role of Sleep and Stress in Belly Fat
 
 Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Many seniors are surprised to learn that what happens when they’re _not_ exercising or eating matters just as much. Poor sleep and chronic stress are two of the biggest hidden drivers of belly fat,  especially after 60.
+What happens when you're sleeping and resting matters just as much as what you do when you're awake. Poor sleep and chronic stress drive belly fat harder than most people realize, especially after 60.
 
-When you don’t sleep enough, your body produces more ghrelin (the hunger hormone) and less leptin (the fullness hormone). This means you’ll feel hungrier throughout the day and be more likely to reach for high-calorie comfort foods. Aim for seven to nine hours of quality sleep each night.
+Sleep deprivation cranks up ghrelin (the hunger hormone) and tanks leptin (the fullness hormone). You'll feel hungrier all day and crave high-calorie junk. Aim for seven to nine hours of actual quality sleep each night.
 
-Stress triggers the release of cortisol, a hormone that specifically encourages fat storage in the abdominal area. Managing stress isn’t just good for your mental health,  it’s a genuine strategy for a slimmer waistline. Consider gentle practices like deep breathing, meditation, gardening, or spending time with loved ones.
+Stress releases cortisol, a hormone that tells your body to store fat specifically in your belly. Managing stress isn't just therapy, it's a legitimate belly fat strategy. Try deep breathing, meditation, gardening, or time with people you love.
 
   * Keep a consistent sleep schedule, even on weekends
   * Limit screen time and caffeine in the evening
   * Try a 10-minute relaxation routine before bed
-  * Spend time in nature,  it naturally lowers cortisol levels
-  * Don’t underestimate the power of social connection for stress relief
+  * Spend time in nature, it naturally lowers cortisol
+  * Social connection is a powerful stress killer
 
 ## Building Habits That Last a Lifetime
 
-The biggest mistake people make when trying to lose belly fat after 60 is going all-in with drastic changes that are impossible to maintain. A two-week crash diet might show quick results, but it won’t change anything in the long run. Sustainable habits are the real secret.
+Most people try to change everything at once. Two weeks of crash dieting produces quick results, then nothing changes. That's not how this works.
 
-Start by choosing just one or two changes to focus on first. Maybe it’s adding a daily walk or swapping your afternoon cookies for a handful of nuts. Once those habits feel natural, you add another. This slow-and-steady approach might feel less exciting, but it’s the approach that actually works.
+Pick one or two changes to start. Maybe a daily walk. Maybe swapping afternoon cookies for nuts. Once those feel normal, add another change. Slow and steady seems boring compared to dramatic overhauls. It's also the only approach that actually sticks.
 
-Track your progress in ways beyond the scale. Notice how your clothes fit, how your energy levels feel, and how well you’re sleeping. These non-scale victories are often the most motivating signs that your body is changing for the better.
+Stop measuring success only on the scale. Notice how your clothes fit. Notice your energy. Notice your sleep quality. These wins matter more than the number, and they're way more motivating.
 
+## You've Got This
 
-## You’ve Got This
+Losing belly fat after 60 is completely possible. Your body has changed, but it still responds to movement, good food, sleep, and consistency. The right strategies fit your age and your life. You'll feel stronger, healthier, more confident. Every single step forward counts.
 
-Losing belly fat after 60 is absolutely within your reach. Your body may have changed, but it hasn’t stopped responding to kindness, good nutrition, movement, rest, and consistency. With the right strategies tailored to your age and lifestyle, you can feel stronger, healthier, and more confident,  no matter what birthday you just celebrated.
-
-Start small, stay consistent, and be gentle with yourself along the way. The journey to a healthier belly is also a journey to a healthier, happier you,  and every single step forward is worth celebrating.
+Start small. Stay consistent. Be kind to yourself.
 
 Photo by [Anna Stampfli](https://unsplash.com/@annastampfli?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)

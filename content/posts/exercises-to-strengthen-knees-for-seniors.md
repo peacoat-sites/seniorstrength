@@ -25,18 +25,17 @@ author_title: "Nutrition Writer"
 author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
 
 ---
-
-You wake up in the morning, swing your legs over the side of the bed, and feel that familiar ache in your knees before you've even taken a single step. Maybe you've started avoiding stairs when you can. Maybe a walk around the block that used to feel effortless now requires planning around the soreness you know is coming afterward. If any of this sounds familiar, you're not alone, and you're not stuck. Knee pain and weakness in adults over 60 is one of the most common complaints I hear, but it's also one of the most responsive to the right kind of exercise. The key word there is "right." Because not all knee exercises are created equal, and some popular advice that gets passed around can actually make things worse.
+You wake up in the morning, swing your legs over the side of the bed, and feel that familiar ache in your knees before you've even taken a single step. Maybe you've started avoiding stairs. Maybe a walk around the block that used to feel effortless now requires planning around the soreness you know is coming afterward. If any of this sounds familiar, you're not alone, and you're not stuck. Knee pain and weakness in adults over 60 is one of the most common complaints I hear, but it's also one of the most responsive to the right kind of exercise. The key word there is "right." Not all knee exercises are created equal, and some popular advice that gets passed around can actually make things worse.
 
 ## Why Your Knees Feel the Way They Do Right Now
 
 Before jumping into what to do, it helps to understand what's actually happening. You might be wondering whether your knee pain means your joints are just "worn out" and whether exercise could make things worse. This is one of the biggest fears I hear from clients, and I want to address it directly.
 
-The cartilage in your knees does thin over time. Osteoarthritis affects roughly 13% of women and 10% of men over 60 in the United States, and that number climbs with age. But here's what most people don't realize: cartilage itself has no nerve supply. The pain you feel usually comes from inflammation, from muscles that are too weak to properly support the joint, and from the structures around the knee being asked to do more work than they should have to.
+The cartilage in your knees does thin over time. Osteoarthritis affects roughly 13% of women and 10% of men over 60 in the United States, and that number climbs with age. Here's what most people don't realize: cartilage itself has no nerve supply. The pain you feel usually comes from inflammation, from muscles that are too weak to properly support the joint, and from the structures around the knee being asked to do more work than they should.
 
-Think of your knee like a suspension bridge. The road deck (your joint) takes wear and tear, but the cables and towers (your muscles, especially the quadriceps, hamstrings, and hip abductors) are what distribute the load and keep the whole structure stable. When those muscles weaken, your joint absorbs forces it was never meant to handle alone. Research published in the journal *Arthritis & Rheumatology* has consistently shown that strengthening the muscles around the knee reduces pain and improves function even in people with moderate to severe osteoarthritis.
+Think of your knee like a suspension bridge. The road deck (your joint) takes wear and tear, but the cables and towers (your muscles, especially the quadriceps, hamstrings, and hip abductors) distribute the load and keep the whole structure stable. When those muscles weaken, your joint absorbs forces it was never meant to handle alone. Research published in the journal *Arthritis & Rheumatology* has consistently shown that strengthening the muscles around the knee reduces pain and improves function even in people with moderate to severe osteoarthritis.
 
-So no, appropriate exercise is not going to grind your knees down faster. In most cases, it's the closest thing we have to a reliable solution.
+Appropriate exercise won't grind your knees down faster. In most cases, it's the closest thing we have to a reliable solution.
 
 ## What Not to Do First (This Matters More Than People Realize)
 
@@ -44,32 +43,38 @@ Here's what I tell people who come to me motivated and ready to "fix" their knee
 
 **Deep squats and full-range lunges** put compressive forces through the knee joint at angles that already-stressed cartilage handles poorly. A regular squat to 90 degrees or below increases patellofemoral joint stress dramatically. For someone starting from a place of pain, this is the wrong entry point.
 
-**Leg extension machines** at the gym look harmless, but they isolate the quadriceps in a way that creates shear force across the knee joint. Physical therapists have largely moved away from recommending them for people with knee pathology, and most clinical guidelines agree.
+**Leg extension machines** at the gym look harmless, but they isolate the quadriceps in a way that creates shear force across the knee joint. Physical therapists have largely moved away from recommending them for people with knee problems, and most clinical guidelines agree.
 
 **High-impact exercise without preparation** is another common mistake. Walking is wonderful, but if your knees are actively inflamed or your supporting muscles are significantly weakened, starting with long daily walks can increase swelling and reinforce poor movement patterns.
 
-The goal in the early stages is to build strength through controlled, low-load movement. Once that foundation exists, you can layer in more.
+The goal in the early stages is building strength through controlled, low-load movement. Once that foundation exists, you can layer in more.
 
 ## The Best Exercises to Strengthen Your Knees
 
 These are the exercises I return to again and again with clients in their 60s, 70s, and beyond. They're organized from least to most demanding, so you can find your starting point honestly.
 
 **Straight Leg Raises**
+
 Lie on your back. Bend one knee with that foot flat on the floor. Keep the other leg straight and tighten the quad (think about pressing the back of your knee toward the floor). Slowly raise the straight leg to about 45 degrees, hold for 2 seconds, lower it slowly. This builds quad strength without any compression through the joint at all. Start with 2 sets of 10 on each side.
 
 **Seated Knee Extensions (Short Arc)**
-Sit in a chair. Place a rolled-up towel or a foam roller under your knee so your leg is elevated slightly. Slowly straighten your knee from that elevated angle to full extension. Hold for 2 seconds, lower slowly. This is a short arc movement, meaning you're only moving through the last 30 to 40 degrees of extension, which keeps force manageable while still targeting the quads effectively.
+
+Sit in a chair. Place a rolled-up towel or foam roller under your knee so your leg is elevated slightly. Slowly straighten your knee from that elevated angle to full extension. Hold for 2 seconds, lower slowly. This is a short arc movement, meaning you're only moving through the last 30 to 40 degrees of extension, which keeps force manageable while still targeting the quads effectively.
 
 **Wall Sits (Partial)**
+
 Stand with your back against a wall, feet shoulder-width apart, about 18 inches from the wall. Slide down only until your knees are at about 45 degrees, not 90. Hold for 20 to 30 seconds. This is an isometric exercise, meaning there's no joint movement, just sustained muscle engagement. Isometric exercises are particularly good for people in pain because they build strength while minimizing joint irritation.
 
 **Step-Ups**
+
 Use a low step, 4 to 6 inches to start. Step up with your stronger leg, bring the other foot up, step back down with control. The emphasis should be on slow, controlled descent, because the lowering phase (eccentric muscle work) is where a lot of the strengthening happens. Step-ups train your knee in a functional pattern you actually use every day.
 
 **Mini Squats**
-Feet shoulder-width apart, hold onto a chair back for balance if needed. Lower yourself only 20 to 30 degrees, no more, keeping your knees tracking over your second toes. This trains your entire lower chain together, quads, glutes, hamstrings, in a coordinated way that isolated exercises can't replicate.
+
+Feet shoulder-width apart, hold onto a chair back for balance if needed. Lower yourself only 20 to 30 degrees, no more, keeping your knees tracking over your second toes. This trains your entire lower chain together, quads, glutes, and hamstrings, in a coordinated way that isolated exercises can't replicate.
 
 **Clamshells**
+
 Lie on your side with knees bent, feet together. Without rolling your pelvis back, lift your top knee like a clamshell opening. Lower with control. This strengthens the hip abductors, a group most people never think about in relation to their knees. Weak hip abductors cause the knees to collapse inward under load, which is a major driver of knee pain.
 
 ## A Week-by-Week Progression Plan
@@ -83,26 +88,23 @@ Starting too hard is one of the most common reasons people quit or get hurt. Her
 | 3 | Introduce load-bearing | Add mini squats, step-ups (4-inch step) | 3 x 12 each exercise | 4 days/week |
 | 4 | Increase challenge | Progress step height, add light resistance band | 3 x 15 or increase resistance | 4 days/week |
 
-One guiding rule for all of this: the "2-hour pain rule." If you have increased joint pain more than 2 hours after exercising, you did too much. That's not soreness, that's irritation, and it's a signal to scale back.
+One guiding rule for all of this: the "2-hour pain rule." If you have increased joint pain more than 2 hours after exercising, you did too much. That's not soreness. That's irritation, and it's a signal to scale back.
 
 ## The Role of Stretching and Balance Training
 
-Strength alone isn't enough. Tight muscles alter the mechanics of the knee and keep it under stress even at rest. Two stretches matter most here.
+Strength alone isn't enough. Tight muscles alter the mechanics of the knee and keep it under stress even at rest. Two stretches matter most.
 
-**The standing quad stretch**: Stand near a wall for support. Bend one knee and hold your ankle behind you. You don't need to pull aggressively. Just a gentle hold for 30 seconds will help, held twice per side.
+**The standing quad stretch**: Stand near a wall for support. Bend one knee and hold your ankle behind you. You don't need to pull aggressively, just a gentle hold for 30 seconds on each side.
 
-**Calf stretching**: This one surprises people, but tight calves limit ankle mobility, which forces your knee to compensate with every step. Stand facing a wall, one foot back, heel flat, gentle lean forward for 30 seconds.
+**Calf stretching**: This one surprises people, but tight calves limit ankle mobility, which forces your knee to compensate with every step. Stand facing a wall, one foot back, heel flat, and lean forward gently for 30 seconds.
 
-Balance training deserves its own mention because it's often completely missing from knee rehab programs, despite being critically important. Single-leg stance work, standing on one foot for 10 to 30 seconds while holding a counter if needed, trains the small stabilizing muscles around the knee that don't respond to traditional strength exercises. Poor balance also significantly increases fall risk, and a fall with compromised knees is a serious situation.
+Balance training deserves its own mention because it's often completely missing from knee rehab programs, despite being critically important. Single-leg stance work (standing on one foot for 10 to 30 seconds while holding a counter if needed) trains the small stabilizing muscles around the knee that don't respond to traditional strength exercises. Poor balance also significantly increases fall risk, and a fall with compromised knees is a serious situation.
 
-I've seen clients who did the strength work diligently but skipped the balance component plateau in their progress. When they added it, everything clicked.
-
+I've seen clients who did the strength work diligently but skipped the balance component hit a plateau. When they added it in, everything clicked.
 
 ---
 
 *This article is for general informational purposes only and does not constitute medical or fitness advice. Consult your physician or a licensed physical therapist before starting a new exercise program, especially if you have existing health conditions.*
-
----
 
 ---
 
@@ -112,4 +114,3 @@ I've seen clients who did the strength work diligently but skipped the balance c
 
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

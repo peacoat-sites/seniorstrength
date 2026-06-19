@@ -25,16 +25,15 @@ author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
 
 ---
-
 Most people who ask me this question are already doing it wrong. Not dangerously wrong, just inefficiently wrong in a way that either leaves results on the table or quietly sets them up for an overuse injury six months down the road. The honest answer to "how often should seniors strength train?" is more nuanced than almost every generic fitness article will tell you, and it took me years of working directly with older adults to understand why.
 
-Let me start with the number most guidelines agree on: two days per week is the minimum threshold supported by the research for maintaining and building muscle mass in adults over 60. The American College of Sports Medicine, the CDC, and most major health organizations land here. Two days. But here's what they don't always spell out, and what I think matters enormously: two days as a floor, not a ceiling, and the *quality* and *structure* of those days varies so wildly between a 62-year-old former athlete and a 74-year-old who's been sedentary for a decade that treating them identically is almost a joke.
+Let me start with the number most guidelines agree on: two days per week is the minimum threshold supported by the research for maintaining and building muscle mass in adults over 60. The American College of Sports Medicine, the CDC, and most major health organizations land here. Two days. But here's what they don't always spell out, and what I think matters enormously: two days as a floor, not a ceiling, and the quality and structure of those days varies so wildly between a 62-year-old former athlete and a 74-year-old who's been sedentary for a decade that treating them identically is almost a joke.
 
 ## Why Recovery Changes Everything After 60
 
 This is the part most trainers who work primarily with younger clients get wrong when they start advising older adults.
 
-Muscle protein synthesis, the process by which your body actually builds and repairs muscle tissue after a strength session, slows down with age. A 35-year-old might recover meaningfully from a hard leg session in 36 to 48 hours. Research published in the *Journal of Physiology* has shown that this window extends significantly in older adults, sometimes stretching to 72 hours or more depending on training intensity and individual health factors. That's not a weakness. It's just biology, and it's worth building your schedule around.
+Muscle protein synthesis, the process by which your body actually builds and repairs muscle tissue after a strength session, slows down with age. A 35-year-old might recover meaningfully from a hard leg session in 36 to 48 hours. Research published in the *Journal of Physiology* showed this window extends significantly in older adults, sometimes stretching to 72 hours or more depending on training intensity and individual health factors. That's not a weakness. It's just biology, and it's worth building your schedule around.
 
 What this means practically: training the same muscle groups on back-to-back days is usually a bad idea for most people in this age group, particularly early in a program. I've watched well-meaning clients push through a Monday-Tuesday-Wednesday full-body routine because someone told them more is more, and they end up sore, demoralized, or nursing a shoulder they didn't need to hurt.
 
@@ -48,7 +47,7 @@ Four or more days per week of strength training is appropriate for a small subse
 
 I get asked to be specific about this all the time, so let me be concrete.
 
-For someone just starting out, or returning to training after a significant break, two days a week of full-body resistance training is the right call. Sessions should probably run 30 to 45 minutes, not 90. The goal in the first six to eight weeks isn't to maximize stimulus, it's to learn movement patterns, build the connective tissue tolerance that muscles outpace, and collect enough wins to stay consistent.
+For someone just starting out or returning to training after a significant break, two days a week of full-body resistance training is the right call. Sessions should probably run 30 to 45 minutes, not 90. The goal in the first six to eight weeks isn't to maximize stimulus, it's to learn movement patterns, build the connective tissue tolerance that muscles outpace, and collect enough wins to stay consistent.
 
 For someone who's been training consistently for a few months and is handling recovery well, a shift to three days per week makes sense. At this point, some people do better with full-body sessions three times a week. Others, particularly those who want to focus more specifically on lower body strength (which matters enormously for fall prevention and functional independence), do well with a simple two-day lower body, one-day upper body split, or some variation on that.
 
@@ -74,10 +73,7 @@ Chronic conditions change the calculus too. Osteoporosis doesn't mean you should
 
 I'll be honest: the fitness industry is bad at acknowledging this stuff. There's a commercial incentive to tell everyone they can and should do more, and that's not always the right message.
 
-
----
-
-The honest summary, if there is one: most older adults will do best starting at two days per week of full-body strength training, progressing to three days as their body adapts, with at least 48 hours between sessions. More than that is only warranted for those with significant training history and solid recovery. What matters more than hitting a specific number is consistency, appropriate load progression, and actually listening to what your body is telling you between sessions.
+Most older adults will do best starting at two days per week of full-body strength training, progressing to three days as their body adapts, with at least 48 hours between sessions. More than that is only warranted for those with significant training history and solid recovery. What matters more than hitting a specific number is consistency, appropriate load progression, and actually listening to what your body is telling you between sessions.
 
 That last part sounds obvious. In practice, it's where almost everyone needs the most help.
 
@@ -96,4 +92,3 @@ That last part sounds obvious. In practice, it's where almost everyone needs the
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-

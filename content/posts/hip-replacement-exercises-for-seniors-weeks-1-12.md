@@ -20,28 +20,27 @@ author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
 
 ---
-
-Recovering from hip replacement surgery can feel overwhelming,  especially when you’re not sure which movements are safe and which might set you back. If you’re searching for **hip replacement exercises seniors** can rely on, you’re in the right place. This guide walks you through a safe, week-by-week exercise plan from the day you come home all the way through your 12-week milestone.
+Recovering from hip replacement surgery can feel overwhelming, especially when you're not sure which movements are safe and which might set you back. If you're searching for **hip replacement exercises seniors** can rely on, you've found it. This guide walks you through a safe, week-by-week exercise plan from the day you come home all the way through your 12-week milestone.
 
 ## Why Exercise Is the Most Important Part of Hip Replacement Recovery
 
-Many seniors worry that moving too soon after surgery will cause harm. In reality, gentle, guided movement is exactly what your new hip needs to heal properly. Exercise prevents blood clots, rebuilds muscle strength, and helps you regain your independence faster.
+Many seniors worry that moving too soon after surgery will cause harm. The opposite is true. Gentle, guided movement is exactly what your new hip needs to heal properly. Exercise prevents blood clots, rebuilds muscle strength, and helps you regain your independence faster.
 
 Your surgical team will encourage you to start moving within 24 hours of your procedure. That might sound surprising, but your new hip joint is designed to handle controlled, gradual loading. The key word is _gradual_.
 
-Skipping your exercises,  even for a day or two,  can lead to stiffness, muscle weakness, and a longer recovery overall. Think of each session as a small investment that pays off every single day.
+Skip your exercises for even a day or two, and you'll hit stiffness, muscle weakness, and a longer recovery overall. Think of each session as a small investment that pays off every single day.
 
 ## Important Safety Rules Before You Begin
 
 Photo by [Centre for Ageing Better](https://unsplash.com/@ageing_better?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Before diving into the weekly plan, there are a few ground rules every senior should follow. These precautions protect your new joint and keep you moving in the right direction.
+Before you start the weekly plan, there are a few ground rules every senior should follow. These precautions protect your new joint and keep you moving in the right direction.
 
-  * **Never bend your hip past 90 degrees**,  avoid leaning forward sharply when sitting or rising.
-  * **Do not cross your legs**,  this applies when sitting, lying down, or standing.
+  * **Never bend your hip past 90 degrees**, avoid leaning forward sharply when sitting or rising.
+  * **Do not cross your legs**, this applies when sitting, lying down, or standing.
   * **Always use your walker or cane** as directed by your physical therapist.
-  * **Stop if you feel sharp pain**,  mild soreness is normal, but sharp or sudden pain is a signal to rest and call your doctor.
-  * **Wear supportive footwear**,  non-slip shoes reduce fall risk significantly.
+  * **Stop if you feel sharp pain**, mild soreness is normal, but sharp or sudden pain is a signal to rest and call your doctor.
+  * **Wear supportive footwear**, non-slip shoes reduce fall risk significantly.
 
 These rules apply most strictly during weeks 1 through 6. Your surgeon will let you know when restrictions can be eased based on your individual progress.
 
@@ -49,7 +48,7 @@ These rules apply most strictly during weeks 1 through 6. Your surgeon will let 
 
 Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-During the first two weeks, your primary goals are reducing swelling, preventing blood clots, and gently activating the muscles around your new hip. You’ll do most of these exercises lying in bed or seated in a firm chair.
+During the first two weeks, your primary goals are reducing swelling, preventing blood clots, and gently activating the muscles around your new hip. You'll do most of these exercises lying in bed or seated in a firm chair.
 
 ### Ankle Pumps
 
@@ -67,7 +66,7 @@ Press the back of your knee down into the bed by tightening your thigh muscle. H
 
 Seated in a firm chair, slowly lift one knee about 2 to 3 inches off the seat, hold for 3 seconds, and lower it back down. Alternate legs for 10 repetitions each. Keep your back straight and avoid leaning forward.
 
-**Pro Tip:** Set a gentle alarm on your phone every 1 to 2 hours as a reminder to do your ankle pumps and heel slides. Consistency during the first two weeks has a bigger impact on long-term recovery than any other factor.
+**Pro Tip:** Set a gentle alarm on your phone every 1 to 2 hours as a reminder to do your ankle pumps and heel slides. Consistency during the first two weeks matters more than any other factor in your recovery.
 
 ## Weeks 3–6: Building Strength and Stability
 
@@ -81,17 +80,17 @@ Hold onto a sturdy countertop or walker for balance. Slowly lift your operated l
 
 ### Standing Hip Extension
 
-Still holding your support, slowly move your operated leg straight back,  just a few inches,  without leaning forward. Hold for 2 seconds and return. This exercise rebuilds the gluteal muscles, which are critical for walking normally.
+Still holding your support, slowly move your operated leg straight back, just a few inches, without leaning forward. Hold for 2 seconds and return. This exercise rebuilds the gluteal muscles, which are critical for walking normally.
 
 ### Mini Squats
 
-Stand behind a sturdy chair with both hands resting lightly on the back. Bend both knees slightly,  only a few inches,  then straighten back up. Never go deeper than a quarter squat at this stage. Perform 10 repetitions twice daily.
+Stand behind a sturdy chair with both hands resting lightly on the back. Bend both knees slightly, only a few inches, then straighten back up. Never go deeper than a quarter squat at this stage. Perform 10 repetitions twice daily.
 
-During this phase, your physical therapist may also begin short walking sessions on flat surfaces. Aim to increase your walking distance a little more each day without overdoing it.
+Your physical therapist may also begin short walking sessions on flat surfaces during this phase. Aim to increase your walking distance a little more each day without overdoing it.
 
 ## Weeks 7–10: Increasing Endurance and Functional Movement
 
-You’re now at the halfway point, and many seniors notice a significant leap in their confidence and ability. This phase introduces more challenging exercises that mimic the real-life movements you need every day.
+You're now at the halfway point, and many seniors notice a significant leap in confidence and ability. This phase introduces more challenging exercises that mimic the real-life movements you need every day.
 
 ### Step-Ups
 
@@ -105,7 +104,7 @@ Lying on your back, tighten your thigh muscle and raise your straightened leg to
 
 Lying on your non-operated side, slowly raise your operated leg upward about 18 to 20 inches, keeping your toes pointing forward. Lower slowly and repeat for 12 to 15 repetitions. Add a light ankle weight if your therapist approves.
 
-Many seniors can also begin short walks outdoors during this phase. Walking on slightly uneven surfaces,  like a gentle path in a park,  helps train your balance in a safe, natural way.
+Many seniors can also begin short walks outdoors during this phase. Walking on slightly uneven surfaces, like a gentle path in a park, helps train your balance in a safe, natural way.
 
 ## Weeks 11–12: Returning to an Active Lifestyle
 
@@ -121,12 +120,9 @@ With a countertop nearby for safety, try standing on your operated leg alone for
 
 ### Light Water Walking
 
-If you have access to a pool, shallow-water walking is one of the best exercises at this stage. The water’s buoyancy reduces joint stress while resistance builds strength gently. Many seniors find it deeply enjoyable too.
+If you have access to a pool, shallow-water walking is one of the best exercises at this stage. The water's buoyancy reduces joint stress while resistance builds strength gently. Many seniors find it deeply enjoyable too.
 
-By week 12, many people are cleared by their surgeon to resume activities like golf, light hiking, dancing, and cycling on a stationary bike. Always get your surgeon’s green light before starting any new activity.
-
-
----
+By week 12, many people are cleared by their surgeon to resume activities like golf, light hiking, dancing, and cycling on a stationary bike. Always get your surgeon's green light before starting any new activity.
 
 ---
 
@@ -136,4 +132,3 @@ By week 12, many people are cleared by their surgeon to resume activities like g
 
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

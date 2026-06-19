@@ -25,7 +25,6 @@ author_title: "Nutrition Writer"
 author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
 
 ---
-
 Most people managing type 2 diabetes get told to "walk more and eat less sugar." That's not wrong, exactly. It's just incomplete enough to be nearly useless, and in some cases, actively dangerous. Exercise affects blood glucose in ways that aren't intuitive, and getting it wrong doesn't just mean a wasted workout. It can mean a hypoglycemic episode on the treadmill at 7 a.m. with nobody around. That's the gap most coverage fails to bridge.
 
 Let's bridge it.
@@ -34,13 +33,13 @@ Let's bridge it.
 
 ## Why Exercise Is One of the Most Powerful Tools You Have (And Why Timing Matters More Than You Think)
 
-Skeletal muscle is the largest glucose-consuming tissue in your body. When you contract a muscle, it pulls sugar out of the bloodstream without requiring insulin to do it. That mechanism, called non-insulin-mediated glucose uptake, is the reason a brisk 20-minute walk can drop blood glucose by 20 to 40 mg/dL in some people. It's also why exercise is genuinely one of the most effective blood sugar interventions available, not a soft lifestyle suggestion.
+Skeletal muscle is the largest glucose-consuming tissue in your body. When you contract a muscle, it pulls sugar out of the bloodstream without requiring insulin to do it. That mechanism, called non-insulin-mediated glucose uptake, is why a brisk 20-minute walk can drop blood glucose by 20 to 40 mg/dL in some people. It's also why exercise is genuinely one of the most effective blood sugar interventions available, not a soft lifestyle suggestion.
 
 But here's what that same brisk walk can do if your pre-exercise glucose is already sitting at 80 mg/dL and you're on a sulfonylurea like glipizide: send you into hypoglycemia before you make it back around the block.
 
-The point isn't to scare you off exercise. The point is that understanding the mechanism lets you use it deliberately. Check your blood glucose before you work out. Know what medications you're on and whether they carry hypoglycemia risk. Have a small fast-acting carbohydrate within reach. These aren't excessive precautions. They're just smart logistics, the same way you'd check your gas tank before a long drive.
+The point isn't to scare you off exercise. Understanding the mechanism lets you use it deliberately. Check your blood glucose before you work out. Know what medications you're on and whether they carry hypoglycemia risk. Have a small fast-acting carbohydrate within reach. These aren't excessive precautions. They're just smart logistics, the same way you'd check your gas tank before a long drive.
 
-One more thing worth understanding: glucose can actually rise during high-intensity exercise, particularly strength training and sprinting. The body releases stress hormones like adrenaline and cortisol, which signal the liver to dump stored glucose. For most people this is temporary and followed by a more sustained drop, but if you check your blood sugar immediately after a hard set and see it's higher than when you started, that's a normal physiological response, not a sign you did something wrong.
+Glucose can actually rise during high-intensity exercise, particularly strength training and sprinting. Your body releases stress hormones like adrenaline and cortisol, which signal the liver to dump stored glucose. For most people this is temporary and followed by a more sustained drop, but if you check your blood sugar immediately after a hard set and see it's higher than when you started, that's a normal physiological response, not a sign you did something wrong.
 
 ---
 
@@ -52,7 +51,7 @@ Not all exercise is created equal for diabetes management. Here's how the main c
 
 **Resistance training** is the one most seniors skip, and it's a mistake. Muscle is metabolically expensive tissue. Building more of it means your body has a larger sink for blood glucose around the clock, not just during exercise. Two to three sessions per week targeting all major muscle groups is the standard recommendation from the American Diabetes Association. You don't need a gym. Resistance bands, bodyweight exercises, and light dumbbells all work.
 
-**Balance and flexibility training** won't move the needle on blood glucose directly, but it belongs in this conversation because diabetic peripheral neuropathy, which causes numbness, tingling, or reduced sensation in the feet and legs, significantly raises fall risk. A fall that leads to a fracture can sideline you for months. Months of deconditioning and inactivity will wreck your glucose control. Yoga, tai chi, and targeted balance work are protective in a way that's easy to overlook until you actually need it.
+**Balance and flexibility training** won't move the needle on blood glucose directly, but it belongs here because diabetic peripheral neuropathy causes numbness, tingling, or reduced sensation in the feet and legs, which significantly raises fall risk. A fall that leads to a fracture can sideline you for months. Months of deconditioning and inactivity will wreck your glucose control. Yoga, tai chi, and targeted balance work are protective in a way that's easy to overlook until you actually need it.
 
 If you can only do one thing right now: walk after meals. A 10 to 15 minute walk within 60 to 90 minutes of eating is one of the most efficient interventions known for blunting post-meal glucose spikes. It's free, requires no equipment, and the research behind it is solid.
 
@@ -72,7 +71,7 @@ This template assumes someone with moderate fitness and no acute contraindicatio
 | Saturday | Recreational activity: swimming, gardening, golf | 45-60 minutes | Light to moderate; counts toward weekly total |
 | Sunday | Rest or light walking | 15-20 minutes | Post-meal stroll works perfectly |
 
-A few practical notes on this schedule. Spread your resistance days with at least one rest day between them. Your muscles need 48 hours to recover and rebuild. Don't combine your hardest aerobic and resistance sessions on the same day if you can avoid it, especially if hypoglycemia is a concern. And log your pre- and post-exercise glucose at least in the first few weeks. The patterns you discover will tell you more about your personal response than any general guideline can.
+A few practical notes on this schedule. Spread your resistance days with at least one rest day between them. Your muscles need 48 hours to recover and rebuild. Don't combine your hardest aerobic and resistance sessions on the same day if you can avoid it, especially if hypoglycemia is a concern. Log your pre- and post-exercise glucose at least in the first few weeks. The patterns you discover will tell you more about your personal response than any general guideline can.
 
 ---
 
@@ -82,9 +81,9 @@ General exercise safety advice for seniors is widely available. The diabetes-spe
 
 **Hypoglycemia during exercise** looks like shakiness, sudden sweating, confusion, or a feeling of weakness that doesn't match your effort level. If you experience any of these, stop, sit down, and consume 15 grams of fast-acting carbohydrate: four glucose tablets, half a cup of juice, or a small handful of regular candy. Wait 15 minutes and recheck. Don't resume exercise until you're above 100 mg/dL.
 
-**Check your feet before and after every session.** Peripheral neuropathy can mean you won't feel a blister, a cut, or a pressure sore developing. Wear well-fitting athletic shoes. Cotton socks. Inspect the soles of your feet with a mirror if needed. This sounds tedious. A diabetic foot infection that won't heal is significantly more tedious.
+**Check your feet before and after every session.** Peripheral neuropathy can mean you won't feel a blister, a cut, or a pressure sore developing. Wear well-fitting athletic shoes and cotton socks. Inspect the soles of your feet with a mirror if needed. This sounds tedious. A diabetic foot infection that won't heal is significantly more tedious.
 
-**Know your glucose thresholds.** As a general starting point: below 100 mg/dL before exercise, have a small carbohydrate snack first. Above 250 mg/dL with ketones present, skip the workout and contact your healthcare provider. These thresholds can vary based on your medication regimen and individual response, which is exactly why working with your care team to set personal parameters is worth the conversation.
+**Know your glucose thresholds.** As a general starting point: below 100 mg/dL before exercise, have a small carbohydrate snack first. Above 250 mg/dL with ketones present, skip the workout and contact your healthcare provider. These thresholds can vary based on your medication regimen and individual response, which is why working with your care team to set personal parameters is worth the conversation.
 
 **Hydration and heat.** Dehydration raises blood glucose. Exercise in hot weather amplifies both dehydration risk and cardiovascular strain. If you're walking or doing outdoor activity in summer, hydrate before, during, and after. Don't wait until you're thirsty.
 
@@ -98,13 +97,10 @@ Specifically, ask about:
 
 - Whether any of your current medications require glucose monitoring before exercise
 - Whether your insulin timing or dose needs adjusting on workout days
-- Whether a continuous glucose monitor (CGM) would give you better insight than fingerstick testing
+- Whether a continuous glucose monitor would give you better insight than fingerstick testing
 - What your personal blood glucose target range should be before, during, and after exercise
 
-A certified diabetes care and education specialist (CDCES) can be particularly useful here. Many hospital systems and outpatient clinics offer diabetes education programs, and many are covered by Medicare or supplemental insurance. If you haven't connected with one yet, it's worth asking your primary care provider for a referral.
-
----
-
+A certified diabetes care and education specialist can be particularly useful here. Many hospital systems and outpatient clinics offer diabetes education programs, and many are covered by Medicare or supplemental insurance. If you haven't connected with one yet, it's worth asking your primary care provider for a referral.
 
 ---
 
@@ -116,12 +112,9 @@ Managing diabetes with exercise isn't complicated, but it does require more prec
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

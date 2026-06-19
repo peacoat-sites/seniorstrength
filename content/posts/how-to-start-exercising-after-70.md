@@ -24,7 +24,6 @@ faqs:
   - q: "What's the single most important thing to focus on first?"
     a: "Balance. Hands down. Strength can be rebuilt over months. A fall and the injury, hospitalization, or loss of confidence that follows can set you back years. Even five minutes of balance work daily makes a measurable difference, and it requires no equipment at all."
 ---
-
 Most people over 70 who come to me have already been told they need to exercise. Their doctor mentioned it, their adult kids are nudging them, maybe they read something alarming about falls and muscle loss. What they haven't been told is *how* to actually start without hurting themselves, getting overwhelmed, or wasting money on programs that weren't designed for them in the first place.
 
 So let's skip the preamble and get into what actually works.
@@ -39,15 +38,15 @@ After 70, sarcopenia (the gradual loss of muscle mass) has likely been quietly h
 
 That feeling, where you end slightly energized rather than exhausted, is exactly where you want to be at the start. I've seen too many people do too much in week one, spend the next ten days sore and stiff, and conclude that exercise "isn't for them." It's not a failure of willpower. It's a failure of pacing.
 
-The research on this is pretty clear, though I'll acknowledge that most big exercise studies still underrepresent adults over 70. What we do know from the available evidence, including longitudinal work published in the *British Journal of Sports Medicine* and data from the National Institute on Aging, is that consistent, low-to-moderate intensity activity produces significant gains in strength, balance, and cardiovascular health in this age group, often faster than expected once the body starts adapting.
+The research backs this up, though I'll acknowledge that most big exercise studies still underrepresent adults over 70. What we do know from the available evidence, including longitudinal work published in the *British Journal of Sports Medicine* and data from the National Institute on Aging, is this: consistent, low-to-moderate intensity activity produces significant gains in strength, balance, and cardiovascular health in this age group, often faster than expected once the body starts adapting.
 
 ---
 
 ## Before you do a single squat: the conversation you need to have first
 
-I'll be direct. If you have cardiovascular disease, osteoporosis, a history of falls, joint replacements, or any condition that affects your balance or blood pressure, you need a sign-off from your physician before you start. Not because exercise is likely to hurt you, but because knowing your specific situation lets you and your care team make smarter choices. Your doctor might flag that certain movements are off-limits temporarily, or that your blood pressure medication affects your heart rate response to exercise, which changes how you should gauge effort.
+If you have cardiovascular disease, osteoporosis, a history of falls, joint replacements, or any condition that affects your balance or blood pressure, you need a sign-off from your physician before you start. Not because exercise is likely to hurt you, but because knowing your specific situation lets you and your care team make smarter choices. Your doctor might flag that certain movements are off-limits temporarily, or that your blood pressure medication affects your heart rate response to exercise, which changes how you should gauge effort.
 
-One thing most people don't realize: you can ask your doctor for a referral to physical therapy specifically to establish a safe starting exercise baseline. This isn't just for people recovering from surgery. A good physical therapist will assess your current strength, range of motion, and balance, give you a personalized starting point, and send you on your way with a real plan. Medicare Part B covers this in many situations, though coverage varies and it's worth confirming with your specific plan before assuming.
+Here's something most people don't know: you can ask your doctor for a referral to physical therapy specifically to establish a safe starting exercise baseline. This isn't just for people recovering from surgery. A good physical therapist will assess your current strength, range of motion, and balance, give you a personalized starting point, and send you on your way with a real plan. Medicare Part B covers this in many situations, though coverage varies and it's worth confirming with your specific plan before assuming.
 
 If a full PT evaluation isn't accessible right away, at minimum get your doctor's input and start conservatively.
 
@@ -55,15 +54,15 @@ If a full PT evaluation isn't accessible right away, at minimum get your doctor'
 
 ## The four things your program actually needs
 
-Forget complicated periodization or anything involving the word "regimen." Starting at 70, you need four things, and honestly, nothing else matters much until you have these locked in.
+Forget complicated periodization or anything involving the word "regimen." You need four things. Nothing else matters much until you have these locked in.
 
 **Strength training.** Two days a week, never on back-to-back days. You do not need a gym. A set of resistance bands (something like the Theraband CLX or TheraBand Resistance Bands, which run about $10 to $20 for a basic set) and a sturdy chair are enough to start. Seated leg presses against a band, standing calf raises holding the chair back, wall push-ups. These aren't flashy. They work. After six to eight weeks of consistent work, most people are ready to add light dumbbells or graduate to bodyweight movements.
 
 **Balance training.** This one gets skipped constantly, and it's arguably the most important for quality of life. Falls are the leading cause of injury-related death in adults over 65. The good news is that balance responds quickly to training. Start with something as simple as standing on one foot while holding a countertop for thirty seconds, twice a day. It sounds almost too easy. Give it three weeks and try it without holding the counter.
 
-**Mobility and flexibility work.** Ten to fifteen minutes of gentle movement, daily if possible. Seated hamstring stretches, ankle circles, gentle spinal rotation. Yoga for seniors, done well, covers this beautifully. If you have access to a Silver Sneakers class (it's included with many Medicare Advantage and Medicare Supplement plans, worth checking today rather than assuming you don't have it), the Yoga or Stretch formats are excellent starting points.
+**Mobility and flexibility work.** Ten to fifteen minutes of gentle movement daily if possible, though every other day works too. Seated hamstring stretches, ankle circles, gentle spinal rotation. Yoga for seniors, done well, covers this beautifully. If you have access to a Silver Sneakers class (it's included with many Medicare Advantage and Medicare Supplement plans, worth checking today rather than assuming you don't have it), the Yoga or Stretch formats are excellent starting points.
 
-**Walking.** The most underrated exercise in existence, and one that compounds over time in ways most trainers don't talk about enough. Start with whatever distance or time feels genuinely easy, not "pushing through." For some people that's five minutes. That's fine. The goal in the first month is consistency, not mileage.
+**Walking.** Start with whatever distance or time feels genuinely easy, not "pushing through." For some people that's five minutes. That's fine. The goal in the first month is consistency, not mileage. This is the most underrated exercise in existence, and one that compounds over time in ways most trainers don't talk about enough.
 
 These four categories work together. Strength supports your balance. Balance supports safe walking. Mobility keeps the strength work from creating tightness that limits your range of motion. Neglect any one of them and you'll feel it eventually.
 
@@ -75,7 +74,7 @@ Weeks one and two: you'll probably feel more tired than you expect from what see
 
 Weeks three through five: this is when most people feel the first real sense of progress. Balance exercises that felt shaky start feeling stable. Walking distance creeps up without more effort. This is also the window where some people get overconfident and increase intensity too fast. Don't.
 
-Weeks six through eight: if you've been consistent, strength gains become noticeable. Climbing stairs feels easier. Getting up from a chair takes less effort. These functional improvements are genuinely meaningful, more meaningful in daily life than any number on a fitness test.
+Weeks six through eight: strength gains become noticeable if you've been consistent. Climbing stairs feels easier. Getting up from a chair takes less effort. These functional improvements are genuinely meaningful, more meaningful in daily life than any number on a fitness test.
 
 Around week ten or twelve: this is a good point to reassess with a trainer or PT, look at what's working, and decide what to add or change. Maybe it's time to join a group class. Maybe you want to try light weight training at a gym. The foundation you've built in three months makes everything else safer.
 
@@ -85,7 +84,7 @@ I want to be honest here: progress isn't always linear. Some weeks feel like reg
 
 ## The gym question (and why it's not the only answer)
 
-A lot of people feel intimidated walking into a commercial gym at 70, and honestly, some gyms aren't set up to be welcoming or safe for older adults. That's real, and I don't want to brush past it.
+A lot of people feel intimidated walking into a commercial gym at 70. Some gyms aren't set up to be welcoming or safe for older adults, and that's real. I don't want to brush past it.
 
 But if you do want to use a gym, specifically look for one with a dedicated senior programming track or that participates in Silver Sneakers. Many YMCAs are genuinely well-equipped for this, and their senior-specific classes tend to be staffed by instructors who understand older adult physiology. A few sessions with a certified personal trainer who has a specific credential in older adult fitness (look for the NASM Certified Senior Fitness Specialist or ACSM credential) can be worth every dollar, particularly in the first month.
 
@@ -95,10 +94,7 @@ What I'd steer most people away from: expensive in-home fitness equipment in the
 
 ---
 
-
----
-
-The truth is, starting at 70 is not starting too late. I've worked with people who began serious strength training at 74 and were climbing hiking trails two years later. The body adapts at every age. It just needs to be asked the right way, in the right amount, consistently enough that the adaptations have time to stick. That's the whole thing, really. Start easier than you think you need to, show up more often than feels necessary, and give it three months before you judge anything.
+Starting at 70 is not starting too late. I've worked with people who began serious strength training at 74 and were climbing hiking trails two years later. The body adapts at every age. It just needs to be asked the right way, in the right amount, consistently enough that the adaptations have time to stick. Start easier than you think you need to, show up more often than feels necessary, and give it three months before you judge anything.
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

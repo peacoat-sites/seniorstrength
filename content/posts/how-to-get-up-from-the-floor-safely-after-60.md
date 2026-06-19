@@ -24,7 +24,6 @@ faqs:
   - q: "Should I call 911 if I can't get up, even if I'm not hurt?"
     a: "Yes, if you've been on the floor for more than 10 to 15 minutes and genuinely cannot get up. Prolonged time on the floor can cause muscle breakdown and kidney stress even without an acute injury, and emergency responders would rather help you up than treat a preventable complication."
 ---
-
 Most articles about getting up from the floor spend three paragraphs telling you to "take your time" and "listen to your body." That's not advice. That's a liability disclaimer dressed up as guidance. What you actually need is a specific sequence of movements that protects your joints, accounts for real-world strength limitations, and doesn't require a spotter.
 
 Here's the part most coverage glosses over: the way you get up from the floor is far less forgiving after 60 not because you're weaker (though that's a factor), but because your margin for error shrinks. A 35-year-old can lurch off the floor with bad mechanics and walk away fine. You might not. That asymmetry changes everything about how you should approach this.
@@ -37,7 +36,7 @@ The instinct most people follow when they're down on the floor is to try to sit 
 
 The other problem is shoulder and wrist loading. Pressing straight up from a seated or supine position puts enormous torque on both, especially if you have any rotator cuff issues or wrist arthritis. Those joints aren't designed to bear your full body weight in that direction. Your legs are. The goal of any safe get-up technique is to shift as much of the work as possible to your hips, glutes, and quads, which are the largest and most load-tolerant muscles in your body.
 
-There's also the dizziness problem. Blood pressure changes when you move from lying down to upright, and after 60 those changes are slower to equalize. Moving too fast off the floor causes orthostatic hypotension in a meaningful percentage of older adults. The fix isn't just "go slow," it's sequencing the movement so you spend time in intermediate positions (side-lying, then kneeling, then half-kneeling) before you ever try to stand. Each position is closer to upright, and your body gets a chance to catch up.
+Then there's the dizziness problem. Blood pressure changes when you move from lying down to upright, and after 60 those changes are slower to equalize. Moving too fast off the floor causes orthostatic hypotension in a meaningful percentage of older adults. The fix isn't just "go slow," it's sequencing the movement so you spend time in intermediate positions (side-lying, then kneeling, then half-kneeling) before you ever try to stand. Each position is closer to upright, and your body gets a chance to catch up.
 
 ---
 
@@ -71,7 +70,7 @@ Not all furniture is equally useful as an assist, and this matters more than peo
 
 A couch with a firm, non-sliding seat is your best friend. It's low enough to reach from half-kneeling, high enough to provide real leverage, and heavy enough to be stable. A kitchen chair with rubber feet on hardwood is reliable. An armchair with a seat that's too soft will let your hands sink in, reducing your leverage and sometimes tipping the chair.
 
-Avoid: any chair on wheels (obvious), a coffee table with a pedestal base (tips easily under lateral load), a dining table that's only weighted by dishes, or a bathroom towel bar (these are attached to drywall, not studs, and are not rated for fall recovery loads, despite what they feel like).
+Avoid: any chair on wheels (obvious), a coffee table with a pedestal base (tips easily under lateral load), a dining table that's only weighted by dishes, or a bathroom towel bar (these are attached to drywall, not studs, and aren't rated for fall recovery loads, despite what they feel like).
 
 The best long-term strategy is to keep a solid, stable chair accessible in any room where you spend significant time. In the bedroom, this is usually the thing people neglect most.
 
@@ -79,13 +78,11 @@ The best long-term strategy is to keep a solid, stable chair accessible in any r
 
 ## What Happens If You Can't Get Up on Your Own
 
-This deserves a direct answer instead of the vague hand-waving most articles offer.
-
 If you genuinely cannot get up after a fall, and you're not injured in a way that makes movement dangerous, try this: crawl to the nearest sturdy piece of furniture and work through the sequence from there. Rooms that seem obstacle-heavy when you're standing are actually navigable when you're moving at floor level.
 
 If you can't get up and you're alone, use your phone. This is why I tell every client over 70 to have their phone on their person, not left on a counter. A medical alert device (something like a Life Alert or Apple Watch with fall detection) is worth every penny if you live alone. I've had clients who lay on the floor for six or more hours before someone found them. That's not a fall injury. That's a preventable catastrophe.
 
-And if you've been on the floor for more than 15 minutes and can't get up, call 911. Not because you're dying, but because the muscle damage from prolonged floor contact (a condition called rhabdomyolysis) can cause serious kidney damage. This is not common knowledge and most people wait far too long.
+And if you've been on the floor for more than 15 minutes and can't get up, call 911. Not because you're dying, but because the muscle damage from prolonged floor contact (a condition called rhabdomyolysis) can cause serious kidney damage. This isn't common knowledge and most people wait far too long.
 
 ---
 
@@ -101,10 +98,7 @@ A number of physical therapists I respect are beginning to incorporate this into
 
 ---
 
-
----
-
-The floor is not the enemy. Staying there longer than necessary is. Get familiar with the sequence when stakes are low, so that when they aren't, your body already knows the way out.
+The floor isn't the enemy. Staying there longer than necessary is. Get familiar with the sequence when stakes are low, so that when they aren't, your body already knows the way out.
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
 

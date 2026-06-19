@@ -24,7 +24,6 @@ faqs:
   - q: "Do resistance bands work for bed exercises?"
     a: "Yes, and they're worth having. A light resistance band looped around the ankles adds meaningful load to heel slides and supine marching without requiring any additional equipment or a partner. TheraBand sells a set of graduated resistance bands for around $15-20 that covers most needs. Just make sure the band is secured safely and won't snap back toward the face."
 ---
-
 Most people assume that if you can't get out of bed easily, you can't really exercise. That assumption is wrong, and it costs people more than they realize.
 
 I've worked with older adults for over two decades, and I'll be honest: the patients who make the fastest functional recoveries after hospitalization, surgery, or a significant illness are almost never the ones who waited until they felt "ready" to move. They're the ones who started doing something, anything, while still in bed. A 2019 study published in JAMA Internal Medicine tracked more than 1,400 hospitalized adults over 70 and found that those who performed even minimal in-bed mobility exercises lost significantly less muscle mass and retained better functional independence at 30-day follow-up. That finding didn't surprise me at all. What surprised me was how few clinicians were actually prescribing structured bed exercise routines, and how much confusion existed among patients and families about what's safe.
@@ -47,15 +46,15 @@ None of this means pushing through genuine pain or ignoring medical restrictions
 
 I want to be specific about what's actually worth doing here, because generic lists of "bed exercises" often include movements that are either useless for this population or quietly risky.
 
-**Ankle pumps and circles.** Start here, always. Flex the foot upward toward your shin, then point it away, rhythmically. About 20 repetitions per foot, a few times a day. This is the single most effective thing you can do for circulation in the lower legs, and it requires almost no strength or range of motion. I've had patients do these in full leg casts. They work.
+**Ankle pumps and circles.** Start here, always. Flex the foot upward toward your shin, then point it away, rhythmically, about 20 repetitions per foot a few times a day. This is the single most effective thing you can do for circulation in the lower legs, and it requires almost no strength or range of motion. I've had patients do these in full leg casts. They work.
 
 **Heel slides.** Lying on your back, bend one knee by sliding the heel toward your body along the mattress, then slowly return. This activates the hip flexors and quadriceps through a controlled, joint-friendly range. If one leg is significantly weaker, you can use a thin plastic bag under the heel to reduce friction and make the slide easier. That's a real clinical trick, not just a nice idea.
 
-**Supine marching.** Still lying on your back, alternately lift one knee toward the ceiling (not dramatically, just a few inches), then lower it. Alternate sides slowly. This works hip flexors and reinforces the neural pattern of reciprocal leg movement, which matters for walking later. If lifting against gravity is too much, again, the plastic-bag-assisted heel slide achieves something similar.
+**Supine marching.** Still lying on your back, alternately lift one knee toward the ceiling (not dramatically, just a few inches), then lower it. Alternate sides slowly. This works hip flexors and reinforces the neural pattern of reciprocal leg movement, which matters for walking later. If lifting against gravity is too much, the plastic-bag-assisted heel slide achieves something similar.
 
 **Glute bridges.** This one requires more strength, so it's not always the starting point. Lying on your back with knees bent and feet flat on the mattress, press through your heels and lift your hips a few inches off the bed. Hold briefly, lower slowly. The hip extensors and glutes are the most important muscles for rising from a seated position, and this exercise targets them directly. I'll be honest: some people over 60 with significant hip or lumbar pathology shouldn't do full bridges. A modified version, just a slight posterior pelvic tilt without actually lifting the hips, can be the safer entry point.
 
-**Seated edge exercises.** If someone can sit at the edge of the bed with feet supported (either on the floor or a step stool), the options expand considerably. Seated knee extensions, seated marching, and supported standing practice all become available. The transition from lying-down exercises to edge-of-bed exercises is a significant milestone and worth celebrating.
+**Seated edge exercises.** If someone can sit at the edge of the bed with feet supported, either on the floor or a step stool, the options expand considerably. Seated knee extensions, seated marching, and supported standing practice all become available. The transition from lying-down exercises to edge-of-bed exercises is a significant milestone and worth celebrating.
 
 **Hand and grip exercises.** These get ignored almost entirely, and I find that frustrating. Grip strength is an independent predictor of overall functional health and longevity in older adults, and it deteriorates during illness just like leg strength does. Squeezing a soft ball, towel, or even just interlacing fingers and pressing palms together provides genuine stimulus. It's also something a person can do without any assistance and with zero risk of falling.
 
@@ -66,7 +65,7 @@ Here's a take that might get some pushback: most home mattresses are actively ba
 
 A soft, pillow-top mattress absorbs force and makes it much harder to perform exercises like glute bridges or heel slides. The body sinks in, core engagement is harder to find, and the unstable surface actually increases injury risk during transitions. Hospital beds use firmer surfaces partly for this reason.
 
-If someone is spending significant time in bed at home, a mattress topper with higher firmness (look for medium-firm or firm rated options, generally in the 5-7 range on a 1-10 firmness scale) can genuinely change the exercise experience. It's not the first thing anyone thinks of when setting up a home care situation, but I've seen it make a real difference. This isn't a sponsored recommendation. It's just something I wish I'd told families earlier.
+If someone is spending significant time in bed at home, a mattress topper with higher firmness works well. Look for medium-firm or firm rated options, generally in the 5-7 range on a 1-10 firmness scale. It can genuinely change the exercise experience. This isn't a sponsored recommendation. It's just something I wish I'd told families earlier.
 
 
 ## What Good Progression Actually Looks Like
@@ -88,20 +87,13 @@ I hear two opposite extremes from older adults with limited mobility. Either "I 
 
 The distinction that matters is between discomfort and pain. Mild muscular fatigue or the burn of effort is normal and appropriate. Sharp pain, joint pain, chest pain, or dizziness are stop-immediately signals. And I mean immediately, not "let me finish this set."
 
-There's also a specific situation worth naming: bone health. Osteoporosis is common in older adults with limited mobility, and certain exercises that involve significant spinal flexion (like a full sit-up) can increase vertebral fracture risk in people with low bone density. Glute bridges, ankle pumps, and heel slides are all generally safe for this population. Full crunches are not what I'd recommend without knowing someone's bone density status.
+There's also a specific situation worth naming: bone health. Osteoporosis is common in older adults with limited mobility, and certain exercises that involve significant spinal flexion, like a full sit-up, can increase vertebral fracture risk in people with low bone density. Glute bridges, ankle pumps, and heel slides are all generally safe for this population. Full crunches are not what I'd recommend without knowing someone's bone density status.
 
-If there's any uncertainty about what's safe given a specific medical history, a session or two with a physical therapist is a worthwhile investment. A PT can assess exactly what's appropriate and what to avoid. That's not a disclaimer, it's genuinely good advice.
+If there's any uncertainty about what's safe given a specific medical history, a session or two with a physical therapist is worth the investment. A PT can assess exactly what's appropriate and what to avoid. That's not a disclaimer. It's genuinely good advice.
 
-
----
-
-
----
 
 Start where you are. Five ankle pumps per foot while waiting for breakfast is not nothing. Over weeks, it compounds into something real. The people I've watched recover the best weren't the ones with the most strength at the beginning. They were the ones who refused to let the bed have the last word.
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
-
----
 
 *This article is for general informational purposes only and does not constitute medical or fitness advice. Consult your physician or a licensed physical therapist before starting a new exercise program, especially if you have existing health conditions.*

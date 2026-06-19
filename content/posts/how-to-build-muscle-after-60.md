@@ -25,7 +25,6 @@ author_title: "Nutrition Writer"
 author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
 
 ---
-
 Most people over 60 are told to "be careful" with strength training. What they actually need is to do more of it.
 
 I'll be honest: when I first started working extensively with older adults about twelve years ago, I was guilty of the same overcautious thinking. Lighter weights. Fewer sets. Lots of stretching. The rationale felt sound at the time. But watching clients plateau, lose confidence, and gradually shrink, I started questioning everything I thought I knew about muscle building after 60.
@@ -38,7 +37,9 @@ So let's get into what actually works.
 
 ## The Protein Problem Nobody Talks About Enough
 
-Here's where I see older adults get quietly sabotaged, even when they're doing everything else right. They're not eating enough protein.
+Here's where I see older adults get quietly sabotaged, even when they're doing everything else right.
+
+They're not eating enough protein.
 
 The general population guideline of 0.8 grams of protein per kilogram of bodyweight was never designed with active older adults in mind. For someone over 60 trying to build or preserve muscle, most sports nutrition researchers now suggest something closer to 1.6 to 2.2 grams per kilogram of bodyweight per day. For a 170-pound person, that's roughly 123 to 170 grams of protein daily. That's a significant difference.
 
@@ -50,13 +51,15 @@ On the question of supplements: protein powder is not magic, but it's genuinely 
 
 ## Progressive Overload Is Non-Negotiable (and Completely Doable)
 
-This is the part most beginner programs for older adults get wrong. They treat resistance training like a permanent maintenance job: do the same 12 reps with the same 10-pound dumbbells forever, and feel good about it. But muscles don't grow without a reason to grow. The stimulus has to increase over time.
+This is the part most beginner programs for older adults get wrong.
+
+They treat resistance training like a permanent maintenance job: do the same 12 reps with the same 10-pound dumbbells forever, and feel good about it. But muscles don't grow without a reason to grow. The stimulus has to increase over time.
 
 Progressive overload just means you're consistently challenging the muscle more than it's already adapted to. You don't have to go heavier every single session. You can add reps, add sets, reduce rest time, slow down the tempo of each rep, or work through a slightly greater range of motion. But something has to change or you stop making progress. This is true at 30. It's true at 70.
 
 A practical starting point for someone new to resistance training after 60:
 
-Start with two to three sessions per week, not five. Recovery takes longer as we age, and this is not a weakness, it's physiology. The muscle protein synthesis response to a training session peaks around 24 hours post-workout and takes roughly 48-72 hours to resolve in older adults, compared to 36-48 hours in younger adults. This actually means rest days aren't optional rest days, they're where the adaptation happens.
+Start with two to three sessions per week, not five. Recovery takes longer as we age, and this is not a weakness, it's physiology. The muscle protein synthesis response to a training session peaks around 24 hours post-workout and takes roughly 48-72 hours to resolve in older adults, compared to 36-48 hours in younger adults. This actually means rest days aren't optional. They're where the adaptation happens.
 
 Pick 5-6 movements that cover the major patterns: a squat variation, a hip hinge (like a Romanian deadlift), a horizontal push (like a dumbbell chest press), a horizontal pull (like a seated cable row or dumbbell row), and a vertical pull (like a lat pulldown). That's it. You don't need 20 exercises. You need to get good at a few movements and then load them progressively.
 
@@ -66,9 +69,9 @@ One thing I feel strongly about: machine-based exercises are not inferior for ol
 
 ## Balance and Bone: The Reasons Strength Training Matters Beyond the Mirror
 
-I want to say something plainly here. Building muscle after 60 isn't primarily about aesthetics. (Though if that motivates you, use it, there's nothing wrong with wanting to look good.) The stakes are much higher.
+Building muscle after 60 isn't primarily about aesthetics. (Though if that motivates you, use it, there's nothing wrong with wanting to look good.) The stakes are much higher.
 
-Falls are the leading cause of injury-related death in adults over 65 in the United States. The CDC reports roughly 36 million falls per year in that age group, leading to about 3 million emergency room visits. Hip fractures specifically carry alarming mortality rates: somewhere between 20-30% of older adults who suffer a hip fracture die within a year, often not from the fracture itself but from the complications of prolonged immobility. That's the context. This is why every person over 60 who can resistance train probably should be resistance training.
+Falls are the leading cause of injury-related death in adults over 65 in the United States. The CDC reports roughly 36 million falls per year in that age group, leading to about 3 million emergency room visits. Hip fractures specifically carry alarming mortality rates: somewhere between 20-30% of older adults who suffer a hip fracture die within a year, often not from the fracture itself but from the complications of prolonged immobility. That's the context. Every person over 60 who can resistance train probably should be resistance training.
 
 Strength training improves bone density directly through the mechanical loading of bone tissue. A 2017 meta-analysis in the British Journal of Sports Medicine looked at resistance training's effect on bone mineral density in postmenopausal women and found consistent, significant improvements, particularly at the spine and hip. The effect sizes were modest but the direction was clear.
 
@@ -82,17 +85,10 @@ Sleep is another overlooked factor. Growth hormone release, which plays a role i
 
 And the psychological piece is real. A lot of clients over 60 come in with years of being told their bodies are fragile. That belief is often more limiting than any physical constraint. Rebuilding confidence in what the body can do, loading gradually and successfully, that process matters. I've seen it change people's lives in ways that are hard to quantify.
 
----
-
-
----
-
 The honest truth is that most of what holds older adults back from building real muscle isn't biological. It's the accumulated weight of bad advice, excessive caution, and the soft bigotry of low expectations. Your muscles respond to challenge at 65 or 72 in more similar ways to your 35-year-old self than almost anyone will tell you. The adaptations take a little longer. The recovery needs more respect. But the capacity is there.
 
 Use it.
 
 *Photo: [Anna Shvets](https://www.pexels.com/@shvetsa) via Pexels*
-
----
 
 *This article is for general informational purposes only and does not constitute medical or fitness advice. Consult your physician or a licensed physical therapist before starting a new exercise program, especially if you have existing health conditions.*

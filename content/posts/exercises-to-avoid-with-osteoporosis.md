@@ -14,22 +14,21 @@ author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
 
 ---
-
-Three years ago, a woman I'll call Margaret walked into a physical therapy clinic where I was consulting, carrying a printout from a popular fitness website. She'd been doing sit-ups every morning to "strengthen her core" after her doctor told her she had osteoporosis. She was proud of her consistency. She'd been doing this for four months.
+Three years ago, a woman I'll call Margaret walked into a physical therapy clinic where I was consulting, carrying a printout from a popular fitness website. She'd been doing sit-ups every morning to "strengthen her core" after her doctor told her she had osteoporosis. She was proud of her consistency. Four months of it.
 
 The printout was wrong. And nobody had told her.
 
-That moment is why I think this topic matters so much. Osteoporosis advice online is a mess of outdated recommendations, vague warnings, and well-meaning but dangerous suggestions from sources that don't actually specialize in bone health. So let me be direct with you about what to skip, why it matters, and what you can do instead.
+That moment is why this topic matters so much. Osteoporosis advice online is a mess of outdated recommendations, vague warnings, and well-meaning but dangerous suggestions from sources that don't actually specialize in bone health. So let me be direct about what to skip, why it matters, and what you can do instead.
 
 ## Why the wrong exercise is genuinely risky here
 
-Most fitness mistakes cost you time or soreness. A bad exercise choice with osteoporosis can cost you a vertebra.
+Most fitness mistakes cost you time or soreness. With osteoporosis, a bad exercise choice can cost you a vertebra.
 
-That sounds alarming, and I don't say it to scare you into paralysis. I say it because understanding the actual mechanism helps you make better decisions, not just follow a list of rules you don't understand.
+That sounds alarming, and I'm not saying it to scare you into paralysis. I'm saying it because understanding the actual mechanism helps you make better decisions, not just follow rules you don't understand.
 
 Osteoporotic bone has reduced density and altered architecture. The trabecular bone (the spongy inner structure, especially in your spine and hips) becomes more porous, which means it handles compressive and shear forces differently than healthy bone. A vertebral compression fracture can happen without a fall. It can happen during a forward bend, a sudden sneeze, or yes, a crunch. The T12-L1 junction in your lower thoracic spine is one of the most vulnerable spots, and it's exactly the area that takes the most load during spinal flexion under any kind of resistance.
 
-Here's what most people don't realize: many fractures from osteoporosis don't cause immediate sharp pain. They're "silent" fractures that show up on imaging months later. By then, the person has often continued the activity that caused the problem. So the feedback loop that normally teaches us to stop doing something harmful doesn't work the way it usually does.
+Here's what most people don't realize: many fractures from osteoporosis don't cause immediate sharp pain. They're "silent" fractures that show up on imaging months later. By then, the person has often continued the activity that caused the problem. The feedback loop that normally teaches us to stop doing something harmful doesn't work the way it usually does.
 
 Your doctor may have told you to "be careful" and "avoid falls." That's necessary but nowhere near sufficient. Let's get specific.
 
@@ -53,7 +52,7 @@ The sit-up and the crunch both involve repeated, loaded flexion of the lumbar an
 
 The substitute isn't "do nothing for your core." Your core absolutely needs to be strong, arguably more than ever, because strong core musculature protects and supports your spine. The substitute is anti-flexion, anti-extension, and anti-rotation core work: exercises like the McGill curl-up (very small movement, neutral spine), the dead bug, the bird-dog, and planks done with good form. These build real functional core stability without repeatedly loading the spine into flexion.
 
-I want to address the "but I've always done sit-ups and I'm fine" response, because I hear it a lot. Silent fractures. They don't always announce themselves. And "fine so far" is different from "safe."
+I want to address the "but I've always done sit-ups and I'm fine" response, because I hear it constantly. Silent fractures. They don't always announce themselves. And "fine so far" is different from "safe."
 
 ## Machines and equipment worth reconsidering
 
@@ -61,7 +60,7 @@ Leg press machines at high weight: the combination of spinal compression in the 
 
 The seated rowing machine and the lat pulldown both involve forward trunk lean or spinal loading in ways that can be problematic if your thoracic spine density is already compromised.
 
-Resistance band exercises are genuinely excellent here, by the way, because you control the resistance incrementally and the force profiles are more forgiving. The TheraBand Resistance Band set (around $15-25) is something I've recommended to dozens of people as a starting point for home strengthening work.
+Resistance bands are genuinely excellent here, by the way, because you control the resistance incrementally and the force profiles are more forgiving. The TheraBand Resistance Band set (around $15-25) is something I've recommended to dozens of people as a starting point for home strengthening work.
 
 Pool exercises and water aerobics are underrated for this population. The buoyancy reduces fracture risk from falls while still allowing meaningful resistance work. Not every gym has a pool, I know. But if yours does, it's worth exploring.
 
@@ -75,13 +74,11 @@ Walking, strength training with proper technique, Tai Chi (a 2020 Cochrane revie
 
 Which brings me to the most important recommendation I can make: get a physical therapy evaluation from someone who works regularly with osteoporosis. One or two PT sessions to build a safe, personalized program is worth far more than months of YouTube workouts that weren't designed with your bone density in mind. Many insurance plans, including Medicare, cover PT visits for this, so check your benefits before assuming it's out of pocket.
 
----
-
 ### Frequently Asked Questions
 
 #### Is walking safe with osteoporosis?
 
-Yes, walking is generally one of the safest and most recommended exercises for people with osteoporosis. It's weight-bearing, which provides mild mechanical loading that supports bone health, and the impact forces are low enough to be appropriate for most people even with significant bone density loss. Walking on uneven surfaces requires some caution if your balance is compromised.
+Yes. Walking is generally one of the safest and most recommended exercises for people with osteoporosis. It's weight-bearing, which provides mild mechanical loading that supports bone health, and the impact forces are low enough to be appropriate for most people even with significant bone density loss. Walking on uneven surfaces requires some caution if your balance is compromised.
 
 #### Can I still do yoga if I have osteoporosis?
 
@@ -100,7 +97,5 @@ Swimming is safe and great for cardiovascular health, muscle strength, and joint
 Not necessarily, but you absolutely need medical clearance and professional guidance before resuming. The acute phase after a fracture requires careful management, and the exercises you do during recovery look very different from a general maintenance program. A physical therapist working with your orthopedic or rheumatology team is the right person to help structure this. Don't try to self-manage a post-fracture exercise return based on online information alone, including this article.
 
 *Photo: [水 金](https://www.pexels.com/@531194097) via Pexels*
-
----
 
 *This article is for general informational purposes only and does not constitute medical or fitness advice. Consult your physician or a licensed physical therapist before starting a new exercise program, especially if you have existing health conditions.*

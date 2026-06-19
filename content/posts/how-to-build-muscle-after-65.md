@@ -25,18 +25,19 @@ author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
 
 ---
-
-You're at the gym, or maybe just standing in your living room with a pair of light dumbbells, and someone, a friend, an article, your own inner voice, has told you that building muscle after 65 is basically impossible. That your body is too far gone, that the best you can do is slow the decline. I've heard that from so many clients when they first walk through my door. And I'll be direct with you: it's wrong. Provably, scientifically wrong. What *is* true is that muscle building after 65 looks different, requires smarter strategy, and punishes the mistakes that younger people can get away with. Get those things right, and your body will respond in ways that genuinely surprise you.
+You're at the gym, or maybe just standing in your living room with a pair of light dumbbells, and someone's told you that building muscle after 65 is basically impossible. That your body is too far gone. I've heard that from so many clients when they first walk through my door. And I'll be direct: it's wrong. Provably, scientifically wrong. What *is* true is that muscle building after 65 looks different, requires smarter strategy, and punishes the mistakes that younger people can get away with. Get those things right, and your body will respond in ways that genuinely surprise you.
 
 ---
 
 ## Why Muscle Loss Happens, and Why It's Not a Sentence
 
-The process has a name: sarcopenia. It's the gradual loss of skeletal muscle mass and strength that accelerates after about age 50, and if you do nothing, you can lose somewhere between 1 and 3 percent of your muscle mass every year. Over a decade, that adds up fast. The functional consequences are real: less grip strength, slower walking pace, increased fall risk, harder time getting up from a chair. You feel it before you can measure it.
+The process has a name: sarcopenia. It's the gradual loss of skeletal muscle mass and strength that accelerates after about age 50, and if you do nothing, you can lose somewhere between 1 and 3 percent of your muscle mass every year. Over a decade, that adds up fast. Less grip strength. Slower walking pace. Increased fall risk. Harder time getting up from a chair. You feel it before you can measure it.
 
-But here's what most people don't realize. Sarcopenia is not simply "aging." It's a combination of aging *and* disuse, often compounded by inadequate protein intake and hormonal shifts. The disuse part is the piece you can do something about, starting this week. Research published in journals like *Medicine & Science in Sports & Exercise* has consistently shown that older adults, including people in their 70s, 80s, and even 90s, respond to resistance training with measurable increases in muscle size and strength. One often-cited study from the 1990s showed nursing home residents in their late 80s increasing leg strength by over 100 percent after ten weeks of progressive resistance training. That's not a minor tweak. That's transformation.
+But here's what most people don't realize: sarcopenia isn't simply "aging." It's aging *plus* disuse, often compounded by inadequate protein intake and hormonal shifts. The disuse part is the piece you can do something about, starting this week.
 
-The biology does make things harder. Testosterone and estrogen decline with age, and both hormones support muscle protein synthesis. Your anabolic sensitivity, meaning how efficiently your muscles respond to a training stimulus, decreases. Recovery takes longer. None of that cancels out progress. It just means your program needs to account for these realities rather than ignore them.
+Research in *Medicine & Science in Sports & Exercise* has consistently shown that older adults, including people in their 70s, 80s, and even 90s, respond to resistance training with measurable increases in muscle size and strength. One often-cited study from the 1990s showed nursing home residents in their late 80s increasing leg strength by over 100 percent after ten weeks of progressive resistance training. That's not a minor tweak. That's transformation.
+
+Yes, the biology makes things harder. Testosterone and estrogen decline with age, both supporting muscle protein synthesis. Your anabolic sensitivity, meaning how efficiently your muscles respond to training, decreases. Recovery takes longer. None of that cancels out progress. It just means your program needs to account for these realities.
 
 ---
 
@@ -44,7 +45,7 @@ The biology does make things harder. Testosterone and estrogen decline with age,
 
 Progressive overload is the principle that your muscles must be consistently challenged with increasing demands over time in order to grow. It's the engine behind every successful strength program ever written. For younger athletes, this usually means adding weight to the bar every week or two. For adults over 65, the principle is identical but the application needs more nuance.
 
-I've seen too many people over 65 make one of two opposite mistakes. The first is using weight so light that their muscles are never actually challenged. The second is jumping to heavy loads too quickly and getting hurt. Neither one gets you anywhere.
+I've seen too many people over 65 make one of two opposite mistakes. The first is using weight so light their muscles are never actually challenged. The second is jumping to heavy loads too quickly and getting hurt. Neither one gets you anywhere.
 
 A more appropriate approach for most beginners in this age group:
 
@@ -54,19 +55,19 @@ A more appropriate approach for most beginners in this age group:
 
 **Aim for 2 to 3 resistance training sessions per week.** Research supports this frequency as optimal for older adults. More than three sessions weekly doesn't produce proportionally better results and significantly increases injury risk at this stage.
 
-**Work in the 8 to 15 rep range for most exercises.** This range builds both strength and muscle size (hypertrophy) effectively, and it's safer on joints than the heavy, low-rep work powerlifters favor.
+**Work in the 8 to 15 rep range for most exercises.** This range builds both strength and muscle size effectively, and it's safer on joints than the heavy, low-rep work powerlifters favor.
 
 ---
 
 ## Protein: You're Probably Eating Enough for a Sedentary Person, Not a Training One
 
-This is where I've watched so many well-intentioned programs fall apart. People show up three times a week, work hard, and then wonder why they're not seeing results. Often the answer is protein.
+This is where I've watched so many well-intentioned programs fall apart. People show up three times a week, work hard, and wonder why they're not seeing results. Often the answer is protein.
 
-The standard recommendation for sedentary adults is 0.8 grams of protein per kilogram of body weight per day. For a 150-pound person, that's about 54 grams. Research increasingly suggests that older adults who are resistance training need closer to 1.2 to 1.6 grams per kilogram of body weight per day to maximize muscle protein synthesis. For that same 150-pound person, that's 82 to 109 grams daily. That's a meaningful difference.
+The standard recommendation for sedentary adults is 0.8 grams of protein per kilogram of body weight per day. For a 150-pound person, that's about 54 grams. Research increasingly suggests that older adults who are resistance training need closer to 1.2 to 1.6 grams per kilogram per day to maximize muscle protein synthesis. For that same 150-pound person, that's 82 to 109 grams daily. That's a meaningful difference.
 
-There's another wrinkle specific to older adults: a phenomenon called "anabolic resistance." Younger muscle tissue can kick off protein synthesis with a relatively small amino acid stimulus. Older muscle tissue often requires a larger dose per meal to get the same response. Practically, this means spreading protein across meals matters, and each meal should ideally contain at least 25 to 40 grams of high-quality protein rather than skimping at breakfast and lunch and front-loading at dinner.
+There's another wrinkle specific to older adults: anabolic resistance. Younger muscle tissue kicks off protein synthesis with a relatively small amino acid stimulus. Older muscle tissue often requires a larger dose per meal to get the same response. Practically, this means spreading protein across meals matters, and each meal should ideally contain at least 25 to 40 grams of high-quality protein rather than skimping at breakfast and lunch and front-loading at dinner.
 
-High-quality protein sources to prioritize: eggs, Greek yogurt, cottage cheese, chicken, fish, lean beef, and for those who prefer plant-based options, soy protein, tempeh, and lentils combined with other plant proteins to ensure you're getting complete amino acid profiles.
+High-quality protein sources to prioritize: eggs, Greek yogurt, cottage cheese, chicken, fish, lean beef, and for plant-based eaters, soy protein, tempeh, and lentils combined with other plant proteins to ensure complete amino acid profiles.
 
 One honest note: if you have kidney disease or other conditions that affect protein metabolism, talk to your doctor before dramatically increasing protein intake. This is one of the genuine areas where individual health context matters enormously.
 
@@ -86,23 +87,23 @@ Not all exercises are created equal for adults over 65. The most valuable moveme
 | Farmers carry | Full body, grip | Carrying groceries, bags |
 | Single-leg stance work | Calves, glutes, stabilizers | Fall prevention |
 
-Balance and stability work deserves its own mention because I don't want it buried. Falls are the leading cause of injury-related death in adults over 65 in the United States. Single-leg standing exercises, step-ups, and movements that challenge your center of gravity directly address the underlying neuromuscular deficits that lead to falls. This isn't a separate program. Weave it into your resistance training, and you address two critical needs at once.
+Balance and stability work deserves its own mention. Falls are the leading cause of injury-related death in adults over 65 in the United States. Single-leg standing exercises, step-ups, and movements that challenge your center of gravity directly address the neuromuscular deficits that lead to falls. This isn't a separate program. Weave it into your resistance training, and you address two critical needs at once.
 
 ---
 
 ## Recovery: The Part Nobody Talks About Enough
 
-When you're 25, you can train hard Monday, feel sore Tuesday, and train hard again Thursday with no real consequences. At 65 and beyond, the recovery window expands. Your muscles aren't just slower to repair; your nervous system takes longer to recover from intense effort as well. Training through insufficient recovery doesn't build more muscle. It breaks you down.
+When you're 25, you can train hard Monday, feel sore Tuesday, and train hard again Thursday with no real consequences. At 65 and beyond, the recovery window expands significantly. Your muscles take longer to repair. Your nervous system takes longer to recover from intense effort. Training through insufficient recovery doesn't build more muscle. It breaks you down.
 
 Practical recovery guidelines for this population:
 
 Allow 48 to 72 hours between resistance training sessions for the same muscle groups. A Monday-Wednesday-Friday or Tuesday-Thursday-Saturday schedule works well for most people.
 
-Sleep is not optional. Growth hormone, which plays a significant role in muscle repair, is secreted primarily during deep sleep. Seven to nine hours of quality sleep per night isn't a luxury. It's part of your training program.
+Sleep isn't optional. Growth hormone, which plays a significant role in muscle repair, is secreted primarily during deep sleep. Seven to nine hours of quality sleep per night isn't a luxury. It's part of your training program.
 
 Manage soreness intelligently. Some delayed onset muscle soreness (DOMS) after a new exercise or increased intensity is normal and expected. Sharp pain during exercise, joint pain, or soreness that doesn't meaningfully resolve within 72 hours are signals to back off and, if persistent, consult a physical therapist or physician.
 
-Light movement on rest days, what's sometimes called "active recovery," actually helps. A 20-minute walk increases blood flow to muscles and supports the repair process better than complete inactivity.
+Light movement on rest days, sometimes called active recovery, actually helps. A 20-minute walk increases blood flow to muscles and supports the repair process better than complete inactivity.
 
 ---
 
@@ -124,10 +125,7 @@ Compare your current performance to week one. Most people notice real improvemen
 
 ---
 
-
----
-
-Your body at 65, 70, or 75 is not the body it was at 35. But it is a body that still responds to the right inputs, still builds new muscle tissue, still gets stronger. I've watched clients in their late 60s go from struggling with a flight of stairs to hiking trails they'd written off entirely. The biology supports it. The research supports it. What it takes is a program built on sound principles, enough protein, honest recovery, and the patience to let the process work. That's genuinely within reach for most people. Start there.
+Your body at 65, 70, or 75 isn't the body it was at 35. But it's still a body that responds to the right inputs, still builds new muscle tissue, still gets stronger. I've watched clients in their late 60s go from struggling with a flight of stairs to hiking trails they'd written off entirely. The biology supports it. The research supports it. What it takes is a program built on sound principles, enough protein, honest recovery, and the patience to let the process work. That's genuinely within reach for most people.
 
 ---
 

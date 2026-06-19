@@ -25,18 +25,15 @@ author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
 
 ---
-
-Most seniors are taking calcium wrong. Not the wrong supplement necessarily, but the wrong dose at the wrong time in the wrong form, often without the one nutrient that determines whether any of it actually works. After years of watching clients dutifully swallow their calcium carbonate every morning with coffee and then wonder why their DEXA scans kept getting worse, I want to give you the real picture.
-
-Let's start with what actually matters.
+Most seniors are taking calcium wrong. Not the wrong supplement necessarily, but the wrong dose at the wrong time in the wrong form, often without the one nutrient that determines whether any of it actually works. I've watched clients dutifully swallow their calcium carbonate every morning with coffee and then wonder why their DEXA scans kept getting worse. Here's what actually happens.
 
 ## Why These Two Nutrients Are Inseparable
 
 Calcium doesn't absorb well without vitamin D. That's the whole relationship in one sentence. You can get 1,200 mg of calcium daily and still end up deficient in bone density if your vitamin D levels are chronically low, because vitamin D is what tells your intestines to actually absorb the calcium you're eating and supplementing.
 
-The kidneys also convert vitamin D into its active form (calcitriol), and that conversion slows with age. A 70-year-old's skin produces roughly 75% less vitamin D from sun exposure than a 20-year-old's. So even seniors who spend time outdoors can be running low. A 2011 study published in *Nutrition Research* found that over 41% of American adults were vitamin D deficient, with older adults disproportionately represented. More recent surveys haven't changed that picture much.
+Your kidneys convert vitamin D into its active form (calcitriol), and that conversion slows with age. A 70-year-old's skin produces roughly 75% less vitamin D from sun exposure than a 20-year-old's. So even seniors who spend time outdoors can be running low. A 2011 study published in *Nutrition Research* found that over 41% of American adults were vitamin D deficient, with older adults disproportionately represented. More recent surveys haven't changed that picture much.
 
-Bone loss is the obvious concern, but it's not the only one. Low vitamin D is associated with increased fall risk, muscle weakness, and slower recovery from illness. Calcium and muscle function are also linked: calcium ions trigger muscle contractions, which is why severe deficiency can cause cramping and, in extreme cases, cardiac arrhythmia. These aren't scare tactics. They're reasons to take this seriously without waiting for a fracture to motivate you.
+Bone loss is the obvious concern, but it's not the only one. Low vitamin D is associated with increased fall risk, muscle weakness, and slower recovery from illness. Calcium and muscle function are linked: calcium ions trigger muscle contractions, which is why severe deficiency can cause cramping and, in extreme cases, cardiac arrhythmia. These aren't scare tactics. They're reasons to take this seriously without waiting for a fracture to motivate you.
 
 ## How Much Do You Actually Need?
 
@@ -50,7 +47,7 @@ One number people forget: about 30% of calcium absorption from food happens pass
 
 ## Food First, Supplement Second
 
-A cup of plain low-fat yogurt has around 415 mg of calcium. An ounce of parmesan has roughly 330 mg. Three ounces of canned sardines with bones delivers about 325 mg. Fortified orange juice, firm tofu made with calcium sulfate, cooked kale, almonds: calcium is available in a real variety of foods, not just dairy.
+A cup of plain low-fat yogurt has around 415 mg of calcium. An ounce of parmesan has roughly 330 mg. Three ounces of canned sardines with bones delivers about 325 mg. Fortified orange juice, firm tofu made with calcium sulfate, cooked kale, almonds: calcium is available in real variety, not just dairy.
 
 Calculate your approximate daily intake from food before deciding how much to supplement. Most people getting a varied diet are already hitting 500-700 mg through food. That means you might only need 500-600 mg from supplements, not 1,200 mg, since supplements are filling the gap not replacing the whole intake.
 
@@ -66,7 +63,7 @@ Calcium carbonate (Caltrate, Tums, many generics) is cheaper and contains more e
 
 Calcium citrate (Citracal is the main brand) absorbs without requiring as much stomach acid, which means you can take it with or without food, and it's a better choice for anyone on acid-reducing medication. It's also gentler on digestion and less likely to cause constipation, which calcium carbonate reliably does for some people. The downside is that pills are larger and the elemental calcium content per pill is lower, so you may need to take more of them.
 
-My honest take: if you're over 60 and have any GI sensitivities or take acid-reducing medication, calcium citrate is worth the small extra cost. If your digestion is fine and you remember to take it with meals, carbonate works. Don't let anyone sell you an elaborate "superior" form without explaining why it's better for your specific situation.
+If you're over 60 and have any GI sensitivities or take acid-reducing medication, calcium citrate is worth the small extra cost. If your digestion is fine and you remember to take it with meals, carbonate works. Don't let anyone sell you an elaborate "superior" form without explaining why it's better for your specific situation.
 
 For vitamin D, D3 (cholecalciferol) raises blood levels more effectively than D2 (ergocalciferol) and is what your skin makes naturally. Choose D3. Most supplements now use it, but worth checking labels. A soft gel with a small amount of oil absorbs better than a dry tablet, since vitamin D is fat-soluble.
 
@@ -86,12 +83,7 @@ A few warning signs worth knowing. If you're taking supplemental calcium and dev
 
 If your vitamin D dose is above 2,000 IU daily, it's worth getting your 25(OH)D level checked every 6-12 months. Levels above 100 ng/mL are generally considered potentially problematic, though toxicity symptoms (nausea, weakness, confusion, elevated calcium in blood) rarely appear below 150 ng/mL. Still, monitoring costs nothing and gives you data.
 
-Magnesium deserves a mention here. It's a cofactor for vitamin D metabolism, and some research suggests that people who are low in magnesium don't respond as well to vitamin D supplementation. Many older adults run on the low side. The dietary sources for magnesium include dark leafy greens, legumes, nuts and seeds. If you're supplementing multiple micronutrients, a conversation with your doctor or a registered dietitian about the full picture is worth scheduling.
-
----
-
-
----
+Magnesium deserves a mention here. It's a cofactor for vitamin D metabolism, and some research suggests that people who are low in magnesium don't respond as well to vitamin D supplementation. Many older adults run on the low side. Dark leafy greens, legumes, nuts and seeds all contain magnesium. If you're supplementing multiple micronutrients, a conversation with your doctor or a registered dietitian about the full picture is worth scheduling.
 
 Get the blood test. Know your numbers. Adjust from there. That's a more reliable foundation than any amount of general advice, including this.
 
@@ -103,12 +95,9 @@ Get the blood test. Know your numbers. Adjust from there. That's a more reliable
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-
