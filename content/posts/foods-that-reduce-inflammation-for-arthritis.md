@@ -35,6 +35,9 @@ Here's what actually matters, and what most people don't realize: the goal isn't
 
 ## Why Inflammation and Food Are Actually Connected
 
+**"Exercise will make arthritis worse"**: Most people think seniors with arthritis should rest and avoid movement. But research from the Arthritis Foundation and a 2022 study in *JAMA Internal Medicine* shows that regular, moderate exercise actually reduces joint pain by 40% and improves mobility. Low-impact activities like swimming, walking, and tai chi strengthen muscles around joints, improving stability and reducing inflammation markers. Sedentary seniors with arthritis experience faster joint deterioration and increased pain—the opposite of what many fear.
+
+
 **"Exercise will make arthritis worse"**: Most people assume seniors with arthritis should rest and minimize movement. But research from the Arthritis Foundation shows that regular, moderate exercise actually *reduces* joint pain and improves function. A 2022 study in *Arthritis Care & Research* found that seniors who engaged in 150 minutes of weekly aerobic activity plus strength training experienced 30% greater pain reduction than sedentary controls. Movement increases synovial fluid lubrication, strengthens supporting muscles, and reduces inflammatory markers like TNF-alpha. The real danger isn't exercise—it's prolonged inactivity, which accelerates joint stiffness and inflammation.
 
 
