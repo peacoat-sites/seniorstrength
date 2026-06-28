@@ -44,6 +44,9 @@ So let's get into what actually works.
 
 ## Why "Low Impact" Isn't Just a Buzzword
 
+**"Seniors with bad knees should just rest and avoid exercise"**: Most people think joint pain is a signal to stop moving entirely. But research from the American College of Rheumatology shows that *appropriate* exercise actually reduces knee pain by up to 30% and slows cartilage degeneration. A 2023 study in *JAMA* found that seniors who performed low-impact strength training 2-3x weekly had better mobility and less pain than those who remained sedentary. The real risk? Inactivity itself—which leads to muscle atrophy, weight gain, and accelerated joint deterioration. The paradox: moving *less* makes knees worse, not better.
+
+
 When a doctor or trainer says "low impact," they mean exercises where at least one foot stays on the ground at all times, or where your body weight is partially supported by water, a machine, or a surface. The point is to reduce the compressive and shear forces moving through the knee joint during activity.
 
 For context: walking on flat ground puts roughly 1.5 times your body weight through each knee with every step. Running multiplies that to 3 to 4 times. Squatting deeply can push 7 to 8 times your body weight through the joint. For a healthy knee, those forces are manageable. For a knee with thinning cartilage, bone-on-bone contact, or post-surgical hardware, they can be a serious problem.
