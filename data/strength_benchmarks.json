@@ -1,0 +1,92 @@
+{
+  "benchmarks": {
+    "women_20s": {
+      "squat": 0.75,
+      "bench": 0.4,
+      "deadlift": 1.0,
+      "overhead": 0.3
+    },
+    "women_30s": {
+      "squat": 0.7,
+      "bench": 0.38,
+      "deadlift": 0.95,
+      "overhead": 0.28
+    },
+    "women_40s": {
+      "squat": 0.6,
+      "bench": 0.33,
+      "deadlift": 0.8,
+      "overhead": 0.23
+    },
+    "women_50s": {
+      "squat": 0.45,
+      "bench": 0.25,
+      "deadlift": 0.6,
+      "overhead": 0.18
+    },
+    "women_60s": {
+      "squat": 0.35,
+      "bench": 0.2,
+      "deadlift": 0.45,
+      "overhead": 0.14
+    },
+    "women_70s": {
+      "squat": 0.25,
+      "bench": 0.15,
+      "deadlift": 0.3,
+      "overhead": 0.1
+    },
+    "men_20s": {
+      "squat": 1.25,
+      "bench": 0.85,
+      "deadlift": 1.75,
+      "overhead": 0.65
+    },
+    "men_30s": {
+      "squat": 1.2,
+      "bench": 0.8,
+      "deadlift": 1.65,
+      "overhead": 0.6
+    },
+    "men_40s": {
+      "squat": 1.0,
+      "bench": 0.7,
+      "deadlift": 1.4,
+      "overhead": 0.5
+    },
+    "men_50s": {
+      "squat": 0.8,
+      "bench": 0.55,
+      "deadlift": 1.1,
+      "overhead": 0.4
+    },
+    "men_60s": {
+      "squat": 0.6,
+      "bench": 0.4,
+      "deadlift": 0.8,
+      "overhead": 0.28
+    },
+    "men_70s": {
+      "squat": 0.4,
+      "bench": 0.25,
+      "deadlift": 0.5,
+      "overhead": 0.18
+    }
+  },
+  "cardio_vo2": {
+    "20s": 45,
+    "30s": 43,
+    "40s": 40,
+    "50s": 35,
+    "60s": 28,
+    "70s": 20
+  },
+  "flexibility": {
+    "20s": 95,
+    "30s": 90,
+    "40s": 80,
+    "50s": 70,
+    "60s": 60,
+    "70s": 50
+  }
+}

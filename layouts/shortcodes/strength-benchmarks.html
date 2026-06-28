@@ -1,0 +1,18 @@
+<div class="strength-benchmarks">
+{{- $data := site.Data.strength_benchmarks -}}
+<h3>Strength Standards (% Body Weight)</h3>
+<table class="benchmark-table" style="width:100%; border-collapse:collapse; font-size:0.9em;">
+<thead><tr style="background:#f5f5f5;"><th style="padding:8px; border:1px solid #ddd;">Age/Gender</th><th style="padding:8px; border:1px solid #ddd;">Squat</th><th style="padding:8px; border:1px solid #ddd;">Bench</th><th style="padding:8px; border:1px solid #ddd;">Deadlift</th><th style="padding:8px; border:1px solid #ddd;">Overhead</th></tr></thead>
+<tbody>
+{{- range $key, $val := $data.benchmarks }}
+<tr><td style="padding:8px; border:1px solid #ddd;"><strong>{{ $key }}</strong></td><td style="padding:8px; border:1px solid #ddd; text-align:center;">{{ $val.squat }}×</td><td style="padding:8px; border:1px solid #ddd; text-align:center;">{{ $val.bench }}×</td><td style="padding:8px; border:1px solid #ddd; text-align:center;">{{ $val.deadlift }}×</td><td style="padding:8px; border:1px solid #ddd; text-align:center;">{{ $val.overhead }}×</td></tr>
+{{- end }}
+</tbody>
+</table>
+<h3 style="margin-top:24px;">VO2 Max by Age (mL/kg/min, untrained)</h3>
+<div style="display:grid; grid-template-columns:repeat(3,1fr); gap:12px; margin-top:12px;">
+{{- range $age, $vo2 := $data.cardio_vo2 }}
+<div style="background:#f9f9f9; padding:12px; border-radius:4px;"><strong>{{ $age }}s:</strong> {{ $vo2 }}</div>
+{{- end }}
+</div>
+</div>
