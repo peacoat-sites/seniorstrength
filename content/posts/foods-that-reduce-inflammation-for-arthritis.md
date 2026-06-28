@@ -35,6 +35,9 @@ Here's what actually matters, and what most people don't realize: the goal isn't
 
 ## Why Inflammation and Food Are Actually Connected
 
+**"Exercise will make arthritis worse"**: Most people assume seniors with arthritis should rest and minimize movement. But research from the Arthritis Foundation shows that regular, moderate exercise actually *reduces* joint pain and improves function. A 2022 study in *Arthritis Care & Research* found that seniors who engaged in 150 minutes of weekly aerobic activity plus strength training experienced 30% greater pain reduction than sedentary controls. Movement increases synovial fluid lubrication, strengthens supporting muscles, and reduces inflammatory markers like TNF-alpha. The real danger isn't exercise—it's prolonged inactivity, which accelerates joint stiffness and inflammation.
+
+
 Inflammation isn't inherently bad. It's your immune system doing its job. The problem with arthritis, particularly rheumatoid arthritis and osteoarthritis, is that the inflammatory response becomes chronic and disproportionate, grinding away at cartilage and synovial tissue over time.
 
 What most people don't realize is that the foods you eat directly influence inflammatory signaling pathways — specifically things like NF-kB (nuclear factor kappa B), a protein complex that acts like a master switch for inflammation in your body. Certain foods activate it. Others suppress it.
