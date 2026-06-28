@@ -10,13 +10,13 @@ faqs:
   - question: "Am I strong for my age?"
     answer: "Use the table below. If you can lift 1.0x bodyweight squat, you're at average for your age/gender. Above 1.25x = above average. Below 0.75x = below average. Genetics + training both matter."
   - question: "Why do women's benchmarks differ from men's?"
-    answer: "Biological differences in muscle mass distribution and hormones. Women average 40-50% less upper body muscle. But relative strength (as % bodyweight) is closer—women often excel in proportion to their frame."
+    answer: "Biological differences in muscle mass distribution and hormones. Women average 40-50% less upper body muscle. But relative strength (as % bodyweight) is closer. Women often excel in proportion to their frame."
   - question: "Should I use these as training goals?"
     answer: "Yes, but context matters. These are population averages. Your actual potential depends on years training, genetics, and injury history. Use benchmarks to track *you*, not compare to random people."
   - question: "What if I'm way below average?"
     answer: "Normal. Most people don't train. If you're training consistently (3+ months) and still below average, focus on form and progressive overload—strength gains take 6-12 weeks to show."
   - question: "Do these benchmarks change with age?"
-    answer: "Yes. Peak strength is late 20s-early 30s. After 40, decline is ~1-2% per year if untrained. But trained 70-year-olds often outlift untrained 40-year-olds."
+    answer: "Yes. Peak strength is late 20s to early 30s. After 40, decline is ~1-2% per year if untrained. But trained 70-year-olds often outlift untrained 40-year-olds."
 categories: ["Fitness", "Strength Training", "Health Data"]
 keywords: ["strength benchmarks by age", "how much should I be able to lift", "squat deadlift bench press standards"]
 ---
