@@ -118,6 +118,13 @@ Spend 10 minutes daily. Morning works well, after a warm shower when tissues are
 
 ## A Word About Protein (Because the Routine Won't Work Without It)
 
+## Sources
+
+- [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov)
+- in the *British Journal of Sports Medicine* looked at resistance training in adu
+- suggests the RDA of 0
+
+
 The training is the stimulus. Protein is the raw material. Most men over 70 aren't eating nearly enough protein to support muscle synthesis, and current research suggests the RDA of 0.8 grams per kilogram of body weight is too low for older adults doing resistance training.
 
 A reasonable target: closer to 1.2 to 1.6 grams per kilogram of body weight per day. For a 175-pound man, that's roughly 95 to 125 grams of protein daily. If you're not tracking, you're probably getting around 60 to 70 grams on a good day.

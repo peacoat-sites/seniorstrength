@@ -91,6 +91,13 @@ If you've never done formal strength training and don't know where to start, a t
 
 ## What to Watch For (And When to Call Someone)
 
+## Sources
+
+- [Mathias Reding](https://www.pexels.com/@matreding)
+- is less definitive: pickleball (this is the hot-button question I get constantly
+- in the Journal of Arthroplasty following patients for two years post-surgery fou
+
+
 A certain amount of achiness after exercise is normal, especially in the early months. The benchmark I give patients: if discomfort during activity is above a 3 out of 10, scale back. If you're sore the next morning but it resolves within a few hours, that's typically fine. If soreness persists beyond 24 hours, you did too much.
 
 Red flags that warrant a call to your surgeon, not a wait-and-see approach: sudden increase in pain at the hip joint itself (not muscle soreness, but deep joint pain), clicking or clunking that wasn't there before, any sensation that the joint feels unstable or like it might give way, swelling or heat around the incision site, or any pop followed by increased pain. Dislocation after hip replacement is relatively rare but does happen, and it requires immediate medical attention. Don't convince yourself it's nothing if something feels genuinely wrong in the joint.

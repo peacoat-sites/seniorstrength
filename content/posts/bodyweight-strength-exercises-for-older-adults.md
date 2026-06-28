@@ -103,6 +103,12 @@ Revisit your routine every three to four weeks and introduce at least one of the
 
 ## The Role of Consistency and Rest (Both Matter More Than You Think)
 
+## Sources
+
+- [Maksim Goncharenok](https://www.pexels.com/@maksgelatin)
+- consistently shows that strength training can reverse meaningful amounts of that
+
+
 Strength is built during recovery, not during exercise. This is true at every age, but it becomes more significant after 60 because recovery processes slow down. Muscles need adequate protein to rebuild. The American College of Sports Medicine recommends that older adults aim for 1.0 to 1.2 grams of protein per kilogram of body weight daily, and spreading protein intake across meals rather than concentrating it at dinner produces better muscle synthesis.
 
 Sleep isn't a luxury for someone doing strength training. Growth hormone, which plays a central role in muscle repair, is released primarily during deep sleep. Seven to nine hours a night isn't just general health advice; for someone working on rebuilding strength, it's part of the program.

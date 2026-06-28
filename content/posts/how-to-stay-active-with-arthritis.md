@@ -71,6 +71,13 @@ The surface you exercise on matters too. Grass or a rubberized track beats concr
 
 ## Working With Your Healthcare Team, Without Getting Lost in It
 
+## Sources
+
+- [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov)
+- here is settled: appropriate movement reduces arthritis pain over time
+- in *Arthritis Care and Research* found that progressive resistance training sign
+
+
 I've watched people spend six months on waiting lists for a rheumatologist while their conditioning gets worse. That's frustrating, and the system's limits are real.
 
 If you're managing arthritis with a primary care physician, ask specifically for a physical therapy referral before you start any new exercise program. A good PT will assess your specific joint involvement, watch you move, and give you a baseline program tailored to what's actually compromised. That's worth infinitely more than a generic YouTube routine, even a good one.

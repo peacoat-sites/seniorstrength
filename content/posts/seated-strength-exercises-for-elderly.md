@@ -101,6 +101,15 @@ One thing I feel strongly about, and I know some people push back on this: don't
 
 ## The One Thing Most Senior Fitness Content Gets Wrong
 
+## Sources
+
+- [Yan Krukau](https://www.pexels.com/@yankrukov)
+- is clear on this
+- published in the *British Journal of Sports Medicine*
+- from over 30
+- used progressive overload: meaning the participants got harder challenges over t
+
+
 Here's my contrarian take, and I stand by it: most seated exercise content for seniors is too easy, not because it starts too hard, but because it never progresses. Dozens of videos and articles show the same light range-of-motion movements forever, as if older adults can't or shouldn't get stronger over time.
 
 That is wrong. And it's a little bit condescending.

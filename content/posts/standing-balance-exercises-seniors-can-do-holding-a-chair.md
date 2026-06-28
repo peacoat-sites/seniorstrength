@@ -133,6 +133,15 @@ Start where you are. Go at your own pace. Trust the process. The steadiness and 
 
 ## Recommended Resources
 
+## Sources
+
+- [Mobio Marketing](https://unsplash.com/@mobio_be?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Emre](https://unsplash.com/@reo?utm_source=seniorstrength&utm_medium=referral)
+- [Ahmet Kurt](https://unsplash.com/@ahmetkurt?utm_source=seniorstrength&utm_medium=referral)
+- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.

@@ -96,6 +96,15 @@ Starting is the hard part. Not physically. Mentally. Because when your legs feel
 
 ## Recommended Resources
 
+## Sources
+
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
+- [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
+- published in the Journal of Gerontology puts the number at roughly 1-2% of muscl
+- behind balance training in older adults is some of the most consistent in the fi
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.

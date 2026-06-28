@@ -66,6 +66,14 @@ Sustained improvement, the kind that actually changes your fall risk long-term, 
 
 ### FAQ
 
+## Sources
+
+- [Kampus Production](https://www.pexels.com/@kampus)
+- in the journal *Age and Ageing* found that older adults have significantly slowe
+- isn't mixed on this
+- base for Tai Chi in fall prevention is significantly stronger and more specific
+
+
 #### How do I know if my balance is bad enough to see a doctor before starting exercises?
 
 If you've had two or more falls in the past year, feel unsteady on a regular basis, or experience dizziness when standing up, see your doctor first. Your primary care physician can refer you to a physical therapist for a formal balance assessment and rule out any medical causes. Starting an exercise program isn't risky for most people, but a PT evaluation gives you a much clearer baseline and a safer starting point.

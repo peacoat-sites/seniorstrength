@@ -76,6 +76,12 @@ Which brings me to the most important recommendation I can make: get a physical 
 
 ### Frequently Asked Questions
 
+## Sources
+
+- [水 金](https://www.pexels.com/@531194097)
+- on impact thresholds is still developing
+
+
 #### Is walking safe with osteoporosis?
 
 Yes. Walking is generally one of the safest and most recommended exercises for people with osteoporosis. It's weight-bearing, which provides mild mechanical loading that supports bone health, and the impact forces are low enough to be appropriate for most people even with significant bone density loss. Walking on uneven surfaces requires some caution if your balance is compromised.

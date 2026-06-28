@@ -119,6 +119,15 @@ You've already started by reading this. Talk to your doctor. Get blood work done
 
 ## Recommended Resources
 
+## Sources
+
+- [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
+- [Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)
+- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
+- [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
+- shows **up to 20% of adults over 60** run low or borderline on B12
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.

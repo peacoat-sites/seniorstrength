@@ -82,6 +82,12 @@ Good shoes have arch support, a low and wide heel, a thin and firm sole, and a s
 
 ## Vision Checks and One Other Thing People Overlook
 
+## Sources
+
+- [Jsme  MILA](https://www.pexels.com/@jsme-mila-523821574)
+- on this is pretty clear
+
+
 You might be wondering what an eye exam has to do with falling. More than most people expect.
 
 Uncorrected vision changes affect depth perception and the ability to detect changes in floor surface and lighting. An annual eye exam is part of fall prevention, full stop. If someone's been wearing the same prescription glasses for three or four years, that's a place to start.

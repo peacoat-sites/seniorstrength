@@ -95,6 +95,12 @@ A heart rate monitor helps enormously with this. Even a basic one. The Apple Wat
 
 ## What to Watch Out For
 
+## Sources
+
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+- supports this
+
+
 Stop immediately and rest if you feel chest pain, unusual shortness of breath, dizziness, or heart palpitations. That's not being overly cautious. That's basic safety that applies to every form of exercise.
 
 A few things specific to seated work: watch your posture. Slumping into a rounded back shifts load onto your lumbar spine in ways that become uncomfortable fast. Sit toward the front half of your chair, feet flat on the floor, and keep your chest lifted. Second, don't grip the chair seat with your hands during the workout. It seems like a stability strategy, but it actually limits your range of motion and keeps your upper body from contributing to the cardiovascular work.

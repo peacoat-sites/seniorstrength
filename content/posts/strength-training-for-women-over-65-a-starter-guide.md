@@ -101,6 +101,12 @@ Progress in strength training is rarely dramatic week to week. Over months, the 
 
 ## Your Stronger Chapter Starts Now
 
+## Sources
+
+- consistently shows women in their 60s
+- the American College of Sports Medicine
+
+
 Starting something new at any stage of life takes courage, and choosing to invest in your strength and health is one of the most empowering decisions you can make. Strength training for women over 65 isn't just about exercise. It's about reclaiming your energy, your independence, and your confidence.
 
 You don't have to do everything perfectly from day one. You simply have to begin. Start with two days a week, a handful of simple exercises, and a commitment to showing up for yourself. Your future self will be incredibly grateful that you did.

@@ -83,6 +83,15 @@ The goal is always to make the bed a stepping stone, not a destination.
 
 ## A Real Conversation About Pain
 
+## Sources
+
+- [SHVETS production](https://www.pexels.com/@shvets-production)
+- let me finish this set. There
+- published in JAMA Internal Medicine tracked more than 1
+- consistently shows that older adults can lose 1 to 2 percent of lower-limb muscl
+- on exercise progression for this population is genuinely mixed
+
+
 I hear two opposite extremes from older adults with limited mobility. Either "I don't want to do anything because I might hurt myself," or "I push through all the pain because that's what you're supposed to do." Both are problematic.
 
 The distinction that matters is between discomfort and pain. Mild muscular fatigue or the burn of effort is normal and appropriate. Sharp pain, joint pain, chest pain, or dizziness are stop-immediately signals. And I mean immediately, not "let me finish this set."

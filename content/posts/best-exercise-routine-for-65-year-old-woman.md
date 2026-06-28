@@ -112,6 +112,14 @@ The point is: consult your doctor or a physical therapist if you have a specific
 
 ## Getting Started Without Burning Out
 
+## Sources
+
+- [Yan Krukau](https://www.pexels.com/@yankrukov)
+- is pretty clear on this: progressive resistance training is the most effective w
+- in *JAMA Internal Medicine* found that tai chi reduced fall rates by 21% in olde
+- in the *British Journal of Sports Medicine* found that 150 minutes of moderate a
+
+
 The most common pattern I see: a 65-year-old woman decides to get serious, does five days of intense exercise in week one, is exhausted and sore by day six, and quietly stops. This isn't a willpower problem. It's a planning problem.
 
 Start with two days of strength work for the first three weeks. That's it. Add the balance day in week four. Add the longer cardio session in week six or seven. This is slower than it sounds but dramatically more sustainable.

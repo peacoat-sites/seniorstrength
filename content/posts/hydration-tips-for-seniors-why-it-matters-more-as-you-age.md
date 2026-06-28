@@ -111,6 +111,15 @@ Photo by [Alex Ugolkov](https://unsplash.com/@asysin?utm_source=seniorstrength&u
 
 ## Recommended Resources
 
+## Sources
+
+- [Supattra Khorasri](https://unsplash.com/@sup4114kho?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Luisa Brimble](https://unsplash.com/@luisabrimble?utm_source=seniorstrength&utm_medium=referral)
+- [Alex Ugolkov](https://unsplash.com/@asysin?utm_source=seniorstrength&utm_medium=referral)
+- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.

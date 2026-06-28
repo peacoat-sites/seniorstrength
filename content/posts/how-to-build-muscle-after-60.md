@@ -79,6 +79,15 @@ Balance is a separate quality from strength but they're related. Unilateral exer
 
 ## The Stuff That Gets in the Way
 
+## Sources
+
+- [Anna Shvets](https://www.pexels.com/@shvetsa)
+- on older adults who actually train consistently is striking
+- published in the Journal of Strength and Conditioning Research found that adults
+- here is actually reassuring
+- in the British Journal of Sports Medicine looked at resistance training's effect
+
+
 Medications matter here and I don't see this discussed enough in fitness circles. Several common medications can affect training outcomes in older adults. Statins (cholesterol-lowering drugs like atorvastatin or simvastatin) are associated with muscle pain and weakness in some people, and if you're experiencing unusual soreness or fatigue during training, it's worth raising with your doctor. Beta-blockers will limit your maximum heart rate, which affects how you gauge cardiovascular effort. Corticosteroids affect muscle protein metabolism. None of this means you can't train. It means you should know about it.
 
 Sleep is another overlooked factor. Growth hormone release, which plays a role in muscle repair and synthesis, happens predominantly during deep sleep. Older adults often sleep less deeply and for fewer hours. Chronic sleep deprivation measurably impairs muscle protein synthesis. There's no supplement that fixes this.

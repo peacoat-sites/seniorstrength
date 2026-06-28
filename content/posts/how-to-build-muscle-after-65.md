@@ -109,6 +109,15 @@ Light movement on rest days, sometimes called active recovery, actually helps. A
 
 ## Practical Step-by-Step: Your First 8 Weeks
 
+## Sources
+
+- in *Medicine & Science in Sports & Exercise* has consistently shown that older a
+- from the 1990s showed nursing home residents in their late 80s increasing leg st
+- supports this frequency as optimal for older adults
+- increasingly suggests that older adults who are resistance training need closer
+- supports it
+
+
 Here's a straightforward starting framework. Before beginning any new exercise program, please get clearance from your physician, especially if you have cardiovascular conditions, osteoporosis, or recent joint replacements.
 
 **Weeks 1 to 2: Movement Foundations**

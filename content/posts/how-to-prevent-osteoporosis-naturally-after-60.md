@@ -115,6 +115,15 @@ Beyond calcium and Vitamin D, a few other supplements have solid research suppor
 
 ## You Have More Power Than You Think
 
+## Sources
+
+- [Becky Geist](https://unsplash.com/@proaudiovoices?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Centre for Ageing Better](https://unsplash.com/@ageing_better?utm_source=seniorstrength&utm_medium=referral)
+- [Pauline Loroy](https://unsplash.com/@paulinel?utm_source=seniorstrength&utm_medium=referral)
+- consistently shows that smokers have lower bone density and higher fracture risk
+
+
 Taking steps to prevent osteoporosis naturally after 60 might feel overwhelming at first. But remember: every positive change you make today is an investment in your future mobility and independence. You don't need to overhaul your life overnight.
 
 Start with one thing. A daily walk. An extra serving of calcium-rich food. That bone density scan you've been putting off. Small, consistent actions compound into remarkable results over months and years.

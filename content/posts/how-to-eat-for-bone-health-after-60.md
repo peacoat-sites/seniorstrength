@@ -123,6 +123,15 @@ These aren't complicated recipes. They're just smart, bone-friendly combinations
 
 ## Should You Take Supplements?
 
+## Sources
+
+- [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [CDC](https://unsplash.com/@cdc?utm_source=seniorstrength&utm_medium=referral)
+- [Centre for Ageing Better](https://unsplash.com/@ageing_better?utm_source=seniorstrength&utm_medium=referral)
+- suggests that high-dose calcium supplements (particularly calcium carbonate take
+
+
 Whole foods should always come first. The nutrients in food are better absorbed and come packaged with hundreds of other compounds that support overall health.
 
 That said, supplements can be appropriate when dietary intake falls short. Many adults over 60 struggle to get adequate vitamin D from food and limited sun exposure, so a supplement of 800–1,000 IU of vitamin D3 daily is widely recommended by physicians for this age group.

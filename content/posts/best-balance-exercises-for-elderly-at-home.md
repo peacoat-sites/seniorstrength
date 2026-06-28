@@ -126,6 +126,15 @@ It feels awkward and slightly ridiculous, and it will feel harder than the exerc
 
 ## A Note on When to Get Professional Eyes On This
 
+## Sources
+
+- [SHVETS production](https://www.pexels.com/@shvets-production)
+- in *Gait & Posture*
+- published in *Age and Ageing* found that gait-based training consistently outper
+- from the University of Sydney found that dual-task balance training reduced fall
+- in this area is still growing
+
+
 If you've already had a fall, if you have a diagnosed vestibular disorder like BPPV or Meniere's disease, if you have peripheral neuropathy, or if your balance got noticeably worse in a short period, these exercises are still likely helpful. But working with a physical therapist first is genuinely worth it. They can identify which part of the balance system is actually driving the problem, which makes everything more targeted and faster. A few PT sessions to get your bearings can save months of guessing.
 
 ---

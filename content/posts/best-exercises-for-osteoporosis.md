@@ -85,6 +85,15 @@ Tai chi deserves a mention here. I was skeptical of it for years, to be honest. 
 
 ## A Note on Intensity and Knowing Your Own Risk Level
 
+## Sources
+
+- [SHVETS production](https://www.pexels.com/@shvets-production)
+- was pretty clear
+- here is pretty consistent on that point
+- in the Journal of Bone and Mineral Research looked at postmenopausal women doing
+- on jumping is actually more interesting than most people realize
+
+
 This is where I'll push back a little against some of the blanket "low-impact only" advice that gets handed to everyone with an osteoporosis diagnosis.
 
 If you have osteoporosis but no prior fractures and a T-score between -2.5 and -3.0, your exercise capacity is probably broader than you've been told. Progressive resistance training at moderate to high loads is generally supported for this population. A program like LIFTMOR, developed by Belinda Beck at Griffith University in Australia, used relatively heavy lifting with postmenopausal women who had osteoporosis and found significant bone density improvements without increased fracture incidents. That program used barbell deadlifts and overhead presses at about 80-85% of estimated max effort.

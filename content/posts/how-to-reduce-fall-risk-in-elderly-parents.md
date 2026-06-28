@@ -141,6 +141,15 @@ A simple emergency alert system also helps. Medical alert devices that detect fa
 
 ## You Can Help Keep Your Parent Safe
 
+## Sources
+
+- [charles Lebegue](https://unsplash.com/@carlitaux?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral)
+- [Samuel Lopez Cruz](https://unsplash.com/@fotogugu?utm_source=seniorstrength&utm_medium=referral)
+- [Eduardo Cano Photo Co.](https://unsplash.com/@eduardocanophotoco?utm_source=seniorstrength&utm_medium=referral)
+
+
 Reducing fall risk in your elderly parent is one of the most loving things you can do, and it doesn't have to feel overwhelming. Start with one or two changes. Celebrate each small improvement. Build from there.
 
 With the right exercises, a safer home, proper footwear, and open communication with their healthcare team, your parent can stay steady, strong, and independent for many more years.

@@ -127,6 +127,15 @@ Once you've done them a few times with someone nearby, yes. But if you've had mu
 
 ### Question: What if I can't do a full 20 minutes?
 
+## Sources
+
+- [Anderson Schmig](https://unsplash.com/@schmig?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Age Cymru](https://unsplash.com/@agecymru?utm_source=seniorstrength&utm_medium=referral)
+- [Mitchell Luo](https://unsplash.com/@mitchel3uo?utm_source=seniorstrength&utm_medium=referral)
+- shows older adults who do balance and strength work reduce their fall risk by 23
+
+
 Do what you can. Ten minutes is infinitely better than nothing. Build up gradually. Your body will adapt.
 
 *Photo: Age Cymru on Unsplash*

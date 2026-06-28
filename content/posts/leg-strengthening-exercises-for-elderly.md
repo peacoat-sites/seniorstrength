@@ -83,6 +83,14 @@ If you're already doing leg strengthening exercises, try performing your calf ra
 
 ## A Note on Equipment and What's Actually Worth Your Money
 
+## Sources
+
+- [Anna Shvets](https://www.pexels.com/@shvetsa)
+- in the *British Journal of Sports Medicine* tracking over 1
+- knee pain during leg exercises
+- I mentioned earlier found that inability to hold a 10-second one-leg balance at
+
+
 You don't need a gym membership to build meaningful leg strength. You need a sturdy chair, a wall, and a stair. That's it.
 
 If you want to invest further, resistance bands are the best value in older adult fitness. A set of loop bands and long bands from a brand like TheraBand or Perform Better runs $15-30 and adds variety to hip abductor work, clamshells, and seated leg strengthening that bodyweight alone doesn't cover as well. I've recommended TheraBand's color-coded resistance system to clients for years because the progression is clear and the material holds up.

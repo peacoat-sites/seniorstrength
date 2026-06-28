@@ -72,6 +72,14 @@ Recovery also means not training the same muscle groups two days in a row. If yo
 
 ## A Word on Cardio, Because You're Probably Wondering
 
+## Sources
+
+- [Yan Krukau](https://www.pexels.com/@yankrukov)
+- pretty clearly shows that number is too low for older adults who want to preserv
+- suggests the upper end of that range for older adults
+- on "concurrent training
+
+
 Don't drop it. Cardiovascular fitness matters for heart health, metabolic function, mood, and longevity, none of which are small things. But if you're doing seven days a week of moderate to vigorous cardio and zero resistance training, your muscle preservation strategy has a significant gap.
 
 The research on "concurrent training," doing both cardio and strength in the same program, shows you can do both without one undermining the other, as long as you're getting adequate protein and recovery. A reasonable structure for most people is two to three resistance training sessions per week and two to four cardio sessions, depending on your goals and how your body responds. They don't need to be on separate days, though some people prefer that.

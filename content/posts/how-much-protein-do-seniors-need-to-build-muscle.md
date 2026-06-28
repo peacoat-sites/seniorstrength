@@ -116,6 +116,15 @@ Eating more protein at 65 or 70 isn't about following some aggressive bodybuilde
 
 ## Recommended Resources
 
+## Sources
+
+- [Yan Krukau](https://www.pexels.com/@yankrukov)
+- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
+- [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
+- Older adults need more dietary protein than younger people to stimulate the same muscle protein synthesis response. The threshold is higher, and ignoring that means leaving real muscle-building potential on the table. This
+- The fear of protein-induced kidney damage in healthy older adults is not well-supported by current evidence and may actually lead people to undereat protein, which has its own serious health consequences. That
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.

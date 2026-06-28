@@ -111,6 +111,15 @@ The pattern you're looking at here is: fatty fish at least twice a week, olive o
 
 ## What About Supplements?
 
+## Sources
+
+- [MART  PRODUCTION](https://www.pexels.com/@mart-production)
+- I've had patients come back and tell me their morning stiffness went from an hour to fifteen minutes after about two months of consistent dietary changes. I can't promise that to everyone, but it happens often enough that I always bring it up. The
+- Fish oil can have mild blood-thinning effects, and high-dose curcumin can interact with certain medications including blood thinners and diabetes drugs. I tell anyone on multiple medications to run new supplements by their pharmacist before starting. It's a five-minute conversation that can prevent real problems. That
+- on diet and systemic inflammation is genuinely compelling
+- team found that "diets high in refined starches
+
+
 Short answer: food first, supplements second, and always tell your doctor what you're taking.
 
 Longer answer: fish oil supplements are genuinely useful if you can't eat fatty fish regularly. Look for a product that provides at least 1,000 mg combined EPA and DHA per serving. Nordic Naturals and Carlson are two brands that consistently perform well on third-party purity testing. Prices run from about $25 to $45 for a month's supply depending on dose.

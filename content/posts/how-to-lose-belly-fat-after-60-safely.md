@@ -99,6 +99,15 @@ Stop measuring success only on the scale. Notice how your clothes fit. Notice yo
 
 ## You've Got This
 
+## Sources
+
+- [Vlad Sargu](https://unsplash.com/@vladsargu?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral)
+- [Anna Stampfli](https://unsplash.com/@annastampfli?utm_source=seniorstrength&utm_medium=referral)
+- shows this works just as well for fat loss and feels less overwhelming when you
+
+
 Losing belly fat after 60 is completely possible. Your body has changed, but it still responds to movement, good food, sleep, and consistency. The right strategies fit your age and your life. You'll feel stronger, healthier, more confident. Every single step forward counts.
 
 Start small. Stay consistent. Be kind to yourself.

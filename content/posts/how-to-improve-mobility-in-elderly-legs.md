@@ -83,6 +83,14 @@ Static stretching as a primary mobility tool. I'm not saying never stretch. I'm 
 
 ## Practical Starting Point
 
+## Sources
+
+- [ROMAN ODINTSOV](https://www.pexels.com/@roman-odintsov)
+- here is genuinely mixed when it comes to which specific protocol is best for imp
+- on resistance training and improved functional range of motion in adults over 65
+- suggests that meaningful improvements in functional mobility are achievable in 8
+
+
 If you're starting from scratch, or starting over, I'd suggest not trying to implement everything at once.
 
 Pick one thing. Hip CARs done standing while holding the back of a chair are the highest-value entry point. One set per leg, once daily, moving slowly and deliberately through whatever range you have. Five minutes total. Do that for two weeks before adding anything else.

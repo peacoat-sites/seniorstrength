@@ -135,6 +135,15 @@ Thousands of older adults have significantly improved their balance in just a fe
 
 ## Recommended Resources
 
+## Sources
+
+- [Age Cymru](https://unsplash.com/@agecymru?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Diana Light](https://unsplash.com/@dreamcatchlight?utm_source=seniorstrength&utm_medium=referral)
+- [TSquared Lab](https://unsplash.com/@tsquaredlab?utm_source=seniorstrength&utm_medium=referral)
+- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.

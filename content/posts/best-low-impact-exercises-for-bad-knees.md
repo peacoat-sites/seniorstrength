@@ -110,6 +110,12 @@ High-step stair climbing machines are another one to skip. The steep knee flexio
 
 ## The Role of Strength Training Beyond the Basics
 
+## Sources
+
+- here is mixed when it comes to which specific exercise is "best
+- has consistently shown that quad weakness is both a predictor and a consequence
+
+
 Here's something the "gentle stretching only" crowd often gets wrong. Strength training, done correctly, is one of the most protective things an older adult with bad knees can do. The quadriceps specifically act as a shock absorber for the knee joint. Every pound of quad strength you build reduces joint load during walking. Research has consistently shown that quad weakness is both a predictor and a consequence of knee osteoarthritis progression.
 
 The evidence on progressive resistance training for older adults with knee pain is genuinely encouraging. A Cochrane review of 54 trials found that land-based exercise (which includes strength training) significantly reduced pain and improved physical function in knee osteoarthritis. The effect sizes are modest but real, and they accumulate over time.

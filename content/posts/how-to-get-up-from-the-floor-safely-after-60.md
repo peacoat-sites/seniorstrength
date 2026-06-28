@@ -88,6 +88,11 @@ And if you've been on the floor for more than 15 minutes and can't get up, call 
 
 ## The Contrarian Take: Practicing Falling Is More Important Than Practicing Getting Up
 
+## Sources
+
+- [Yan Krukau](https://www.pexels.com/@yankrukov)
+
+
 Here's where I'll lose some of you, but hear me out. Most fall prevention programs focus entirely on preventing the fall. Almost none of them teach you what to do while you're falling. This is backwards.
 
 You will not always catch yourself. And the injury severity of a fall correlates heavily with how you land, not just the fact that you fell. A person who tenses up, reaches backward, and takes the impact on an outstretched wrist is likely to fracture something. A person who tucks, leans into a controlled descent, and lands on soft tissue (thigh, hip, shoulder) often walks away. This is why judokas, who fall thousands of times, have dramatically fewer fall-related fractures despite falling more frequently.

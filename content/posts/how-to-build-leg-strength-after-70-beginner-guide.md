@@ -95,6 +95,14 @@ By the end of two months of consistent effort, many seniors report better balanc
 
 ## You Are Stronger Than You Think
 
+## Sources
+
+- [Eduardo Cano Photo Co.](https://unsplash.com/@eduardocanophotoco?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- consistently shows that strength can be rebuilt at any age
+- better balance
+
+
 Building leg strength after 70 isn't about becoming an athlete or turning back the clock. It's about giving yourself the physical foundation to enjoy life fully, to play with grandchildren, explore new places, and move through each day with ease and confidence. Every single repetition you complete is an investment in your independence. Start with just a few minutes a day, be patient with yourself, and trust the process. Your legs have carried you this far. Now it's your turn to take care of them.
 
 Photo by [Eduardo Cano Photo Co.](https://unsplash.com/@eduardocanophotoco?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)

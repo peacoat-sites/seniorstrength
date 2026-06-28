@@ -84,6 +84,13 @@ I want to be honest here: progress isn't always linear. Some weeks feel like reg
 
 ## The gym question (and why it's not the only answer)
 
+## Sources
+
+- [Kampus Production](https://www.pexels.com/@kampus)
+- backs this up
+- from the National Institute on Aging
+
+
 A lot of people feel intimidated walking into a commercial gym at 70. Some gyms aren't set up to be welcoming or safe for older adults, and that's real. I don't want to brush past it.
 
 But if you do want to use a gym, specifically look for one with a dedicated senior programming track or that participates in Silver Sneakers. Many YMCAs are genuinely well-equipped for this, and their senior-specific classes tend to be staffed by instructors who understand older adult physiology. A few sessions with a certified personal trainer who has a specific credential in older adult fitness (look for the NASM Certified Senior Fitness Specialist or ACSM credential) can be worth every dollar, particularly in the first month.

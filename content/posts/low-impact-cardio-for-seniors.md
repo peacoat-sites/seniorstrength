@@ -114,6 +114,15 @@ The real story about low impact cardio for seniors isn't about limitations. It's
 
 ### FAQ
 
+## Sources
+
+- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
+- [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
+- the American Council on Exercise
+- is how well-matched low impact exercise is to the specific physiology of aging
+- here is mixed and ongoing
+
+
 **Question: Is low impact cardio as effective as high impact cardio?**
 
 Yes, for most people over 60. Your cardiovascular system responds to the demand placed on it, not the type of exercise. Low impact activities elevate heart rate into productive training zones just as effectively as high impact options. The advantage is that they do it without the joint consequences. You get the same cardiovascular benefits with lower injury risk.

@@ -131,6 +131,15 @@ You've already taken the hardest step by learning about stretching and back care
 
 ## Recommended Resources
 
+## Sources
+
+- [Ahmet Kurt](https://unsplash.com/@ahmetkurt?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Trọng Tín](https://unsplash.com/@nitgnort?utm_source=seniorstrength&utm_medium=referral)
+- [Christian Wiediger](https://unsplash.com/@christianw?utm_source=seniorstrength&utm_medium=referral)
+- [Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.

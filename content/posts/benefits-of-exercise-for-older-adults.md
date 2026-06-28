@@ -92,6 +92,15 @@ That's usually how it works.
 
 ## Getting Started Without Hurting Yourself
 
+## Sources
+
+- [Marcus Aurelius](https://www.pexels.com/@marcus-aurelius)
+- supports for adults 60+
+- published in the *Journal of Physiology* in 2018 found that lifelong recreationa
+- in *Osteoporosis International* covering over 10
+- backs this up
+
+
 The most common mistake I see older adults make isn't doing too little. It's doing too much too fast, usually in January, after some kind of motivational moment, then getting hurt and quitting.
 
 If you've been sedentary for a year or more, starting with 10 to 15 minutes of walking per day isn't embarrassing. It's correct. The body needs time to adapt, not just muscles but tendons, ligaments, and connective tissue, which take longer to strengthen than muscle does. The 2019 American College of Sports Medicine guidelines for older adults recommend working up to 150 minutes of moderate aerobic activity per week, combined with strength training at least twice a week, but "working up to" is the operative phrase.
