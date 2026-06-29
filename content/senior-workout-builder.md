@@ -6,6 +6,7 @@ categories: ["Strength Training"]
 description: "Build a personalized senior strength workout in seconds. Choose your age, fitness level, equipment, and any limitations — get a safe, structured plan instantly."
 author: "Carol Mitchum"
 image: ""
+image: "https://images.pexels.com/photos/4720509/pexels-photo-4720509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Building a consistent strength routine after 60 is one of the most powerful things you can do for your health, independence, and quality of life. Research consistently shows that resistance training reduces fall risk, preserves muscle mass lost to age, improves bone density, and even sharpens cognitive function.
