@@ -13,16 +13,16 @@ author_bio: "Robert Davis spent his career as a registered dietitian working wit
 slug: "how-much-protein-do-seniors-need-to-build-muscle"
 affiliate_disclosure: true
 faqs:
-  - q: "How much protein does a 70-year-old need to build muscle?"
-    a: "Most research supports a target of 1.2 to 1.5 grams of protein per kilogram of body weight per day for adults over 65 who are actively trying to build muscle. For a 150-pound (68 kg) person, that comes out to roughly 82 to 102 grams per day. Spreading that across three or four meals tends to produce better results than eating it all at once."
-  - q: "Is it safe for seniors to eat more protein?"
-    a: "For adults with healthy kidney function, yes. The concern about high protein intake damaging kidneys applies mainly to people who already have chronic kidney disease. If you have any kidney-related diagnoses, consult your doctor before making significant changes to your protein intake."
-  - q: "Does protein powder help seniors build muscle?"
-    a: "It can, particularly if you're struggling to hit your protein targets through food alone, or if your appetite has decreased. Whey protein has the most research support for muscle building in older adults, but pea and soy protein are solid alternatives if you're dairy-free or plant-based."
-  - q: "When is the best time for seniors to eat protein?"
-    a: "Aim for at least 25 to 40 grams at each main meal rather than concentrating most of your protein at dinner. After resistance exercise specifically, consuming protein within about two hours appears to significantly improve muscle protein synthesis, which matters more as we age."
-  - q: "Can seniors build muscle after 70?"
-    a: "Yes, with consistency and adequate protein. The process is slower than in younger adults and requires more dietary protein to achieve similar results, but multiple studies confirm that meaningful muscle gain is possible well into the 70s and 80s with resistance training and sufficient nutrition."
+ - q: "How much protein does a 70-year-old need to build muscle?"
+ a: "Most research supports a target of 1.2 to 1.5 grams of protein per kilogram of body weight per day for adults over 65 who are actively trying to build muscle. For a 150-pound (68 kg) person, that comes out to roughly 82 to 102 grams per day. Spreading that across three or four meals tends to produce better results than eating it all at once."
+ - q: "Is it safe for seniors to eat more protein?"
+ a: "For adults with healthy kidney function, yes. The concern about high protein intake damaging kidneys applies mainly to people who already have chronic kidney disease. If you have any kidney-related diagnoses, consult your doctor before making significant changes to your protein intake."
+ - q: "Does protein powder help seniors build muscle?"
+ a: "It can, particularly if you're struggling to hit your protein targets through food alone, or if your appetite has decreased. Whey protein has the most research support for muscle building in older adults, but pea and soy protein are solid alternatives if you're dairy-free or plant-based."
+ - q: "When is the best time for seniors to eat protein?"
+ a: "Aim for at least 25 to 40 grams at each main meal rather than concentrating most of your protein at dinner. After resistance exercise specifically, consuming protein within about two hours appears to significantly improve muscle protein synthesis, which matters more as we age."
+ - q: "Can seniors build muscle after 70?"
+ a: "Yes, with consistency and adequate protein. The process is slower than in younger adults and requires more dietary protein to achieve similar results, but multiple studies confirm that meaningful muscle gain is possible well into the 70s and 80s with resistance training and sufficient nutrition."
 ---
 
 Most people are eating about half the protein they actually need. Not because they don't care, but because the advice they've been given is outdated.

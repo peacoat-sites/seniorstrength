@@ -11,10 +11,7 @@ author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
 slug: "strength-training-is-now-essential-for-older-adults-on-glp-1-drugs"
-affiliate_disclosure: true
----
-
-If you're over 60 and taking a GLP-1 drug like Ozempic or Wegovy, the conversation around these medications has almost entirely focused on one metric: weight lost. What it's glossed over, until now, is what else you're losing alongside it.
+affiliate_disclosure: true, If you're over 60 and taking a GLP-1 drug like Ozempic or Wegovy, the conversation around these medications has almost entirely focused on one metric: weight lost. What it's glossed over, until now, is what else you're losing alongside it.
 
 A study of 753 GLP-1 users presented at the Endocrine Society's ENDO 2026 conference in Chicago this month found that after starting medication, participants dropped an average of 560 daily steps and lost 5.7 minutes of moderate-to-vigorous activity per day. For a younger, otherwise healthy adult, that's a nuisance. For an adult over 60 who is already fighting age-related muscle loss, it's a compounding problem that can genuinely alter how you function five years from now.
 
@@ -56,11 +53,11 @@ A lighter body that is also a weaker body is not a straightforward win for long-
 
 ## Sources
 
-- [Exercise decreases among people taking GLP-1 medication – Endocrine Society ENDO 2026 Press Release](https://www.endocrine.org/news-and-advocacy/news-room/2026/maharjan-press-release-endo-2026) (June 2026)
-- [GLP-1 Users Walk 560 Fewer Steps Per Day, Fitbit Study at ENDO 2026 – Medical Daily](https://www.medicaldaily.com/glp1-ozempic-wegovy-physical-activity-decline-endo-2026-fitbit-study-475671) (June 2026)
-- [Ozempic and Simple Aging Can Melt Away Important Muscle – Scientific American](https://www.scientificamerican.com/article/new-ways-to-keep-from-losing-muscle-on-ozempic/) (May 26, 2026)
-- [Ozempic, Wegovy: Why People Using GLP-1s Are Less Likely to Exercise – Healthline](https://www.healthline.com/health-news/people-taking-glp-1-weight-loss-less-exercise) (June 13, 2026)
-- [Critical 2026 Update: New GLP-1 Rules to Stop Muscle Loss – Ubie Doctor's Note](https://ubiehealth.com/doctors-note/muscle-loss-glp1-prescribing-guidance-2026-37-docs62q2) (June 2026)
+- [Exercise decreases among people taking GLP-1 medication, Endocrine Society ENDO 2026 Press Release](https://www.endocrine.org/news-and-advocacy/news-room/2026/maharjan-press-release-endo-2026) (June 2026)
+- [GLP-1 Users Walk 560 Fewer Steps Per Day, Fitbit Study at ENDO 2026, Medical Daily](https://www.medicaldaily.com/glp1-ozempic-wegovy-physical-activity-decline-endo-2026-fitbit-study-475671) (June 2026)
+- [Ozempic and Simple Aging Can Melt Away Important Muscle, Scientific American](https://www.scientificamerican.com/article/new-ways-to-keep-from-losing-muscle-on-ozempic/) (May 26, 2026)
+- [Ozempic, Wegovy: Why People Using GLP-1s Are Less Likely to Exercise, Healthline](https://www.healthline.com/health-news/people-taking-glp-1-weight-loss-less-exercise) (June 13, 2026)
+- [Critical 2026 Update: New GLP-1 Rules to Stop Muscle Loss, Ubie Doctor's Note](https://ubiehealth.com/doctors-note/muscle-loss-glp1-prescribing-guidance-2026-37-docs62q2) (June 2026)
 
 *Photo: [Roman Biernacki](https://www.pexels.com/@szafran) via Pexels*
 
@@ -74,5 +71,5 @@ A lighter body that is also a weaker body is not a straightforward win for long-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

@@ -8,12 +8,12 @@ categories: ["nutrition"]
 slug: "senior-meal-prep-healthy-meals-for-one-or-two-people"
 affiliate_disclosure: true
 faqs:
-  - q: "How long can prepped meals safely stay in the refrigerator?"
-    a: "Most cooked meals stay safe in the refrigerator for three to four days when stored in airtight containers. Soups, stews, and casseroles can often last up to five days. When in doubt, smell and visually inspect the food, and remember, when in doubt, throw it out. Labeling your containers with the date you prepared them is a simple habit that takes the guesswork out of food safety completely."
-  - q: "What are the best high-protein foods for senior meal prep?"
-    a: "Excellent high-protein options that prep well include eggs, Greek yogurt, canned tuna or salmon, chicken breast, lentils, chickpeas, and cottage cheese. Seniors generally need about 1.0 to 1.2 grams of protein per kilogram of body weight per day to maintain muscle mass. Spreading protein intake across all meals, rather than eating it all at dinner, is the most effective strategy for muscle preservation as we age."
-  - q: "Is meal prepping expensive to get started?"
-    a: "Getting started with meal prep doesn’t require a large upfront investment. You likely already have most of what you need. A set of basic storage containers is the main purchase, and you can find quality options for under $20. Over time, meal prep almost always saves money by reducing food waste, limiting takeout meals, and encouraging smarter grocery shopping habits. Meal prep for seniors isn’t about perfection, it’s about making your week a little easier, your meals a little healthier, and your time in the kitchen a little more enjoyable. Start with just one or two prepped items this weekend"
+ - q: "How long can prepped meals safely stay in the refrigerator?"
+ a: "Most cooked meals stay safe in the refrigerator for three to four days when stored in airtight containers. Soups, stews, and casseroles can often last up to five days. When in doubt, smell and visually inspect the food, and remember, when in doubt, throw it out. Labeling your containers with the date you prepared them is a simple habit that takes the guesswork out of food safety completely."
+ - q: "What are the best high-protein foods for senior meal prep?"
+ a: "Excellent high-protein options that prep well include eggs, Greek yogurt, canned tuna or salmon, chicken breast, lentils, chickpeas, and cottage cheese. Seniors generally need about 1.0 to 1.2 grams of protein per kilogram of body weight per day to maintain muscle mass. Spreading protein intake across all meals, rather than eating it all at dinner, is the most effective strategy for muscle preservation as we age."
+ - q: "Is meal prepping expensive to get started?"
+ a: "Getting started with meal prep doesn’t require a large upfront investment. You likely already have most of what you need. A set of basic storage containers is the main purchase, and you can find quality options for under $20. Over time, meal prep almost always saves money by reducing food waste, limiting takeout meals, and encouraging smarter grocery shopping habits. Meal prep for seniors isn’t about perfection, it’s about making your week a little easier, your meals a little healthier, and your time in the kitchen a little more enjoyable. Start with just one or two prepped items this weekend"
 author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Nutrition Writer"

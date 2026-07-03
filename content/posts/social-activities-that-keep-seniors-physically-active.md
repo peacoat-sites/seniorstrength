@@ -8,12 +8,12 @@ categories: ["lifestyle"]
 slug: "social-activities-that-keep-seniors-physically-active"
 affiliate_disclosure: true
 faqs:
-  - q: "What are the best social activities for seniors who have limited mobility?"
-    a: "Chair yoga, seated tai chi, water aerobics, and gentle group stretching classes are all excellent options for seniors with limited mobility. Many community centers offer adaptive fitness programs designed specifically for older adults with arthritis, balance issues, or post-surgery recovery needs. Even light activity like a slow group walk or seated gardening can offer meaningful physical and social benefits."
-  - q: "How many days a week should seniors engage in social physical activities?"
-    a: "Most health experts recommend aiming for at least three to five days per week of moderate physical activity. If social activities like walking groups, dance classes, or fitness classes are your primary form of exercise, attending three times per week is a great starting point. As your stamina improves, you can add more sessions or mix different types of activities throughout the week."
-  - q: "Are there free or low-cost social fitness programs for seniors?"
-    a: "Yes, many programs are completely free or very affordable. Medicare Advantage plans often include free gym memberships through programs like Silver Sneakers or Renew Active. Community centers, parks and recreation departments, senior centers, and faith organizations frequently offer free or low-cost group fitness and social activity programs. A quick call to your local Area Agency on Aging can connect you with options in your community."
+ - q: "What are the best social activities for seniors who have limited mobility?"
+ a: "Chair yoga, seated tai chi, water aerobics, and gentle group stretching classes are all excellent options for seniors with limited mobility. Many community centers offer adaptive fitness programs designed specifically for older adults with arthritis, balance issues, or post-surgery recovery needs. Even light activity like a slow group walk or seated gardening can offer meaningful physical and social benefits."
+ - q: "How many days a week should seniors engage in social physical activities?"
+ a: "Most health experts recommend aiming for at least three to five days per week of moderate physical activity. If social activities like walking groups, dance classes, or fitness classes are your primary form of exercise, attending three times per week is a great starting point. As your stamina improves, you can add more sessions or mix different types of activities throughout the week."
+ - q: "Are there free or low-cost social fitness programs for seniors?"
+ a: "Yes, many programs are completely free or very affordable. Medicare Advantage plans often include free gym memberships through programs like Silver Sneakers or Renew Active. Community centers, parks and recreation departments, senior centers, and faith organizations frequently offer free or low-cost group fitness and social activity programs. A quick call to your local Area Agency on Aging can connect you with options in your community."
 author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"

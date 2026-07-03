@@ -2,18 +2,18 @@
 title: "Knee replacement recovery exercises for seniors"
 date: 2026-05-20T09:32:16.339597+00:00
 draft: false
-description: "Discover the best knee replacement recovery exercises for seniors,  from gentle week-one movements to strength-building routines that restore mobility, reduc"
+description: "Discover the best knee replacement recovery exercises for seniors, from gentle week-one movements to strength-building routines that restore mobility, reduc"
 image: "https://images.pexels.com/photos/8464567/pexels-photo-8464567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pain"]
 slug: "knee-replacement-recovery-exercises-for-seniors"
 affiliate_disclosure: true
 faqs:
-  - q: "How soon after knee replacement surgery can I start exercising?"
-    a: "Most surgeons recommend starting gentle exercises like ankle pumps and quad sets within the first 24 hours after surgery. Your physical therapist will typically visit you in the hospital to begin supervised movement before you even go home. Always follow the specific timeline your medical team provides, as individual recovery varies."
-  - q: "What exercises should I avoid after knee replacement surgery?"
-    a: "You should avoid high-impact activities like running, jumping, and sports that involve sudden pivoting movements for at least three to six months. Deep squats that bend the knee past 90 degrees are also generally discouraged early in recovery. Your surgeon will give you a personalized list of restrictions based on your specific procedure and progress."
-  - q: "How long does it take to fully recover from knee replacement?"
-    a: "Most seniors experience significant improvement within six to twelve weeks and can return to light daily activities. Full recovery, including the return of strength and complete range of motion, typically takes six months to a full year. Sticking consistently with your knee replacement recovery exercises is the single most important factor in how quickly and completely you recover. Your new knee is a gift, and these exercises are how you unwrap its full potential. Be patient with yourself, trust the process, and know that every gentle bend and careful step is moving you toward the active, comf"
+ - q: "How soon after knee replacement surgery can I start exercising?"
+ a: "Most surgeons recommend starting gentle exercises like ankle pumps and quad sets within the first 24 hours after surgery. Your physical therapist will typically visit you in the hospital to begin supervised movement before you even go home. Always follow the specific timeline your medical team provides, as individual recovery varies."
+ - q: "What exercises should I avoid after knee replacement surgery?"
+ a: "You should avoid high-impact activities like running, jumping, and sports that involve sudden pivoting movements for at least three to six months. Deep squats that bend the knee past 90 degrees are also generally discouraged early in recovery. Your surgeon will give you a personalized list of restrictions based on your specific procedure and progress."
+ - q: "How long does it take to fully recover from knee replacement?"
+ a: "Most seniors experience significant improvement within six to twelve weeks and can return to light daily activities. Full recovery, including the return of strength and complete range of motion, typically takes six months to a full year. Sticking consistently with your knee replacement recovery exercises is the single most important factor in how quickly and completely you recover. Your new knee is a gift, and these exercises are how you unwrap its full potential. Be patient with yourself, trust the process, and know that every gentle bend and careful step is moving you toward the active, comf"
 author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"

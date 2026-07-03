@@ -11,9 +11,7 @@ author_slug: "robert-davis"
 author_title: "Nutrition Writer"
 author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
 slug: "on-ozempic-over-60-here-is-how-to-protect-your-muscle"
-affiliate_disclosure: true
----
-Something important got buried last month. At the Endocrine Society's annual meeting in Chicago, research presented on June 14 found that people taking GLP-1 drugs like Ozempic, Wegovy, Mounjaro, and Zepbound actually became *less* physically active after starting treatment. Fewer steps. Less time exercising. The drug suppresses appetite so effectively that it apparently suppresses the urge to move, too. For anyone under 50 with solid muscle reserves, that's inconvenient. For adults over 60, it's a genuinely dangerous combination.
+affiliate_disclosure: true, Something important got buried last month. At the Endocrine Society's annual meeting in Chicago, research presented on June 14 found that people taking GLP-1 drugs like Ozempic, Wegovy, Mounjaro, and Zepbound actually became *less* physically active after starting treatment. Fewer steps. Less time exercising. The drug suppresses appetite so effectively that it apparently suppresses the urge to move, too. For anyone under 50 with solid muscle reserves, that's inconvenient. For adults over 60, it's a genuinely dangerous combination.
 
 Nearly 40% of adults 60 and older qualified as obese in 2023, according to the CDC. GLP-1 prescriptions in this age group have surged accordingly. Millions of older adults are on these drugs, losing weight, and feeling better about the number on the scale. What they may not realize is that some of what they're losing isn't fat, and that matters more than most doctors are telling them.
 
@@ -63,11 +61,11 @@ The good news is simple. Resistance training and adequate protein aren't cutting
 
 ## Sources
 
-- [People taking GLP-1 weight loss drugs like Ozempic started moving less ,  ScienceDaily / ENDO 2026](https://www.sciencedaily.com/releases/2026/06/260614011841.htm) (June 14, 2026)
-- [Drug enhances muscle repair during GLP-1 weight-loss treatment ,  Stanford Medicine](https://med.stanford.edu/news/all-news/2026/06/muscle-glp-1.html) (June 2026)
-- [Weighing the risk of GLP-1 treatment in older adults: sarcopenic obesity ,  PMC / NCBI](https://pmc.ncbi.nlm.nih.gov/articles/PMC12391595/) (June 2026)
-- [Are GLP-1 weight-loss drugs safe for older adults? ,  AAMC](https://www.aamc.org/news/are-glp-1-weight-loss-drugs-safe-older-adults) (December 2025)
-- [Muscle Loss and GLP-1 Weight-Loss Drugs: 2026 Update ,  Affinity Whole Health](https://www.affinitywholehealth.com/blog/muscle-loss-and-glp-1-weight-loss-drugs-what-the-latest-clinical-trials-really-show-2026-update) (May 13, 2026)
+- [People taking GLP-1 weight loss drugs like Ozempic started moving less , ScienceDaily / ENDO 2026](https://www.sciencedaily.com/releases/2026/06/260614011841.htm) (June 14, 2026)
+- [Drug enhances muscle repair during GLP-1 weight-loss treatment , Stanford Medicine](https://med.stanford.edu/news/all-news/2026/06/muscle-glp-1.html) (June 2026)
+- [Weighing the risk of GLP-1 treatment in older adults: sarcopenic obesity , PMC / NCBI](https://pmc.ncbi.nlm.nih.gov/articles/PMC12391595/) (June 2026)
+- [Are GLP-1 weight-loss drugs safe for older adults? , AAMC](https://www.aamc.org/news/are-glp-1-weight-loss-drugs-safe-older-adults) (December 2025)
+- [Muscle Loss and GLP-1 Weight-Loss Drugs: 2026 Update , Affinity Whole Health](https://www.affinitywholehealth.com/blog/muscle-loss-and-glp-1-weight-loss-drugs-what-the-latest-clinical-trials-really-show-2026-update) (May 13, 2026)
 - [The Future of Fitness: ACSM Announces Top Trends for 2026](https://acsm.org/top-fitness-trends-2026/) (May 11, 2026)
 
 *Photo: [Jessy Mesme](https://www.pexels.com/@jessy-mesme-372778102) via Pexels*

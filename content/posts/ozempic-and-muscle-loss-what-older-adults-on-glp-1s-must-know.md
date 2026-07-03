@@ -11,10 +11,7 @@ author_slug: "robert-davis"
 author_title: "Nutrition Writer"
 author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
 slug: "ozempic-and-muscle-loss-what-older-adults-on-glp-1s-must-know"
-affiliate_disclosure: true
----
-
-A patient I'll call Margaret, 68, came to see me six months after starting Wegovy. She'd lost 22 pounds, her blood pressure was down, and her doctor was thrilled. But she could barely get up from a chair without using her arms, and she'd fallen twice on her morning walks. The scale said she was winning. Her body said something else was happening.
+affiliate_disclosure: true, A patient I'll call Margaret, 68, came to see me six months after starting Wegovy. She'd lost 22 pounds, her blood pressure was down, and her doctor was thrilled. But she could barely get up from a chair without using her arms, and she'd fallen twice on her morning walks. The scale said she was winning. Her body said something else was happening.
 
 Margaret's situation isn't rare anymore. Millions of older adults are now taking GLP-1 receptor agonists like semaglutide, and the weight loss results can be genuinely impressive. But a surge of clinical data from 2025 and 2026 is making it harder to ignore a serious downside: these drugs can strip away muscle, and for adults over 65, that loss can tip someone from independence into frailty faster than almost anything else I've seen in my career.
 

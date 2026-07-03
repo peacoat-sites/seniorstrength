@@ -8,12 +8,12 @@ categories: ["balance"]
 slug: "standing-balance-exercises-seniors-can-do-holding-a-chair"
 affiliate_disclosure: true
 faqs:
-  - q: "How often should seniors do standing balance exercises?"
-    a: "Most physical therapists recommend doing balance exercises two to three times per week for best results. This gives your muscles and nervous system enough stimulation to improve while still allowing recovery time between sessions. Even short five-minute sessions done consistently are far more effective than occasional longer workouts."
-  - q: "Is it normal to feel shaky when first starting balance exercises?"
-    a: "Yes, absolutely, and it is actually a good sign. That shakiness means your stabilizing muscles are being challenged and recruited in new ways. It should lessen noticeably within two to three weeks as those muscles grow stronger. However, if you feel dizzy, lightheaded, or experience pain, stop immediately and consult your doctor before continuing."
-  - q: "Can standing balance exercises reduce fall risk in seniors?"
-    a: "Yes, and the evidence is strong. A major review published in the British Journal of Sports Medicine found that balance and functional exercises reduced fall rates in older adults by approximately 24 percent. The key is consistency, doing the exercises regularly over several weeks is what produces lasting improvement in both strength and coordination. Photo by Age Cymru on Unsplash"
+ - q: "How often should seniors do standing balance exercises?"
+ a: "Most physical therapists recommend doing balance exercises two to three times per week for best results. This gives your muscles and nervous system enough stimulation to improve while still allowing recovery time between sessions. Even short five-minute sessions done consistently are far more effective than occasional longer workouts."
+ - q: "Is it normal to feel shaky when first starting balance exercises?"
+ a: "Yes, absolutely, and it is actually a good sign. That shakiness means your stabilizing muscles are being challenged and recruited in new ways. It should lessen noticeably within two to three weeks as those muscles grow stronger. However, if you feel dizzy, lightheaded, or experience pain, stop immediately and consult your doctor before continuing."
+ - q: "Can standing balance exercises reduce fall risk in seniors?"
+ a: "Yes, and the evidence is strong. A major review published in the British Journal of Sports Medicine found that balance and functional exercises reduced fall rates in older adults by approximately 24 percent. The key is consistency, doing the exercises regularly over several weeks is what produces lasting improvement in both strength and coordination. Photo by Age Cymru on Unsplash"
 author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
@@ -36,10 +36,10 @@ Before starting any new exercise routine, check in with your doctor or physical 
 
 Choose a sturdy, non-wheeled chair and place it against a wall for extra security. Wear supportive, flat-soled shoes, or exercise barefoot if your doctor approves. Bare feet actually improve proprioception, your body's sense of where it is in space.
 
-  * Clear the area around you of rugs, cords, or clutter
-  * Exercise near a phone in case you need help
-  * Start slowly and never push through pain or dizziness
-  * Have a family member or friend nearby when you first begin
+ * Clear the area around you of rugs, cords, or clutter
+ * Exercise near a phone in case you need help
+ * Start slowly and never push through pain or dizziness
+ * Have a family member or friend nearby when you first begin
 
 **Pro Tip:** Place your chair in front of a mirror if possible. Watching your posture in real time helps you stay aligned and gives your brain extra visual feedback, one of the three key systems controlling balance.
 
@@ -85,9 +85,9 @@ Consistency is everything. Two to three sessions per week will produce meaningfu
 
 A simple routine might look like this:
 
-  * **Monday:** Two-hand hold, single-leg stand, heel raises, 2 sets each
-  * **Wednesday:** Tandem stance, side leg lifts, heel raises, 2 sets each
-  * **Friday:** All five exercises, 2 sets each as a full routine
+ * **Monday:** Two-hand hold, single-leg stand, heel raises, 2 sets each
+ * **Wednesday:** Tandem stance, side leg lifts, heel raises, 2 sets each
+ * **Friday:** All five exercises, 2 sets each as a full routine
 
 Keep a small notebook or use your phone to track hold times. Watching your times increase from 10 seconds to 30 seconds is genuinely motivating and shows real, measurable progress.
 
@@ -111,11 +111,11 @@ Progress with balance training can be subtle, so it helps to know what to look f
 
 Other positive signs:
 
-  * Holding a single-leg stand for longer than when you started
-  * Feeling more confident on stairs
-  * Getting up from a chair more easily without pushing off with your hands
-  * Feeling less anxious about walking on uneven surfaces like grass or gravel
-  * Sleeping better because you feel more physically confident during the day
+ * Holding a single-leg stand for longer than when you started
+ * Feeling more confident on stairs
+ * Getting up from a chair more easily without pushing off with your hands
+ * Feeling less anxious about walking on uneven surfaces like grass or gravel
+ * Sleeping better because you feel more physically confident during the day
 
 Celebrate these wins. Every second of improved balance represents real neurological and muscular change. You're literally rewiring your nervous system for stability.
 

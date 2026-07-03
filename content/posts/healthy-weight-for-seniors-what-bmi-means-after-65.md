@@ -8,12 +8,12 @@ categories: ["lifestyle"]
 slug: "healthy-weight-for-seniors-what-bmi-means-after-65"
 affiliate_disclosure: true
 faqs:
-  - q: "What is considered a healthy BMI for a 70-year-old?"
-    a: "Most geriatric health experts consider a BMI between 23 and 30 to be acceptable for adults over 70, though the ideal range varies by individual. A BMI slightly above the standard “normal” range of 18.5–24.9 may actually offer some health protection for older adults. Always discuss your specific BMI with your doctor in the context of your overall health, not as a standalone number."
-  - q: "Is it normal to gain weight after 65 even without eating more?"
-    a: "Yes, this is very common and has a biological explanation. As we age, our metabolism naturally slows down, and hormonal changes, particularly in estrogen and testosterone, cause fat to redistribute, especially around the abdomen. Muscle loss also means your body burns fewer calories at rest. Small, gradual changes in diet and regular physical activity can help manage this shift."
-  - q: "Should seniors try to lose weight if their BMI is in the “overweight” range?"
-    a: "Not necessarily, and certainly not without medical guidance. For seniors with a BMI between 25 and 30, the focus is usually better placed on improving fitness, strength, and nutrition quality rather than on weight loss for its own sake. Aggressive weight loss in older adults can cause muscle and bone loss that does more harm than good. If your doctor recommends weight loss, ask for a referral to a registered dietitian who specializes in senior nutrition."
+ - q: "What is considered a healthy BMI for a 70-year-old?"
+ a: "Most geriatric health experts consider a BMI between 23 and 30 to be acceptable for adults over 70, though the ideal range varies by individual. A BMI slightly above the standard “normal” range of 18.5–24.9 may actually offer some health protection for older adults. Always discuss your specific BMI with your doctor in the context of your overall health, not as a standalone number."
+ - q: "Is it normal to gain weight after 65 even without eating more?"
+ a: "Yes, this is very common and has a biological explanation. As we age, our metabolism naturally slows down, and hormonal changes, particularly in estrogen and testosterone, cause fat to redistribute, especially around the abdomen. Muscle loss also means your body burns fewer calories at rest. Small, gradual changes in diet and regular physical activity can help manage this shift."
+ - q: "Should seniors try to lose weight if their BMI is in the “overweight” range?"
+ a: "Not necessarily, and certainly not without medical guidance. For seniors with a BMI between 25 and 30, the focus is usually better placed on improving fitness, strength, and nutrition quality rather than on weight loss for its own sake. Aggressive weight loss in older adults can cause muscle and bone loss that does more harm than good. If your doctor recommends weight loss, ask for a referral to a registered dietitian who specializes in senior nutrition."
 author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
@@ -30,10 +30,10 @@ BMI stands for Body Mass Index. It's a calculation based on your height and weig
 
 For adults under 65, the standard categories look like this:
 
-  * **Underweight:** BMI below 18.5
-  * **Normal weight:** BMI 18.5 – 24.9
-  * **Overweight:** BMI 25 – 29.9
-  * **Obese:** BMI 30 and above
+ * **Underweight:** BMI below 18.5
+ * **Normal weight:** BMI 18.5, 24.9
+ * **Overweight:** BMI 25, 29.9
+ * **Obese:** BMI 30 and above
 
 These numbers were largely established using data from younger populations. For seniors, things get different. And knowing that difference could actually be reassuring.
 
@@ -57,10 +57,10 @@ This means two seniors could have the exact same BMI but very different body com
 
 Here are some factors that affect how you should interpret your BMI after 65:
 
-  * **Muscle mass loss:** Begins in your 30s and accelerates after 60, lowering your weight without improving health
-  * **Bone density changes:** Osteoporosis can reduce bone weight, lowering BMI artificially
-  * **Fat redistribution:** Fat tends to shift toward the abdomen as we age, increasing health risks even at normal BMI
-  * **Height loss:** Many seniors lose 1–2 inches of height over time, which can push BMI numbers higher without any actual weight gain
+ * **Muscle mass loss:** Begins in your 30s and accelerates after 60, lowering your weight without improving health
+ * **Bone density changes:** Osteoporosis can reduce bone weight, lowering BMI artificially
+ * **Fat redistribution:** Fat tends to shift toward the abdomen as we age, increasing health risks even at normal BMI
+ * **Height loss:** Many seniors lose 1–2 inches of height over time, which can push BMI numbers higher without any actual weight gain
 
 Because of all this, most geriatric health specialists recommend using BMI as just one tool in a bigger picture, not the final word on your health.
 
@@ -70,11 +70,11 @@ Rather than obsessing over a specific number, health experts encourage seniors t
 
 Signs that your weight is supporting your health include:
 
-  * You can walk, climb stairs, and do daily activities without significant pain or breathlessness
-  * Your blood pressure, cholesterol, and blood sugar are in healthy ranges
-  * You feel energetic enough to enjoy social activities and hobbies
-  * You're sleeping well and recovering from minor illness without major setbacks
-  * You're maintaining muscle strength for balance and fall prevention
+ * You can walk, climb stairs, and do daily activities without significant pain or breathlessness
+ * Your blood pressure, cholesterol, and blood sugar are in healthy ranges
+ * You feel energetic enough to enjoy social activities and hobbies
+ * You're sleeping well and recovering from minor illness without major setbacks
+ * You're maintaining muscle strength for balance and fall prevention
 
 Your doctor can run simple tests, like a grip strength test or a "Timed Up and Go" assessment, that give a far more accurate picture of your functional health than BMI alone.
 
@@ -86,11 +86,11 @@ While much of the public conversation focuses on the dangers of being overweight
 
 Unintended weight loss in seniors has been linked to:
 
-  * Weakened immune function, making infections harder to fight
-  * Increased risk of falls and fractures due to muscle and bone loss
-  * Slower wound healing and longer recovery from surgery
-  * Nutritional deficiencies including low vitamin D, B12, and calcium
-  * Cognitive decline and increased risk of dementia
+ * Weakened immune function, making infections harder to fight
+ * Increased risk of falls and fractures due to muscle and bone loss
+ * Slower wound healing and longer recovery from surgery
+ * Nutritional deficiencies including low vitamin D, B12, and calcium
+ * Cognitive decline and increased risk of dementia
 
 If you or a loved one has lost more than 5% of body weight in six months without trying, speak with a healthcare provider promptly. This can sometimes signal underlying conditions like thyroid disorders, digestive issues, depression, or even early cancer.
 

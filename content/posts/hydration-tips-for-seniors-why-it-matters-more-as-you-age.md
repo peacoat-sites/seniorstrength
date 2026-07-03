@@ -8,12 +8,12 @@ categories: ["nutrition"]
 slug: "hydration-tips-for-seniors-why-it-matters-more-as-you-age"
 affiliate_disclosure: true
 faqs:
-  - q: "Does coffee count toward my daily fluid intake?"
-    a: "Yes, it does, though in moderation. Despite its mild diuretic effect, coffee and tea still contribute to your overall fluid intake, especially when consumed in normal amounts (one to three cups per day). Research shows the diuretic effect is relatively small and doesn’t cancel out the hydrating benefits. That said, water and herbal teas are still better primary sources of hydration throughout the day."
-  - q: "How can I stay hydrated if I’m worried about nighttime bathroom trips?"
-    a: "This is a very common concern, and it’s completely understandable. A good strategy is to drink most of your fluids earlier in the day, morning through mid-afternoon, and then taper off in the two to three hours before bed. You don’t have to cut out evening fluids entirely, but shifting the bulk of your intake earlier helps reduce nighttime interruptions without sacrificing your hydration goals."
-  - q: "Are sports drinks a good option for seniors?"
-    a: "Sports drinks can be helpful in specific situations, such as after intense physical activity, during illness with vomiting or diarrhea, or on an extremely hot day when you’ve been sweating heavily. They contain electrolytes like sodium and potassium that help your body absorb and retain fluids. However, many sports drinks are high in sugar and calories, so they shouldn’t replace plain water for everyday hydration. Look for low-sugar electrolyte options or ask your doctor what’s appropriate for your health needs."
+ - q: "Does coffee count toward my daily fluid intake?"
+ a: "Yes, it does, though in moderation. Despite its mild diuretic effect, coffee and tea still contribute to your overall fluid intake, especially when consumed in normal amounts (one to three cups per day). Research shows the diuretic effect is relatively small and doesn’t cancel out the hydrating benefits. That said, water and herbal teas are still better primary sources of hydration throughout the day."
+ - q: "How can I stay hydrated if I’m worried about nighttime bathroom trips?"
+ a: "This is a very common concern, and it’s completely understandable. A good strategy is to drink most of your fluids earlier in the day, morning through mid-afternoon, and then taper off in the two to three hours before bed. You don’t have to cut out evening fluids entirely, but shifting the bulk of your intake earlier helps reduce nighttime interruptions without sacrificing your hydration goals."
+ - q: "Are sports drinks a good option for seniors?"
+ a: "Sports drinks can be helpful in specific situations, such as after intense physical activity, during illness with vomiting or diarrhea, or on an extremely hot day when you’ve been sweating heavily. They contain electrolytes like sodium and potassium that help your body absorb and retain fluids. However, many sports drinks are high in sugar and calories, so they shouldn’t replace plain water for everyday hydration. Look for low-sugar electrolyte options or ask your doctor what’s appropriate for your health needs."
 author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
@@ -36,12 +36,12 @@ Dehydration isn't just about feeling a little tired or getting a headache. For s
 
 Even a small drop in hydration can trigger or worsen:
 
-  * **Urinary tract infections (UTIs)**, one of the most common causes of hospitalization in older adults
-  * **Constipation**, dehydration slows digestion and makes bowel movements painful and infrequent
-  * **Confusion and cognitive decline**, even mild dehydration can cause brain fog, difficulty concentrating, and memory lapses
-  * **Dizziness and falls**, low fluid levels can cause drops in blood pressure, leading to dangerous falls
-  * **Kidney stones and kidney stress**, your kidneys need adequate water to filter waste properly
-  * **Fatigue and muscle weakness**, dehydrated muscles tire faster and are more prone to cramps
+ * **Urinary tract infections (UTIs)**, one of the most common causes of hospitalization in older adults
+ * **Constipation**, dehydration slows digestion and makes bowel movements painful and infrequent
+ * **Confusion and cognitive decline**, even mild dehydration can cause brain fog, difficulty concentrating, and memory lapses
+ * **Dizziness and falls**, low fluid levels can cause drops in blood pressure, leading to dangerous falls
+ * **Kidney stones and kidney stress**, your kidneys need adequate water to filter waste properly
+ * **Fatigue and muscle weakness**, dehydrated muscles tire faster and are more prone to cramps
 
 The good news? Most of these risks drop significantly when you make consistent hydration a daily priority.
 
@@ -61,13 +61,13 @@ Hot weather, exercise, fever, or illness will all increase your fluid needs. On 
 
 Building better hydration habits doesn't have to feel like a chore. Small, consistent changes are far more effective than dramatic overhauls. Try a few of these strategies and see which ones naturally fit into your routine.
 
-  * **Start your morning with water first.** Before coffee or breakfast, drink a full glass of water to make up for overnight fluid loss.
-  * **Pair drinking with daily habits.** Have a glass of water every time you take your medication, watch the news, or sit down for a meal.
-  * **Flavor your water naturally.** Add a slice of lemon, cucumber, or a few mint leaves if plain water feels unappealing.
-  * **Set gentle reminders.** A simple alarm on your phone or watch every two hours can nudge you to take a few sips.
-  * **Drink before you feel thirsty.** Since thirst signals are less reliable with age, use the clock rather than your body's prompts.
-  * **Choose hydrating snacks.** Keep grapes, celery sticks, orange slices, or berries on hand for snacks that double as hydration.
-  * **Sip during activities.** Whether you're gardening, walking, or reading, keeping a drink nearby encourages regular sipping.
+ * **Start your morning with water first.** Before coffee or breakfast, drink a full glass of water to make up for overnight fluid loss.
+ * **Pair drinking with daily habits.** Have a glass of water every time you take your medication, watch the news, or sit down for a meal.
+ * **Flavor your water naturally.** Add a slice of lemon, cucumber, or a few mint leaves if plain water feels unappealing.
+ * **Set gentle reminders.** A simple alarm on your phone or watch every two hours can nudge you to take a few sips.
+ * **Drink before you feel thirsty.** Since thirst signals are less reliable with age, use the clock rather than your body's prompts.
+ * **Choose hydrating snacks.** Keep grapes, celery sticks, orange slices, or berries on hand for snacks that double as hydration.
+ * **Sip during activities.** Whether you're gardening, walking, or reading, keeping a drink nearby encourages regular sipping.
 
 Don't force large amounts all at once. Small, steady sips throughout the day are just as effective, and much easier on your bladder and digestive system.
 
@@ -89,13 +89,13 @@ Because thirst becomes a less reliable signal with age, it helps to know the oth
 
 Watch for these warning signs:
 
-  * Dark yellow or amber-colored urine (pale yellow is the goal)
-  * Infrequent urination, going fewer than four times a day can be a concern
-  * Dry mouth, cracked lips, or dry skin
-  * Headaches or difficulty concentrating
-  * Feeling lightheaded when standing up
-  * Unusual fatigue or low energy in the afternoon
-  * Constipation or hard, difficult-to-pass stools
+ * Dark yellow or amber-colored urine (pale yellow is the goal)
+ * Infrequent urination, going fewer than four times a day can be a concern
+ * Dry mouth, cracked lips, or dry skin
+ * Headaches or difficulty concentrating
+ * Feeling lightheaded when standing up
+ * Unusual fatigue or low energy in the afternoon
+ * Constipation or hard, difficult-to-pass stools
 
 If you notice several of these signs together, increase your fluid intake right away and contact your doctor if symptoms are severe or don't improve within a few hours.
 

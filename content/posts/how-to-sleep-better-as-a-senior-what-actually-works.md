@@ -9,12 +9,12 @@ tags: ["sleep", "better", "senior", "actually", "works"]
 slug: "how-to-sleep-better-as-a-senior-what-actually-works"
 affiliate_disclosure: true
 faqs:
-  - q: "What's the best sleeping position for seniors?"
-    a: "Side sleeping is generally best for older adults, as it reduces sleep apnea risk and improves breathing. Back sleeping is second best, while stomach sleeping can strain your neck and should be avoided. Use a pillow between your knees if side sleeping to maintain spinal alignment and reduce hip pain."
-  - q: "Is melatonin safe for seniors to take?"
-    a: "Melatonin is generally safe for short-term use in older adults, typically at doses of 0.5-5 mg taken 30-60 minutes before bed. However, it works best when combined with good sleep habits rather than as a standalone solution. Always check with your doctor before starting melatonin, especially if you take other medications, as interactions are possible."
-  - q: "How long does it take to improve sleep as a senior?"
-    a: "Most people see improvements within 2-3 weeks of consistent sleep habit changes, though full benefits typically appear after 6-8 weeks. Your brain needs time to establish new patterns and associations with better sleep. Be patient and consistent, the changes you make now build better sleep for months and years ahead."
+ - q: "What's the best sleeping position for seniors?"
+ a: "Side sleeping is generally best for older adults, as it reduces sleep apnea risk and improves breathing. Back sleeping is second best, while stomach sleeping can strain your neck and should be avoided. Use a pillow between your knees if side sleeping to maintain spinal alignment and reduce hip pain."
+ - q: "Is melatonin safe for seniors to take?"
+ a: "Melatonin is generally safe for short-term use in older adults, typically at doses of 0.5-5 mg taken 30-60 minutes before bed. However, it works best when combined with good sleep habits rather than as a standalone solution. Always check with your doctor before starting melatonin, especially if you take other medications, as interactions are possible."
+ - q: "How long does it take to improve sleep as a senior?"
+ a: "Most people see improvements within 2-3 weeks of consistent sleep habit changes, though full benefits typically appear after 6-8 weeks. Your brain needs time to establish new patterns and associations with better sleep. Be patient and consistent, the changes you make now build better sleep for months and years ahead."
 author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Nutrition Writer"

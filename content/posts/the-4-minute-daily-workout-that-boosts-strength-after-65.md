@@ -11,10 +11,7 @@ author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
 slug: "the-4-minute-daily-workout-that-boosts-strength-after-65"
-affiliate_disclosure: true
----
-
-If you've been telling yourself that you just don't have time to exercise, or that anything worth doing has to take 30 to 45 minutes, new research published this spring is about to make that argument harder to hold onto. And honestly? I think that's a good thing.
+affiliate_disclosure: true, If you've been telling yourself that you just don't have time to exercise, or that anything worth doing has to take 30 to 45 minutes, new research published this spring is about to make that argument harder to hold onto. And honestly? I think that's a good thing.
 
 A randomized trial out of Penn State, published in *PLOS One* on March 12, 2026, found that older adults who did just four minutes of resistance training at home each day made real, measurable gains in strength, balance, and mobility after 12 weeks. Not marginal gains. Not "better than nothing" gains. The kind of gains that matter when you're trying to get up from a chair without holding on, or walking across an icy parking lot without bracing yourself.
 
@@ -58,11 +55,11 @@ The larger message from this research is one I've believed for a long time: the 
 
 ## Sources
 
-- [Four-minute daily workout improves strength, balance in older adults ,  Penn State University](https://www.psu.edu/news/research/story/four-minute-daily-workout-improves-strength-balance-older-adults) (June 2026)
-- [Brief daily functional strength training to improve functional performance in older adults with mobility disability: A randomized trial ,  PLOS One](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0336748) (March 12, 2026)
-- [Want to age better? Researchers say 4-minute routine may help prevent dangerous falls ,  Yahoo Health](https://health.yahoo.com/wellness/healthy-aging/mobility/articles/want-age-better-researchers-4-110050632.html) (June 2026)
-- [Four-minute daily exercise boosts strength and mobility in older adults ,  The Brighter Side of News](https://www.thebrighterside.news/post/four-minute-daily-exercise-boosts-strength-and-mobility-in-older-adults/) (Late June 2026)
-- [2026 ACSM Worldwide Fitness Trends ,  ACSM Health & Fitness Journal](https://journals.lww.com/acsm-healthfitness/fulltext/2025/11000/2026_acsm_worldwide_fitness_trends__future.8.aspx) (November 2025)
+- [Four-minute daily workout improves strength, balance in older adults , Penn State University](https://www.psu.edu/news/research/story/four-minute-daily-workout-improves-strength-balance-older-adults) (June 2026)
+- [Brief daily functional strength training to improve functional performance in older adults with mobility disability: A randomized trial , PLOS One](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0336748) (March 12, 2026)
+- [Want to age better? Researchers say 4-minute routine may help prevent dangerous falls , Yahoo Health](https://health.yahoo.com/wellness/healthy-aging/mobility/articles/want-age-better-researchers-4-110050632.html) (June 2026)
+- [Four-minute daily exercise boosts strength and mobility in older adults , The Brighter Side of News](https://www.thebrighterside.news/post/four-minute-daily-exercise-boosts-strength-and-mobility-in-older-adults/) (Late June 2026)
+- [2026 ACSM Worldwide Fitness Trends , ACSM Health & Fitness Journal](https://journals.lww.com/acsm-healthfitness/fulltext/2025/11000/2026_acsm_worldwide_fitness_trends__future.8.aspx) (November 2025)
 
 *Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
 

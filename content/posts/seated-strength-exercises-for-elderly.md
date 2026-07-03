@@ -13,16 +13,16 @@ author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted he
 slug: "seated-strength-exercises-for-elderly"
 affiliate_disclosure: true
 faqs:
-  - q: "Can seated exercises really improve balance?"
-    a: "Yes, more than most people expect. Exercises like seated marching and calf raises build the specific muscle groups that stabilize you when you're standing. They won't replace standing balance training forever, but they create the strength foundation that makes standing exercises safer when you're ready for them."
-  - q: "How many days a week should I do seated strength exercises?"
-    a: "Three days a week with at least one rest day between sessions is a solid target for most older adults. Two days a week still produces meaningful benefit and is a perfectly reasonable starting point. Seven days a week is too much and increases injury risk without increasing results."
-  - q: "I have osteoporosis. Are these exercises safe for me?"
-    a: "Most seated exercises are generally well-tolerated with osteoporosis, but you should get clearance from your physician or physical therapist before starting, particularly for any exercise that involves forward bending of the spine. Movements that load the spine in flexion can be problematic with significant vertebral involvement. Your doctor can tell you which movements to modify or avoid based on your bone density results."
-  - q: "What if I feel pain during an exercise?"
-    a: "Stop the movement. There's a real difference between the mild discomfort of muscles working and actual pain, and you know the difference better than any article can tell you. Sharp pain, joint pain, or pain that persists after stopping are all signals to stop and get that evaluated before continuing. Don't push through it."
-  - q: "Do I need equipment to get started?"
-    a: "No. Seated marching, knee extensions, ankle work, and calf raises require nothing but a sturdy chair. A resistance band (under $15) opens up a lot more options. Light dumbbells or even household items add more variety. You can build a meaningful routine with zero equipment and add tools gradually as you progress."
+ - q: "Can seated exercises really improve balance?"
+ a: "Yes, more than most people expect. Exercises like seated marching and calf raises build the specific muscle groups that stabilize you when you're standing. They won't replace standing balance training forever, but they create the strength foundation that makes standing exercises safer when you're ready for them."
+ - q: "How many days a week should I do seated strength exercises?"
+ a: "Three days a week with at least one rest day between sessions is a solid target for most older adults. Two days a week still produces meaningful benefit and is a perfectly reasonable starting point. Seven days a week is too much and increases injury risk without increasing results."
+ - q: "I have osteoporosis. Are these exercises safe for me?"
+ a: "Most seated exercises are generally well-tolerated with osteoporosis, but you should get clearance from your physician or physical therapist before starting, particularly for any exercise that involves forward bending of the spine. Movements that load the spine in flexion can be problematic with significant vertebral involvement. Your doctor can tell you which movements to modify or avoid based on your bone density results."
+ - q: "What if I feel pain during an exercise?"
+ a: "Stop the movement. There's a real difference between the mild discomfort of muscles working and actual pain, and you know the difference better than any article can tell you. Sharp pain, joint pain, or pain that persists after stopping are all signals to stop and get that evaluated before continuing. Don't push through it."
+ - q: "Do I need equipment to get started?"
+ a: "No. Seated marching, knee extensions, ankle work, and calf raises require nothing but a sturdy chair. A resistance band (under $15) opens up a lot more options. Light dumbbells or even household items add more variety. You can build a meaningful routine with zero equipment and add tools gradually as you progress."
 ---
 
 Most people who find their way to this page are sitting in a chair right now, wondering if that's a problem. It isn't. In fact, that chair might be exactly where your comeback starts.

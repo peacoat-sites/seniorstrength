@@ -8,12 +8,12 @@ categories: ["pain"]
 slug: "hip-replacement-exercises-for-seniors-weeks-1-12"
 affiliate_disclosure: true
 faqs:
-  - q: "How many times a day should seniors do hip replacement exercises?"
-    a: "During weeks 1 through 6, aim for 2 to 3 short sessions per day, with each session lasting 10 to 20 minutes. In weeks 7 through 12, you may consolidate into one longer daily session of 30 to 45 minutes. Always follow your physical therapist’s specific guidance."
-  - q: "Is it normal to feel sore after doing hip exercises?"
-    a: "Mild muscle soreness, similar to the feeling after a gentle workout, is completely normal and expected. What you should watch for is sharp, stabbing, or sudden pain, which could indicate you’ve overdone it or that something needs medical attention. A good rule of thumb: if your pain level rises above a 5 out of 10, rest and consult your care team."
-  - q: "When can seniors stop using a walker after hip replacement?"
-    a: "Most seniors transition from a walker to a cane around weeks 3 to 6, depending on their strength and balance. The full transition away from any walking aid often happens between weeks 6 and 10. Your physical therapist will assess your gait and confidence before recommending this change, don’t rush it on your own. Recovering from hip replacement surgery is one of the most positive steps you can take for your long-term health and quality of life. Every single exercise you do, no matter how small it seems, is moving you closer to the active, independent life you deserve. Be patient with your body"
+ - q: "How many times a day should seniors do hip replacement exercises?"
+ a: "During weeks 1 through 6, aim for 2 to 3 short sessions per day, with each session lasting 10 to 20 minutes. In weeks 7 through 12, you may consolidate into one longer daily session of 30 to 45 minutes. Always follow your physical therapist’s specific guidance."
+ - q: "Is it normal to feel sore after doing hip exercises?"
+ a: "Mild muscle soreness, similar to the feeling after a gentle workout, is completely normal and expected. What you should watch for is sharp, stabbing, or sudden pain, which could indicate you’ve overdone it or that something needs medical attention. A good rule of thumb: if your pain level rises above a 5 out of 10, rest and consult your care team."
+ - q: "When can seniors stop using a walker after hip replacement?"
+ a: "Most seniors transition from a walker to a cane around weeks 3 to 6, depending on their strength and balance. The full transition away from any walking aid often happens between weeks 6 and 10. Your physical therapist will assess your gait and confidence before recommending this change, don’t rush it on your own. Recovering from hip replacement surgery is one of the most positive steps you can take for your long-term health and quality of life. Every single exercise you do, no matter how small it seems, is moving you closer to the active, independent life you deserve. Be patient with your body"
 author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
@@ -36,11 +36,11 @@ Photo by [Centre for Ageing Better](https://unsplash.com/@ageing_better?utm_sour
 
 Before you start the weekly plan, there are a few ground rules every senior should follow. These precautions protect your new joint and keep you moving in the right direction.
 
-  * **Never bend your hip past 90 degrees**, avoid leaning forward sharply when sitting or rising.
-  * **Do not cross your legs**, this applies when sitting, lying down, or standing.
-  * **Always use your walker or cane** as directed by your physical therapist.
-  * **Stop if you feel sharp pain**, mild soreness is normal, but sharp or sudden pain is a signal to rest and call your doctor.
-  * **Wear supportive footwear**, non-slip shoes reduce fall risk significantly.
+ * **Never bend your hip past 90 degrees**, avoid leaning forward sharply when sitting or rising.
+ * **Do not cross your legs**, this applies when sitting, lying down, or standing.
+ * **Always use your walker or cane** as directed by your physical therapist.
+ * **Stop if you feel sharp pain**, mild soreness is normal, but sharp or sudden pain is a signal to rest and call your doctor.
+ * **Wear supportive footwear**, non-slip shoes reduce fall risk significantly.
 
 These rules apply most strictly during weeks 1 through 6. Your surgeon will let you know when restrictions can be eased based on your individual progress.
 

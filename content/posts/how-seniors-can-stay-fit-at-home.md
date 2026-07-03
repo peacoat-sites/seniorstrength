@@ -13,16 +13,16 @@ author_bio: "Helen Santos has been teaching fitness classes designed for adults 
 slug: "how-seniors-can-stay-fit-at-home"
 affiliate_disclosure: true
 faqs:
-  - q: "How many days a week should seniors exercise at home?"
-    a: "Most adults over 60 benefit from a combination of strength training two to three days a week, balance work three days a week (can overlap with strength days), and cardiovascular activity five to seven days. That sounds like a lot on paper; in practice, a 35-minute session can cover two categories at once."
-  - q: "Is it safe to lift weights at home without supervision?"
-    a: "Yes, for most people, with a few conditions: start with a weight you can control through the full range of motion with good form, progress gradually rather than jumping to heavier loads, and learn the movement patterns first with light or no weight. If you have a specific injury history or recent surgery, get clearance first and consider one session with a physical therapist to establish your baseline."
-  - q: "What's the best exercise to prevent falls?"
-    a: "Single-leg balance progressions combined with hip and ankle strengthening give you the most direct fall-prevention return. No single exercise wins outright, but if I had to pick one starting point for someone specifically concerned about falling, it's standing on one leg with eyes closed, practiced daily, progressed over time."
-  - q: "Can I build real muscle after 60?"
-    a: "Yes. The research on this has gotten significantly clearer over the past decade. Older adults build muscle more slowly than younger adults and require slightly higher protein intake to support it (most guidelines currently suggest around 1.2-1.6 grams per kilogram of body weight per day for active older adults), but the process works. The window doesn't close at 60 or 70 or even 80."
-  - q: "What if getting up and down from the floor is difficult?"
-    a: "Work on it specifically, because floor transfers are a key functional skill and losing them correlates with reduced independence. Practice getting down and up using a chair for support. Over time, reduce how much support you use. If it's painful rather than just challenging, that's worth investigating with a physical therapist before pushing through."
+ - q: "How many days a week should seniors exercise at home?"
+ a: "Most adults over 60 benefit from a combination of strength training two to three days a week, balance work three days a week (can overlap with strength days), and cardiovascular activity five to seven days. That sounds like a lot on paper; in practice, a 35-minute session can cover two categories at once."
+ - q: "Is it safe to lift weights at home without supervision?"
+ a: "Yes, for most people, with a few conditions: start with a weight you can control through the full range of motion with good form, progress gradually rather than jumping to heavier loads, and learn the movement patterns first with light or no weight. If you have a specific injury history or recent surgery, get clearance first and consider one session with a physical therapist to establish your baseline."
+ - q: "What's the best exercise to prevent falls?"
+ a: "Single-leg balance progressions combined with hip and ankle strengthening give you the most direct fall-prevention return. No single exercise wins outright, but if I had to pick one starting point for someone specifically concerned about falling, it's standing on one leg with eyes closed, practiced daily, progressed over time."
+ - q: "Can I build real muscle after 60?"
+ a: "Yes. The research on this has gotten significantly clearer over the past decade. Older adults build muscle more slowly than younger adults and require slightly higher protein intake to support it (most guidelines currently suggest around 1.2-1.6 grams per kilogram of body weight per day for active older adults), but the process works. The window doesn't close at 60 or 70 or even 80."
+ - q: "What if getting up and down from the floor is difficult?"
+ a: "Work on it specifically, because floor transfers are a key functional skill and losing them correlates with reduced independence. Practice getting down and up using a chair for support. Over time, reduce how much support you use. If it's painful rather than just challenging, that's worth investigating with a physical therapist before pushing through."
 ---
 
 Most home fitness advice for older adults is either condescendingly simple or quietly dangerous. You'll find articles recommending chair sits and wall push-ups alongside breathless enthusiasm for "senior-friendly" routines that, in practice, do almost nothing to build the strength and balance that actually keep you upright and independent. The gap between feel-good content and genuinely effective training is wide, and most people land in it.

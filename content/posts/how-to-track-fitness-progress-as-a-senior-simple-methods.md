@@ -8,12 +8,12 @@ categories: ["lifestyle"]
 slug: "how-to-track-fitness-progress-as-a-senior-simple-methods"
 affiliate_disclosure: true
 faqs:
-  - q: "How often should seniors track their fitness progress?"
-    a: "For daily activity, a quick log each evening works well, just jot down what you did and how you felt. For measurable tests like chair stands or walking distance, once a month is ideal. Checking in too often can feel discouraging since changes happen gradually, but monthly snapshots clearly show meaningful improvement over time."
-  - q: "Is it safe for seniors to set fitness goals without a doctor’s input?"
-    a: "For gentle activities like walking, stretching, and light strength work, most healthy seniors can set their own goals safely. However, if you have heart disease, diabetes, joint replacements, osteoporosis, or other chronic conditions, it’s always wise to check with your physician before starting or intensifying any fitness routine. Your doctor can also help you set realistic, safe benchmarks to work toward."
-  - q: "What if my fitness numbers go down some months?"
-    a: "A temporary dip in performance is completely normal and happens to everyone, including elite athletes. Illness, stress, poor sleep, seasonal changes, or simply a busier week can all affect results. Don’t be discouraged. Look at your trend over three to six months rather than obsessing over a single measurement. The long-term direction is what truly matters for your health."
+ - q: "How often should seniors track their fitness progress?"
+ a: "For daily activity, a quick log each evening works well, just jot down what you did and how you felt. For measurable tests like chair stands or walking distance, once a month is ideal. Checking in too often can feel discouraging since changes happen gradually, but monthly snapshots clearly show meaningful improvement over time."
+ - q: "Is it safe for seniors to set fitness goals without a doctor’s input?"
+ a: "For gentle activities like walking, stretching, and light strength work, most healthy seniors can set their own goals safely. However, if you have heart disease, diabetes, joint replacements, osteoporosis, or other chronic conditions, it’s always wise to check with your physician before starting or intensifying any fitness routine. Your doctor can also help you set realistic, safe benchmarks to work toward."
+ - q: "What if my fitness numbers go down some months?"
+ a: "A temporary dip in performance is completely normal and happens to everyone, including elite athletes. Illness, stress, poor sleep, seasonal changes, or simply a busier week can all affect results. Don’t be discouraged. Look at your trend over three to six months rather than obsessing over a single measurement. The long-term direction is what truly matters for your health."
 author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Nutrition Writer"
