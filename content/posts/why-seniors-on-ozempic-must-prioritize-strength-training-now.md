@@ -11,10 +11,7 @@ author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
 slug: "why-seniors-on-ozempic-must-prioritize-strength-training-now"
-affiliate_disclosure: true
----
-
-If you're over 60 and you've started taking Ozempic, Wegovy, or another GLP-1 medication, you're probably feeling some version of cautious optimism right now. The weight is moving. Your doctor seems pleased. Maybe your knees feel a little better going up stairs. What you might not be expecting is a warning that arrives not from your scale, but from your muscles, and it's one that a major piece of new research is making impossible to ignore.
+affiliate_disclosure: true, If you're over 60 and you've started taking Ozempic, Wegovy, or another GLP-1 medication, you're probably feeling some version of cautious optimism right now. The weight is moving. Your doctor seems pleased. Maybe your knees feel a little better going up stairs. What you might not be expecting is a warning that arrives not from your scale, but from your muscles, and it's one that a major piece of new research is making impossible to ignore.
 
 At the Endocrine Society's ENDO 2026 conference in Chicago on June 14, researchers presented findings that should be landing on every prescribing physician's radar. Using Fitbit data linked to the NIH's All of Us Research Program, the study found that people who started GLP-1 medications took 560 fewer steps per day and did nearly six fewer minutes of moderate-to-vigorous physical activity every day after beginning treatment. That's not a rounding error. That's a meaningful, measurable drop in the movement that older bodies depend on to stay functional.
 
@@ -60,12 +57,12 @@ Please consult your physician, a registered dietitian, and a qualified fitness p
 
 ## Sources
 
-- [GLP-1 Users Walk 560 Fewer Steps Per Day, ENDO 2026 ,  Medical Daily](https://www.medicaldaily.com/glp1-ozempic-wegovy-physical-activity-decline-endo-2026-fitbit-study-475671) (June 17, 2026)
-- [Exercise Decreases Among People Taking GLP-1 Medication ,  Endocrine Society](https://www.endocrine.org/news-and-advocacy/news-room/2026/maharjan-press-release-endo-2026) (June 14, 2026)
-- [People Taking GLP-1 Drugs Started Moving Less ,  Science Daily](https://www.sciencedaily.com/releases/2026/06/260614011841.htm) (June 14, 2026)
-- [Combatting Muscle Loss in GLP-1 Patients Through Exercise ,  ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT07554417) (April 28, 2026)
-- [Weighing the Risk of GLP-1 Treatment in Older Adults: Sarcopenic Obesity ,  PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12391595/) (June 2026)
-- [Top Fitness Trends for 2026 ,  ACSM](https://acsm.org/top-fitness-trends-2026/) (May 11, 2026)
+- [GLP-1 Users Walk 560 Fewer Steps Per Day, ENDO 2026 , Medical Daily](https://www.medicaldaily.com/glp1-ozempic-wegovy-physical-activity-decline-endo-2026-fitbit-study-475671) (June 17, 2026)
+- [Exercise Decreases Among People Taking GLP-1 Medication , Endocrine Society](https://www.endocrine.org/news-and-advocacy/news-room/2026/maharjan-press-release-endo-2026) (June 14, 2026)
+- [People Taking GLP-1 Drugs Started Moving Less , Science Daily](https://www.sciencedaily.com/releases/2026/06/260614011841.htm) (June 14, 2026)
+- [Combatting Muscle Loss in GLP-1 Patients Through Exercise , ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT07554417) (April 28, 2026)
+- [Weighing the Risk of GLP-1 Treatment in Older Adults: Sarcopenic Obesity , PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12391595/) (June 2026)
+- [Top Fitness Trends for 2026 , ACSM](https://acsm.org/top-fitness-trends-2026/) (May 11, 2026)
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 
@@ -79,6 +76,6 @@ Please consult your physician, a registered dietitian, and a qualified fitness p
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

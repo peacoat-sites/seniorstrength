@@ -11,10 +11,7 @@ author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
 slug: "your-medicare-fitness-benefit-may-have-changed-in-2026"
-affiliate_disclosure: true
----
-
-Most Medicare Advantage enrollees have no idea their gym benefit quietly changed this year. They'll find out the hard way: showing up at a gym that's no longer covered, or discovering mid-year that their SilverSneakers access was restructured into something narrower and harder to use. That's not a hypothetical. It's happening right now, and the timing couldn't be more ironic.
+affiliate_disclosure: true, Most Medicare Advantage enrollees have no idea their gym benefit quietly changed this year. They'll find out the hard way: showing up at a gym that's no longer covered, or discovering mid-year that their SilverSneakers access was restructured into something narrower and harder to use. That's not a hypothetical. It's happening right now, and the timing couldn't be more ironic.
 
 ## The Benefit You Thought You Had May Not Exist Anymore
 
@@ -60,11 +57,11 @@ What you can control is whether you're caught off guard. Verify your specific be
 
 ## Sources
 
-- [Medicare Advantage Plans Are Quietly Dropping Popular Senior Benefits in 2026 ,  SavingAdvice](https://www.savingadvice.com/articles/2026/05/06/10734201_medicare-advantage-plans-are-quietly-dropping-popular-senior-benefits-in-2026.html) (May 6, 2026)
-- [Does Medicare Cover Exercise Programs? ,  Medicare.org](https://www.medicare.org/articles/does-medicare-supplement-plan-g-cover-gym-memberships/) (February 18, 2026)
-- [2026 ACSM Worldwide Fitness Trends ,  ACSM.org](https://acsm.org/top-fitness-trends-2026/) (November 2025, reconfirmed June 2026)
-- [2026 ACSM Worldwide Fitness Trends Full Report ,  ACSM Health & Fitness Journal](https://journals.lww.com/acsm-healthfitness/fulltext/2025/11000/2026_acsm_worldwide_fitness_trends__future.8.aspx) (November/December 2025)
-- [Senior Medicare-Linked Preventive Fitness Programs Market Report 2034 ,  MarketIntelo](https://marketintelo.com/report/senior-55-medicare-linked-preventive-fitness-programs-market/amp) (June 2026)
+- [Medicare Advantage Plans Are Quietly Dropping Popular Senior Benefits in 2026 , SavingAdvice](https://www.savingadvice.com/articles/2026/05/06/10734201_medicare-advantage-plans-are-quietly-dropping-popular-senior-benefits-in-2026.html) (May 6, 2026)
+- [Does Medicare Cover Exercise Programs? , Medicare.org](https://www.medicare.org/articles/does-medicare-supplement-plan-g-cover-gym-memberships/) (February 18, 2026)
+- [2026 ACSM Worldwide Fitness Trends , ACSM.org](https://acsm.org/top-fitness-trends-2026/) (November 2025, reconfirmed June 2026)
+- [2026 ACSM Worldwide Fitness Trends Full Report , ACSM Health & Fitness Journal](https://journals.lww.com/acsm-healthfitness/fulltext/2025/11000/2026_acsm_worldwide_fitness_trends__future.8.aspx) (November/December 2025)
+- [Senior Medicare-Linked Preventive Fitness Programs Market Report 2034 , MarketIntelo](https://marketintelo.com/report/senior-55-medicare-linked-preventive-fitness-programs-market/amp) (June 2026)
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
 

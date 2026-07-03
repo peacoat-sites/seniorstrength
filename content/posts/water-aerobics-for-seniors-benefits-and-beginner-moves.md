@@ -8,12 +8,12 @@ categories: ["exercise"]
 slug: "water-aerobics-for-seniors-benefits-and-beginner-moves"
 affiliate_disclosure: true
 faqs:
-  - q: "Do I need to know how to swim to do water aerobics?"
-    a: "No, and this surprises many people! Water aerobics classes for seniors take place in the shallow end of the pool where you can stand comfortably. Your face stays out of the water the entire time. You don’t need any swimming ability whatsoever."
-  - q: "How often should seniors do water aerobics to see results?"
-    a: "Most health guidelines recommend aiming for at least 150 minutes of moderate exercise per week. For water aerobics, that means attending three to four 45-minute classes per week. Even two classes a week will produce noticeable improvements in strength, flexibility, and energy levels within a few weeks."
-  - q: "Is water aerobics good for seniors with arthritis?"
-    a: "Absolutely, it’s actually one of the most recommended exercises for people with arthritis. The Arthritis Foundation specifically endorses aquatic exercise because the warm water soothes inflamed joints while the buoyancy removes the pressure that makes land-based exercise painful. Many seniors with arthritis report significant reductions in joint pain after just a few weeks of regular water aerobics."
+ - q: "Do I need to know how to swim to do water aerobics?"
+ a: "No, and this surprises many people! Water aerobics classes for seniors take place in the shallow end of the pool where you can stand comfortably. Your face stays out of the water the entire time. You don’t need any swimming ability whatsoever."
+ - q: "How often should seniors do water aerobics to see results?"
+ a: "Most health guidelines recommend aiming for at least 150 minutes of moderate exercise per week. For water aerobics, that means attending three to four 45-minute classes per week. Even two classes a week will produce noticeable improvements in strength, flexibility, and energy levels within a few weeks."
+ - q: "Is water aerobics good for seniors with arthritis?"
+ a: "Absolutely, it’s actually one of the most recommended exercises for people with arthritis. The Arthritis Foundation specifically endorses aquatic exercise because the warm water soothes inflamed joints while the buoyancy removes the pressure that makes land-based exercise painful. Many seniors with arthritis report significant reductions in joint pain after just a few weeks of regular water aerobics."
 author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"

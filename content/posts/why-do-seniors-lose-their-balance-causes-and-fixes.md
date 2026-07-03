@@ -2,18 +2,18 @@
 title: "Why do seniors lose their balance? Causes and fixes"
 date: 2026-05-26T00:06:15.552482+00:00
 draft: false
-description: "Discover why seniors lose balance and what you can do about it. Learn the real causes,  from muscle weakness to medications,  and get practical, proven fixes"
+description: "Discover why seniors lose balance and what you can do about it. Learn the real causes, from muscle weakness to medications, and get practical, proven fixes"
 image: "https://images.pexels.com/photos/8939960/pexels-photo-8939960.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["balance"]
 slug: "why-do-seniors-lose-their-balance-causes-and-fixes"
 affiliate_disclosure: true
 faqs:
-  - q: "At what age do balance problems typically start?"
-    a: "Most people begin to notice subtle balance changes in their 50s, with more noticeable differences appearing in the 60s and 70s. However, the timeline varies widely depending on activity level, health conditions, and lifestyle habits. Staying active is the best way to delay and minimize these changes."
-  - q: "Is it normal to feel dizzy when standing up quickly?"
-    a: "Occasional lightheadedness when standing up quickly is common and is usually caused by a temporary drop in blood pressure called orthostatic hypotension. It becomes more common with age and with certain medications. If it happens frequently, mention it to your doctor, as it can be a significant fall risk."
-  - q: "Can balance really improve with exercise, or is that just for younger people?"
-    a: "Balance absolutely can improve with exercise at any age, including in people in their 80s and 90s. Clinical studies have shown that consistent balance and strength training can reduce fall risk by 20 to 40 percent in older adults. The key is starting gently, being consistent, and choosing exercises appropriate for your current fitness level. Remember, every small step you take toward better balance is an investment in your independence, your confidence, and your quality of life. You deserve to move through the world feeling safe and strong, and with the right knowledge and habits, that is comp"
+ - q: "At what age do balance problems typically start?"
+ a: "Most people begin to notice subtle balance changes in their 50s, with more noticeable differences appearing in the 60s and 70s. However, the timeline varies widely depending on activity level, health conditions, and lifestyle habits. Staying active is the best way to delay and minimize these changes."
+ - q: "Is it normal to feel dizzy when standing up quickly?"
+ a: "Occasional lightheadedness when standing up quickly is common and is usually caused by a temporary drop in blood pressure called orthostatic hypotension. It becomes more common with age and with certain medications. If it happens frequently, mention it to your doctor, as it can be a significant fall risk."
+ - q: "Can balance really improve with exercise, or is that just for younger people?"
+ a: "Balance absolutely can improve with exercise at any age, including in people in their 80s and 90s. Clinical studies have shown that consistent balance and strength training can reduce fall risk by 20 to 40 percent in older adults. The key is starting gently, being consistent, and choosing exercises appropriate for your current fitness level. Remember, every small step you take toward better balance is an investment in your independence, your confidence, and your quality of life. You deserve to move through the world feeling safe and strong, and with the right knowledge and habits, that is comp"
 author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
@@ -32,9 +32,9 @@ Photo by [Age Cymru](https://unsplash.com/@agecymru?utm_source=seniorstrength&ut
 
 Balance doesn't come from one thing. Your body uses three separate systems that have to work together.
 
-  * **Vision:** Your eyes report where you are in space.
-  * **Inner ear (vestibular system):** Tiny fluid-filled canals detect motion and head position.
-  * **Proprioception:** Sensors in your muscles and joints tell your brain how your body is positioned.
+ * **Vision:** Your eyes report where you are in space.
+ * **Inner ear (vestibular system):** Tiny fluid-filled canals detect motion and head position.
+ * **Proprioception:** Sensors in your muscles and joints tell your brain how your body is positioned.
 
 When one of these systems weakens, which happens naturally with age, your balance suffers. When two or three go at the same time, fall risk shoots up significantly.
 
@@ -60,11 +60,11 @@ BPPV is actually very common in older adults. And here's the thing: it's highly 
 
 This one catches people off guard. Certain medications, especially combinations of them, are a leading cause of dizziness and falls in seniors. These drugs commonly cause problems with balance:
 
-  * Blood pressure medications (can drop your pressure too fast when you stand)
-  * Sedatives and sleep aids
-  * Antidepressants and anti-anxiety medications
-  * Diuretics (water pills)
-  * Some antihistamines
+ * Blood pressure medications (can drop your pressure too fast when you stand)
+ * Sedatives and sleep aids
+ * Antidepressants and anti-anxiety medications
+ * Diuretics (water pills)
+ * Some antihistamines
 
 Did you start a new medication recently and feel less steady? Tell your doctor. Don't stop taking anything on your own, but a medication review can sometimes change everything.
 
@@ -86,11 +86,11 @@ Photo by [TSquared Lab](https://unsplash.com/@tsquaredlab?utm_source=seniorstren
 
 Medical causes are one thing. But everyday habits chip away at your stability in ways most people never think about.
 
-  * **Sedentary lifestyle:** The less you move, the faster you lose the muscle and coordination needed for balance.
-  * **Dehydration:** Even mild dehydration causes lightheadedness and dizziness, especially when standing up.
-  * **Poor footwear:** Worn-out soles, high heels, or loose slippers are among the most common tripping hazards.
-  * **Alcohol consumption:** Even small amounts affect the cerebellum, the part of your brain that controls coordination.
-  * **Fear of falling:** Ironically, the fear itself causes people to stiffen up and shuffle, which actually increases fall risk.
+ * **Sedentary lifestyle:** The less you move, the faster you lose the muscle and coordination needed for balance.
+ * **Dehydration:** Even mild dehydration causes lightheadedness and dizziness, especially when standing up.
+ * **Poor footwear:** Worn-out soles, high heels, or loose slippers are among the most common tripping hazards.
+ * **Alcohol consumption:** Even small amounts affect the cerebellum, the part of your brain that controls coordination.
+ * **Fear of falling:** Ironically, the fear itself causes people to stiffen up and shuffle, which actually increases fall risk.
 
 **Pro Tip:** Check your footwear right now. Shoes with a firm, non-slip sole, a low heel, and a snug fit around the ankle work dramatically better than slippers or worn sneakers. This single change can make a noticeable difference within days.
 
@@ -102,10 +102,10 @@ The most important thing to know is this: balance can be improved at any age. Re
 
 Simple exercises done consistently retrain your nervous system and strengthen the muscles keeping you steady. Try these:
 
-  * **Single-leg stand:** Hold a countertop and stand on one foot for 10 to 30 seconds.
-  * **Heel-to-toe walking:** Walk in a straight line placing one foot directly in front of the other.
-  * **Sit-to-stand exercises:** Rising from a chair without using your hands builds leg and hip strength.
-  * **Tai Chi:** Multiple studies show Tai Chi reduces falls by up to 45 percent in older adults.
+ * **Single-leg stand:** Hold a countertop and stand on one foot for 10 to 30 seconds.
+ * **Heel-to-toe walking:** Walk in a straight line placing one foot directly in front of the other.
+ * **Sit-to-stand exercises:** Rising from a chair without using your hands builds leg and hip strength.
+ * **Tai Chi:** Multiple studies show Tai Chi reduces falls by up to 45 percent in older adults.
 
 Aim for at least two to three balance-focused sessions per week. Even 10 minutes a day leads to meaningful improvement over time.
 
@@ -113,11 +113,11 @@ Aim for at least two to three balance-focused sessions per week. Even 10 minutes
 
 Your environment matters as much as your physical fitness. A few simple changes remove the hazards that cause most falls.
 
-  * Install grab bars in the shower and beside the toilet
-  * Remove loose rugs or secure them with non-slip tape
-  * Improve lighting in hallways and staircases
-  * Keep frequently used items at waist height
-  * Use a nightlight between the bedroom and bathroom
+ * Install grab bars in the shower and beside the toilet
+ * Remove loose rugs or secure them with non-slip tape
+ * Improve lighting in hallways and staircases
+ * Keep frequently used items at waist height
+ * Use a nightlight between the bedroom and bathroom
 
 ### Talking to Your Doctor
 
