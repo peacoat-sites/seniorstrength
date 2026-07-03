@@ -11,7 +11,9 @@ author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
 slug: "strength-training-is-now-essential-for-older-adults-on-glp-1-drugs"
-affiliate_disclosure: true, If you're over 60 and taking a GLP-1 drug like Ozempic or Wegovy, the conversation around these medications has almost entirely focused on one metric: weight lost. What it's glossed over, until now, is what else you're losing alongside it.
+affiliate_disclosure: true
+---
+If you're over 60 and taking a GLP-1 drug like Ozempic or Wegovy, the conversation around these medications has almost entirely focused on one metric: weight lost. What it's glossed over, until now, is what else you're losing alongside it.
 
 A study of 753 GLP-1 users presented at the Endocrine Society's ENDO 2026 conference in Chicago this month found that after starting medication, participants dropped an average of 560 daily steps and lost 5.7 minutes of moderate-to-vigorous activity per day. For a younger, otherwise healthy adult, that's a nuisance. For an adult over 60 who is already fighting age-related muscle loss, it's a compounding problem that can genuinely alter how you function five years from now.
 

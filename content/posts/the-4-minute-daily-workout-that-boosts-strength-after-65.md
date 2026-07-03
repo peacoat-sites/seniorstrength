@@ -11,7 +11,9 @@ author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
 slug: "the-4-minute-daily-workout-that-boosts-strength-after-65"
-affiliate_disclosure: true, If you've been telling yourself that you just don't have time to exercise, or that anything worth doing has to take 30 to 45 minutes, new research published this spring is about to make that argument harder to hold onto. And honestly? I think that's a good thing.
+affiliate_disclosure: true
+---
+If you've been telling yourself that you just don't have time to exercise, or that anything worth doing has to take 30 to 45 minutes, new research published this spring is about to make that argument harder to hold onto. And honestly? I think that's a good thing.
 
 A randomized trial out of Penn State, published in *PLOS One* on March 12, 2026, found that older adults who did just four minutes of resistance training at home each day made real, measurable gains in strength, balance, and mobility after 12 weeks. Not marginal gains. Not "better than nothing" gains. The kind of gains that matter when you're trying to get up from a chair without holding on, or walking across an icy parking lot without bracing yourself.
 

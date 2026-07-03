@@ -11,7 +11,9 @@ author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
 slug: "your-medicare-fitness-benefit-may-have-changed-in-2026"
-affiliate_disclosure: true, Most Medicare Advantage enrollees have no idea their gym benefit quietly changed this year. They'll find out the hard way: showing up at a gym that's no longer covered, or discovering mid-year that their SilverSneakers access was restructured into something narrower and harder to use. That's not a hypothetical. It's happening right now, and the timing couldn't be more ironic.
+affiliate_disclosure: true
+---
+Most Medicare Advantage enrollees have no idea their gym benefit quietly changed this year. They'll find out the hard way: showing up at a gym that's no longer covered, or discovering mid-year that their SilverSneakers access was restructured into something narrower and harder to use. That's not a hypothetical. It's happening right now, and the timing couldn't be more ironic.
 
 ## The Benefit You Thought You Had May Not Exist Anymore
 

@@ -11,7 +11,9 @@ author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
 slug: "the-4-minute-daily-workout-that-builds-real-strength-after-65"
-affiliate_disclosure: true, Picture this: it's a Tuesday morning and you're already negotiating with yourself about whether today is really the day to do those exercises your doctor mentioned. The routine you found online takes 45 minutes. You'd need to change clothes. Your knee has been a little off. By 9 a.m., you've talked yourself out of it, same as last week.
+affiliate_disclosure: true
+---
+Picture this: it's a Tuesday morning and you're already negotiating with yourself about whether today is really the day to do those exercises your doctor mentioned. The routine you found online takes 45 minutes. You'd need to change clothes. Your knee has been a little off. By 9 a.m., you've talked yourself out of it, same as last week.
 
 I've seen this play out hundreds of times. The intention is there. The follow-through isn't. And here's what gets me: most people quietly blame themselves when the real problem is that the programs we've been handed were never designed with actual human behavior in mind.
 

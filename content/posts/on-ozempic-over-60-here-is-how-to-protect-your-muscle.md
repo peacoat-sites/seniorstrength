@@ -11,7 +11,9 @@ author_slug: "robert-davis"
 author_title: "Nutrition Writer"
 author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
 slug: "on-ozempic-over-60-here-is-how-to-protect-your-muscle"
-affiliate_disclosure: true, Something important got buried last month. At the Endocrine Society's annual meeting in Chicago, research presented on June 14 found that people taking GLP-1 drugs like Ozempic, Wegovy, Mounjaro, and Zepbound actually became *less* physically active after starting treatment. Fewer steps. Less time exercising. The drug suppresses appetite so effectively that it apparently suppresses the urge to move, too. For anyone under 50 with solid muscle reserves, that's inconvenient. For adults over 60, it's a genuinely dangerous combination.
+affiliate_disclosure: true
+---
+Something important got buried last month. At the Endocrine Society's annual meeting in Chicago, research presented on June 14 found that people taking GLP-1 drugs like Ozempic, Wegovy, Mounjaro, and Zepbound actually became *less* physically active after starting treatment. Fewer steps. Less time exercising. The drug suppresses appetite so effectively that it apparently suppresses the urge to move, too. For anyone under 50 with solid muscle reserves, that's inconvenient. For adults over 60, it's a genuinely dangerous combination.
 
 Nearly 40% of adults 60 and older qualified as obese in 2023, according to the CDC. GLP-1 prescriptions in this age group have surged accordingly. Millions of older adults are on these drugs, losing weight, and feeling better about the number on the scale. What they may not realize is that some of what they're losing isn't fat, and that matters more than most doctors are telling them.
 

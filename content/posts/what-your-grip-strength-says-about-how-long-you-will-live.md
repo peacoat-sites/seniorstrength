@@ -11,7 +11,9 @@ author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
 slug: "what-your-grip-strength-says-about-how-long-you-will-live"
-affiliate_disclosure: true, Most coverage of this study led with "grip strength predicts longevity" and then offered some vague advice about squeezing a stress ball. That misses the point almost completely. The research published in *JAMA Network Open* on February 13, 2026 is more specific, more rigorous, and more actionable than the headlines suggested , and if you're over 60, it deserves more than a skim.
+affiliate_disclosure: true
+---
+Most coverage of this study led with "grip strength predicts longevity" and then offered some vague advice about squeezing a stress ball. That misses the point almost completely. The research published in *JAMA Network Open* on February 13, 2026 is more specific, more rigorous, and more actionable than the headlines suggested , and if you're over 60, it deserves more than a skim.
 
 The University at Buffalo tracked 5,400 women aged 63 to 99 over eight years using accelerometers, not self-reported surveys. That distinction matters. Self-reported activity data is notoriously optimistic. Accelerometers measure what your body actually does. The result: women with the highest grip strength had a 33% lower risk of death than those with the lowest. Every 7 kg increase in grip strength corresponded to roughly a 12% drop in mortality risk. Faster chair-stand times, a proxy for leg strength, were linked to a 4% lower mortality rate per 6-second improvement.
 

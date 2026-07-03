@@ -11,7 +11,9 @@ author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
 slug: "why-seniors-on-ozempic-must-prioritize-strength-training-now"
-affiliate_disclosure: true, If you're over 60 and you've started taking Ozempic, Wegovy, or another GLP-1 medication, you're probably feeling some version of cautious optimism right now. The weight is moving. Your doctor seems pleased. Maybe your knees feel a little better going up stairs. What you might not be expecting is a warning that arrives not from your scale, but from your muscles, and it's one that a major piece of new research is making impossible to ignore.
+affiliate_disclosure: true
+---
+If you're over 60 and you've started taking Ozempic, Wegovy, or another GLP-1 medication, you're probably feeling some version of cautious optimism right now. The weight is moving. Your doctor seems pleased. Maybe your knees feel a little better going up stairs. What you might not be expecting is a warning that arrives not from your scale, but from your muscles, and it's one that a major piece of new research is making impossible to ignore.
 
 At the Endocrine Society's ENDO 2026 conference in Chicago on June 14, researchers presented findings that should be landing on every prescribing physician's radar. Using Fitbit data linked to the NIH's All of Us Research Program, the study found that people who started GLP-1 medications took 560 fewer steps per day and did nearly six fewer minutes of moderate-to-vigorous physical activity every day after beginning treatment. That's not a rounding error. That's a meaningful, measurable drop in the movement that older bodies depend on to stay functional.
 
