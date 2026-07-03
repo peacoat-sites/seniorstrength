@@ -14,15 +14,15 @@ slug: "how-to-prevent-falls-in-elderly-at-home"
 affiliate_disclosure: true
 faqs:
  - q: "What is the most common cause of falls in older adults at home?"
- a: "Muscle weakness and balance problems are the leading physical contributors, often combined with environmental hazards like poor lighting, loose rugs, and slippery bathroom surfaces. Medications, particularly combinations of four or more, are a frequently underestimated factor."
+   a: "Muscle weakness and balance problems are the leading physical contributors, often combined with environmental hazards like poor lighting, loose rugs, and slippery bathroom surfaces. Medications, particularly combinations of four or more, are a frequently underestimated factor."
  - q: "Should I be worried if an elderly parent has already had one fall?"
- a: "Yes, and this is supported by research: one fall meaningfully increases the risk of another. A single fall warrants a conversation with their doctor about balance assessment, medication review, and whether a physical therapist referral makes sense."
+   a: "Yes, and this is supported by research: one fall meaningfully increases the risk of another. A single fall warrants a conversation with their doctor about balance assessment, medication review, and whether a physical therapist referral makes sense."
  - q: "Are grab bars hard to install, and can I use a tension-mounted one instead?"
- a: "Tension-mounted grab bars (the kind that don't require drilling) are not safe for weight-bearing use. They can shift or give way unexpectedly. A proper grab bar should be anchored into wall studs. If there's no stud where you need the bar, a blocking board or wall anchor rated for the appropriate load is needed. This is worth hiring someone to do correctly."
+   a: "Tension-mounted grab bars (the kind that don't require drilling) are not safe for weight-bearing use. They can shift or give way unexpectedly. A proper grab bar should be anchored into wall studs. If there's no stud where you need the bar, a blocking board or wall anchor rated for the appropriate load is needed. This is worth hiring someone to do correctly."
  - q: "At what age should someone start fall prevention exercises?"
- a: "Honestly, the earlier the better, because balance and leg strength are easier to maintain than to rebuild. But starting in your 60s or 70s absolutely still produces real results. The research supports meaningful improvements in balance and fall rates even when training begins in the 80s."
+   a: "Honestly, the earlier the better, because balance and leg strength are easier to maintain than to rebuild. But starting in your 60s or 70s absolutely still produces real results. The research supports meaningful improvements in balance and fall rates even when training begins in the 80s."
  - q: "Does a cane or walker help prevent falls, or does it create dependency?"
- a: "Used correctly, both can reduce fall risk significantly, and neither creates dependency in the way people fear. The bigger risk is avoiding a mobility aid out of pride and falling as a result. A physical therapist can assess which device (if any) is appropriate and, critically, make sure the person knows how to use it correctly. Many people use canes at the wrong height, which actually increases instability."
+   a: "Used correctly, both can reduce fall risk significantly, and neither creates dependency in the way people fear. The bigger risk is avoiding a mobility aid out of pride and falling as a result. A physical therapist can assess which device (if any) is appropriate and, critically, make sure the person knows how to use it correctly. Many people use canes at the wrong height, which actually increases instability."
 ---
 Every 11 seconds, an older adult is treated in an emergency room for a fall-related injury. I've watched that statistic play out in real lives, and it never gets easier. What does get easier, though, is knowing what actually prevents falls versus what just makes people feel like they're doing something.
 

@@ -14,15 +14,15 @@ slug: "chair-yoga-for-seniors-beginners"
 affiliate_disclosure: true
 faqs:
  - q: "Do I need any prior yoga experience to start chair yoga?"
- a: "None at all. Chair yoga for beginners is designed specifically for people who've never done any yoga. The movements are straightforward and the instructor (or a good video) will walk you through every position. Don't let unfamiliarity with yoga terminology stop you."
+   a: "None at all. Chair yoga for beginners is designed specifically for people who've never done any yoga. The movements are straightforward and the instructor (or a good video) will walk you through every position. Don't let unfamiliarity with yoga terminology stop you."
  - q: "How many times a week should a beginner do chair yoga?"
- a: "Three times a week is a solid starting point and gives your body time to recover between sessions. If 30 minutes feels like too much at first, start with 15-20 minutes and build from there. Consistency over a few weeks matters far more than any single session."
+   a: "Three times a week is a solid starting point and gives your body time to recover between sessions. If 30 minutes feels like too much at first, start with 15-20 minutes and build from there. Consistency over a few weeks matters far more than any single session."
  - q: "Is chair yoga safe if I have osteoporosis?"
- a: "Mostly yes, but with some modifications. Deep forward bends and strong spinal twists can put compression on vertebrae, which is a concern with significant bone loss. Tell your instructor about your diagnosis before you start, or look for classes specifically designed for osteoporosis. A good instructor will know exactly which modifications to offer."
+   a: "Mostly yes, but with some modifications. Deep forward bends and strong spinal twists can put compression on vertebrae, which is a concern with significant bone loss. Tell your instructor about your diagnosis before you start, or look for classes specifically designed for osteoporosis. A good instructor will know exactly which modifications to offer."
  - q: "What if I have pain in my hips or knees during the exercises?"
- a: "Stop the movement that's causing it. Sharp or acute pain is always a signal to back off, not push through. Mild muscle fatigue or a gentle stretching sensation is normal. If pain persists after modifying or stopping a specific movement, talk to your doctor or a physical therapist before continuing."
+   a: "Stop the movement that's causing it. Sharp or acute pain is always a signal to back off, not push through. Mild muscle fatigue or a gentle stretching sensation is normal. If pain persists after modifying or stopping a specific movement, talk to your doctor or a physical therapist before continuing."
  - q: "Can chair yoga actually improve balance, or is it just stretching?"
- a: "It genuinely improves balance, and the research backs this up. A study published in the International Journal of Yoga found significant improvements in balance and functional mobility in older adults after a chair yoga intervention. The mechanism is partly physical (hip and core strength) and partly neurological: you're rebuilding the body awareness your balance system depends on."
+   a: "It genuinely improves balance, and the research backs this up. A study published in the International Journal of Yoga found significant improvements in balance and functional mobility in older adults after a chair yoga intervention. The mechanism is partly physical (hip and core strength) and partly neurological: you're rebuilding the body awareness your balance system depends on."
 ---
 
 Most people picture chair yoga and think it's basically stretching for people who gave up. I understand that reaction. The first time a doctor suggested it to a patient I was working with, a 71-year-old retired electrician named Frank who'd had a hip replacement six months earlier, he looked at me like I'd offered him a participation trophy. Six weeks later he was telling everyone in his building about it.

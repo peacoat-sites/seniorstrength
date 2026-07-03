@@ -14,15 +14,15 @@ slug: "how-to-strengthen-weak-legs-in-seniors"
 affiliate_disclosure: true
 faqs:
  - q: "How often should seniors do leg strengthening exercises?"
- a: "Three times per week on non-consecutive days is the standard recommendation for strength training in older adults. Your muscles need roughly 48 hours between sessions to repair and strengthen. Balance exercises can be done daily since they're lower intensity."
+   a: "Three times per week on non-consecutive days is the standard recommendation for strength training in older adults. Your muscles need roughly 48 hours between sessions to repair and strengthen. Balance exercises can be done daily since they're lower intensity."
  - q: "Is walking enough to strengthen weak legs in seniors?"
- a: "Walking is excellent for cardiovascular health and maintaining what you already have, but it's generally not enough to rebuild lost leg strength on its own. It doesn't load the muscles with enough resistance to stimulate significant new muscle growth. You need some form of resistance or progressive challenge on top of walking."
+   a: "Walking is excellent for cardiovascular health and maintaining what you already have, but it's generally not enough to rebuild lost leg strength on its own. It doesn't load the muscles with enough resistance to stimulate significant new muscle growth. You need some form of resistance or progressive challenge on top of walking."
  - q: "What if my knees hurt too much to do squats or lunges?"
- a: "Start with seated exercises, heel raises, and resistance band work for the hips, all of which put minimal stress on the knee joint. As the supporting muscles around the knee get stronger, many people find their knee pain actually decreases. If pain is severe or the joint is swollen, see a doctor or physical therapist before proceeding."
+   a: "Start with seated exercises, heel raises, and resistance band work for the hips, all of which put minimal stress on the knee joint. As the supporting muscles around the knee get stronger, many people find their knee pain actually decreases. If pain is severe or the joint is swollen, see a doctor or physical therapist before proceeding."
  - q: "Can you rebuild muscle after 70 or 80?"
- a: "Yes, genuinely. The process is slower and requires more protein intake to support (most older adults are under-eating protein significantly), but studies have shown muscle hypertrophy in adults well into their 80s with consistent resistance training. Aim for roughly 1.2 grams of protein per kilogram of body weight daily to support muscle building."
+   a: "Yes, genuinely. The process is slower and requires more protein intake to support (most older adults are under-eating protein significantly), but studies have shown muscle hypertrophy in adults well into their 80s with consistent resistance training. Aim for roughly 1.2 grams of protein per kilogram of body weight daily to support muscle building."
  - q: "Do I need equipment or a gym membership to start?"
- a: "No. A sturdy chair, a wall, and a low step are enough to begin a meaningful program. Once you're ready to add resistance, a set of light dumbbells or a resistance band loop costs under $20 and covers a lot of ground. Equipment becomes more useful as you get stronger, but it's not where you start."
+   a: "No. A sturdy chair, a wall, and a low step are enough to begin a meaningful program. Once you're ready to add resistance, a set of light dumbbells or a resistance band loop costs under $20 and covers a lot of ground. Equipment becomes more useful as you get stronger, but it's not where you start."
 ---
 Most people don't realize how fast leg strength actually declines after 60. Research published in the Journal of Gerontology puts the number at roughly 1-2% of muscle mass lost per year after age 50, and that rate accelerates. By the time someone's struggling to get up from a chair without using their arms, they've usually been losing ground quietly for years.
 

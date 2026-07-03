@@ -14,15 +14,15 @@ slug: "how-exercise-helps-with-arthritis-pain"
 affiliate_disclosure: true
 faqs:
  - q: "Is it okay to exercise every day if I have arthritis?"
- a: "For most people, yes, with variation in intensity. Low-impact movement like walking or gentle stretching is generally fine daily. Strength training, however, needs recovery time, so two to three days per week with rest days in between is more appropriate. Listen to your body the day after a session; persistent fatigue or increased pain is a signal to give yourself more recovery time."
+   a: "For most people, yes, with variation in intensity. Low-impact movement like walking or gentle stretching is generally fine daily. Strength training, however, needs recovery time, so two to three days per week with rest days in between is more appropriate. Listen to your body the day after a session; persistent fatigue or increased pain is a signal to give yourself more recovery time."
  - q: "What's the best exercise for arthritis in the knees?"
- a: "Strengthening the quadriceps (front of the thigh) is consistently shown to reduce knee arthritis pain and slow progression. Chair-assisted squats, straight-leg raises, and cycling are all good starting points. Swimming and water walking are also excellent if weight-bearing is currently too uncomfortable."
+   a: "Strengthening the quadriceps (front of the thigh) is consistently shown to reduce knee arthritis pain and slow progression. Chair-assisted squats, straight-leg raises, and cycling are all good starting points. Swimming and water walking are also excellent if weight-bearing is currently too uncomfortable."
  - q: "Should I see a doctor before starting an exercise program?"
- a: "Yes, especially if you have significant joint damage, cardiovascular conditions, or haven't been active in a while. A physical therapist with experience in musculoskeletal conditions can also design a program specifically around your current limitations, which is genuinely more effective than a generic plan."
+   a: "Yes, especially if you have significant joint damage, cardiovascular conditions, or haven't been active in a while. A physical therapist with experience in musculoskeletal conditions can also design a program specifically around your current limitations, which is genuinely more effective than a generic plan."
  - q: "Can exercise actually reverse arthritis damage?"
- a: "No, and I want to be honest about that. Exercise doesn't regenerate cartilage that's already lost. What it does, clearly and consistently, is reduce pain, improve function, slow further progression, and build the muscular support that compensates for joint changes. That's a meaningful set of outcomes even without a cure."
+   a: "No, and I want to be honest about that. Exercise doesn't regenerate cartilage that's already lost. What it does, clearly and consistently, is reduce pain, improve function, slow further progression, and build the muscular support that compensates for joint changes. That's a meaningful set of outcomes even without a cure."
  - q: "How long before I notice a difference?"
- a: "Most people report some improvement in pain and mobility within four to six weeks of consistent exercise. Significant functional gains tend to show up more clearly around the eight to twelve week mark. If you're three months in without any change, that's worth revisiting with a clinician, because the program may need adjustment."
+   a: "Most people report some improvement in pain and mobility within four to six weeks of consistent exercise. Significant functional gains tend to show up more clearly around the eight to twelve week mark. If you're three months in without any change, that's worth revisiting with a clinician, because the program may need adjustment."
 ---
 
 Most people come to me after they've already stopped moving. Not because they wanted to, but because someone, somewhere, told them that pain meant they should rest. And honestly? That advice made sense on the surface. It just happens to be one of the most counterproductive things a person with arthritis can do.

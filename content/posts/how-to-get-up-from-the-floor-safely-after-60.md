@@ -14,15 +14,15 @@ slug: "how-to-get-up-from-the-floor-safely-after-60"
 affiliate_disclosure: true
 faqs:
  - q: "What's the safest piece of furniture to use when getting up from the floor?"
- a: "A firm, stable couch or sofa is usually the best option. It's heavy, low enough to reach from a half-kneeling position, and provides a wide surface area for your hands. Avoid anything on wheels or anything with a lightweight frame."
+   a: "A firm, stable couch or sofa is usually the best option. It's heavy, low enough to reach from a half-kneeling position, and provides a wide surface area for your hands. Avoid anything on wheels or anything with a lightweight frame."
  - q: "How do I know if I'm too injured to try getting up after a fall?"
- a: "If there's sharp or severe pain in a hip, wrist, shoulder, or your head, don't attempt to get up on your own. Call for help or call 911. Attempting to get up with a fracture can significantly worsen the injury."
+   a: "If there's sharp or severe pain in a hip, wrist, shoulder, or your head, don't attempt to get up on your own. Call for help or call 911. Attempting to get up with a fracture can significantly worsen the injury."
  - q: "How often should I practice the floor get-up sequence?"
- a: "Once or twice a week is enough to maintain the motor pattern. Do it on carpet with a chair nearby, and treat it the way you'd treat any other exercise: deliberately, not as a test of what you can already do."
+   a: "Once or twice a week is enough to maintain the motor pattern. Do it on carpet with a chair nearby, and treat it the way you'd treat any other exercise: deliberately, not as a test of what you can already do."
  - q: "Is it true that fear of falling makes falling more likely?"
- a: "Yes, and it's well documented. Fear of falling causes people to shorten their stride, reduce activity, and develop movement patterns that are actually less stable than normal gait. Controlled floor practice is one of the most direct ways to reduce that fear."
+   a: "Yes, and it's well documented. Fear of falling causes people to shorten their stride, reduce activity, and develop movement patterns that are actually less stable than normal gait. Controlled floor practice is one of the most direct ways to reduce that fear."
  - q: "Should I call 911 if I can't get up, even if I'm not hurt?"
- a: "Yes, if you've been on the floor for more than 10 to 15 minutes and genuinely cannot get up. Prolonged time on the floor can cause muscle breakdown and kidney stress even without an acute injury, and emergency responders would rather help you up than treat a preventable complication."
+   a: "Yes, if you've been on the floor for more than 10 to 15 minutes and genuinely cannot get up. Prolonged time on the floor can cause muscle breakdown and kidney stress even without an acute injury, and emergency responders would rather help you up than treat a preventable complication."
 ---
 Most articles about getting up from the floor spend three paragraphs telling you to "take your time" and "listen to your body." That's not advice. That's a liability disclaimer dressed up as guidance. What you actually need is a specific sequence of movements that protects your joints, accounts for real-world strength limitations, and doesn't require a spotter.
 
