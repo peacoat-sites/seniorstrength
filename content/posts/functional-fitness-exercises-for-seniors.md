@@ -13,16 +13,16 @@ author_bio: "Helen Santos has been teaching fitness classes designed for adults 
 slug: "functional-fitness-exercises-for-seniors"
 affiliate_disclosure: true
 faqs:
-  - q: "How many days a week should seniors do functional fitness training?"
-    a: "Most research supports two to three days per week of resistance-based functional training for adults over 60, with at least one rest day between sessions. That's enough stimulus for strength and functional gains without accumulating excessive fatigue. Some people do well adding a lighter balance or mobility session on off days."
-  - q: "Is it safe to lift heavy weights after 60?"
-    a: "For most adults over 60 without contraindications, progressive resistance training at moderate to high intensity is not only safe but recommended. The key is 'progressive,' meaning the load increases gradually as strength improves, and proper movement mechanics come before load increases. Always worth a conversation with your doctor first, especially if you have cardiovascular concerns or recent surgery."
-  - q: "What's the best exercise for fall prevention specifically?"
-    a: "Single-leg balance training and progressive lower-body strength work (squats, step-ups, hip hinges) have the strongest evidence base for reducing falls. The Sherrington meta-analysis found that exercise programs emphasizing balance and functional training reduced fall rates by roughly 23%. No single exercise is a silver bullet, but consistent lower-body and balance work is about as close as we get."
-  - q: "Should I exercise if I have joint pain or arthritis?"
-    a: "Generally, yes, with appropriate modifications. Staying sedentary typically worsens joint pain and accelerates deconditioning. Low-impact, controlled movement through comfortable ranges often reduces arthritis-related pain over time. The nuance is in how you train. Work with a physical therapist or certified trainer experienced with older adults to identify what movements feel safe and how to progress appropriately."
-  - q: "How long before I notice results from a functional fitness program?"
-    a: "Most people notice improvements in how daily tasks feel within four to six weeks of consistent training. Measurable strength gains typically appear around six to eight weeks. Balance improvements can show up even faster, sometimes within three to four weeks, because early gains are largely neurological, your nervous system learning to recruit muscles more efficiently before the muscles themselves grow."
+ - q: "How many days a week should seniors do functional fitness training?"
+ a: "Most research supports two to three days per week of resistance-based functional training for adults over 60, with at least one rest day between sessions. That's enough stimulus for strength and functional gains without accumulating excessive fatigue. Some people do well adding a lighter balance or mobility session on off days."
+ - q: "Is it safe to lift heavy weights after 60?"
+ a: "For most adults over 60 without contraindications, progressive resistance training at moderate to high intensity is not only safe but recommended. The key is 'progressive,' meaning the load increases gradually as strength improves, and proper movement mechanics come before load increases. Always worth a conversation with your doctor first, especially if you have cardiovascular concerns or recent surgery."
+ - q: "What's the best exercise for fall prevention specifically?"
+ a: "Single-leg balance training and progressive lower-body strength work (squats, step-ups, hip hinges) have the strongest evidence base for reducing falls. The Sherrington meta-analysis found that exercise programs emphasizing balance and functional training reduced fall rates by roughly 23%. No single exercise is a silver bullet, but consistent lower-body and balance work is about as close as we get."
+ - q: "Should I exercise if I have joint pain or arthritis?"
+ a: "Generally, yes, with appropriate modifications. Staying sedentary typically worsens joint pain and accelerates deconditioning. Low-impact, controlled movement through comfortable ranges often reduces arthritis-related pain over time. The nuance is in how you train. Work with a physical therapist or certified trainer experienced with older adults to identify what movements feel safe and how to progress appropriately."
+ - q: "How long before I notice results from a functional fitness program?"
+ a: "Most people notice improvements in how daily tasks feel within four to six weeks of consistent training. Measurable strength gains typically appear around six to eight weeks. Balance improvements can show up even faster, sometimes within three to four weeks, because early gains are largely neurological, your nervous system learning to recruit muscles more efficiently before the muscles themselves grow."
 ---
 
 Most people assume functional fitness means doing "senior-friendly" versions of real exercise. Gentler. Smaller. Scaled way down. I used to think that too, honestly, until I started paying close attention to what actually kept my older clients independent, strong, and out of the ER.
@@ -105,11 +105,11 @@ I'm not saying that's a universal story. But I see this pattern constantly, and 
 
 ## Sources
 
-- American College of Sports Medicine (ACSM): *Position Stand on Exercise and Physical Activity for Older Adults* — comprehensive evidence-based guidelines on resistance training frequency, intensity, and fall prevention for adults 65 and older.
+- American College of Sports Medicine (ACSM): *Position Stand on Exercise and Physical Activity for Older Adults*, comprehensive evidence-based guidelines on resistance training frequency, intensity, and fall prevention for adults 65 and older.
 - *Journal of Strength and Conditioning Research*: Multiple peer-reviewed studies on progressive resistance training outcomes in older adult populations, including muscle mass retention and functional performance measures.
-- Centers for Disease Control and Prevention (CDC): *STEADI (Stopping Elderly Accidents, Deaths & Injuries)* program — evidence-based fall prevention clinical resources, including functional balance screening tools.
+- Centers for Disease Control and Prevention (CDC): *STEADI (Stopping Elderly Accidents, Deaths & Injuries)* program, evidence-based fall prevention clinical resources, including functional balance screening tools.
 - Sherrington C. et al.: Systematic review and meta-analysis (published in *British Journal of Sports Medicine*) examining exercise interventions that reduce fall rates in older adults, showing balance and functional training reduce falls by approximately 23%.
-- Liu CJ & Latham NK: Cochrane Review on progressive resistance strength training for improving physical function in older adults — foundational evidence for loading parameters in senior populations.
+- Liu CJ & Latham NK: Cochrane Review on progressive resistance strength training for improving physical function in older adults, foundational evidence for loading parameters in senior populations.
 
 ---
 
@@ -126,6 +126,6 @@ I'm not saying that's a universal story. But I see this pattern constantly, and 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

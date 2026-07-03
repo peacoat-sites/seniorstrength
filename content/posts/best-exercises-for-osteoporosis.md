@@ -9,16 +9,16 @@ tags: ["best", "exercises", "osteoporosis"]
 slug: "best-exercises-for-osteoporosis"
 affiliate_disclosure: true
 faqs:
-  - q: "Can osteoporosis be reversed with exercise?"
-    a: "The honest answer is: sometimes improved, rarely fully reversed. Exercise can genuinely increase bone density, particularly at the sites being loaded, but the degree of change varies considerably by age, hormonal status, nutrition, and baseline density. Thinking of exercise as slowing loss and building resilience is more accurate than expecting a complete reversal."
-  - q: "Is yoga safe if I have osteoporosis?"
-    a: "Some yoga is fine and some poses carry real risk. Deep spinal forward folds, aggressive twists, and anything requiring you to load through a flexed spine should be modified or avoided with vertebral osteoporosis. A 2016 case series in Topics in Geriatric Rehabilitation documented fractures associated with specific yoga poses in people with low bone density. Look for instructors specifically trained in osteoporosis modifications."
-  - q: "How often should I be doing resistance training for bone health?"
-    a: "Two to three sessions per week, with at least one rest day between sessions, is the standard evidence-based target. Less than twice a week produces minimal bone benefit; more than three times may not add much and increases injury risk if recovery is inadequate."
-  - q: "Does swimming or cycling help with osteoporosis?"
-    a: "Not meaningfully for bone density, no. Both are non-weight-bearing, so the forces transmitted through bone are low. They're excellent for cardiovascular health and low-impact joint conditioning, which matters, but if bone density is the primary goal, they need to be paired with weight-bearing and resistance work rather than substituted for it."
-  - q: "Should I take calcium and vitamin D alongside exercise?"
-    a: "Almost certainly yes, though the specific amounts depend on your blood levels and dietary intake. Exercise stimulates bone formation, but the raw materials still have to be there. Most guidelines suggest 1200mg of calcium daily for women over 50 (from food and supplements combined) and vitamin D3 in the range of 800 to 2000 IU daily, but get your 25-OH vitamin D level checked before assuming you need a high dose."
+ - q: "Can osteoporosis be reversed with exercise?"
+ a: "The honest answer is: sometimes improved, rarely fully reversed. Exercise can genuinely increase bone density, particularly at the sites being loaded, but the degree of change varies considerably by age, hormonal status, nutrition, and baseline density. Thinking of exercise as slowing loss and building resilience is more accurate than expecting a complete reversal."
+ - q: "Is yoga safe if I have osteoporosis?"
+ a: "Some yoga is fine and some poses carry real risk. Deep spinal forward folds, aggressive twists, and anything requiring you to load through a flexed spine should be modified or avoided with vertebral osteoporosis. A 2016 case series in Topics in Geriatric Rehabilitation documented fractures associated with specific yoga poses in people with low bone density. Look for instructors specifically trained in osteoporosis modifications."
+ - q: "How often should I be doing resistance training for bone health?"
+ a: "Two to three sessions per week, with at least one rest day between sessions, is the standard evidence-based target. Less than twice a week produces minimal bone benefit; more than three times may not add much and increases injury risk if recovery is inadequate."
+ - q: "Does swimming or cycling help with osteoporosis?"
+ a: "Not meaningfully for bone density, no. Both are non-weight-bearing, so the forces transmitted through bone are low. They're excellent for cardiovascular health and low-impact joint conditioning, which matters, but if bone density is the primary goal, they need to be paired with weight-bearing and resistance work rather than substituted for it."
+ - q: "Should I take calcium and vitamin D alongside exercise?"
+ a: "Almost certainly yes, though the specific amounts depend on your blood levels and dietary intake. Exercise stimulates bone formation, but the raw materials still have to be there. Most guidelines suggest 1200mg of calcium daily for women over 50 (from food and supplements combined) and vitamin D3 in the range of 800 to 2000 IU daily, but get your 25-OH vitamin D level checked before assuming you need a high dose."
 author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
@@ -33,12 +33,12 @@ So let me give you the real picture.
 
 
 <div class="value-module">
-  <div class="vm-head">Exercise Selection by Fracture Risk</div>
-  <div class="vm-body">
-    <p class="vm-intro">Your bone density T-score and fall history determine which exercises are appropriate-this matrix helps match intensity to your actual risk level.</p>
-    <table><caption>Exercise Appropriateness by Osteoporosis Severity and Fall Risk</caption><thead><tr><th>Exercise Type</th><th>Osteopenia (T-score -1.0 to -2.5), Low Fall Risk</th><th>Osteoporosis (T-score below -2.5), Low Fall Risk</th><th>Any T-score, High Fall Risk or Prior Fracture</th></tr></thead><tbody><tr><td><strong>Jumping/Hopping</strong></td><td>Appropriate-50+ moderate impacts per session shown beneficial</td><td>Generally avoid-consult specialist first</td><td>Avoid-fall and fracture risk outweighs benefit</td></tr><tr><td><strong>Resistance Training</strong></td><td>Progress to 70-85% of 1-rep max; 2-3 sessions/week</td><td>Start at 50-60% 1RM; supervised progression recommended</td><td>Moderate loads with stable positions; avoid spinal flexion under load</td></tr><tr><td><strong>Weighted Vests (Walking/Stairs)</strong></td><td>4-10% of body weight; effective for hip loading</td><td>Start at 4% body weight; gradual increase with clearance</td><td>Only if balance is stable; consider belt weights instead</td></tr><tr><td><strong>Spinal Extension Exercises</strong></td><td>Recommended-prone back extension, bird-dog variations</td><td>Recommended-key for vertebral fracture prevention</td><td>Recommended-prioritize these; avoid flexion-based core work</td></tr><tr><td><strong>Balance Training</strong></td><td>Include 2-3x/week as fracture prevention</td><td>Essential-tandem stance, single-leg work, perturbation drills</td><td>Daily priority-supervised initially; progress surface difficulty</td></tr><tr><td><strong>Yoga/Pilates</strong></td><td>Modify flexion-heavy poses; standing poses beneficial</td><td>Avoid loaded spinal flexion and twisting; many poses need modification</td><td>Only bone-safe modified classes; avoid floor-to-stand transitions if unsteady</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Exercise Selection by Fracture Risk</div>
+ <div class="vm-body">
+ <p class="vm-intro">Your bone density T-score and fall history determine which exercises are appropriate-this matrix helps match intensity to your actual risk level.</p>
+ <table><caption>Exercise Appropriateness by Osteoporosis Severity and Fall Risk</caption><thead><tr><th>Exercise Type</th><th>Osteopenia (T-score -1.0 to -2.5), Low Fall Risk</th><th>Osteoporosis (T-score below -2.5), Low Fall Risk</th><th>Any T-score, High Fall Risk or Prior Fracture</th></tr></thead><tbody><tr><td><strong>Jumping/Hopping</strong></td><td>Appropriate-50+ moderate impacts per session shown beneficial</td><td>Generally avoid-consult specialist first</td><td>Avoid-fall and fracture risk outweighs benefit</td></tr><tr><td><strong>Resistance Training</strong></td><td>Progress to 70-85% of 1-rep max; 2-3 sessions/week</td><td>Start at 50-60% 1RM; supervised progression recommended</td><td>Moderate loads with stable positions; avoid spinal flexion under load</td></tr><tr><td><strong>Weighted Vests (Walking/Stairs)</strong></td><td>4-10% of body weight; effective for hip loading</td><td>Start at 4% body weight; gradual increase with clearance</td><td>Only if balance is stable; consider belt weights instead</td></tr><tr><td><strong>Spinal Extension Exercises</strong></td><td>Recommended-prone back extension, bird-dog variations</td><td>Recommended-key for vertebral fracture prevention</td><td>Recommended-prioritize these; avoid flexion-based core work</td></tr><tr><td><strong>Balance Training</strong></td><td>Include 2-3x/week as fracture prevention</td><td>Essential-tandem stance, single-leg work, perturbation drills</td><td>Daily priority-supervised initially; progress surface difficulty</td></tr><tr><td><strong>Yoga/Pilates</strong></td><td>Modify flexion-heavy poses; standing poses beneficial</td><td>Avoid loaded spinal flexion and twisting; many poses need modification</td><td>Only bone-safe modified classes; avoid floor-to-stand transitions if unsteady</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Why "Just Walk More" Is Not Enough

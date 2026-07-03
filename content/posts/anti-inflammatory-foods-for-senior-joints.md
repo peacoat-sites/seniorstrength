@@ -13,16 +13,16 @@ author_bio: "Robert Davis spent his career as a registered dietitian working wit
 slug: "anti-inflammatory-foods-for-senior-joints"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does it take for dietary changes to reduce joint inflammation?"
-    a: "Most people who make consistent changes see some difference in pain and stiffness within 6 to 12 weeks. CRP levels (a blood marker for inflammation) can shift in as little as 4 weeks with significant dietary changes. Don't expect overnight results, but 3 months of consistent effort is enough to know whether it's working for you."
-  - q: "Is the Mediterranean diet really the best pattern for joint health?"
-    a: "It's the best-studied, and it has good evidence behind it specifically for osteoarthritis outcomes in older adults. That doesn't mean it's the only option, but if you're looking for a framework rather than a food-by-food approach, Mediterranean-style eating is where I'd point you: olive oil as your primary fat, fish over red meat, plenty of vegetables and legumes, modest amounts of whole grains."
-  - q: "Can nightshade vegetables make joint pain worse?"
-    a: "This one circulates constantly, and the evidence for it is weak. Tomatoes, peppers, eggplant, and potatoes are anecdotally blamed for inflammation flares, but no well-designed clinical study has confirmed this effect in people with osteoarthritis. If you've personally and consistently noticed a connection, track it carefully. But cutting nightshades preemptively means eliminating some genuinely nutritious foods based on thin evidence."
-  - q: "Does drinking more water help with joint health?"
-    a: "Synovial fluid, which lubricates joints, is largely water-based, so chronic dehydration does negatively affect joint lubrication. But beyond staying adequately hydrated, drinking extra water above what you need doesn't produce additional joint benefit. The target for most older adults is somewhere around 6 to 8 cups daily, adjusted for body size and activity level."
-  - q: "Are anti-inflammatory supplements like glucosamine and chondroitin worth taking?"
-    a: "The evidence is genuinely mixed. The large GAIT trial found glucosamine and chondroitin didn't outperform placebo for mild knee osteoarthritis, but did show a significant effect in the subgroup with moderate-to-severe pain. Some people respond, some don't. If you try it, give it a minimum of 3 months before deciding, and use a reputable brand with independent testing. It's not a waste of money for everyone, but it's also not the slam-dunk some supplement companies imply."
+ - q: "How long does it take for dietary changes to reduce joint inflammation?"
+ a: "Most people who make consistent changes see some difference in pain and stiffness within 6 to 12 weeks. CRP levels (a blood marker for inflammation) can shift in as little as 4 weeks with significant dietary changes. Don't expect overnight results, but 3 months of consistent effort is enough to know whether it's working for you."
+ - q: "Is the Mediterranean diet really the best pattern for joint health?"
+ a: "It's the best-studied, and it has good evidence behind it specifically for osteoarthritis outcomes in older adults. That doesn't mean it's the only option, but if you're looking for a framework rather than a food-by-food approach, Mediterranean-style eating is where I'd point you: olive oil as your primary fat, fish over red meat, plenty of vegetables and legumes, modest amounts of whole grains."
+ - q: "Can nightshade vegetables make joint pain worse?"
+ a: "This one circulates constantly, and the evidence for it is weak. Tomatoes, peppers, eggplant, and potatoes are anecdotally blamed for inflammation flares, but no well-designed clinical study has confirmed this effect in people with osteoarthritis. If you've personally and consistently noticed a connection, track it carefully. But cutting nightshades preemptively means eliminating some genuinely nutritious foods based on thin evidence."
+ - q: "Does drinking more water help with joint health?"
+ a: "Synovial fluid, which lubricates joints, is largely water-based, so chronic dehydration does negatively affect joint lubrication. But beyond staying adequately hydrated, drinking extra water above what you need doesn't produce additional joint benefit. The target for most older adults is somewhere around 6 to 8 cups daily, adjusted for body size and activity level."
+ - q: "Are anti-inflammatory supplements like glucosamine and chondroitin worth taking?"
+ a: "The evidence is genuinely mixed. The large GAIT trial found glucosamine and chondroitin didn't outperform placebo for mild knee osteoarthritis, but did show a significant effect in the subgroup with moderate-to-severe pain. Some people respond, some don't. If you try it, give it a minimum of 3 months before deciding, and use a reputable brand with independent testing. It's not a waste of money for everyone, but it's also not the slam-dunk some supplement companies imply."
 ---
 
 Most articles about joint inflammation start with something like "did you know omega-3 fatty acids are anti-inflammatory?" You did know. Everyone knows. What they skip is the part where they tell you how much actually matters, what the research looks like in older adults specifically, and why some foods touted as joint superfoods are doing almost nothing while others are dramatically undersold.
@@ -107,6 +107,6 @@ Collagen peptides have a growing evidence base. A 2019 randomized trial in the *
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
 

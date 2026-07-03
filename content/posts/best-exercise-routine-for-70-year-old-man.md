@@ -9,16 +9,16 @@ tags: ["best", "exercise", "routine", "year"]
 slug: "best-exercise-routine-for-70-year-old-man"
 affiliate_disclosure: true
 faqs:
-  - q: "How many days a week should a 70-year-old man work out?"
-    a: "Three to four days of intentional exercise per week is a solid target: two to three days of strength training plus at least two days of walking, swimming, or light cardio. Rest and recovery genuinely matter more at 70 than they did at 40, so building in non-training days isn't laziness, it's part of the plan."
-  - q: "Is it safe for a 70-year-old man to lift heavy weights?"
-    a: "Generally yes, with proper technique and a sensible progression. 'Heavy' is relative. The goal isn't max-effort powerlifting; it's working hard enough to create a stimulus for muscle adaptation. Most men should get a baseline medical clearance and ideally a few sessions with a qualified trainer or physical therapist before significantly increasing loads."
-  - q: "What's the single best exercise for a 70-year-old man?"
-    a: "If I had to pick one, it's the squat pattern, specifically sit-to-stand from a chair. It builds lower body strength, tests and improves balance, mimics a movement you do dozens of times a day, and its performance correlates strongly with long-term functional independence. Practice it daily."
-  - q: "How long before a 70-year-old man sees results from exercise?"
-    a: "Most people notice improved energy and daily movement quality within 3 to 4 weeks. Measurable strength gains typically begin around 6 to 8 weeks. Visible muscle changes take longer, often 3 to 6 months. The less conditioned you are starting out, the faster the initial progress tends to be."
-  - q: "Should a 70-year-old man do cardio or strength training first?"
-    a: "If you're doing both in the same session, do strength first. Cardiovascular fatigue will compromise your form and effort on resistance exercises. If they're on separate days, the order is less important. Most men this age do better keeping cardio and strength sessions separate when possible."
+ - q: "How many days a week should a 70-year-old man work out?"
+ a: "Three to four days of intentional exercise per week is a solid target: two to three days of strength training plus at least two days of walking, swimming, or light cardio. Rest and recovery genuinely matter more at 70 than they did at 40, so building in non-training days isn't laziness, it's part of the plan."
+ - q: "Is it safe for a 70-year-old man to lift heavy weights?"
+ a: "Generally yes, with proper technique and a sensible progression. 'Heavy' is relative. The goal isn't max-effort powerlifting; it's working hard enough to create a stimulus for muscle adaptation. Most men should get a baseline medical clearance and ideally a few sessions with a qualified trainer or physical therapist before significantly increasing loads."
+ - q: "What's the single best exercise for a 70-year-old man?"
+ a: "If I had to pick one, it's the squat pattern, specifically sit-to-stand from a chair. It builds lower body strength, tests and improves balance, mimics a movement you do dozens of times a day, and its performance correlates strongly with long-term functional independence. Practice it daily."
+ - q: "How long before a 70-year-old man sees results from exercise?"
+ a: "Most people notice improved energy and daily movement quality within 3 to 4 weeks. Measurable strength gains typically begin around 6 to 8 weeks. Visible muscle changes take longer, often 3 to 6 months. The less conditioned you are starting out, the faster the initial progress tends to be."
+ - q: "Should a 70-year-old man do cardio or strength training first?"
+ a: "If you're doing both in the same session, do strength first. Cardiovascular fatigue will compromise your form and effort on resistance exercises. If they're on separate days, the order is less important. Most men this age do better keeping cardio and strength sessions separate when possible."
 author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
@@ -32,12 +32,12 @@ So let's skip the gentle disclaimers and talk about what actually works.
 ---
 
 <div class="value-module">
-  <div class="vm-head">Weekly Training Structure With Recovery</div>
-  <div class="vm-body">
-    <p class="vm-intro">Here's a concrete weekly framework showing how to distribute the four priorities while respecting the longer recovery windows a 70-year-old body needs.</p>
-    <table><thead><tr><th>Day</th><th>Focus</th><th>Duration</th><th>Key Activities</th><th>Intensity Marker</th></tr></thead><tbody><tr><td>Monday</td><td>Strength (Lower Body)</td><td>35–40 min</td><td>Goblet squats, step-ups, Romanian deadlifts, calf raises</td><td>RPE 6–7 (could do 3–4 more reps)</td></tr><tr><td>Tuesday</td><td>Balance + Mobility</td><td>25–30 min</td><td>Single-leg stands, tandem walking, hip circles, thoracic rotations</td><td>Controlled, not breathless</td></tr><tr><td>Wednesday</td><td>Active Recovery</td><td>20–30 min</td><td>Walking, light cycling, or swimming at conversational pace</td><td>Can easily hold conversation</td></tr><tr><td>Thursday</td><td>Strength (Upper Body)</td><td>35–40 min</td><td>Rows, chest press, shoulder press, farmer carries</td><td>RPE 6–7</td></tr><tr><td>Friday</td><td>Balance + Mobility</td><td>25–30 min</td><td>Heel-to-toe walks, seated hip stretches, ankle mobility work</td><td>Controlled, not breathless</td></tr><tr><td>Saturday</td><td>Cardio Endurance</td><td>30–45 min</td><td>Brisk walking, cycling, or pool walking with intervals</td><td>RPE 5–6 (slightly breathless)</td></tr><tr><td>Sunday</td><td>Rest</td><td>-</td><td>Complete rest or gentle stretching only</td><td>-</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Weekly Training Structure With Recovery</div>
+ <div class="vm-body">
+ <p class="vm-intro">Here's a concrete weekly framework showing how to distribute the four priorities while respecting the longer recovery windows a 70-year-old body needs.</p>
+ <table><thead><tr><th>Day</th><th>Focus</th><th>Duration</th><th>Key Activities</th><th>Intensity Marker</th></tr></thead><tbody><tr><td>Monday</td><td>Strength (Lower Body)</td><td>35–40 min</td><td>Goblet squats, step-ups, Romanian deadlifts, calf raises</td><td>RPE 6–7 (could do 3–4 more reps)</td></tr><tr><td>Tuesday</td><td>Balance + Mobility</td><td>25–30 min</td><td>Single-leg stands, tandem walking, hip circles, thoracic rotations</td><td>Controlled, not breathless</td></tr><tr><td>Wednesday</td><td>Active Recovery</td><td>20–30 min</td><td>Walking, light cycling, or swimming at conversational pace</td><td>Can easily hold conversation</td></tr><tr><td>Thursday</td><td>Strength (Upper Body)</td><td>35–40 min</td><td>Rows, chest press, shoulder press, farmer carries</td><td>RPE 6–7</td></tr><tr><td>Friday</td><td>Balance + Mobility</td><td>25–30 min</td><td>Heel-to-toe walks, seated hip stretches, ankle mobility work</td><td>Controlled, not breathless</td></tr><tr><td>Saturday</td><td>Cardio Endurance</td><td>30–45 min</td><td>Brisk walking, cycling, or pool walking with intervals</td><td>RPE 5–6 (slightly breathless)</td></tr><tr><td>Sunday</td><td>Rest</td><td>-</td><td>Complete rest or gentle stretching only</td><td>-</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Your Body Actually Needs at 70 (It's Not What Most Articles Say)

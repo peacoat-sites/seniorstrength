@@ -8,12 +8,12 @@ categories: ["gear"]
 slug: "best-walking-shoes-for-seniors-with-wide-feet-guide"
 affiliate_disclosure: true
 faqs:
-  - q: "What shoe width is considered “wide” for seniors?"
-    a: "Shoe widths are measured with letters. Standard widths are B (women) and D (men). Wide widths begin at D for women and 2E for men. Extra wide options include 2E for women and 4E or 6E for men. If you’ve always bought standard-width shoes but experience discomfort, try going up one full width, many seniors are surprised by the difference it makes."
-  - q: "Are walking shoes good for seniors with diabetes?"
-    a: "Yes, in fact, proper walking shoes are especially important for seniors with diabetes. Diabetes can reduce circulation and sensation in the feet, making blisters and pressure points particularly dangerous. Look for shoes labeled “diabetic-friendly” or “therapeutic,” with seamless interiors, deep toe boxes, and accommodating widths. Brands like Propét and New Balance offer Medicare-approved diabetic footwear options."
-  - q: "How often should seniors replace their walking shoes?"
-    a: "Most podiatrists recommend replacing walking shoes every 300 to 500 miles, or roughly every six to twelve months for regular daily walkers. Even if the outside of the shoe looks fine, the cushioning and support structures inside break down over time. Worn-out shoes can contribute to joint pain, balance problems, and an increased risk of falls, so don’t hold on to them too long."
+ - q: "What shoe width is considered “wide” for seniors?"
+ a: "Shoe widths are measured with letters. Standard widths are B (women) and D (men). Wide widths begin at D for women and 2E for men. Extra wide options include 2E for women and 4E or 6E for men. If you’ve always bought standard-width shoes but experience discomfort, try going up one full width, many seniors are surprised by the difference it makes."
+ - q: "Are walking shoes good for seniors with diabetes?"
+ a: "Yes, in fact, proper walking shoes are especially important for seniors with diabetes. Diabetes can reduce circulation and sensation in the feet, making blisters and pressure points particularly dangerous. Look for shoes labeled “diabetic-friendly” or “therapeutic,” with seamless interiors, deep toe boxes, and accommodating widths. Brands like Propét and New Balance offer Medicare-approved diabetic footwear options."
+ - q: "How often should seniors replace their walking shoes?"
+ a: "Most podiatrists recommend replacing walking shoes every 300 to 500 miles, or roughly every six to twelve months for regular daily walkers. Even if the outside of the shoe looks fine, the cushioning and support structures inside break down over time. Worn-out shoes can contribute to joint pain, balance problems, and an increased risk of falls, so don’t hold on to them too long."
 author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
@@ -30,11 +30,11 @@ Add in decades of walking, standing, and wearing shoes that never quite fit righ
 
 Common foot conditions that show up with age:
 
-  * Bunions and bunionettes
-  * Hammertoes
-  * Plantar fasciitis
-  * Edema (swelling) in the feet and ankles
-  * Flat arches or fallen arches
+ * Bunions and bunionettes
+ * Hammertoes
+ * Plantar fasciitis
+ * Edema (swelling) in the feet and ankles
+ * Flat arches or fallen arches
 
 Any of these make a roomy, well-structured walking shoe non-negotiable for daily comfort and protecting your joints long-term.
 
@@ -44,13 +44,13 @@ Not every shoe labeled "wide" is actually wide. That's the honest truth. Some sh
 
 Before you shop, nail down these must-haves:
 
-  * **Wide toe box:** Your toes need room to splay naturally without pinching
-  * **Adjustable closures:** Velcro or lace-ups let you customize fit daily, especially when swelling changes throughout the day
-  * **Cushioned midsole:** Absorbs impact and takes stress off your joints
-  * **Arch support:** Keeps your foot stable and prevents overpronation
-  * **Non-slip outsole:** This one matters for safety on wet floors or uneven ground
-  * **Breathable materials:** Mesh or leather uppers prevent heat and moisture from building up
-  * **Lightweight construction:** Heavy shoes tire you out faster
+ * **Wide toe box:** Your toes need room to splay naturally without pinching
+ * **Adjustable closures:** Velcro or lace-ups let you customize fit daily, especially when swelling changes throughout the day
+ * **Cushioned midsole:** Absorbs impact and takes stress off your joints
+ * **Arch support:** Keeps your foot stable and prevents overpronation
+ * **Non-slip outsole:** This one matters for safety on wet floors or uneven ground
+ * **Breathable materials:** Mesh or leather uppers prevent heat and moisture from building up
+ * **Lightweight construction:** Heavy shoes tire you out faster
 
 Hunt for shoes in 2E (wide) or 4E (extra wide). Most specialty brands offer width options that big-box retailers don't even stock.
 
@@ -98,9 +98,9 @@ Your shoe's closure type matters more than most people realize. Get it wrong and
 
 Quick breakdown:
 
-  * **Velcro/hook-and-loop:** Easiest to put on and adjust, handles swelling that changes through the day, works great for arthritis or reduced hand strength
-  * **Lace-up:** Customizable and secure, may feel more supportive on uneven terrain if you're an active walker
-  * **Slip-on:** Most convenient, but offers the least adjustability. Look for elastic panels that give you width
+ * **Velcro/hook-and-loop:** Easiest to put on and adjust, handles swelling that changes through the day, works great for arthritis or reduced hand strength
+ * **Lace-up:** Customizable and secure, may feel more supportive on uneven terrain if you're an active walker
+ * **Slip-on:** Most convenient, but offers the least adjustability. Look for elastic panels that give you width
 
 Significant swelling or difficulty bending? Velcro is almost always your best bet for both safety and ease.
 
@@ -112,11 +112,11 @@ The best shoe in the world won't help if it doesn't fit. Podiatrists recommend g
 
 Follow these fitting tips:
 
-  * Measure both feet. One foot is almost always slightly bigger than the other
-  * Shop in person when you can, so you can actually walk around and feel the shoe
-  * Find stores with certified fit specialists like New Balance or Fleet Feet locations
-  * Replace walking shoes every 300–500 miles, even if they look fine
-  * Consider custom orthotics if store insoles don't cut it
+ * Measure both feet. One foot is almost always slightly bigger than the other
+ * Shop in person when you can, so you can actually walk around and feel the shoe
+ * Find stores with certified fit specialists like New Balance or Fleet Feet locations
+ * Replace walking shoes every 300–500 miles, even if they look fine
+ * Consider custom orthotics if store insoles don't cut it
 
 Don't assume your shoe size from your 40s is still accurate. Getting measured takes five minutes and saves you months of pain.
 
@@ -126,9 +126,9 @@ You don't need to spend $180 on shoes to get real support. Premium brands like H
 
 Affordable choices that actually work:
 
-  * **New Balance 577:** Classic design with wide width availability, often under $75
-  * **Skechers Go Walk Arch Fit:** Podiatrist-certified arch support at an accessible price, available in wide sizes
-  * **Dr. Scholl's Sneak Away:** Lightweight slip-on with an accommodating fit for casual daily walking
+ * **New Balance 577:** Classic design with wide width availability, often under $75
+ * **Skechers Go Walk Arch Fit:** Podiatrist-certified arch support at an accessible price, available in wide sizes
+ * **Dr. Scholl's Sneak Away:** Lightweight slip-on with an accommodating fit for casual daily walking
 
 Check end-of-season sales and outlet stores. If you have diabetes or a qualifying foot condition, ask about Medicare or insurance coverage on therapeutic footwear. You might get them cheap or free.
 

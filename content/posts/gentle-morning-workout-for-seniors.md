@@ -13,16 +13,16 @@ author_bio: "James Cooper is a NASM-certified personal trainer who works exclusi
 slug: "gentle-morning-workout-for-seniors"
 affiliate_disclosure: true
 faqs:
-  - q: "How long before I notice results from a morning routine like this?"
-    a: "Most people notice something, usually easier stair climbing or less morning stiffness, within two to four weeks of consistent practice. Balance improvements tend to take six to eight weeks to become obvious. The timeline depends heavily on starting fitness level and how consistently you show up."
-  - q: "Is this safe if I have osteoporosis?"
-    a: "Generally yes, with modifications. Weight-bearing exercises like the chair stands and calf raises are actually beneficial for bone density. Avoid deep spinal flexion (rounding forward aggressively) and high-impact movements. Always check with your physician or physical therapist first, particularly if your osteoporosis is severe or you've had a recent fracture."
-  - q: "What if I can't do all 20-25 minutes at first?"
-    a: "Start with whatever you can do without feeling exhausted or sore. Even 8-10 minutes of the seated warm-up and two or three exercises is a legitimate starting point. Building the habit matters more than hitting the full duration on day one. Add time as it feels manageable."
-  - q: "Should I eat before or after this routine?"
-    a: "Either works for most people. Light activity like this doesn't typically require fueling beforehand. If you feel lightheaded exercising on an empty stomach, have a small snack first, half a banana or a few crackers. If you're managing diabetes or take medications that affect blood sugar, check with your doctor about timing."
-  - q: "Can I do this routine if I have knee or hip arthritis?"
-    a: "Yes, with attention to comfort. Movement is generally better for arthritic joints than rest, and gentle morning movement can reduce stiffness significantly. Reduce the depth of your chair stands if your knees protest, and skip any movement that causes sharp (not dull or achy) pain. Dull stiffness that loosens as you warm up is normal. Sharp, localized pain is a signal to stop and get it evaluated."
+ - q: "How long before I notice results from a morning routine like this?"
+ a: "Most people notice something, usually easier stair climbing or less morning stiffness, within two to four weeks of consistent practice. Balance improvements tend to take six to eight weeks to become obvious. The timeline depends heavily on starting fitness level and how consistently you show up."
+ - q: "Is this safe if I have osteoporosis?"
+ a: "Generally yes, with modifications. Weight-bearing exercises like the chair stands and calf raises are actually beneficial for bone density. Avoid deep spinal flexion (rounding forward aggressively) and high-impact movements. Always check with your physician or physical therapist first, particularly if your osteoporosis is severe or you've had a recent fracture."
+ - q: "What if I can't do all 20-25 minutes at first?"
+ a: "Start with whatever you can do without feeling exhausted or sore. Even 8-10 minutes of the seated warm-up and two or three exercises is a legitimate starting point. Building the habit matters more than hitting the full duration on day one. Add time as it feels manageable."
+ - q: "Should I eat before or after this routine?"
+ a: "Either works for most people. Light activity like this doesn't typically require fueling beforehand. If you feel lightheaded exercising on an empty stomach, have a small snack first, half a banana or a few crackers. If you're managing diabetes or take medications that affect blood sugar, check with your doctor about timing."
+ - q: "Can I do this routine if I have knee or hip arthritis?"
+ a: "Yes, with attention to comfort. Movement is generally better for arthritic joints than rest, and gentle morning movement can reduce stiffness significantly. Reduce the depth of your chair stands if your knees protest, and skip any movement that causes sharp (not dull or achy) pain. Dull stiffness that loosens as you warm up is normal. Sharp, localized pain is a signal to stop and get it evaluated."
 ---
 
 Most articles about morning exercise for seniors show a 70-year-old doing yoga on a beach at sunrise. Beautiful photo. Useless guidance.
@@ -130,6 +130,6 @@ Overly complex balance challenges marketed as beginner-friendly. Standing on a f
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

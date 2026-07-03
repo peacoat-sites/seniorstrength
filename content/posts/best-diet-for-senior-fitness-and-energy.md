@@ -13,16 +13,16 @@ author_bio: "James Cooper is a NASM-certified personal trainer who works exclusi
 slug: "best-diet-for-senior-fitness-and-energy"
 affiliate_disclosure: true
 faqs:
-  - q: "How much protein should seniors eat per day?"
-    a: "Current evidence points toward 1.2 to 1.6 grams per kilogram of body weight daily for active adults over 60, which is substantially more than traditional guidelines recommended. Spreading that across three meals rather than concentrating it at dinner appears to improve how well your muscles actually use it."
-  - q: "Are carbohydrates bad for seniors trying to lose weight?"
-    a: "Not categorically. Whole food carbohydrates like oats, legumes, fruit, and sweet potatoes support energy, gut health, and exercise performance. The issue is refined carbohydrates and added sugars, not carbohydrates as a category. Cutting carbs aggressively tends to hurt performance and energy in active older adults."
-  - q: "What vitamins do seniors most commonly lack?"
-    a: "Vitamin D, B12, and magnesium are the three I see come up most often in this population. All three are testable, and deficiency in any of them can directly affect energy, muscle function, and recovery. A conversation with your doctor about bloodwork is the right starting point."
-  - q: "Does meal timing actually matter for older adults?"
-    a: "More than most people expect. Getting protein earlier in the day rather than loaded at dinner supports muscle protein synthesis throughout the day. Eating something with protein and carbohydrates shortly after exercise (within an hour) meaningfully improves recovery, particularly in older adults whose repair processes are already slower."
-  - q: "Can diet really affect energy levels that much after 60?"
-    a: "Yes, and I'd argue it's the lever most people underestimate. Chronic dehydration, protein deficiency, gut inflammation from a low-fiber diet, and micronutrient gaps can all mimic fatigue that people assume is just aging. That's not always the case. Many of my clients have seen meaningful energy improvements by addressing nutrition before changing anything else."
+ - q: "How much protein should seniors eat per day?"
+ a: "Current evidence points toward 1.2 to 1.6 grams per kilogram of body weight daily for active adults over 60, which is substantially more than traditional guidelines recommended. Spreading that across three meals rather than concentrating it at dinner appears to improve how well your muscles actually use it."
+ - q: "Are carbohydrates bad for seniors trying to lose weight?"
+ a: "Not categorically. Whole food carbohydrates like oats, legumes, fruit, and sweet potatoes support energy, gut health, and exercise performance. The issue is refined carbohydrates and added sugars, not carbohydrates as a category. Cutting carbs aggressively tends to hurt performance and energy in active older adults."
+ - q: "What vitamins do seniors most commonly lack?"
+ a: "Vitamin D, B12, and magnesium are the three I see come up most often in this population. All three are testable, and deficiency in any of them can directly affect energy, muscle function, and recovery. A conversation with your doctor about bloodwork is the right starting point."
+ - q: "Does meal timing actually matter for older adults?"
+ a: "More than most people expect. Getting protein earlier in the day rather than loaded at dinner supports muscle protein synthesis throughout the day. Eating something with protein and carbohydrates shortly after exercise (within an hour) meaningfully improves recovery, particularly in older adults whose repair processes are already slower."
+ - q: "Can diet really affect energy levels that much after 60?"
+ a: "Yes, and I'd argue it's the lever most people underestimate. Chronic dehydration, protein deficiency, gut inflammation from a low-fiber diet, and micronutrient gaps can all mimic fatigue that people assume is just aging. That's not always the case. Many of my clients have seen meaningful energy improvements by addressing nutrition before changing anything else."
 ---
 
 Most people I work with come to me having already tried something. They've cut back on sugar, maybe started drinking more water, picked up a protein shake at Costco. They're not starting from zero. They're starting from confused, because everything they read seems to contradict everything else, and their body isn't responding the way it did at 45.
@@ -121,6 +121,6 @@ You don't need a perfect diet. You need a better one, applied consistently. Star
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

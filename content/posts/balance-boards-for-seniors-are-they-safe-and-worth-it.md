@@ -8,12 +8,12 @@ categories: ["balance"]
 slug: "balance-boards-for-seniors-are-they-safe-and-worth-it"
 affiliate_disclosure: true
 faqs:
-  - q: "Can a complete beginner with poor balance use a balance board safely?"
-    a: "Yes, as long as you start with the right equipment and the right setup. A beginner senior should always begin with a gentle rocker board or an inflatable balance disc, positioned next to a stable surface for hand support. Starting this way makes the exercise accessible even if your current balance is quite poor, and you’ll likely notice improvement within just a few weeks of regular practice."
-  - q: "How long does it take to see improvements in balance from using a balance board?"
-    a: "Many seniors report feeling noticeably steadier after just 3 to 4 weeks of consistent daily practice. Research on balance training generally shows meaningful improvements in stability and fall-related confidence within 6 to 8 weeks. The key word is consistency, even short sessions of 5 minutes a day add up quickly over time."
-  - q: "Is a balance board better than just doing balance exercises on the floor?"
-    a: "Both approaches are valuable and they work very well together. Floor-based balance exercises like single-leg stands and heel-to-toe walking are excellent and require no equipment at all. A balance board adds an extra layer of challenge by introducing an unstable surface, which more aggressively trains the small stabilizing muscles and your proprioceptive system. Think of the board as a helpful addition to your routine, not a replacement for other exercises."
+ - q: "Can a complete beginner with poor balance use a balance board safely?"
+ a: "Yes, as long as you start with the right equipment and the right setup. A beginner senior should always begin with a gentle rocker board or an inflatable balance disc, positioned next to a stable surface for hand support. Starting this way makes the exercise accessible even if your current balance is quite poor, and you’ll likely notice improvement within just a few weeks of regular practice."
+ - q: "How long does it take to see improvements in balance from using a balance board?"
+ a: "Many seniors report feeling noticeably steadier after just 3 to 4 weeks of consistent daily practice. Research on balance training generally shows meaningful improvements in stability and fall-related confidence within 6 to 8 weeks. The key word is consistency, even short sessions of 5 minutes a day add up quickly over time."
+ - q: "Is a balance board better than just doing balance exercises on the floor?"
+ a: "Both approaches are valuable and they work very well together. Floor-based balance exercises like single-leg stands and heel-to-toe walking are excellent and require no equipment at all. A balance board adds an extra layer of challenge by introducing an unstable surface, which more aggressively trains the small stabilizing muscles and your proprioceptive system. Think of the board as a helpful addition to your routine, not a replacement for other exercises."
 author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
@@ -26,12 +26,12 @@ But are these wobbly-looking boards actually safe? Worth your time and money? Le
 
 
 <div class="value-module">
-  <div class="vm-head">Senior Balance Board Safety Checklist</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use these specific criteria to determine if a balance board is appropriate and how to use it safely.</p>
-    <ul><li><strong>Before Starting, Medical Clearance:</strong><ul><li>Get physician approval if you have neuropathy, vertigo, recent joint replacement, or blood pressure medications causing dizziness</li><li>Wait at least 6 months post-hip or knee surgery before unsupported balance training</li></ul></li><li><strong>Board Selection Thresholds:</strong><ul><li>Choose rocker boards with tilt range ≤15° (vs. 20°+ for standard wobble boards)</li><li>Minimum platform width: 15 inches for stable foot placement</li><li>Weight capacity should exceed your weight by at least 50 lbs</li><li>Non-slip surface texture required; avoid smooth wood finishes</li></ul></li><li><strong>Environment Setup:</strong><ul><li>Position within arm's reach of sturdy support (counter, rail, or chair back rated for 250+ lbs)</li><li>Clear 3-foot radius around board of tripping hazards</li><li>Use only on flat, non-carpeted surfaces to prevent board sliding</li></ul></li><li><strong>Session Parameters for Beginners (First 4 Weeks):</strong><ul><li>Start with both hands on support; progress to one hand, then fingertips only</li><li>Initial sessions: 30–60 seconds on board, 3–5 repetitions</li><li>Maximum 10 minutes total per day initially</li><li>Stop immediately if experiencing dizziness, pain, or fatigue</li></ul></li><li><strong>Progression Readiness Signs:</strong><ul><li>Can stand 2 minutes with fingertip support only</li><li>No loss of balance incidents for 2 consecutive weeks</li><li>Comfortable looking straight ahead (not at feet) while balancing</li></ul></li></ul>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Senior Balance Board Safety Checklist</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use these specific criteria to determine if a balance board is appropriate and how to use it safely.</p>
+ <ul><li><strong>Before Starting, Medical Clearance:</strong><ul><li>Get physician approval if you have neuropathy, vertigo, recent joint replacement, or blood pressure medications causing dizziness</li><li>Wait at least 6 months post-hip or knee surgery before unsupported balance training</li></ul></li><li><strong>Board Selection Thresholds:</strong><ul><li>Choose rocker boards with tilt range ≤15° (vs. 20°+ for standard wobble boards)</li><li>Minimum platform width: 15 inches for stable foot placement</li><li>Weight capacity should exceed your weight by at least 50 lbs</li><li>Non-slip surface texture required; avoid smooth wood finishes</li></ul></li><li><strong>Environment Setup:</strong><ul><li>Position within arm's reach of sturdy support (counter, rail, or chair back rated for 250+ lbs)</li><li>Clear 3-foot radius around board of tripping hazards</li><li>Use only on flat, non-carpeted surfaces to prevent board sliding</li></ul></li><li><strong>Session Parameters for Beginners (First 4 Weeks):</strong><ul><li>Start with both hands on support; progress to one hand, then fingertips only</li><li>Initial sessions: 30–60 seconds on board, 3–5 repetitions</li><li>Maximum 10 minutes total per day initially</li><li>Stop immediately if experiencing dizziness, pain, or fatigue</li></ul></li><li><strong>Progression Readiness Signs:</strong><ul><li>Can stand 2 minutes with fingertip support only</li><li>No loss of balance incidents for 2 consecutive weeks</li><li>Comfortable looking straight ahead (not at feet) while balancing</li></ul></li></ul>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Why Balance Declines as We Age

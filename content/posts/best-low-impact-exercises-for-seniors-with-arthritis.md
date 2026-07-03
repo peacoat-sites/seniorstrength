@@ -8,12 +8,12 @@ categories: ["exercise"]
 slug: "best-low-impact-exercises-for-seniors-with-arthritis"
 affiliate_disclosure: true
 faqs:
-  - q: "Is it safe to exercise when my arthritis is painful?"
-    a: "Gentle movement is usually safe and even helpful during mild to moderate arthritis pain. Moving your joints gently can actually reduce stiffness and improve your comfort. However, if you are experiencing a significant flare-up, meaning intense pain, visible swelling, or warmth around the joint, rest for a day or two and contact your doctor if symptoms persist."
-  - q: "How long before I start seeing results from low impact exercise?"
-    a: "Most seniors notice some improvement in joint flexibility and pain levels within 4 to 6 weeks of regular exercise. Improvements in muscle strength and balance may take a little longer, around 8 to 12 weeks. The important thing is to stay consistent, even on days when progress feels slow."
-  - q: "What if I have never exercised regularly before, where should I start?"
-    a: "Start small and build gradually. Even five minutes of gentle walking or seated stretching is a legitimate starting point. From there, add a few minutes each week as your body adapts. Consider joining a senior fitness class at your local community center, where an instructor can guide you and you will have the added benefit of social connection."
+ - q: "Is it safe to exercise when my arthritis is painful?"
+ a: "Gentle movement is usually safe and even helpful during mild to moderate arthritis pain. Moving your joints gently can actually reduce stiffness and improve your comfort. However, if you are experiencing a significant flare-up, meaning intense pain, visible swelling, or warmth around the joint, rest for a day or two and contact your doctor if symptoms persist."
+ - q: "How long before I start seeing results from low impact exercise?"
+ a: "Most seniors notice some improvement in joint flexibility and pain levels within 4 to 6 weeks of regular exercise. Improvements in muscle strength and balance may take a little longer, around 8 to 12 weeks. The important thing is to stay consistent, even on days when progress feels slow."
+ - q: "What if I have never exercised regularly before, where should I start?"
+ a: "Start small and build gradually. Even five minutes of gentle walking or seated stretching is a legitimate starting point. From there, add a few minutes each week as your body adapts. Consider joining a senior fitness class at your local community center, where an instructor can guide you and you will have the added benefit of social connection."
 author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
@@ -26,12 +26,12 @@ Exercise might feel like the last thing you want to do when your joints are stif
 
 
 <div class="value-module">
-  <div class="vm-head">Exercise Selection by Joint & Severity</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this matrix to match exercises to your specific affected joints and current symptom level.</p>
-    <table><thead><tr><th>Primary Joint Affected</th><th>Mild Symptoms (occasional stiffness)</th><th>Moderate Symptoms (daily discomfort)</th><th>Severe Symptoms (significant pain/swelling)</th></tr></thead><tbody><tr><td>Knees</td><td>Walking, stationary cycling, tai chi</td><td>Water aerobics, recumbent bike, chair exercises</td><td>Pool walking, seated leg lifts, gentle stretching</td></tr><tr><td>Hips</td><td>Walking, swimming, elliptical trainer</td><td>Water aerobics, stationary cycling, yoga</td><td>Pool exercises, seated hip circles, lying stretches</td></tr><tr><td>Hands/Wrists</td><td>Walking, cycling, dancing</td><td>Swimming (no gripping), tai chi, walking</td><td>Walking, gentle finger stretches, arm movements</td></tr><tr><td>Spine/Back</td><td>Swimming, walking, gentle yoga</td><td>Water aerobics, recumbent bike, tai chi</td><td>Pool walking, chair yoga, supine stretching</td></tr><tr><td>Multiple Joints</td><td>Swimming, tai chi, gentle cycling</td><td>Warm-water pool classes, chair exercises</td><td>Warm-water therapy, seated movements, range-of-motion exercises</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Exercise Selection by Joint & Severity</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this matrix to match exercises to your specific affected joints and current symptom level.</p>
+ <table><thead><tr><th>Primary Joint Affected</th><th>Mild Symptoms (occasional stiffness)</th><th>Moderate Symptoms (daily discomfort)</th><th>Severe Symptoms (significant pain/swelling)</th></tr></thead><tbody><tr><td>Knees</td><td>Walking, stationary cycling, tai chi</td><td>Water aerobics, recumbent bike, chair exercises</td><td>Pool walking, seated leg lifts, gentle stretching</td></tr><tr><td>Hips</td><td>Walking, swimming, elliptical trainer</td><td>Water aerobics, stationary cycling, yoga</td><td>Pool exercises, seated hip circles, lying stretches</td></tr><tr><td>Hands/Wrists</td><td>Walking, cycling, dancing</td><td>Swimming (no gripping), tai chi, walking</td><td>Walking, gentle finger stretches, arm movements</td></tr><tr><td>Spine/Back</td><td>Swimming, walking, gentle yoga</td><td>Water aerobics, recumbent bike, tai chi</td><td>Pool walking, chair yoga, supine stretching</td></tr><tr><td>Multiple Joints</td><td>Swimming, tai chi, gentle cycling</td><td>Warm-water pool classes, chair exercises</td><td>Warm-water therapy, seated movements, range-of-motion exercises</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Why Movement Matters When You Have Arthritis
@@ -88,12 +88,12 @@ Stronger muscles mean better joint support and less pain during daily activities
 
 Getting started is the hardest part. These tips will help you exercise smarter and stay safe.
 
-  * **Warm up first:** Spend 5 minutes doing gentle range-of-motion movements, slowly circling your ankles, wrists, and shoulders, before any exercise.
-  * **Listen to your body:** A little muscle fatigue is normal. Sharp or sudden joint pain is a signal to stop and rest.
-  * **Stay consistent:** Short, regular sessions beat occasional intense workouts. Aim for 30 minutes most days, broken into smaller chunks if needed.
-  * **Stay hydrated:** Drink water before, during, and after exercise to keep your joints lubricated and your energy steady.
-  * **Use ice or heat wisely:** A warm compress before exercise loosens stiff joints. An ice pack for 15 minutes after exercise reduces inflammation.
-  * **Rest when needed:** On flare-up days when arthritis is more inflamed and painful than usual, stick to very gentle movements or take a rest day.
+ * **Warm up first:** Spend 5 minutes doing gentle range-of-motion movements, slowly circling your ankles, wrists, and shoulders, before any exercise.
+ * **Listen to your body:** A little muscle fatigue is normal. Sharp or sudden joint pain is a signal to stop and rest.
+ * **Stay consistent:** Short, regular sessions beat occasional intense workouts. Aim for 30 minutes most days, broken into smaller chunks if needed.
+ * **Stay hydrated:** Drink water before, during, and after exercise to keep your joints lubricated and your energy steady.
+ * **Use ice or heat wisely:** A warm compress before exercise loosens stiff joints. An ice pack for 15 minutes after exercise reduces inflammation.
+ * **Rest when needed:** On flare-up days when arthritis is more inflamed and painful than usual, stick to very gentle movements or take a rest day.
 
 ## How to Build a Weekly Exercise Routine
 

@@ -9,16 +9,16 @@ tags: ["benefits", "exercise", "older", "adults"]
 slug: "benefits-of-exercise-for-older-adults"
 affiliate_disclosure: true
 faqs:
-  - q: "Is it safe to start lifting weights at 70 or 80?"
-    a: "Yes, with appropriate guidance. Studies including adults in their 90s have shown meaningful strength gains from resistance training. The key is starting with a manageable load and learning proper form, ideally with a few sessions with a qualified trainer before going solo."
-  - q: "How much exercise is actually enough to see benefits?"
-    a: "Even 10 to 20 minutes of walking per day shows measurable health benefits compared to being sedentary. More is generally better up to a point, but consistency matters far more than intensity. Three days a week of moderate activity beats one brutal workout followed by five days off."
-  - q: "What if I have arthritis or chronic joint pain?"
-    a: "Movement is usually part of the treatment, not something to avoid. Low-impact options like swimming, water aerobics, cycling, and chair-based exercise can build strength and reduce stiffness without aggravating joints. A physical therapist can help you find the right approach for your specific joints and pain level."
-  - q: "Will exercise help with sleep problems?"
-    a: "The research here is fairly consistent: regular moderate exercise improves both sleep quality and sleep duration in older adults. A 2019 meta-analysis in Advances in Preventive Medicine found significant improvements in both measures. It may take a few weeks to notice the effect, and exercising too close to bedtime can backfire for some people."
-  - q: "What if I've never really exercised before?"
-    a: "You're not starting from zero, you're starting from where you are, which is a completely reasonable place to begin. Adults who were sedentary for decades still respond to exercise. In some ways, the gains in the first few months for previously sedentary older adults are steeper than for people who've been consistently active, because there's more low-hanging fruit."
+ - q: "Is it safe to start lifting weights at 70 or 80?"
+ a: "Yes, with appropriate guidance. Studies including adults in their 90s have shown meaningful strength gains from resistance training. The key is starting with a manageable load and learning proper form, ideally with a few sessions with a qualified trainer before going solo."
+ - q: "How much exercise is actually enough to see benefits?"
+ a: "Even 10 to 20 minutes of walking per day shows measurable health benefits compared to being sedentary. More is generally better up to a point, but consistency matters far more than intensity. Three days a week of moderate activity beats one brutal workout followed by five days off."
+ - q: "What if I have arthritis or chronic joint pain?"
+ a: "Movement is usually part of the treatment, not something to avoid. Low-impact options like swimming, water aerobics, cycling, and chair-based exercise can build strength and reduce stiffness without aggravating joints. A physical therapist can help you find the right approach for your specific joints and pain level."
+ - q: "Will exercise help with sleep problems?"
+ a: "The research here is fairly consistent: regular moderate exercise improves both sleep quality and sleep duration in older adults. A 2019 meta-analysis in Advances in Preventive Medicine found significant improvements in both measures. It may take a few weeks to notice the effect, and exercising too close to bedtime can backfire for some people."
+ - q: "What if I've never really exercised before?"
+ a: "You're not starting from zero, you're starting from where you are, which is a completely reasonable place to begin. Adults who were sedentary for decades still respond to exercise. In some ways, the gains in the first few months for previously sedentary older adults are steeper than for people who've been consistently active, because there's more low-hanging fruit."
 author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
@@ -34,12 +34,12 @@ I've seen this pattern more times than I can count. The "take it easy" advice, g
 ---
 
 <div class="value-module">
-  <div class="vm-head">Weekly Exercise Minimums by Health Goal</div>
-  <div class="vm-body">
-    <p class="vm-intro">Different outcomes require different exercise types and doses, here's what research supports for adults 60+.</p>
-    <table><thead><tr><th>Health Goal</th><th>Exercise Type</th><th>Minimum Effective Dose</th><th>Key Benchmark to Track</th></tr></thead><tbody><tr><td>Maintain muscle mass</td><td>Resistance training (weights, bands, bodyweight)</td><td>2 sessions/week, 8–10 exercises, 1–3 sets each</td><td>Chair stand test: 12+ stands in 30 seconds</td></tr><tr><td>Preserve bone density</td><td>Weight-bearing + resistance combined</td><td>3–5 days/week, 30 min total weight-bearing; 2 days resistance</td><td>Single-leg stance: hold 30+ seconds each side</td></tr><tr><td>Reduce fall risk</td><td>Balance training (tai chi, tandem walks, single-leg stands)</td><td>3 sessions/week, 15–20 min each</td><td>Timed Up-and-Go: under 12 seconds</td></tr><tr><td>Cardiovascular health</td><td>Moderate aerobic (brisk walking, cycling, swimming)</td><td>150 min/week or 75 min vigorous</td><td>6-minute walk test: 400+ meters</td></tr><tr><td>Cognitive function</td><td>Any aerobic activity at moderate intensity</td><td>120–150 min/week</td><td>Subjective: improved focus, word recall</td></tr><tr><td>Functional independence</td><td>Combined: aerobic + resistance + balance</td><td>Meet minimums for all three categories above</td><td>Can rise from floor unassisted in under 10 seconds</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Weekly Exercise Minimums by Health Goal</div>
+ <div class="vm-body">
+ <p class="vm-intro">Different outcomes require different exercise types and doses, here's what research supports for adults 60+.</p>
+ <table><thead><tr><th>Health Goal</th><th>Exercise Type</th><th>Minimum Effective Dose</th><th>Key Benchmark to Track</th></tr></thead><tbody><tr><td>Maintain muscle mass</td><td>Resistance training (weights, bands, bodyweight)</td><td>2 sessions/week, 8–10 exercises, 1–3 sets each</td><td>Chair stand test: 12+ stands in 30 seconds</td></tr><tr><td>Preserve bone density</td><td>Weight-bearing + resistance combined</td><td>3–5 days/week, 30 min total weight-bearing; 2 days resistance</td><td>Single-leg stance: hold 30+ seconds each side</td></tr><tr><td>Reduce fall risk</td><td>Balance training (tai chi, tandem walks, single-leg stands)</td><td>3 sessions/week, 15–20 min each</td><td>Timed Up-and-Go: under 12 seconds</td></tr><tr><td>Cardiovascular health</td><td>Moderate aerobic (brisk walking, cycling, swimming)</td><td>150 min/week or 75 min vigorous</td><td>6-minute walk test: 400+ meters</td></tr><tr><td>Cognitive function</td><td>Any aerobic activity at moderate intensity</td><td>120–150 min/week</td><td>Subjective: improved focus, word recall</td></tr><tr><td>Functional independence</td><td>Combined: aerobic + resistance + balance</td><td>Meet minimums for all three categories above</td><td>Can rise from floor unassisted in under 10 seconds</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Exercise Actually Does to an Aging Body
