@@ -97,3 +97,9 @@
 }
 </script>
 {{- end }}
+
+{{/* title-font */}}
+{{- if eq .Section "posts" }}
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap">
+<style>.post-title{font-family:'Libre Baskerville', Georgia, serif;letter-spacing:-.01em}</style>
+{{- end }}
