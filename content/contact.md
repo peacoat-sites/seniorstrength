@@ -19,4 +19,4 @@ Have a question, spotted an error, or want to suggest a topic? We read every mes
 
 We're a content publication, not a professional service. We can't provide personalized medical or fitness advice specific to your situation. For that, please consult a qualified professional.
 
-*[Dr. Patricia Moore](/{editor_slug}/) personally reviews all messages sent through this form.*
+*[Dr. Patricia Moore](/dr-patricia-moore/) personally reviews all messages sent through this form.*
