@@ -2,6 +2,7 @@
 title: "Linda Chen"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
