@@ -1,5 +1,6 @@
 ---
 title: "Senior Protein Calculator: How Much Protein Do You Really Need?"
+hide_title: true
 date: 2026-06-10
 draft: false
 description: "Calculate your daily protein needs as a senior with our evidence-based tool. Get per-meal targets, leucine guidance, and food source tips tailored for adults over 60."
