@@ -5,7 +5,7 @@ date: 2026-01-01
 draft: false
 description: "Learn about Carol Mitchum, the Senior Wellness Editor behind seniorstrength.today."
 layout: "about-page"
-author_slug: "carol-mitchum"
+author_slug: "dr-patricia-williams"
 author_name: "Carol Mitchum"---
 
 # About Carol Mitchum
