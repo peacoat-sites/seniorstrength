@@ -2,9 +2,9 @@
 title: "Strength Benchmarks by Age & Gender (2026): How You Compare"
 image: "https://images.pexels.com/photos/6922184/pexels-photo-6922184.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 description: "CDC/ACSM strength standards by age and gender. Bench press, squat, deadlift benchmarks. Track your progress vs. population averages."
-author: "Dr. Marcus Webb"
-author_slug: "marcus-webb"
-author_title: "Exercise Scientist, 16 years strength research"
+author: "Dr. Patricia Williams"
+author_slug: "dr-patricia-williams"
+author_title: "Medical Reviewer"
 date: 2026-06-28
 featured_depth: true
 faqs:
