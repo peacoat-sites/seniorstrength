@@ -5,7 +5,6 @@ slug: "senior-strength-workout-builder"
 categories: ["Strength Training"]
 description: "Build a personalized senior strength workout in seconds. Choose your age, fitness level, equipment, and any limitations — get a safe, structured plan instantly."
 author: "Carol Mitchum"
-image: ""
 image: "https://images.pexels.com/photos/4720509/pexels-photo-4720509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
