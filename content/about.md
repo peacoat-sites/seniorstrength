@@ -7,6 +7,7 @@ description: "Learn about Carol Mitchum, the Senior Wellness Editor behind senio
 layout: "about-page"
 author_slug: "dr-patricia-williams"
 author_name: "Carol Mitchum"
+person_name: "Carol Mitchum"
 ---
 
 # About Carol Mitchum
