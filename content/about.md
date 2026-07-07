@@ -1,16 +1,16 @@
 ---
-title: "About Carol Mitchum"
+title: "About Dr. Patricia Williams"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "Learn about Carol Mitchum, the Senior Wellness Editor behind seniorstrength.today."
+description: "Learn about Dr. Patricia Williams, the Senior Wellness Editor behind seniorstrength.today."
 layout: "about-page"
 author_slug: "dr-patricia-williams"
-author_name: "Carol Mitchum"
-person_name: "Carol Mitchum"
+author_name: "Dr. Patricia Williams"
+person_name: "Dr. Patricia Williams"
 ---
 
-# About Carol Mitchum
+# About Dr. Patricia Williams
 
 I've spent years reading the research on exercise science and healthy aging ,  not as a passive consumer, but as someone who has watched family members navigate the physical challenges that come with getting older, and who has become deeply invested in understanding what the science actually says versus what gets recycled in mainstream wellness content.
 
