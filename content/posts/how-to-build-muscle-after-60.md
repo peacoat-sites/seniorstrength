@@ -21,8 +21,8 @@ faqs:
     a: "The 'anabolic window' of 30 minutes post-workout has been largely overstated. What matters more is total daily protein intake and spreading it across meals. That said, eating a protein-containing meal within a couple of hours of training is sensible and practical. You don't need a shake on the gym floor, but don't skip the next meal either."
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Nutrition Writer"
-author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+author_title: "Senior Nutrition Specialist"
+author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 
 ---
 Most people over 60 are told to "be careful" with strength training. What they actually need is to do more of it.

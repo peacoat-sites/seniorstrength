@@ -16,8 +16,8 @@ faqs:
     a: "In many cases, yes, and strength training may actually help relieve arthritis symptoms by strengthening the muscles that support and protect your joints. However, it’s essential to work with your doctor or a physical therapist to identify which exercises are appropriate for your specific condition. Low-impact options like seated exercises, resistance bands, and water aerobics are often excellent choices for those with joint concerns."
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Nutrition Writer"
-author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+author_title: "Senior Nutrition Specialist"
+author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 
 ---
 You've noticed it too, haven't you? Climbing stairs feels harder than it used to. Carrying groceries from the car wears you out. Getting up from a low chair takes a little more effort each year. If any of this sounds familiar, you're not alone. And there's something you can do about it. **Strength training for women over 65** is one of the most powerful tools available to help you feel stronger, move more freely, and live more independently. It's never too late to start.

@@ -21,8 +21,8 @@ faqs:
     a: "If you've had two or more falls in the past year, if you have a neurological condition like Parkinson's disease or peripheral neuropathy, if you've had a hip or knee replacement, or if you feel genuinely unsafe getting up from a chair without support, please start with a physical therapist rather than going it alone. They can identify the specific deficits driving your fall risk and design a program that addresses your actual weak points. Self-guided programs like the one in this article are a solid starting point for many people, but they're not a substitute for professional assessment when y"
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Nutrition Writer"
-author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+author_title: "Senior Nutrition Specialist"
+author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 
 ---
 Every 11 seconds, an older adult ends up in an emergency room because of a fall. That statistic from the CDC hit me hard the first time I read it, and honestly, it still does. But here's what strikes me even more: most of those falls don't have to happen. Not through luck or constant vigilance or abandoning everything you enjoy doing. Through actual training. Specific, consistent, well-chosen training that rewires how your body responds when your foot lands somewhere unexpected.

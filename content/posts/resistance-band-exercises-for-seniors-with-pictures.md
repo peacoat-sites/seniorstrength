@@ -16,8 +16,8 @@ faqs:
     a: "Resistance bands absolutely build real muscle, research backs this up. A 2019 study published in the journal SAGE Open Medicine found that resistance band training produced similar muscle strength gains to traditional weight training. The key is progressive overload, gradually making the exercises more challenging over time, just as you would with weights."
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Nutrition Writer"
-author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+author_title: "Senior Nutrition Specialist"
+author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 
 ---
 You want to stay strong and active, but the gym feels intimidating, and your joints aren't exactly thrilled about heavy weights anymore. Sound familiar? Resistance band exercises for seniors are a safe, affordable, and surprisingly effective way to build strength right from your living room. These stretchy, colorful bands are gentle on your joints, easy to store, and powerful enough to challenge your muscles at any fitness level.

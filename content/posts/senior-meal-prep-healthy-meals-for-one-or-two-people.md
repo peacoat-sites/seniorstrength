@@ -16,8 +16,8 @@ faqs:
    a: "Getting started with meal prep doesn’t require a large upfront investment. You likely already have most of what you need. A set of basic storage containers is the main purchase, and you can find quality options for under $20. Over time, meal prep almost always saves money by reducing food waste, limiting takeout meals, and encouraging smarter grocery shopping habits. Meal prep for seniors isn’t about perfection, it’s about making your week a little easier, your meals a little healthier, and your time in the kitchen a little more enjoyable. Start with just one or two prepped items this weekend"
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Nutrition Writer"
-author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+author_title: "Senior Nutrition Specialist"
+author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 
 ---
 Cooking for one or two people can feel pointless. Giant portions. Ingredients rotting in the crisper drawer. A fridge full of food you're sick of by Wednesday. That's where meal prep changes things, a couple hours on Sunday means actual, healthy meals all week without the daily grind.

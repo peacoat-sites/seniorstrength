@@ -16,8 +16,8 @@ faqs:
    a: "Seniors with lower back pain should generally avoid deep forward bends with straight legs, high-impact jumping movements, and any twist that causes sharp pain. Sit-ups and double leg raises can also place too much stress on the lumbar spine. Always choose gentle, controlled stretches and stop immediately if any movement causes sharp or shooting pain. Photo by The Good Funeral Guide on Unsplash"
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Nutrition Writer"
-author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+author_title: "Senior Nutrition Specialist"
+author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 
 ---
 If you're waking up with a stiff lower back, you're in good company. Millions of seniors deal with this every single day, and it's frustrating enough that getting dressed or walking to the kitchen starts to feel like work. The encouraging part: stretches that actually work exist, and they're simple, gentle, and don't require a gym.

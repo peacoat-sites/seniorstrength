@@ -21,8 +21,8 @@ faqs:
    a: "Both are excellent, and the answer depends partly on your swimming ability and shoulder health. Pool walking and water aerobics keep you upright and load the hip and leg muscles in patterns similar to land-based movement, which may transfer better to daily function. Swimming laps is fantastic cardiovascular exercise with near-zero joint load, but the horizontal position and kicking mechanics mean the muscles that directly support the knee get less targeted training. If you can do both, vary them. If you're choosing one, pool walking probably offers slightly more functional carryover for daily"
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Nutrition Writer"
-author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+author_title: "Senior Nutrition Specialist"
+author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 
 ---
 Most people with bad knees are told to rest. Stop walking so much. Skip the stairs. Take it easy. I spent years watching that advice backfire, and I'll be honest: it frustrated me every time. Because the research, and two decades of working with older adults, points in exactly the opposite direction. The right kind of movement is frequently one of the best things you can do for a painful knee. The wrong kind of rest is often what makes it worse.

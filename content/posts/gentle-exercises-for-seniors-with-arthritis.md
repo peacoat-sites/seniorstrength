@@ -21,8 +21,8 @@ faqs:
    a: "You don't need one. Chair-based exercises, resistance band work, and walking cost almost nothing. The Arthritis Foundation's website (arthritis.org) has a library of free exercise videos. Several evidence-based programs, including Walk With Ease, have free or very low-cost printed guides. A single appointment with a physical therapist to get a personalized home exercise program can be worth more than months of gym access."
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Nutrition Writer"
-author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+author_title: "Senior Nutrition Specialist"
+author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 
 ---
 Arthritis affects roughly 1 in 2 adults over the age of 65. And yet most people's doctor hands them a pamphlet with exercises that look nothing like what their body can actually do that day. If you've ever rolled your eyes at a generic workout recommendation while your knees are swollen and your fingers won't close all the way in the morning, you're not imagining the disconnect. The advice isn't wrong exactly. It's just incomplete.

@@ -16,8 +16,8 @@ faqs:
    a: "Several common habits can reduce how much calcium your body actually uses. Drinking very large amounts of caffeine or alcohol regularly, eating too much sodium, and consuming excessive amounts of spinach or beet greens (high in oxalates) can all interfere with calcium absorption. Spreading your calcium intake throughout the day, rather than trying to get it all at once, also helps your body absorb it more efficiently. Aim for no more than 500 mg in a single meal or snack."
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Nutrition Writer"
-author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+author_title: "Senior Nutrition Specialist"
+author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 
 ---
 Your doctor told you your calcium is low, and you froze. What now? Millions of seniors are in the same boat, lactose intolerance, digestive issues, or just plain taste preferences push them away from dairy. But here's the thing: calcium-rich foods for seniors aren't limited to milk. There are delicious, accessible options that'll keep your bones strong through your 70s and 80s.

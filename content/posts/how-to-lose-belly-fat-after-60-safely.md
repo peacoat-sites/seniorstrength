@@ -16,8 +16,8 @@ faqs:
     a: "Most people begin to notice changes within four to six weeks of consistent effort, though this varies depending on your starting point, health conditions, and how consistently you follow your plan. Early results may include feeling less bloated, having more energy, and noticing that your clothes fit a little better. Remember that belly fat, especially visceral fat deep within the abdomen, takes time to reduce safely. Slow, steady progress of one to two pounds per week is considered ideal by most health professionals and is far more sustainable than rapid weight loss. Be patient with yourself a"
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Nutrition Writer"
-author_bio: "Robert Davis spent his career as a registered dietitian working with older adults, where he repeatedly saw the same pattern: seniors eating too little protein as their appetite decreased, accelerating muscle loss at exactly the time when strength mattered most. At Senior Strength Guide, he covers the nutritional side of staying strong, with a focus on practical, evidence-based guidance."
+author_title: "Senior Nutrition Specialist"
+author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 
 ---
 You've noticed it creeping up on you, that stubborn belly that definitely wasn't there ten years ago. No matter what you try, it won't budge. Millions of people over 60 deal with this exact problem. Here's the thing: you can lose belly fat after 60 safely and effectively. You just need an approach that actually fits your body at this stage of life.
