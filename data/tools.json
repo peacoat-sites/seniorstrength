@@ -1,0 +1,17 @@
+[
+  {
+    "label": "Fall Risk Assessment",
+    "url": "/fall-risk-assessment/",
+    "icon": "\ud83e\uddee"
+  },
+  {
+    "label": "Protein Calc",
+    "url": "/senior-protein-calculator/",
+    "icon": "\ud83e\uddee"
+  },
+  {
+    "label": "Strength Standards Age",
+    "url": "/strength-standards-by-age/",
+    "icon": "\ud83e\uddee"
+  }
+]
