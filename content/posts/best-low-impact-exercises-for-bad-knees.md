@@ -23,7 +23,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-
+lastmod: 2026-07-07
 ---
 Most people with bad knees are told to rest. Stop walking so much. Skip the stairs. Take it easy. I spent years watching that advice backfire, and I'll be honest: it frustrated me every time. Because the research, and two decades of working with older adults, points in exactly the opposite direction. The right kind of movement is frequently one of the best things you can do for a painful knee. The wrong kind of rest is often what makes it worse.
 
@@ -61,7 +61,7 @@ The goal isn't to avoid loading the knee. It's to load it intelligently.
 
 I want to be upfront: the research here is mixed when it comes to which specific exercise is "best." What's consistent is that multiple forms of low impact movement show benefit, and individual response varies considerably. The following options have the strongest combination of evidence, safety profile, and accessibility for people in their 60s, 70s, and beyond.
 
-**Water exercise and aquatic therapy** consistently come out on top. Pool-based movement reduces effective body weight by up to 75% when you're submerged to chest height, which means your knee can move through a reasonable range of motion without taking a beating. A 2016 Cochrane review found that aquatic exercise provided short-term improvements in pain and function for people with hip and knee osteoarthritis. What I've seen clinically matches that: clients who couldn't tolerate 10 minutes on a treadmill could do 30 minutes of pool walking or water aerobics with minimal pain. If you have access to a community pool or YMCA, this is worth trying before almost anything else.
+**Water exercise and aquatic therapy** consistently come out on top. Pool-based movement reduces effective body weight by up to 75% when you're submerged to chest height, which means your knee can move through a reasonable range of motion without taking a beating. A 2016 Cochrane review found that aquatic exercise provided short-term improvements in pain and function for people with hip and knee osteoarthritis. What I've seen clinically matches that: clients who couldn't tolerate 10 minutes on a treadmill could do 30 minutes of [pool walking or water aerobics](/water-aerobics-exercises-for-seniors/) with minimal pain. If you have access to a community pool or YMCA, this is worth trying before almost anything else.
 
 **Stationary cycling** is close behind, and it works through a simple mechanism. The circular pedaling motion keeps the knee moving through a limited, controlled arc and builds the quadriceps and hamstrings without significant joint compression. Seat height matters enormously: too low forces the knee into deep flexion and increases pressure; too high causes lateral rocking that stresses the iliotibial band. A good starting position is to set the seat so your knee has a slight bend (about 25 to 30 degrees) at the bottom of the pedal stroke. Keep resistance low at first. The goal is smooth rotation, not a leg-day workout that leaves you limping.
 

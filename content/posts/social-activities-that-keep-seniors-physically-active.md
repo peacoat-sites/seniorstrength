@@ -18,7 +18,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-
+lastmod: 2026-07-07
 ---
 Do you sit more than you used to? Most seniors do. The years pile up, motivation drains, and exercising alone starts to feel pointless. But here's what changes everything: mixing movement with people you actually want to see. Combine friendship with activity, and something shifts. You stay active. You stay happy. You stay healthy into your 70s and 80s.
 
@@ -85,6 +85,17 @@ Where to look:
 
 ## Sports, Games, and Recreational Leagues
 
+| Activity | Primary Benefits | Difficulty Level | Joint Impact |
+| --- | --- | --- | --- |
+| Walking groups | Heart health, balance, mood | Low | Low |
+| Dancing | Balance, leg/core strength, cognitive function, dementia risk reduction | Moderate | Low to moderate |
+| Water aerobics | Strength, endurance, joint-friendly | Moderate | Very low |
+| Tai chi | Balance, fall risk reduction, blood pressure control | Low to moderate | Very low |
+| Pickleball | Agility, hand-eye coordination, cardiovascular fitness | Moderate | Low |
+| Bocce ball | Gentle walking, focus, social bonding | Low | Very low |
+| Swimming | Full-body workout, cardiovascular health | Moderate | Zero |
+| Gardening | Grip strength, flexibility, endurance | Moderate | Low to moderate |
+
 Photo by [Big Dodzy](https://unsplash.com/@bigdodzy?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
 Here's something most people miss: recreational sports for seniors aren't competitive death matches. Pickleball, bocce, golf, swimming, shuffleboard, these are genuinely fun and genuinely popular among the 60-plus crowd.
@@ -106,7 +117,7 @@ Most communities have senior sports leagues that meet weekly. The camaraderie, t
 
 Volunteering isn't usually the first thing you think of when someone says "stay active," but community gardens, Habitat builds, beach cleanups, food bank work, all of these involve real movement. You're walking, lifting, bending, stretching. All while doing something that matters.
 
-Gardening especially appeals to seniors. You build grip strength, flexibility, endurance. Do it alongside others and you grow friendships along with vegetables.
+[Gardening especially appeals to seniors](/gardening-as-exercise-for-seniors-benefits-and-tips/). You build grip strength, flexibility, endurance. Do it alongside others and you grow friendships along with vegetables.
 
 Volunteering also gives your week structure. Knowing your community needs you? That's a powerful reason to stay engaged.
 

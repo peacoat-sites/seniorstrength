@@ -23,7 +23,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-
+lastmod: 2026-07-07
 ---
 Three things I've watched derail more women over 65 than almost anything else: doing too much too soon, following routines designed for 35-year-olds, and skipping strength training because someone told them cardio was "safer." All three are mistakes. The last one is genuinely dangerous.
 
@@ -47,7 +47,7 @@ A lot of the programs marketed to women over 60 are, honestly, too gentle. Chair
 
 Here's what most people don't know: sarcopenia (age-related muscle loss) doesn't happen slowly. After 60, you can lose 1-2% of your muscle mass per year if you're not actively working against it. That's not background noise. That's a significant shift in how you move, how stable you are, and what you can do independently a decade from now.
 
-The research is pretty clear on this: progressive resistance training is the most effective way to preserve muscle and bone density in older women. A 2022 review in the *Journal of Strength and Conditioning Research* looked at 30-plus studies and found that twice-weekly strength training with progressive load consistently improved lean mass, functional strength, and fall risk in women over 60. "Progressive" is the key word. You have to gradually increase the challenge over time, not just repeat the same light workout forever.
+The research is pretty clear on this: [progressive resistance training](/functional-fitness-exercises-for-seniors/) is the most effective way to preserve muscle and bone density in older women. A 2022 review in the *Journal of Strength and Conditioning Research* looked at 30-plus studies and found that twice-weekly strength training with progressive load consistently improved lean mass, functional strength, and fall risk in women over 60. "Progressive" is the key word. You have to gradually increase the challenge over time, not just repeat the same light workout forever.
 
 I've had clients come to me after years of water aerobics three times a week, genuinely baffled about why they still can't get up from the floor. Cardiovascular fitness and muscular strength are different systems. You need to train both.
 

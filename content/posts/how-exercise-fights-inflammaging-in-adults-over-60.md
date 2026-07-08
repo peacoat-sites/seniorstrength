@@ -12,6 +12,7 @@ author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
 slug: "how-exercise-fights-inflammaging-in-adults-over-60"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 A client of mine, a 67-year-old retired teacher, came in a few months ago frustrated. She'd been eating well, walking her neighborhood every morning, doing everything she thought she was supposed to do. But her doctor kept flagging elevated inflammatory markers at her annual bloodwork, and nobody was giving her a clear explanation of why, or what to do differently. She's not alone. And right now, the research is finally catching up to that frustration in a meaningful way.
 
@@ -27,7 +28,7 @@ What most people don't realize is that this isn't inevitable in the way we've be
 
 ## The Grip Strength Number That Should Get Your Attention
 
-In February 2026, researchers at the University at Buffalo published what's being described as the largest study of its kind in *JAMA Network Open*. They found that for every 7 kilograms of grip strength in women over 60, mortality risk dropped by 12% on average. Read that again. A 7 kg difference in how hard you can squeeze, something measurable with a simple handheld device in a doctor's office, correlates with a 12% drop in mortality risk.
+In February 2026, researchers at the University at Buffalo published what's being described as the largest study of its kind in *JAMA Network Open*. They found that for every 7 kilograms of [grip strength](/what-your-grip-strength-says-about-how-long-you-will-live/) in women over 60, mortality risk dropped by 12% on average. Read that again. A 7 kg difference in how hard you can squeeze, something measurable with a simple handheld device in a doctor's office, correlates with a 12% drop in mortality risk.
 
 I've seen a lot of research over the years get overclaimed and oversimplified, so I want to be clear: grip strength here is a marker, not a magic lever. It reflects the overall state of your muscular system. A stronger grip generally means you've maintained more lean muscle mass, better neuromuscular coordination, and a more physically active lifestyle. But the number is striking because it gives something concrete to reach toward. Strength is trainable at any age. The goal isn't to become an athlete. The goal is to stay functional and reduce systemic vulnerability.
 
@@ -37,7 +38,7 @@ This is why resistance training, not just walking or gentle stretching, belongs 
 
 Here's where it gets interesting, and a little more nuanced than "just move more." The clinical trial currently enrolling adults aged 65 to 80, spotlighted by NPR's Houston affiliate in January 2026, is specifically testing a combination of HIIT (high-intensity interval training that blends cardio bursts with resistance work) plus anti-inflammatory supplements. The goal is to see whether this approach can meaningfully reduce the chronic inflammation linked to cancer, heart disease, and dementia.
 
-HIIT for older adults sounds intimidating, and honestly, the name doesn't help. But in practice, HIIT for a 70-year-old might mean alternating 30 seconds of brisk walking with 30 seconds of slower recovery walking, or combining bodyweight squats with rest periods. Intensity is relative to the individual. The key mechanism is that varied intensity seems to produce stronger anti-inflammatory responses than steady-state exercise alone, pushing immune cells to mobilize and adapt in ways that gentle movement doesn't fully achieve.
+[HIIT for older adults](/a-4-minute-daily-workout-just-proved-it-can-transform-fitness-after-65/) sounds intimidating, and honestly, the name doesn't help. But in practice, HIIT for a 70-year-old might mean alternating 30 seconds of brisk walking with 30 seconds of slower recovery walking, or combining bodyweight squats with rest periods. Intensity is relative to the individual. The key mechanism is that varied intensity seems to produce stronger anti-inflammatory responses than steady-state exercise alone, pushing immune cells to mobilize and adapt in ways that gentle movement doesn't fully achieve.
 
 That said, any exercise is better than none. The University of Virginia review didn't say you need to be doing intervals to benefit. It said inactivity is the problem. Resistance training two to three days a week, combined with cardiovascular activity most days, is still the evidence-backed foundation. Think of higher-intensity work as a layer you can add carefully, ideally with guidance from someone who can adapt it to your current fitness level and any existing conditions.
 

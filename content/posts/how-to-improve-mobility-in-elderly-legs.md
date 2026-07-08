@@ -23,6 +23,7 @@ faqs:
    a: "Active mobility work (like CARs or contract-relax stretching) can be done before exercise as part of a warm-up. Long passive stretches held for 30-60 seconds are better placed after exercise, when the tissue is warm and there's no evidence they're reducing the neuromuscular activation you need for the workout ahead."
  - q: "Is it safe to work on leg mobility with arthritis?"
    a: "Generally yes, though the specifics depend on the type and severity. Gentle, controlled movement through available range is often beneficial for arthritic joints because it maintains synovial fluid circulation and slows the loss of range. The key is staying within pain-free (or discomfort-free) range. Anything that produces sharp or lasting pain is a signal to stop and check with your doctor or physical therapist."
+lastmod: 2026-07-07
 ---
 
 Most people assume that stiff, weak legs in their 60s, 70s, and 80s are just what aging looks like. You lose range of motion, your stride gets shorter, stairs get harder, and that's the deal. I believed that too, honestly, until I started watching what actually happened when older clients worked on mobility consistently and deliberately. What I saw contradicted almost everything the standard "stretch more" advice suggests.
@@ -63,7 +64,7 @@ The key word is "progressive." Starting with a resistance band or just bodyweigh
 
 Not everything needs equal attention. Most mobility deficits I see in older adults cluster around four areas, and working on all four creates compounding benefits.
 
-Hip flexors are usually the most restricted and the most consequential. Tight hip flexors from years of sitting pull the pelvis forward, compress the lower back, and shorten stride length. They also make the glutes less effective, which then affects knee stability. Five minutes a day on hip flexor mobility pays off in ways that ripple through everything else.
+Hip flexors are usually the most restricted and the most consequential. Tight hip flexors from years of sitting pull the pelvis forward, compress the lower back, and shorten stride length. They also make the glutes less effective, [which then affects knee stability](/balance-exercises-for-seniors-to-prevent-falls/). Five minutes a day on hip flexor mobility pays off in ways that ripple through everything else.
 
 Hip external rotators (the muscles that let you sit cross-legged) are the next priority. Loss of hip external rotation is a major contributor to falls because it reduces your ability to recover your balance when your foot lands in an unexpected position. A simple 90/90 stretch done actively, not passively, is one of the better tools here.
 

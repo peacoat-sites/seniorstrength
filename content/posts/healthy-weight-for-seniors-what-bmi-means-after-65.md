@@ -18,7 +18,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-
+lastmod: 2026-07-07
 ---
 You step on the scale and the number stares back at you. But what does it actually mean at 65, 70, or 75 years old? Most seniors find themselves confused by **healthy weight seniors BMI** charts that were built with younger adults in mind. The real answer is that understanding your ideal weight after 65 requires more nuance than a single number on a chart.
 
@@ -38,6 +38,13 @@ For adults under 65, the standard categories look like this:
 These numbers were largely established using data from younger populations. For seniors, things get different. And knowing that difference could actually be reassuring.
 
 ## How BMI Guidelines Change for Seniors
+
+| BMI Category | BMI Range | Standard (Under 65) | Notes for Seniors (65+) |
+| --- | --- | --- | --- |
+| Underweight | Below 18.5 | Health risk | Higher risk of muscle loss, infections, fractures |
+| Normal weight | 18.5-24.9 | Healthy range | May need to consider muscle composition |
+| Overweight | 25-29.9 | Caution advised | Some research suggests protective effect ("obesity paradox") |
+| Obese | 30+ | High risk | Still linked to heart disease, diabetes, mobility issues |
 
 Here's something your doctor may not have told you directly: many researchers and geriatric specialists now believe that a slightly higher BMI may actually be _protective_ for adults over 65. This phenomenon even has a name, the "obesity paradox."
 

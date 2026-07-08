@@ -12,12 +12,23 @@ author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
 slug: "strength-training-is-now-essential-for-older-adults-on-glp-1-drugs"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you're over 60 and taking a GLP-1 drug like Ozempic or Wegovy, the conversation around these medications has almost entirely focused on one metric: weight lost. What it's glossed over, until now, is what else you're losing alongside it.
 
 A study of 753 GLP-1 users presented at the Endocrine Society's ENDO 2026 conference in Chicago this month found that after starting medication, participants dropped an average of 560 daily steps and lost 5.7 minutes of moderate-to-vigorous activity per day. For a younger, otherwise healthy adult, that's a nuisance. For an adult over 60 who is already fighting age-related muscle loss, it's a compounding problem that can genuinely alter how you function five years from now.
 
 ## The Muscle Loss Nobody Warned You About
+
+| Metric | Finding |
+| --- | --- |
+| Average daily steps lost after starting GLP-1 | 560 |
+| Average moderate-to-vigorous activity lost per day | 5.7 minutes |
+| Percentage of weight loss from lean tissue (not fat) | 20-40% |
+| Average lean mass decline in high-dose GLP-1 users losing >15% body weight | 10-15% |
+| Functional decline (grip strength, chair rise time) in untrained older GLP-1 users | 5-10% |
+| Recommended protein intake for muscle retention | 1.2-1.6 g/kg body weight/day |
+| Recommended resistance training frequency for older adults on GLP-1s | 3 days/week |
 
 Here's the number that should get your attention: clinical trial data suggest that 20 to 40 percent of the weight you lose on GLP-1 medications comes from lean tissue, not fat. Clinical observations from 2025 and 2026 show an average lean mass decline of 10 to 15 percent in patients who lose more than 15 percent of their body weight on high-dose GLP-1s. Older adults over 65 and those who already have some degree of sarcopenia, the gradual age-related loss of muscle, are flagged as the highest-risk group.
 
@@ -35,9 +46,9 @@ Whatever the mechanism, the result is the same: less movement, more muscle lost,
 
 ## Resistance Training Is the Specific Antidote
 
-Cardio has its place. Walking is genuinely valuable. But when the problem is muscle loss, the intervention has to be progressive resistance training, not a longer walk. Squats, deadlifts from a safe starting position, seated rows, chest presses, and loaded carries are the tools that send a preservation signal to muscle tissue. That signal matters even more when your body is in a caloric and hormonal environment that's actively breaking tissue down.
+Cardio has its place. Walking is genuinely valuable. But when the problem is muscle loss, the intervention has to be [progressive resistance training](/how-much-strength-training-do-seniors-actually-need-to-live-longer/), not a longer walk. Squats, deadlifts from a safe starting position, seated rows, chest presses, and loaded carries are the tools that send a preservation signal to muscle tissue. That signal matters even more when your body is in a caloric and hormonal environment that's actively breaking tissue down.
 
-The standard recommendation of two days per week of resistance training is a reasonable floor, not a ceiling. For older adults on GLP-1s, three days per week, with at least one rest day between sessions, is a more appropriate target. Compound movements that work multiple muscle groups simultaneously, like a goblet squat or a single-arm row, deliver more physiological return per minute than isolated exercises. Protein intake matters too: most research in this population points to 1.2 to 1.6 grams of protein per kilogram of body weight per day as a target that supports muscle retention during weight loss, though individual needs vary and a physician or registered dietitian should be part of that conversation.
+The standard recommendation of two days per week of resistance training is a reasonable floor, not a ceiling. For older adults on GLP-1s, three days per week, with at least one rest day between sessions, is a more appropriate target. Compound movements that work multiple muscle groups simultaneously, like a goblet squat or a single-arm row, deliver more physiological return per minute than isolated exercises. [Protein intake matters too](/ozempic-and-muscle-loss-what-older-adults-on-glp-1s-must-know/): most research in this population points to 1.2 to 1.6 grams of protein per kilogram of body weight per day as a target that supports muscle retention during weight loss, though individual needs vary and a physician or registered dietitian should be part of that conversation.
 
 The urgency is registering at the research level. Emory University launched the iSTEP-2 clinical trial, actively recruiting as of June 2026, specifically to study exercise promotion strategies for older adults. That a major academic medical center is dedicating a full clinical trial to this question tells you how real the concern has become among practitioners.
 

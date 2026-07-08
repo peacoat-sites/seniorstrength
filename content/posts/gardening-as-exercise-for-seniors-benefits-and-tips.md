@@ -18,7 +18,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-
+lastmod: 2026-07-07
 ---
 Plenty of seniors skip the gym because it feels cold and boring. Repetitive machines? Intimidating crowds? There's a better option hiding in your backyard: gardening actually works as real exercise, and chances are you'll enjoy it.
 
@@ -49,7 +49,7 @@ Research shows nature exposure lowers cortisol, the stress hormone. Thirty minut
  * **Reduced depression and anxiety:** Soil contains _Mycobacterium vaccae_, bacteria that triggers serotonin release when you handle it.
  * **Sharper cognitive function:** Planning layouts, learning plant names, tracking seasons all exercise your brain.
  * **Sense of purpose:** Watching something you planted grow creates real accomplishment.
- * **Social connection:** Community gardens connect you with people and fight loneliness.
+ * **[Social connection](/social-activities-that-keep-seniors-physically-active/):** Community gardens connect you with people and fight loneliness.
 
 Most seniors who garden say it's the place where they feel most like themselves. That emotional anchor matters enormously as you age.
 

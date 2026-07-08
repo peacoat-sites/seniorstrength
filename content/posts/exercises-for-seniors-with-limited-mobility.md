@@ -23,6 +23,7 @@ faqs:
    a: "A physical therapist evaluation is genuinely the best starting point if you have significant mobility limitations, a history of falls, or multiple chronic conditions. One to three sessions to establish a baseline and get a personalized program is money well spent. If that's not accessible, chair stands, seated leg exercises, and supported standing balance work done at low intensity five days a week is a safe and reasonable place to begin."
  - q: "What's the difference between a resistance band and a resistance tube, and which is better for seniors?"
    a: "Resistance bands are flat loops or strips; tubes have handles. For seated and floor-based work, flat bands are generally easier to manage and less likely to snap back painfully if grip slips. TheraBand is the most widely used brand in clinical settings, and their color-coded resistance system (yellow is lightest, progressing through red, green, blue) makes it easy to track progress. Start with yellow or red regardless of how strong you feel."
+lastmod: 2026-07-07
 ---
 
 Most people assume limited mobility means limited results. I'd like to respectfully disagree with that.
@@ -71,13 +72,13 @@ Sit tall, arms crossed over chest or hands on shoulders. Rotate slowly to the ri
 
 ## Standing Exercises With Support: The Bridge Most People Skip
 
-There's a progression most programs miss entirely. Going from chair-based exercise directly to unsupported standing work is too big a jump for a lot of people. The middle ground is supported standing: using a kitchen counter, a sturdy chair back, or a wall as a light support point.
+There's a progression most programs miss entirely. Going from [chair-based exercise](/chair-exercises-for-seniors/) directly to unsupported standing work is too big a jump for a lot of people. The middle ground is supported standing: using a kitchen counter, a sturdy chair back, or a wall as a light support point.
 
 The goal here is not to grip for dear life. One or two fingers touching the surface for reassurance is ideal. You want your body doing the balance work while having a safety net nearby.
 
 **Wall-supported heel raises**
 
-Stand facing a wall, fingertips resting lightly on it. Rise onto your toes slowly (count two seconds up), hold for one second at the top, lower for three seconds. This builds the calf and ankle strength that's absolutely central to fall prevention. People don't trip and fall because their quads are weak. They fall because their ankle doesn't respond fast enough when the ground shifts. Heel raises train exactly that.
+Stand facing a wall, fingertips resting lightly on it. Rise onto your toes slowly (count two seconds up), hold for one second at the top, lower for three seconds. This builds the calf and ankle strength that's absolutely central to [fall prevention](/standing-exercises-for-seniors-no-equipment/). People don't trip and fall because their quads are weak. They fall because their ankle doesn't respond fast enough when the ground shifts. Heel raises train exactly that.
 
 Start with ten reps. When you can do three sets of fifteen without the wall feeling necessary, you're ready to try one-handed, then fingertip-only.
 

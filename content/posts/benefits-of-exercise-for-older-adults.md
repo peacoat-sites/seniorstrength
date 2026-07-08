@@ -23,7 +23,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-
+lastmod: 2026-07-07
 ---
 Three years ago, a woman named Carol walked into the community center where I run a fitness class for adults 60 and up. She was 71, recently widowed, and had spent most of the previous decade avoiding anything strenuous because her doctor had once, offhandedly, told her to "take it easy." She'd taken that advice and run with it. In the wrong direction.
 
@@ -60,7 +60,7 @@ Falls are the leading cause of injury-related death in adults over 65 in the Uni
 
 Balance declines because we stop practicing it. If you've spent 30 years sitting at a desk and riding elevators, your proprioceptive system, the network of sensory inputs that tells your brain where your body is in space, has gotten lazy. It can be retrained. That's the part most fitness content forgets to mention.
 
-I've seen people in their 80s dramatically reduce their fall risk through targeted balance work over 12 weeks. Not marathon training. Exercises like single-leg stands, heel-to-toe walking, and side-stepping with resistance bands. The research backs this up. A 2019 Cochrane Review, which pooled results from 108 trials, found that balance and functional exercises reduced fall rate in older adults by 24%.
+I've seen people in their 80s dramatically reduce their fall risk through targeted balance work over 12 weeks. Not marathon training. Exercises like single-leg stands, heel-to-toe walking, and side-stepping with resistance bands. The research backs this up. A 2019 Cochrane Review, which pooled results from 108 trials, found that [balance and functional exercises](/functional-fitness-exercises-for-seniors/) reduced fall rate in older adults by 24%.
 
 Tai chi keeps coming up in this research and honestly, it deserves its reputation. A 2020 study in *JAMA Internal Medicine* found that tai chi reduced fall incidence better than a stretching program and comparably to a multimodal exercise program. It's low-impact, it's social, and classes at most community centers run around $8 to $15 per session. Worth knowing.
 

@@ -23,6 +23,7 @@ faqs:
    a: "Either works for most people. Light activity like this doesn't typically require fueling beforehand. If you feel lightheaded exercising on an empty stomach, have a small snack first, half a banana or a few crackers. If you're managing diabetes or take medications that affect blood sugar, check with your doctor about timing."
  - q: "Can I do this routine if I have knee or hip arthritis?"
    a: "Yes, with attention to comfort. Movement is generally better for arthritic joints than rest, and gentle morning movement can reduce stiffness significantly. Reduce the depth of your chair stands if your knees protest, and skip any movement that causes sharp (not dull or achy) pain. Dull stiffness that loosens as you warm up is normal. Sharp, localized pain is a signal to stop and get it evaluated."
+lastmod: 2026-07-07
 ---
 
 Most articles about morning exercise for seniors show a 70-year-old doing yoga on a beach at sunrise. Beautiful photo. Useless guidance.
@@ -55,7 +56,7 @@ I'm going to give you a 20-to-25-minute routine. No floor work unless I flag it 
 
 **Wall push-ups: 10-15 repetitions.** Stand arm's length from a wall, hands at shoulder height. Lower your chest toward the wall, elbows at roughly 45 degrees from your sides, then press back. For most people this is dramatically easier than a floor push-up, which is exactly the point. Upper body pressing strength has a direct relationship to independence in daily life.
 
-**Standing calf raises: 15 repetitions.** Hold the back of the chair lightly (not tightly, you're not death-gripping it). Rise up on your toes, hold one second, lower slowly. Calf strength and ankle stability are underrated balance factors. Seriously underrated. A 2020 systematic review in *Age and Ageing* identified calf and ankle weakness as among the top modifiable risk factors for falls in community-dwelling older adults.
+**Standing calf raises: 15 repetitions.** Hold the back of the chair lightly (not tightly, you're not death-gripping it). Rise up on your toes, hold one second, lower slowly. Calf strength and ankle stability are underrated balance factors. Seriously underrated. A 2020 systematic review in *Age and Ageing* identified [calf and ankle weakness](/best-low-impact-exercises-for-bad-knees/) as among the top modifiable risk factors for falls in community-dwelling older adults.
 
 **Hip hinge practice: 10 repetitions.** Stand with feet hip-width apart, slight bend in knees. Push your hips back like you're trying to close a car door with your backside, keeping your back straight. This teaches the hinge pattern that protects your lower back every time you bend to pick something up. Most people round their back because they've never been shown the alternative.
 
@@ -67,7 +68,7 @@ I'm going to give you a 20-to-25-minute routine. No floor work unless I flag it 
 
 ## The Chair Is a Tool, Not a Crutch
 
-There's a persistent idea, and I've heard it from clients and read it in fitness forums, that using a chair for balance support means you're cheating or taking the easy way out. I want to push back on this directly.
+There's a persistent idea, and I've heard it from clients and read it in fitness forums, that using a [chair for balance support](/chair-exercises-for-seniors/) means you're cheating or taking the easy way out. I want to push back on this directly.
 
 Using a chair correctly during balance training actually teaches your nervous system more effectively than wobbling through an unsupported movement with poor form. The goal is to gradually reduce reliance on the support as stability improves, from full grip, to fingertip contact, to hovering the hand nearby, to free-standing. That progression can take weeks or months, depending on where someone starts. Both timelines are fine.
 

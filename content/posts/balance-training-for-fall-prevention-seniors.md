@@ -23,6 +23,7 @@ faqs:
    a: "Yes, with some important caveats. Both Parkinson's disease and peripheral neuropathy affect balance through different mechanisms than normal aging, and the program needs to account for that. For Parkinson's, LSVT BIG (a specific physical therapy protocol) has the strongest evidence base. For neuropathy, sensory substitution strategies, like relying more deliberately on visual cues and using appropriate footwear, matter as much as exercise. Work with a PT who knows the specific condition rather than a generic program."
  - q: "How often should I be doing balance training?"
    a: "Three to five days per week is the research-supported range, with most of the benefit coming from daily shorter sessions rather than longer infrequent ones. Ten to fifteen minutes daily of targeted balance work outperforms 45-minute sessions twice a week, because you're reinforcing neural patterns that benefit from frequent repetition. The barrier to daily practice is low: most of it can happen in your kitchen while the coffee brews."
+lastmod: 2026-07-07
 ---
 
 Most balance training advice for older adults is either too timid to be useful or borrowed wholesale from athletic training programs that have no business near a 70-year-old with osteoporosis. Both extremes leave people worse off.
@@ -44,6 +45,13 @@ The second thing that gets glossed over: reaction time. When you start to tip, y
 ---
 
 ## The Exercises That Actually Move the Needle
+
+| Exercise Level | Primary Focus | Key Mechanism | Progression Timeline |
+| --- | --- | --- | --- |
+| Level 1: Static with sensory challenge | Vestibular and proprioceptive systems | Eyes closed reduces visual input | 2-4 weeks to narrow stance |
+| Level 2: Dynamic with base reduction | Vestibular disruption during balance | Head turns during tandem stance | Progressive as tolerated |
+| Level 3: Perturbation training | Righting reflexes | Unpredictable shoulder nudges | Gradual intensity increase |
+| Level 4: Dual-task training | Overlapping neural pathways for balance and attention | Cognitive load during movement | 27% fall reduction demonstrated |
 
 I'll be honest: the first time I put together a balance protocol for a group of older adults at a community fitness center in 2019, I leaned too hard on static balance work. Single-leg stands, heel-to-toe walks, the usual menu. My participants got better at those exercises. Their real-world fall rates barely budged.
 

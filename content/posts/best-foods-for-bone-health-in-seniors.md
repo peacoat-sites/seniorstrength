@@ -23,6 +23,7 @@ faqs:
    a: "High caffeine intake (think four or more cups of coffee per day) is associated with mildly increased calcium excretion, but moderate coffee consumption (one to three cups daily) appears to have minimal effect on bone density in adults who are meeting their calcium needs. If you're calcium-deficient and drinking a lot of coffee, that combination is worth addressing. If your nutrition is otherwise solid, a couple of cups of coffee is not going to be the thing that breaks your hip."
  - q: "Should I be taking a bone-health supplement formula like Algaecal or Citracal?"
    a: "The research is mixed. AlgaeCal has some proprietary studies showing benefit, but those studies are industry-funded and small, which warrants some skepticism. Citracal and similar calcium citrate products are legitimate for people who need supplemental calcium. My general view: get a full dietary assessment first, address any clear nutrient gaps through food and targeted single-nutrient supplements (vitamin D3 especially), and be cautious about expensive multi-ingredient formulas that promise more than the evidence actually supports. Always worth a conversation with your physician or a registe"
+lastmod: 2026-07-07
 ---
 
 Most people think the window for building bone density closes sometime in your 30s, and after that you're just trying to slow the losses. I believed that too, for a long time. What surprised me, after spending the better part of a year reading the research on skeletal health in older adults and talking to the clients I work with every week, is how much that picture is incomplete. You can't rebuild bone the way a 25-year-old can. That's true. But the degree to which nutrition influences bone turnover well into your 70s and 80s is genuinely underappreciated, even by people who think they're already on top of it.
@@ -31,13 +32,22 @@ I'll be honest: a lot of what gets published about "bone health foods" is a pret
 
 ## Calcium Is Not the Whole Story (Not Even Close)
 
+| Nutrient | Daily Target (50+) | Role in Bone Health | Common Food Sources |
+| --- | --- | --- | --- |
+| Calcium | ~1,200 mg | Primary mineral component of bone | Dairy, sardines, leafy greens |
+| Vitamin D | Essential for calcium absorption | Enables calcium uptake from gut | Sardines, fatty fish, egg yolks |
+| Vitamin K2 | Developing research | Directs absorbed calcium to bone | Fermented foods, some cheeses |
+| Protein | 1.2-1.6 g/kg body weight | Collagen scaffold for mineralization | Eggs, Greek yogurt, fish, poultry |
+| Magnesium | Essential cofactor | Activates vitamin D; supports bone crystal formation | Leafy greens, pumpkin seeds, almonds |
+| Vitamin K1 | Supporting role | Works with magnesium and polyphenols | Kale, bok choy, collard greens |
+
 Everyone knows calcium. Milk, cheese, yogurt, done. And yes, calcium matters. Adults over 50 need around 1,200 mg per day, and most Americans eat closer to 700 to 800 mg. That gap is real and worth closing.
 
 But here's where I'd push back on conventional wisdom: obsessing over calcium intake while ignoring the cofactors that determine whether calcium actually gets deposited into bone is one of the most common mistakes I see. You can eat calcium all day long, and if you're deficient in vitamin D, a meaningful chunk of that calcium never gets absorbed from your gut. If you're low in vitamin K2 (different from K1, which is the vitamin K in leafy greens), the calcium that does get absorbed may not get directed to bone the way it should. The research on K2 specifically is still developing, and I'll say plainly: the evidence is promising but not yet as definitive as I'd like. Still, it's compelling enough that I'd want it on my radar.
 
 What that means practically is that your bone-health food strategy has to be a system, not a single nutrient. The foods I pay most attention to with older clients aren't just high in calcium. They're foods that deliver multiple players in that system simultaneously.
 
-Sardines with the bones are the best example I know. A 3.75-ounce can of sardines in olive oil gives you roughly 350 mg of calcium, significant vitamin D, omega-3 fatty acids that have some anti-inflammatory benefit for bone, and protein. It's one of the most efficient bone-health foods on the planet, and it costs about $2.50. Most people aren't eating them because they think sardines are an acquired taste. They are. But so was coffee.
+Sardines with the bones are the best example I know. A 3.75-ounce can of sardines in olive oil gives you roughly 350 mg of calcium, significant vitamin D, omega-3 fatty acids that have some [anti-inflammatory benefit for bone](/anti-inflammatory-foods-for-senior-joints/), and protein. It's one of the most efficient bone-health foods on the planet, and it costs about $2.50. Most people aren't eating them because they think sardines are an acquired taste. They are. But so was coffee.
 
 ## The Protein Question Nobody Talks About Enough
 

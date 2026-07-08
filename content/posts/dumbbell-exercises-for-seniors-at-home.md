@@ -23,6 +23,7 @@ faqs:
    a: "Pain is information, not something to push through. Most of these exercises have seated or modified versions that reduce joint stress significantly. A goblet squat can become a sit-to-stand from a slightly elevated chair. A Romanian deadlift can be performed seated with a resistance band. The principle (load the muscle progressively) matters more than the specific exercise."
  - q: "Do I need a bench, or can I do everything from a chair?"
    a: "A sturdy chair handles almost everything in a basic home program. You'll want something that doesn't slide on your floor, ideally with armrests you can grip for seated pressing. A weight bench gives you more positioning options, especially for rows and chest exercises, but it's not necessary to get started. Work with what you have."
+lastmod: 2026-07-07
 ---
 
 Most people assume the hardest part of getting stronger after 60 is the work itself. I'd argue it's actually the misinformation you have to wade through first.
@@ -34,6 +35,13 @@ What follows is the real story on dumbbell training at home for people over 60. 
 ---
 
 ## Why Dumbbells, and Why at Home?
+
+| Equipment | Cost Per Pair | Weight Range | Setup Friction |
+| --- | --- | --- | --- |
+| Adjustable Dumbbells (Bowflex SelectTech 552) | ~$400 | 5-52.5 lbs | Minimal |
+| Fixed-Weight Dumbbells (Light Set) | $30-$60 | 5-8 lbs | Minimal |
+| Fixed-Weight Dumbbells (Medium Set) | $30-$60 | 10-15 lbs | Minimal |
+| Gym Membership | $50-$80/month | Varies | High |
 
 Barbells are great. Machines have their place. But dumbbells are genuinely the best starting point for most older adults working independently, and here's the specific reason: they require each limb to work on its own. That sounds minor until you realize that most falls and functional limitations in older adults stem from side-to-side imbalances that a barbell quietly lets you compensate around. When your right side is weaker than your left, a barbell lets your left carry more of the load. Dumbbells don't let you cheat that way.
 
@@ -53,7 +61,7 @@ I want to be selective here, because too many "senior dumbbell" articles list 20
 
 **Seated Dumbbell Press.** Sit tall in a sturdy chair, a dumbbell in each hand at shoulder height. Press both overhead until arms are extended (don't lock out hard), then lower with control. Shoulder strength is vastly underrated in fall prevention because your arms are often the last thing between you and the floor when you stumble. I had a client who avoided overhead pressing for two years because of an old rotator cuff issue, and when we finally reintroduced it with proper technique and 5-pound dumbbells, she said it was the first time in years she could reach the top shelf without discomfort. Progress was slow. Four months to get to 12 lbs. Absolutely worth it.
 
-**Dumbbell Row.** Place one knee and one hand on a bench or sturdy chair for support. Hold a dumbbell in your free hand and pull it toward your hip, elbow skimming close to your body. Lower with control. This builds upper back strength, which directly counteracts the forward-rounding posture (kyphosis) that becomes increasingly common after 60. Pulling movements are chronically underrepresented in most people's home routines.
+**Dumbbell Row.** Place one knee and one hand on a bench or sturdy chair for support. Hold a dumbbell in your free hand and pull it toward your hip, elbow skimming close to your body. Lower with control. This builds upper back strength, which directly counteracts the [forward-rounding posture (kyphosis)](/core-exercises-for-seniors-with-bad-backs/) that becomes increasingly common after 60. Pulling movements are chronically underrepresented in most people's home routines.
 
 **Farmer's Carry.** Pick up a dumbbell in each hand and walk. That's it. Walk across your living room, turn around, walk back. This exercise has almost no learning curve, and what surprised me when I started programming it more consistently was the impact it had on grip strength, core stability, and gait quality all at once. Grip strength, by the way, is one of the strongest predictors of all-cause mortality in older adults, per research published in *The Lancet*. It sounds alarmist, but the data is genuinely consistent on this point.
 

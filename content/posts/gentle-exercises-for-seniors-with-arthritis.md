@@ -23,7 +23,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-
+lastmod: 2026-07-07
 ---
 Arthritis affects roughly 1 in 2 adults over the age of 65. And yet most people's doctor hands them a pamphlet with exercises that look nothing like what their body can actually do that day. If you've ever rolled your eyes at a generic workout recommendation while your knees are swollen and your fingers won't close all the way in the morning, you're not imagining the disconnect. The advice isn't wrong exactly. It's just incomplete.
 
@@ -39,17 +39,25 @@ The catch is the word "appropriate." Walking five miles when your hip is inflame
 
 ## The Exercises That Actually Deliver
 
+| Exercise Type | Best For | Key Benefit | Typical Cost/Access |
+| --- | --- | --- | --- |
+| Water exercise | Full-body, low-impact joint loading | Offloads up to 90% body weight; reduces stiffness | $8-$15/class or included in YMCA membership |
+| Chair-based strength work | Quadriceps, seated safety | Reduces knee pain; eccentric loading builds functional strength | No equipment needed |
+| Tai chi | Knee OA, balance, psychological wellbeing | Comparable to PT for pain; improves balance and mental health | Free-$15/class (search Arthritis Foundation finder) |
+| Resistance band work | Hip, shoulder, ankle mobility | Precise load control; gentle progression | $10-$15 for set |
+| Chair yoga (arthritis-adapted) | Joint-safe flexibility | Prevents stiffness; joint precautions built in | $3.99 app or free/paid in-person classes |
+
 Let me be specific here, because vague guidance like "do gentle stretching" doesn't actually help anyone.
 
-**Water exercise.** If you have access to a heated pool, this is the single best environment for arthritis exercise. Full stop. The buoyancy offloads up to 90% of your body weight when you're submerged to the neck, which means your joints get movement with a fraction of the usual compressive load. Warm water between 83 and 88 degrees Fahrenheit also relaxes muscles and reduces joint stiffness before you've done a single rep. The Arthritis Foundation runs Aquatic Exercise for Arthritis (formerly AFYAP) at YMCAs and community pools across the country. It's usually $8 to $15 per class or included in a YMCA membership. Start there before buying any equipment.
+**[Water exercise](/water-aerobics-exercises-for-seniors/).** If you have access to a heated pool, this is the single best environment for arthritis exercise. Full stop. The buoyancy offloads up to 90% of your body weight when you're submerged to the neck, which means your joints get movement with a fraction of the usual compressive load. Warm water between 83 and 88 degrees Fahrenheit also relaxes muscles and reduces joint stiffness before you've done a single rep. The Arthritis Foundation runs Aquatic Exercise for Arthritis (formerly AFYAP) at YMCAs and community pools across the country. It's usually $8 to $15 per class or included in a YMCA membership. Start there before buying any equipment.
 
-**Chair-based strength work.** Weak muscles around a joint transfer more load directly to the cartilage. Strengthening the quadriceps, for instance, meaningfully reduces knee pain in osteoarthritis patients, and you can do a lot of that work seated. Sit upright in a firm chair, straighten one leg until it's parallel to the floor, hold for three seconds, lower slowly. Ten repetitions, two sets, each side. Sounds almost embarrassingly simple. It works. The key is the slow lowering phase, which loads the muscle eccentrically and builds more functional strength than just lifting and dropping.
+**[Chair-based strength work](/chair-exercises-for-seniors/).** Weak muscles around a joint transfer more load directly to the cartilage. Strengthening the quadriceps, for instance, meaningfully reduces knee pain in osteoarthritis patients, and you can do a lot of that work seated. Sit upright in a firm chair, straighten one leg until it's parallel to the floor, hold for three seconds, lower slowly. Ten repetitions, two sets, each side. Sounds almost embarrassingly simple. It works. The key is the slow lowering phase, which loads the muscle eccentrically and builds more functional strength than just lifting and dropping.
 
 **Tai chi.** I used to hesitate recommending this because it felt like I was sending someone to do something gentle instead of something real. I was wrong. A 2016 randomized controlled trial in *Annals of Internal Medicine* compared tai chi to physical therapy for knee osteoarthritis over 52 weeks. Tai chi performed comparably to PT for pain reduction and physical function. It also improved psychological wellbeing and balance in ways PT didn't fully match. If there's a Dr. Paul Lam Tai Chi for Arthritis class near you (search the Arthritis Foundation's class finder), try it for at least a month before deciding it's not for you.
 
 **Resistance band work.** Bands let you control load very precisely, which matters with arthritis. A light Theraband (the yellow ones, roughly one to three pounds of resistance) lets you work shoulder external rotation, hip abduction, and ankle mobility without the unforgiving fixed load of a dumbbell. Cando brand bands are widely used in clinical settings and usually run about $10 to $15 for a set. Clamshells (lying on your side with a band around your thighs, opening the top knee like a clamshell while keeping feet together) are one of the best hip strengtheners I know for people with hip and knee OA.
 
-**Gentle yoga, with caveats.** Not all yoga is created equal, and some classes will wreck your joints if you're not careful. What you want is a chair yoga class or an arthritis-adapted yoga class, not a general beginner class where the instructor might not understand joint precautions. The app "Chair Yoga for Seniors" (roughly $3.99 on iOS and Android) is a reasonable starting point if in-person classes aren't accessible.
+**[Gentle yoga, with caveats](/chair-yoga-for-seniors-beginners/).** Not all yoga is created equal, and some classes will wreck your joints if you're not careful. What you want is a chair yoga class or an arthritis-adapted yoga class, not a general beginner class where the instructor might not understand joint precautions. The app "Chair Yoga for Seniors" (roughly $3.99 on iOS and Android) is a reasonable starting point if in-person classes aren't accessible.
 
 ## What to Do on a Flare Day
 

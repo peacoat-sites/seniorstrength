@@ -18,7 +18,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-
+lastmod: 2026-07-07
 ---
 Your doctor told you your calcium is low, and you froze. What now? Millions of seniors are in the same boat, lactose intolerance, digestive issues, or just plain taste preferences push them away from dairy. But here's the thing: calcium-rich foods for seniors aren't limited to milk. There are delicious, accessible options that'll keep your bones strong through your 70s and 80s.
 
@@ -44,10 +44,25 @@ Greek yogurt's your secret weapon, thick, filling, pairs with fruit or honey. A 
 
 ## Top Non-Dairy Calcium Rich Foods for Seniors
 
+| Food | Serving Size | Calcium (mg) | Key Benefits |
+| --- | --- | --- | --- |
+| Plain yogurt | 1 cup | 300-400 | Probiotics for gut health |
+| Low-fat milk | 1 cup | ~300 | High bioavailability |
+| Cheddar cheese | 1.5 oz | ~300 | Convenient, shelf-stable |
+| Canned sardines with bones | 3 oz | 325 | Vitamin D + omega-3s |
+| Firm tofu (calcium sulfate) | Half cup | Up to 350 | Plant-based, versatile |
+| Cooked collard greens | 1 cup | 260 | High absorption rate |
+| Cooked kale | 1 cup | ~180 | Low oxalates |
+| Chia seeds | 2 tablespoons | ~180 | Easy to add to meals |
+| Fortified orange juice | 1 cup | 300-350 | Added calcium |
+| Fortified plant-based milk | 1 cup | ~300 | Matches dairy milk |
+| White beans (cooked) | 1 cup | ~130 | High fiber + protein |
+| Cooked bok choy | 1 cup | ~160 | Highly absorbable |
+
 Don't have dairy tolerance? There's a whole world waiting for you. Plant-based options are just as powerful, plus they come with fiber, vitamins, and antioxidants.
 
 * **Canned sardines with bones (3 oz):** A remarkable 325 mg of calcium. The soft bones are completely edible.
-* **Canned salmon with bones (3 oz):** About 180 mg of calcium plus heart-healthy omega-3s
+* **Canned salmon with bones (3 oz):** About 180 mg of calcium plus heart-healthy [omega-3s](/best-omega-3-foods-for-seniors-with-joint-pain/)
 * **Firm tofu (half cup):** Up to 350 mg of calcium when made with calcium sulfate (check the label)
 * **Edamame (1 cup cooked):** Around 100 mg of calcium, great for snacking
 * **White beans (1 cup cooked):** Approximately 130 mg of calcium and filling as hell
@@ -83,7 +98,7 @@ Look for foods with both calcium and vitamin D:
 * Fortified cereals and orange juice
 * Egg yolks (small amounts)
 
-Ask your doctor to check your vitamin D levels with a blood test. Many seniors benefit from a supplement, especially in winter or if they're mostly indoors.
+Ask your doctor to check your [vitamin D levels](/best-vitamins-and-supplements-for-seniors-over-70/) with a blood test. Many seniors benefit from a supplement, especially in winter or if they're mostly indoors.
 
 ## Simple Ways to Get More Calcium Into Every Meal
 

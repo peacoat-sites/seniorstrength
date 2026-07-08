@@ -18,7 +18,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-
+lastmod: 2026-07-07
 ---
 You lace up your sneakers, feel fired up for a few days, and then life happens. Sound familiar? Finding lasting motivation to exercise is one of the most common health challenges for people aged 60 and beyond. The good news? With the right strategies, staying active can actually become something you look forward to, not something you dread.
 
@@ -55,7 +55,7 @@ Consider these options. They're easy on the joints and great for overall health:
  * Tai chi for balance and flexibility
  * Nature walks or birdwatching hikes
  * Pickleball, one of the fastest-growing senior sports
- * Gardening as active movement
+ * [Gardening as active movement](/gardening-as-exercise-for-seniors-benefits-and-tips/)
 
 When exercise feels like play, you stop watching the clock and start looking forward to your next session.
 
@@ -70,7 +70,7 @@ Here's how to build a routine that sticks:
  * **Choose a consistent time:** Morning workouts tend to have better adherence rates for older adults.
  * **Start small:** Three 10-minute sessions per day count as 30 minutes of activity.
  * **Prepare the night before:** Lay out your shoes and clothes to reduce morning friction.
- * **Track your progress:** Use a simple calendar, journal, or fitness app to mark each completed session.
+ * **[Track your progress](/how-to-track-fitness-progress-as-a-senior-simple-methods/):** Use a simple calendar, journal, or fitness app to mark each completed session.
  * **Allow rest days:** Rest is part of the plan, not a sign of failure.
 
 According to the American Heart Association, adults aged 65 and older should aim for at least 150 minutes of moderate activity per week. That's just over 20 minutes a day, very achievable with a solid routine in place.

@@ -23,7 +23,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-
+lastmod: 2026-07-07
 ---
 Most people over 60 are told to "be careful" with strength training. What they actually need is to do more of it.
 
@@ -31,11 +31,17 @@ I'll be honest: when I first started working extensively with older adults about
 
 What I found changed how I train every single client in that age group.
 
-The science is less discouraging than most people assume. Yes, sarcopenia (the age-related loss of muscle mass) is real. After 50, the average person loses somewhere between 1-2% of muscle mass per year if they do nothing about it. That number accelerates after 70. But "if they do nothing" is doing a lot of work in that sentence. The research on older adults who actually train consistently is striking. A 2019 study published in the Journal of Strength and Conditioning Research found that adults over 60 who followed a progressive resistance training program for 12 weeks gained muscle mass and strength at rates comparable to younger adults, when training volume was matched. Comparable. That's not what the "be careful" crowd is telling you.
+The science is less discouraging than most people assume. Yes, sarcopenia (the age-related loss of muscle mass) is real. After 50, the average person loses somewhere between 1-2% of muscle mass per year if they do nothing about it. That number accelerates after 70. But "if they do nothing" is doing a lot of work in that sentence. The research on older adults who actually train consistently is striking. A 2019 study published in the Journal of Strength and Conditioning Research found that adults over 60 who followed a [progressive resistance training program](/safe-weight-lifting-for-seniors-guide/) for 12 weeks gained muscle mass and strength at rates comparable to younger adults, when training volume was matched. Comparable. That's not what the "be careful" crowd is telling you.
 
 So let's get into what actually works.
 
 ## The Protein Problem Nobody Talks About Enough
+
+| Aspect | Younger Adults | Older Adults (60+) |
+| --- | --- | --- |
+| Protein per meal for muscle synthesis trigger | ~20 grams | 35-40 grams |
+| Muscle protein synthesis recovery window | 36-48 hours | 48-72 hours |
+| Annual muscle loss (sedentary) | Slower rate | 1-2% per year (accelerates after 70) |
 
 Here's where I see older adults get quietly sabotaged, even when they're doing everything else right.
 

@@ -23,7 +23,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-
+lastmod: 2026-07-07
 ---
 Most men I work with who are 70 don't think of themselves as "seniors." They think of themselves as guys who used to run 5Ks, or who built a deck with their own hands twenty years ago, or who want to keep up with grandkids who are now somehow in high school. That gap between who they feel they are and what their body will currently let them do, that's usually what brings them to my office.
 
@@ -42,9 +42,9 @@ So let's skip the gentle disclaimers and talk about what actually works.
 
 ## What Your Body Actually Needs at 70 (It's Not What Most Articles Say)
 
-Here's where I'll push back on conventional wisdom: the fitness world is obsessed with cardio for older adults. Walk more. Take the stairs. Get your heart rate up. Yes, cardiovascular health matters. But in 25 years of working with people in this age group, the men who lose independence, who fall, who can't get up off the floor, who stop driving, who can't lift their own luggage, they lost it because of muscle, not heart rate.
+Here's where I'll push back on conventional wisdom: the fitness world is obsessed with cardio for older adults. Walk more. Take the stairs. Get your heart rate up. Yes, cardiovascular health matters. But in 25 years of working with people in this age group, the men who lose independence, who fall, who can't get up off the floor, who stop driving, who can't lift their own luggage, they lost it because of [muscle, not heart rate](/benefits-of-exercise-for-older-adults/).
 
-Sarcopenia is the real culprit. That's the gradual loss of muscle mass that accelerates after 60. After 70, most men are losing somewhere between 1 and 2 percent of their muscle mass per year without deliberate resistance training. Not a scare tactic. Just biology.
+Sarcopenia is the real culprit. That's the gradual loss of muscle mass that accelerates after 60. After 70, most men are losing somewhere between 1 and 2 percent of their muscle mass per year without deliberate [resistance training](/how-to-start-a-senior-fitness-program/). Not a scare tactic. Just biology.
 
 The bright side? Muscle responds at 70. Slower than it did at 35, with longer recovery, but it responds. A 2021 meta-analysis in the *British Journal of Sports Medicine* looked at resistance training in adults over 65 and found meaningful gains in strength and physical function. You're not losing. You're just playing by different rules than you were at 40.
 
@@ -64,7 +64,7 @@ Start with three days of strength training per week, never back to back. Monday,
 
 The exercises that pay off at this stage are the ones that match how you actually move:
 
-- **Sit-to-stand from a chair** (essentially a bodyweight squat). Start with a regular dining chair. Do 2 sets of 10. This single exercise predicts functional independence better than almost any other measure.
+- **Sit-to-stand from a chair** (essentially a bodyweight squat). Start with a regular dining chair. Do 2 sets of 10. This single exercise predicts [functional independence](/exercises-for-seniors-to-stay-independent/) better than almost any other measure.
 - **Goblet squat with a light dumbbell** (5 to 10 lbs) once the bodyweight version feels easy.
 - **Wall push-ups**, progressing to incline push-ups on a counter, then a low table.
 - **Resistance band rows** anchored to a door. 2 sets of 12.

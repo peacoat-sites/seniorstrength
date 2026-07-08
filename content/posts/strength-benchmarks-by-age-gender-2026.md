@@ -20,6 +20,7 @@ faqs:
    answer: "Yes. Peak strength is late 20s to early 30s. After 40, decline is ~1-2% per year if untrained. But trained 70-year-olds often outlift untrained 40-year-olds."
 categories: ["Fitness", "Strength Training", "Health Data"]
 keywords: ["strength benchmarks by age", "how much should I be able to lift", "squat deadlift bench press standards"]
+lastmod: 2026-07-07
 ---
 
 Most people have no idea if they're strong.
@@ -32,7 +33,7 @@ This guide gives you the actual numbers, CDC/ACSM strength standards by age and 
 
 ## Why the Difference Between Age Groups
 
-Strength peaks around age 25-35. After 40, natural decline is ~1-2% per year *if untrained*. But training blunts this, a 60-year-old who lifts consistently often outlifts a 40-year-old who doesn't.
+Strength peaks around age 25-35. After 40, [natural decline](/a-4-minute-daily-workout-just-proved-it-can-transform-fitness-after-65/) is ~1-2% per year *if untrained*. But training blunts this, a 60-year-old who lifts consistently often outlifts a 40-year-old who doesn't.
 
 **The real message:** Your age matters less than your training consistency.
 
@@ -51,6 +52,15 @@ Untrained. If you run 3x/week, add ~20-30% to these numbers. Elite endurance ath
 
 ## Flexibility Standards (Sit & Reach, inches)
 
+| Age Group | VO2 Max (mL/kg/min) | Flexibility - Sit & Reach (inches) |
+| --- | --- | --- |
+| 20s | 45 (peak) | 95th: 11", Avg: 9", 5th: 2" |
+| 30s | 43 | - |
+| 40s | 40 | 95th: 10", Avg: 7", 5th: 0" |
+| 50s | 35 | - |
+| 60s | 28 | 95th: 8", Avg: 4.5", 5th: -2" |
+| 70s | 20 | - |
+
 - **20s:** 95th percentile = 11", average = 9", 5th percentile = 2"
 - **40s:** 95th = 10", average = 7", 5th = 0"
 - **60s:** 95th = 8", average = 4.5", 5th = -2"
@@ -63,7 +73,7 @@ Most people lose flexibility with age. Stretching 3x/week stops (or reverses) th
 
 1. Test one lift (squat, bench, deadlift)
 2. Compare to your age/gender benchmark
-3. Train consistently for 12 weeks
+3. [Train consistently](/benefits-of-exercise-for-older-adults/) for 12 weeks
 4. Retest and compare
 
 Ignore the person next to you. Your only competitor is yourself 3 months ago.

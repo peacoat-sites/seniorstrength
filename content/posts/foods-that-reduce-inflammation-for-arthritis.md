@@ -23,6 +23,7 @@ faqs:
    a: "Possibly, over time, but this should only happen in coordination with your rheumatologist or primary care physician, not by quietly cutting your doses. Some patients do reduce their NSAID use after sustained dietary changes. Never adjust prescription medications on your own based on dietary improvements."
  - q: "What's the single most impactful change someone can make?"
    a: "If I had to pick one: replace refined seed oils with extra-virgin olive oil and eat fatty fish twice a week. Those two changes address the omega-6 to omega-3 imbalance more directly than almost anything else you can do with food alone. Everything else builds on that foundation."
+lastmod: 2026-07-07
 ---
 
 My refrigerator used to look like a pharmacy. Prescription bottles on the counter, anti-inflammatory meds next to the coffee maker, and a fridge full of frozen dinners because cooking felt like one more thing I didn't have the energy for. I've sat across from clients in that exact place, joints aching, frustrated, wondering if diet changes were just another thing someone was going to try to sell them.
@@ -47,15 +48,20 @@ What most people don't realize is that the foods you eat directly influence infl
 
 Dr. Frank Hu, a professor of nutrition and epidemiology at Harvard T.H. Chan School of Public Health, has written extensively on dietary patterns and chronic disease. His research team found that "diets high in refined starches, sugar, and saturated and trans-fatty acids promote inflammation, while diets rich in omega-3 fatty acids, antioxidants, and polyphenols have the opposite effect." That's not a vague observation, it's supported by biomarkers like C-reactive protein (CRP) and interleukin-6 levels measured in blood.
 
-For people with rheumatoid arthritis specifically, a 2020 review published in *Frontiers in Nutrition* examined 24 controlled studies and found that Mediterranean-style dietary patterns were consistently associated with lower disease activity scores and reduced CRP levels. The effect sizes weren't enormous, but they were real and replicable.
+For people with rheumatoid arthritis specifically, a 2020 review published in *Frontiers in Nutrition* examined 24 controlled studies and found that [Mediterranean-style dietary patterns](/anti-inflammatory-foods-for-senior-joints/) were consistently associated with lower disease activity scores and reduced CRP levels. The effect sizes weren't enormous, but they were real and replicable.
 
 Here's the practical upshot: you don't need to memorize biochemistry. You need to know which foods are working for you and which ones are quietly making things worse.
 
-**Start with a two-week food and symptom journal** before changing anything, tracking what you eat alongside your pain levels and stiffness can reveal patterns that even your rheumatologist might not see. [Check out our symptom tracking guide here.]
+**Start with a two-week [food and symptom journal](/best-diet-for-senior-fitness-and-energy/)** before changing anything, tracking what you eat alongside your pain levels and stiffness can reveal patterns that even your rheumatologist might not see. [Check out our symptom tracking guide here.]
 
 ---
 
 ## The Foods Worth Actually Prioritizing
+
+| Food | Key Compound | Mechanism | Study Evidence |
+| --- | --- | --- | --- |
+| Fatty fish (salmon, sardines, mackerel, herring) | EPA and DHA (omega-3s) | Compete with inflammatory omega-6s at cellular level | 2016 *Annals of the Rheumatic Diseases*: fish >2x/week showed significantly lower RA disease activity |
+| Extra-virgin olive oil | Oleocanthal | Inhibits COX-1 and COX-2 enzymes (similar to ibuprofen) | Spanish study in *Current Pharmaceutical Design*: ~50g (3.5 tbsp) provides ~10% of standard ibuprofen dose anti-inflammatory effect |
 
 Let me walk through the specific foods that have real evidence behind them, not just "may help" language, but actual clinical data or consistent practitioner observation.
 

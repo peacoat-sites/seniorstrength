@@ -18,7 +18,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-
+lastmod: 2026-07-07
 ---
 You reach for something on the top shelf, and for just a moment, your feet feel unsure beneath you. Or maybe you've caught yourself grabbing the counter more often than you used to. Balance issues are one of the most common concerns for adults over 60, and many seniors are now turning to a **balance board for seniors** as a simple, at-home tool to rebuild stability and confidence.
 
@@ -40,13 +40,13 @@ Balance is a complex system. Your eyes, inner ear, muscles, and brain all have t
 
 Muscle strength, particularly in the legs and core, tends to decline after age 60. Reaction time slows too, which means your body has less time to catch itself when you start to tip.
 
-Here's the good news: balance is a skill. Like most skills, it can be practiced and improved at any age. That's where balance boards come in.
+Here's the good news: [balance is a skill](/how-to-improve-balance-in-seniors-over-70/). Like most skills, it can be practiced and improved at any age. That's where balance boards come in.
 
 ## What Is a Balance Board and How Does It Work
 
 A balance board is a flat platform that sits on a curved or rolling base, creating an unstable surface that challenges your body to stay upright. When you stand on it, your legs, ankles, and core muscles constantly make small adjustments to keep you from falling.
 
-This continuous micro-adjustment is a form of exercise called proprioceptive training. Proprioception is your body's ability to sense where it is in space. Training it can significantly reduce fall risk.
+This continuous micro-adjustment is a form of exercise called proprioceptive training. Proprioception is your body's ability to sense where it is in space. Training it can significantly [reduce fall risk](/how-to-reduce-fall-risk-in-elderly-parents/).
 
 Several types of balance boards are available:
 

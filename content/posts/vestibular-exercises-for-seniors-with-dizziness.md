@@ -18,7 +18,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-
+lastmod: 2026-07-07
 ---
 ## When the Room Won't Stop Spinning
 
@@ -45,9 +45,9 @@ The encouraging part? The vestibular system responds extremely well to targeted 
 
 ## How Vestibular Exercises Actually Help
 
-Vestibular rehabilitation exercises work through **neuroplasticity**, the brain's ability to rewire and adapt. When you repeatedly challenge your balance system in a safe, controlled way, your brain gradually learns to compensate for the faulty signals it's receiving.
+Vestibular rehabilitation exercises work through **neuroplasticity**, the brain's ability to rewire and adapt. When you repeatedly challenge your [balance system](/why-do-seniors-lose-their-balance-causes-and-fixes/) in a safe, controlled way, your brain gradually learns to compensate for the faulty signals it's receiving.
 
-Research published in journals like the _Journal of Vestibular Research_ consistently shows that vestibular rehabilitation therapy reduces dizziness frequency and severity. Studies also document improvements in gait stability, reduced fall risk, and better quality of life in older adults who do regular vestibular exercise programs.
+Research published in journals like the _Journal of Vestibular Research_ consistently shows that vestibular rehabilitation therapy reduces dizziness frequency and severity. Studies also document improvements in gait stability, reduced [fall risk](/how-to-reduce-fall-risk-in-elderly-parents/), and better quality of life in older adults who do regular vestibular exercise programs.
 
 Think of it like physical therapy for your inner ear. You wouldn't skip rehabilitation after a knee injury, your balance system deserves the same attention.
 
@@ -87,7 +87,7 @@ This retrains the communication between your feet, legs, and balance centers in 
 
 Place one foot directly in front of the other, heel to toe, as if walking a tightrope. Take 10 steps forward, then carefully turn around and take 10 steps back. Keep a wall beside you for safety.
 
-Tandem walking challenges your dynamic balance, which is what you use every time you walk across a room, go up stairs, or move around the kitchen.
+Tandem walking challenges your [dynamic balance](/standing-balance-exercises-seniors-can-do-holding-a-chair/), which is what you use every time you walk across a room, go up stairs, or move around the kitchen.
 
 ## Building a Consistent Routine That Sticks
 

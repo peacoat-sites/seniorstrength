@@ -18,7 +18,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-
+lastmod: 2026-07-07
 ---
 You eat what feels like a perfectly healthy meal, yet you still feel tired, weak, or notice your muscles aren't as strong as they used to be. Sound familiar? Many seniors experience this frustrating cycle without realizing the culprit might be hiding right on their plate: not enough protein. Understanding **how much protein seniors need daily** is one of the most important steps you can take to protect your strength, energy, and independence as you age.
 
@@ -31,6 +31,12 @@ Protein isn't just for bodybuilders. Every cell in your body depends on protein 
 Research published in the _American Journal of Clinical Nutrition_ has shown that older adults who consume sufficient protein maintain muscle strength and physical function far better than those who fall short. Protein is your body's maintenance crew, and your crew needs to be well-staffed.
 
 ## How Much Protein Do Seniors Actually Need Each Day?
+
+| Body Weight | Minimum Daily Protein | Active/Recovering | Grams per Meal (3 meals) |
+| --- | --- | --- | --- |
+| 130 lbs (59 kg) | 59-71 g | 71-94 g | 20-30 g |
+| 150 lbs (68 kg) | 68-82 g | 82-109 g | 23-30 g |
+| 175 lbs (79 kg) | 79-95 g | 95-126 g | 26-32 g |
 
 The standard recommendation from the Recommended Dietary Allowance (RDA) is **0.8 grams of protein per kilogram of body weight** per day. Most leading nutrition experts and geriatric health organizations now disagree with this. They think it's too low for adults over 60.
 
@@ -81,7 +87,7 @@ Watch for these:
   * **Slow wound healing** or frequent minor infections
   * **Hair thinning or brittle nails**
   * **Feeling hungry shortly after meals** even when you've eaten a reasonable amount
-  * **Swelling in the legs or feet**, which can sometimes be linked to low blood protein levels
+  * **Swelling in the legs or feet**, which can sometimes be linked to [low blood protein levels](/best-vitamins-and-supplements-for-seniors-over-70/)
 
 If you recognize several of these symptoms, talk to your doctor or a registered dietitian. A simple dietary review or even a blood test checking albumin levels can give you a clearer picture of where you stand.
 

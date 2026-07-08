@@ -18,7 +18,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-
+lastmod: 2026-07-07
 ---
 Have you ever reached for something on a high shelf and felt a wobble, or hesitated at the top of the stairs because your footing didn't feel solid? You're not alone. Millions of people over 70 live with these moments every day. The good news is that balance can be improved, and most of it can happen in your own home, starting right now.
 
@@ -36,12 +36,20 @@ Poor balance quietly erodes independence. Seniors stop taking walks in the park,
 
 ## Simple Balance Exercises You Can Start Today
 
+| Exercise | Duration/Reps | Key Benefit | Best For |
+| --- | --- | --- | --- |
+| Single-Leg Stand | 10-15 seconds × 3 per leg | Ankle and core stabilization | Building foundational balance |
+| Heel-to-Toe Walk | 10-20 steps | Coordination and proprioception | Testing real-world walking balance |
+| Side Leg Raises | 10 reps per leg | Hip and glute strength | Lateral stability |
+| Sit-to-Stand | 10 reps | Functional leg strength | Daily activities (rising from chairs) |
+| Calf Raises | 15 reps | Ankle strength and walking stability | Preventing missteps during movement |
+
 You don't need a gym or equipment. Your living room and a sturdy chair are enough.
 
 Here are the best exercises for adults over 70:
 
 * **Single-Leg Stand:** Hold the back of a sturdy chair and lift one foot slightly off the floor. Hold for 10–15 seconds, then switch sides. Repeat 3 times per leg.
-* **Heel-to-Toe Walk:** Walk in a straight line, placing the heel of one foot directly in front of the toes of the other. Take 10–20 steps. It's the same test police use for good reason, it works.
+* **[Heel-to-Toe Walk](/heel-to-toe-walking-the-best-balance-exercise-for-seniors/):** Walk in a straight line, placing the heel of one foot directly in front of the toes of the other. Take 10–20 steps. It's the same test police use for good reason, it works.
 * **Side Leg Raises:** Stand behind a chair, hold lightly for support, and slowly lift one leg out to the side. Lower it gently. Do 10 repetitions on each side.
 * **Sit-to-Stand:** Using a firm chair, sit down slowly and stand back up without using your hands if possible. Do 10 repetitions. This builds the exact leg strength your real life demands.
 * **Calf Raises:** Stand behind a chair and slowly rise onto your toes, then lower back down. Repeat 15 times. Strong calves matter for balance during walking.
@@ -92,7 +100,7 @@ Exercise and lifestyle changes are powerful, but some balance problems have medi
 
 Mention any dizziness, ringing in the ears, vision changes, or feeling like the room is spinning. These could signal inner ear conditions, cardiovascular issues, or medication side effects, all treatable.
 
-Your doctor may refer you to a physical therapist specializing in vestibular rehabilitation or fall prevention programs. These are remarkably effective, even for people who've already fallen.
+Your doctor may refer you to a physical therapist specializing in [vestibular rehabilitation](/vestibular-exercises-for-seniors-with-dizziness/) or fall prevention programs. These are remarkably effective, even for people who've already fallen.
 
 ## You Have the Power to Stay Steady
 

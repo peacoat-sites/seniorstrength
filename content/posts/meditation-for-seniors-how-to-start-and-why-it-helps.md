@@ -18,7 +18,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-
+lastmod: 2026-07-07
 ---
 ## When Your Mind Won't Quiet Down
 
@@ -51,10 +51,10 @@ Research on meditation has exploded over the past two decades, and the findings 
 Here's what the science consistently shows:
 
 * **Reduced anxiety and stress.** Regular meditation lowers cortisol, the body's primary stress hormone, helping you feel calmer throughout the day.
-* **Better sleep quality.** Studies published in JAMA Internal Medicine found that mindfulness meditation significantly improved sleep in older adults with moderate sleep disturbances.
+* **[Better sleep quality](/how-to-sleep-better-as-a-senior-what-actually-works/).** Studies published in JAMA Internal Medicine found that mindfulness meditation significantly improved sleep in older adults with moderate sleep disturbances.
 * **Lower blood pressure.** The American Heart Association recognizes meditation as a practice that can contribute to healthier blood pressure levels.
 * **Sharper memory and focus.** Meditation has been linked to increased gray matter density in brain regions associated with attention, learning, and memory.
-* **Reduced feelings of loneliness.** Loving-kindness meditation in particular has been shown to increase feelings of social connection and compassion.
+* **Reduced feelings of loneliness.** Loving-kindness meditation in particular has been shown to increase feelings of [social connection and compassion](/social-activities-that-keep-seniors-physically-active/).
 * **Less chronic pain perception.** Mindfulness-based programs help many people change their relationship to pain, reducing how much it interferes with daily life.
 
 These aren't small benefits. For older adults managing multiple health concerns, meditation can be a powerful, side-effect-free complement to standard medical care.

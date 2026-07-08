@@ -23,13 +23,24 @@ faqs:
    a: "Yes. The research on this has gotten significantly clearer over the past decade. Older adults build muscle more slowly than younger adults and require slightly higher protein intake to support it (most guidelines currently suggest around 1.2-1.6 grams per kilogram of body weight per day for active older adults), but the process works. The window doesn't close at 60 or 70 or even 80."
  - q: "What if getting up and down from the floor is difficult?"
    a: "Work on it specifically, because floor transfers are a key functional skill and losing them correlates with reduced independence. Practice getting down and up using a chair for support. Over time, reduce how much support you use. If it's painful rather than just challenging, that's worth investigating with a physical therapist before pushing through."
+lastmod: 2026-07-07
 ---
 
 Most home fitness advice for older adults is either condescendingly simple or quietly dangerous. You'll find articles recommending chair sits and wall push-ups alongside breathless enthusiasm for "senior-friendly" routines that, in practice, do almost nothing to build the strength and balance that actually keep you upright and independent. The gap between feel-good content and genuinely effective training is wide, and most people land in it.
 
-Here's what actually matters: progressive overload, balance training that challenges you (not just lets you wobble gently), and consistency across all three pillars of functional fitness: strength, mobility, and cardiovascular capacity. You don't need a gym. You need a plan that respects your intelligence and treats your body as something worth developing.
+Here's what actually matters: progressive overload, balance training that challenges you (not just lets you wobble gently), and consistency across all [three pillars of functional fitness](/functional-fitness-exercises-for-seniors/): strength, mobility, and cardiovascular capacity. You don't need a gym. You need a plan that respects your intelligence and treats your body as something worth developing.
 
 ## The Equipment Worth Buying (And What to Skip)
+
+| Equipment | Cost Range | Priority | Notes |
+| --- | --- | --- | --- |
+| Resistance bands with handles | $20-35 | Essential | Fit Simplify and TheraBand are reliable options |
+| Adjustable dumbbells or fixed pairs (5-15 lb) | Included in $200 budget | Essential | Choose based on current strength level |
+| Sturdy chair (no armrests) | Often already owned | Essential | Household item, no additional cost |
+| Yoga mat | ~$25 | Recommended | Useful but not required |
+| Foam roller | ~$15 | Recommended | Effective for hip flexors and thoracic spine |
+| Stability ball | Included in $200 budget | Optional | Useful if space available and no balance concerns |
+| Balance boards (senior marketed) | ~$300 | Not recommended | Unnecessary marketing expense |
 
 You can build a surprisingly complete home setup for under $200 total. What you actually need: a set of resistance bands with handles (Fit Simplify and TheraBand both make reliable sets around $20-35), a pair of adjustable dumbbells or two fixed pairs in the 5-15 lb range depending on your current strength, and a sturdy chair with no armrests. That's the core kit.
 

@@ -18,7 +18,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-
+lastmod: 2026-07-07
 ---
 You notice it in small ways at first. A wrist that aches after gardening. Stairs that feel steeper than they used to. A doctor mentioning your bone density has dropped since your last scan. Millions of adults over 60 are quietly losing bone mass every year, often without realizing it until a fracture happens. Here's what matters: your bone health diet after 60 is one of the most powerful tools you have to slow bone loss, strengthen your skeleton, and stay active for decades to come.
 
@@ -35,6 +35,15 @@ The result is osteopenia (low bone mass) or, in more serious cases, osteoporosis
 The encouraging truth is that nutrition can make a real impact. Let's look at exactly what to eat, and what to avoid, to give your bones the best possible support.
 
 ## The Key Nutrients Your Bones Need Most
+
+| Nutrient | Daily Target (Age 60+) | Key Food Sources | Why It Matters for Bones |
+| --- | --- | --- | --- |
+| Calcium | 1,200 mg | Dairy, leafy greens, fortified plant milks, canned fish with bones | Main mineral in bone tissue |
+| Vitamin D | 800-1,000 IU | Fatty fish, egg yolks, fortified milk, sunlight exposure | Required for calcium absorption |
+| Protein | 1.0-1.2 g per kg body weight | Fish, eggs, dairy, legumes, poultry | Comprises ~30% of bone structure |
+| Magnesium | Supports bone structure | Nuts, seeds, leafy greens, whole grains | Helps activate vitamin D |
+| Vitamin K2 | Supports bone mineralization | Aged cheeses, fermented foods, egg yolks, natto | Directs calcium to bones, not arteries |
+| Phosphorus | Works with calcium | Dairy, fish, meat, legumes | Partners with calcium in bone formation |
 
 Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 

@@ -18,7 +18,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-
+lastmod: 2026-07-07
 ---
 Do you wake up stiff, groggy, unsure how to start the day with any real energy? You're not alone. Millions of people over 65 struggle with sluggish mornings, and it bleeds into everything else, mood, mobility, the whole day tanks. The good news: a simple, consistent **morning routine for seniors** actually works. Small, deliberate habits practiced day after day can shift how you feel, how you move, how you think.
 
@@ -81,7 +81,7 @@ Your body and mind are the same system. Mornings give you quiet time to take car
 Try adding one or more of these to your morning:
 
   * **Gratitude journaling:** Write down three things you're grateful for each morning. Research shows this cuts depression symptoms and bumps up life satisfaction.
-  * **Meditation or deep breathing:** Five to ten minutes of mindful breathing lowers cortisol, drops blood pressure, builds emotional resilience.
+  * **[Meditation or deep breathing](/meditation-for-seniors-how-to-start-and-why-it-helps/):** Five to ten minutes of mindful breathing lowers cortisol, drops blood pressure, builds emotional resilience.
   * **Reading or puzzles:** A book, crossword, Sudoku, anything that stimulates your brain keeps your mind sharp over time.
   * **Listening to music:** Play something uplifting or something you love. It activates memory and mood centers in your brain, warms up the day.
 

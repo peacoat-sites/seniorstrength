@@ -12,12 +12,21 @@ author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 slug: "on-ozempic-over-60-here-is-how-to-protect-your-muscle"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Something important got buried last month. At the Endocrine Society's annual meeting in Chicago, research presented on June 14 found that people taking GLP-1 drugs like Ozempic, Wegovy, Mounjaro, and Zepbound actually became *less* physically active after starting treatment. Fewer steps. Less time exercising. The drug suppresses appetite so effectively that it apparently suppresses the urge to move, too. For anyone under 50 with solid muscle reserves, that's inconvenient. For adults over 60, it's a genuinely dangerous combination.
 
 Nearly 40% of adults 60 and older qualified as obese in 2023, according to the CDC. GLP-1 prescriptions in this age group have surged accordingly. Millions of older adults are on these drugs, losing weight, and feeling better about the number on the scale. What they may not realize is that some of what they're losing isn't fat, and that matters more than most doctors are telling them.
 
 ## The Muscle Problem Is Worse Than Most Doctors Are Telling You
+
+| Factor | Baseline (Without GLP-1) | On GLP-1 Drugs | Clinical Significance |
+| --- | --- | --- | --- |
+| Muscle Loss Rate (per decade, age 60+) | 3-5% | Accelerated + reduced regenerative capacity | Sarcopenic obesity risk increases |
+| Protein Requirement (g/kg body weight/day) | 0.8-1.0 | 1.2-1.6 | Higher demand to preserve lean mass |
+| Example: 160-lb person | ~58-72g protein/day | ~87-116g protein/day | GLP-1 appetite suppression makes target harder to hit |
+| Resistance Training Frequency (weekly) | 2+ sessions recommended | 2-3 sessions essential | Without it, muscle loss is likely irreversible |
+| GLP-1 Discontinuation Rate (within 1 year) | N/A | Up to 66% | Fat returns; muscle does not without deliberate effort |
 
 Age-related muscle loss, sarcopenia, already starts in your 30s and accelerates hard after 60. You lose roughly 3 to 5 percent of muscle mass per decade without intervention. Add a GLP-1 drug to the picture and the math gets uglier fast.
 
@@ -31,7 +40,7 @@ A 2025 study from Massachusetts General Hospital and Harvard, presented at ENDO,
 
 The standard advice you'll see everywhere is to stay active while on GLP-1 medications. Walk daily. Take the stairs. Keep moving. That advice isn't wrong. It's just incomplete, and it underestimates what's actually happening inside your body.
 
-Walking is aerobic work. It's good for cardiovascular health, mood, and metabolic function. It will not meaningfully preserve or rebuild muscle mass. Muscle responds to one primary stimulus: progressive resistance. You have to load it, challenge it, and give it a reason to stay. Bodyweight movements help. Resistance bands help more. Free weights and machines, used with proper form and progressive overload, are the gold standard.
+Walking is aerobic work. It's good for cardiovascular health, mood, and metabolic function. It will not meaningfully preserve or rebuild muscle mass. Muscle responds to one primary stimulus: [progressive resistance](/what-your-grip-strength-says-about-how-long-you-will-live/). You have to load it, challenge it, and give it a reason to stay. Bodyweight movements help. Resistance bands help more. Free weights and machines, used with proper form and progressive overload, are the gold standard.
 
 The ACSM's 2026 Worldwide Fitness Trends report, which surveyed 2,000 fitness professionals, ranked fitness programs for older adults in its top five trends precisely because this need is so pressing. The report specifically identified resistance exercise as essential for preserving muscle, bone density, and functional independence. These professionals aren't prioritizing this because it's trendy. They're prioritizing it because the population on their gym floor is older, the stakes are higher, and the window for intervention closes faster than most people expect.
 

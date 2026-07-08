@@ -23,6 +23,7 @@ faqs:
    a: "Aim for at least 25 to 40 grams at each main meal rather than concentrating most of your protein at dinner. After resistance exercise specifically, consuming protein within about two hours appears to significantly improve muscle protein synthesis, which matters more as we age."
  - q: "Can seniors build muscle after 70?"
    a: "Yes, with consistency and adequate protein. The process is slower than in younger adults and requires more dietary protein to achieve similar results, but multiple studies confirm that meaningful muscle gain is possible well into the 70s and 80s with resistance training and sufficient nutrition."
+lastmod: 2026-07-07
 ---
 
 Most people are eating about half the protein they actually need. Not because they don't care, but because the advice they've been given is outdated.
@@ -32,6 +33,12 @@ The standard recommendation you'll see on nutrition labels, the one still used a
 Here's what I tell people when they first come to me frustrated that they've been exercising consistently and still feel like they're losing ground: the exercise is probably fine. The protein almost certainly isn't.
 
 ## Why Your Protein Needs Go Up As You Age (Not Down)
+
+| Age Group | Protein Target (g/kg/day) | Example: 160 lb (73 kg) Person | Purpose |
+| --- | --- | --- | --- |
+| Adults under 65 (reference) | 0.8 | ~55 grams/day | Prevent deficiency |
+| Adults over 65 | 1.0-1.2 | 73-88 grams/day | Maintain muscle mass |
+| Adults over 65 (muscle building/recovery) | 1.2-1.5+ | 88-110+ grams/day | Build or rebuild muscle |
 
 There's a phenomenon researchers call "anabolic resistance." It sounds complicated, but the concept is straightforward. As we get older, our muscles become less efficient at using the protein we eat to build and repair tissue. A 35-year-old and a 70-year-old can eat the same meal with the same amount of protein, and the older person's muscles will simply do less with it. Not because something is broken, but because that's how the physiology changes.
 
@@ -61,13 +68,13 @@ So what does 30 to 40 grams of protein actually look like at breakfast? Here are
 
 Lunch and dinner can carry similar loads without much difficulty if you're anchoring the meal around a meaningful protein source. A six-ounce chicken breast has roughly 50 grams. A can of tuna packs about 25. A cup of cooked lentils gets you 18, though plant proteins come with additional considerations (more on that in a moment).
 
-One thing I've noticed working with clients in their 60s and 70s is that appetite often decreases with age, which makes hitting higher protein targets genuinely harder. If you're finding it difficult to eat enough food, protein supplements aren't cheating. They're practical. A good whey protein powder, something like Optimum Nutrition Gold Standard or Thorne Whey, runs about $35 to $55 for a month's supply and adds 20 to 25 grams per serving with minimal volume. For smaller appetites, that can be the difference between hitting your target and falling short by 40 grams every day.
+One thing I've noticed working with clients in their 60s and 70s is that appetite often decreases with age, which makes hitting higher protein targets genuinely harder. If you're finding it difficult to eat enough food, [protein supplements](/best-protein-sources-for-seniors-building-muscle/) aren't cheating. They're practical. A good whey protein powder, something like Optimum Nutrition Gold Standard or Thorne Whey, runs about $35 to $55 for a month's supply and adds 20 to 25 grams per serving with minimal volume. For smaller appetites, that can be the difference between hitting your target and falling short by 40 grams every day.
 
 **Build a realistic weekly meal plan around your protein goals with our [Senior Meal Planning Guide](/guides/senior-meal-planning).**
 
 ## The Plant Protein Question
 
-You might be wondering whether you can hit these targets eating mostly or entirely plant-based foods. The honest answer is yes, but it takes more intentionality than most plant-based guides admit.
+You might be wondering whether you can hit these targets eating mostly or entirely [plant-based foods](/best-protein-sources-for-seniors-building-muscle/). The honest answer is yes, but it takes more intentionality than most plant-based guides admit.
 
 Plant proteins tend to be "incomplete," meaning they're low in one or more of the amino acids your muscles need, particularly leucine, which appears to be the most important amino acid for triggering muscle protein synthesis. Dr. Nicolaas Deutz, director of the Center for Translational Research in Aging and Longevity at Texas A&M, has noted that leucine acts almost like an "on switch" for muscle building, and plant sources generally deliver less of it per gram of protein than animal sources do.
 

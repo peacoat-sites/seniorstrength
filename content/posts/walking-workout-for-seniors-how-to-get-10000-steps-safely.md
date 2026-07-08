@@ -18,7 +18,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-
+lastmod: 2026-07-07
 ---
 You lace up your shoes, step outside, and wonder: _am I doing enough?_ Maybe your doctor mentioned getting more steps in, or you caught something on the news about 10,000 steps. But the idea of walking that much can feel overwhelming, especially if your knees ache, your energy tanks by afternoon, or you haven't been active in years. Here's the thing though: a walking workout for seniors doesn't have to be extreme. It just needs to be smart, steady, and built around _your_ body.
 
@@ -41,6 +41,14 @@ Most sedentary adults average between 2,000 and 4,000 steps per day. Wherever yo
 **Pro Tip:** Add just 500 extra steps per week to your daily average. That's roughly one extra city block. It's much easier on your joints and muscles than jumping straight to a big number. After 10 weeks, you could be walking 5,000 more steps daily without feeling like you overdid it.
 
 ## Building Your Safe Walking Plan Week by Week
+
+| Week Range | Duration | Frequency | Details |
+| --- | --- | --- | --- |
+| Weeks 1-2 | 10-15 minutes | Once daily, 5 days/week | Comfortable, easy pace |
+| Weeks 3-4 | 10 minutes × 2 | Once main + one afternoon | Add second short walk after dinner |
+| Weeks 5-6 | 20-25 minutes main | Once daily, 5 days/week | Extend main walk; maintain second walk |
+| Weeks 7-8 | 30-40 minutes long walk | Once on weekend | Maintain shorter walks on weekdays |
+| Weeks 9-12 | Multiple short walks | Throughout the day | Combine walks to reach step target |
 
 Slow and steady actually wins this. Pushing too hard too fast is the #1 reason people over 60 get injured, burn out, and quit. Here's a gentle ramp designed specifically for seniors:
 
@@ -90,7 +98,7 @@ Safety is the foundation. A few simple precautions prevent most common problems.
 
 **Weather awareness:** Avoid walking outdoors in extreme heat or icy conditions. On very hot days, walk in the early morning or evening. In winter, consider a shopping mall. Many open early specifically for senior walkers.
 
-**Check with your doctor:** If you have heart disease, arthritis, balance problems, or take medications that affect your heart rate or blood pressure, talk to your physician before significantly increasing your activity level. One conversation can protect you greatly.
+**Check with your doctor:** If you have heart disease, [arthritis](/best-low-impact-exercises-for-seniors-with-arthritis/), balance problems, or take medications that affect your heart rate or blood pressure, talk to your physician before significantly increasing your activity level. One conversation can protect you greatly.
 
 **Tell someone your route:** If you walk alone, let a family member or neighbor know where you're going and when you expect to be back.
 

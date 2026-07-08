@@ -18,7 +18,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-
+lastmod: 2026-07-07
 ---
 If you've watched a parent grip the wall for balance or shuffle carefully across a slippery floor, you already know that quiet fear. Falls are the leading cause of injury among older adults, and **reducing fall risk in elderly parents** is genuinely one of the most important things a family can do. The good news? Most falls are preventable. It takes home changes, the right exercises, and daily habits. That's it.
 
@@ -86,12 +86,12 @@ Research shows that programs focusing on balance training and lower-body strengt
 **Beginner-friendly exercises for fall prevention:**
 
 * **Chair stands:** Slowly rise from a chair without using your hands, then sit back down. Repeat 10 times to strengthen thighs and hips.
-* **Heel-to-toe walking:** Walk in a straight line placing one foot directly in front of the other, like walking a tightrope. Hold a wall for support if needed.
+* **[Heel-to-toe walking](/heel-to-toe-walking-the-best-balance-exercise-for-seniors/):** Walk in a straight line placing one foot directly in front of the other, like walking a tightrope. Hold a wall for support if needed.
 * **Single-leg stands:** Stand on one foot for 10–30 seconds while holding a countertop. Switch sides.
 * **Calf raises:** Stand behind a chair, hold the back, and rise up on your toes. Lower slowly.
 * **Side leg raises:** Stand behind a chair and lift one leg out to the side, hold briefly, and lower slowly.
 
-Tai chi deserves special mention. Multiple studies have found it exceptionally effective for seniors because it combines slow, deliberate movement with balance training in a low-impact format that people actually enjoy doing.
+[Tai chi deserves special mention](/how-to-improve-balance-in-seniors-over-70/). Multiple studies have found it exceptionally effective for seniors because it combines slow, deliberate movement with balance training in a low-impact format that people actually enjoy doing.
 
 ## Medication Review and Medical Checkups
 

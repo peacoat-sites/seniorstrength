@@ -18,7 +18,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-
+lastmod: 2026-07-07
 ---
 You want to stay active, but your knees ache on the stairs, your hips protest after a long walk, and high-impact workouts sound exhausting rather than energizing. Sound familiar? You're not alone. Millions of adults over 60 find that land-based exercise has become more punishing than rewarding. That's where **water aerobics for seniors** comes in, a gentle, fun, and remarkably effective way to keep your body strong without the pain.
 
@@ -37,7 +37,7 @@ Water also regulates your body temperature, which matters for seniors who overhe
 Water aerobics delivers far more than just "some exercise." Research shows regular aquatic exercise improves several key areas of senior health.
 
 * **Joint pain relief:** Buoyancy reduces compression on arthritic joints, making movement comfortable during and after exercise.
-* **Improved balance and fall prevention:** Water resistance trains the stabilizing muscles that keep you upright on land.
+* **Improved [balance and fall prevention](/tai-chi-for-seniors-best-beginner-routines-for-balance/):** Water resistance trains the stabilizing muscles that keep you upright on land.
 * **Stronger muscles:** Pushing and pulling against water builds muscle strength gradually and safely.
 * **Better cardiovascular health:** Aquatic exercise raises your heart rate and improves circulation, supporting heart and lung health.
 * **Increased flexibility:** Warm water loosens stiff muscles and allows greater range of motion in your joints.

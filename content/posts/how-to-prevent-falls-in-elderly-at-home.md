@@ -23,6 +23,7 @@ faqs:
    a: "Honestly, the earlier the better, because balance and leg strength are easier to maintain than to rebuild. But starting in your 60s or 70s absolutely still produces real results. The research supports meaningful improvements in balance and fall rates even when training begins in the 80s."
  - q: "Does a cane or walker help prevent falls, or does it create dependency?"
    a: "Used correctly, both can reduce fall risk significantly, and neither creates dependency in the way people fear. The bigger risk is avoiding a mobility aid out of pride and falling as a result. A physical therapist can assess which device (if any) is appropriate and, critically, make sure the person knows how to use it correctly. Many people use canes at the wrong height, which actually increases instability."
+lastmod: 2026-07-07
 ---
 Every 11 seconds, an older adult is treated in an emergency room for a fall-related injury. I've watched that statistic play out in real lives, and it never gets easier. What does get easier, though, is knowing what actually prevents falls versus what just makes people feel like they're doing something.
 
@@ -46,11 +47,18 @@ Stairs deserve a longer conversation. Both handrails. Not one. Both. And they sh
 
 ## The Body Side of Fall Prevention (This Is Where Most People Fall Short)
 
+| Exercise | Duration | Frequency | Equipment | Difficulty |
+| --- | --- | --- | --- | --- |
+| Single-leg standing | 10-30 seconds | Daily | Sturdy chair | Beginner to intermediate |
+| Heel-to-toe walking | 15 feet | Daily | None | Intermediate |
+| Sit-to-stand without hands | Until mastered | Daily | Firm chair | Beginner to intermediate |
+| Resistance training | 20-30 minutes | 2 days per week | Body weight, bands, or light weights | Intermediate |
+
 Here's what I tell people when they're surprised by a fall: your body gave you warning signs. Muscle strength, reaction time, and balance don't disappear overnight. They erode gradually, and usually quietly, until something happens.
 
 The good news is they respond to training at any age. I've worked with people in their late 70s and 80s who genuinely improved their balance scores and leg strength over 12 to 16 weeks of consistent exercise. Not dramatically, not miraculously, but meaningfully enough to matter.
 
-Balance training is the single most evidence-supported intervention for fall prevention in older adults. Not walking more. Not general stretching. Actual balance work, which means exercises that challenge your stability in a controlled way. Start here:
+Balance training is the single most evidence-supported intervention for fall prevention in older adults. Not walking more. Not general stretching. Actual balance work, which means [exercises that challenge your stability](/how-to-protect-joints-during-exercise-seniors/) in a controlled way. Start here:
 
 **Single-leg standing.** Stand behind a sturdy chair, hold the back lightly, and lift one foot just off the floor. Hold for 10 seconds, work up to 30. Do this daily. When it feels easy, try it with just fingertip contact on the chair. The National Institute on Aging includes this in their basic balance protocol, and it works because it directly trains the same neural pathways that catch you when you stumble.
 

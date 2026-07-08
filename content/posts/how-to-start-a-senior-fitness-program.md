@@ -23,7 +23,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-
+lastmod: 2026-07-07
 ---
 Most people start their senior fitness program the exact same wrong way. They do too much, too fast, get hurt or exhausted by week two, and then quietly decide that exercise "just isn't for them anymore." I've watched this happen repeatedly, and honestly, the fitness industry deserves a lot of the blame for it.
 
@@ -44,6 +44,12 @@ Beta-blockers artificially suppress heart rate, making heart-rate-based intensit
 Beyond the physician visit, get a functional movement screen if you can access one. Many physical therapy clinics offer a single assessment visit for around $75-150. A physical therapist can identify asymmetries, range-of-motion restrictions, or old injury compensations that would otherwise quietly worsen under a new training load. I've seen people spend $40 a month on a gym membership for a year, making an existing hip imbalance progressively worse, when one $100 session at the start would have redirected their whole approach.
 
 ## What "Starting" Actually Looks Like (The Real Timeline)
+
+| Program Phase | Duration | Frequency | Session Length | Primary Focus |
+| --- | --- | --- | --- | --- |
+| Weeks 1-2 | 2 weeks | 3 sessions/week | 15-20 minutes | Walking, habit building, connective tissue warm-up |
+| Weeks 3-4 | 2 weeks | 3 sessions/week | 20-25 minutes | Walking + bodyweight (sit-to-stand, wall push-ups) |
+| Weeks 5-8 | 4 weeks | 3 sessions/week | 25-30 minutes | Resistance bands, balance work, progressive loading |
 
 Weeks one and two should feel almost embarrassingly easy. I mean that. If you finish a session thinking "I could have done more," that's exactly right. You should have done more. You didn't, and that's the discipline.
 

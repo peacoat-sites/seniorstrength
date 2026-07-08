@@ -23,6 +23,7 @@ faqs:
    a: "No. Significant muscle soreness (the kind that limits your movement for two or three days) is a sign you did too much, especially early in a program. Mild fatigue or a light 'worked' feeling is fine. But if you're dreading your next session because of how sore you are, dial it back."
  - q: "What's the single most important thing to focus on first?"
    a: "Balance. Hands down. Strength can be rebuilt over months. A fall and the injury, hospitalization, or loss of confidence that follows can set you back years. Even five minutes of balance work daily makes a measurable difference, and it requires no equipment at all."
+lastmod: 2026-07-07
 ---
 Most people over 70 who come to me have already been told they need to exercise. Their doctor mentioned it, their adult kids are nudging them, maybe they read something alarming about falls and muscle loss. What they haven't been told is *how* to actually start without hurting themselves, getting overwhelmed, or wasting money on programs that weren't designed for them in the first place.
 
@@ -69,6 +70,12 @@ These four categories work together. Strength supports your balance. Balance sup
 ---
 
 ## What to expect in the first 12 weeks (honest version)
+
+| Phase | Duration | Expected Changes | Key Focus |
+| --- | --- | --- | --- |
+| Weeks 1-2 | 2 weeks | Increased fatigue (normal), improved sleep | Neuromuscular adaptation, consistency |
+| Weeks 3-5 | 3 weeks | Noticeable strength gains, improved balance | Progressive adaptation, form refinement |
+| Weeks 6-12 | 7 weeks | Significant functional improvements, reduced fall risk | Readiness to increase resistance or intensity |
 
 Weeks one and two: you'll probably feel more tired than you expect from what seems like very little work. That's normal. You're asking your neuromuscular system to relearn patterns it may not have used in years. Sleep often improves in this phase, which is a nice side effect.
 

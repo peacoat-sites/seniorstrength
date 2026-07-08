@@ -23,6 +23,7 @@ faqs:
     a: "Generally yes, and in many cases it's actively recommended, but 'resistance training' covers a wide range of exercises and some are more appropriate than others depending on your specific condition. A physical therapist or certified trainer experienced with older adults can help you identify safe movement patterns. High-impact loading on fragile bone is a real concern, but controlled resistance training done with proper form tends to be well-tolerated and can actually improve bone density over time."
   - q: "What if I can't afford a gym or a personal trainer?"
     a: "You don't need either to start making real progress. A basic resistance band set ($15-30), a sturdy chair, and a countertop for balance support cover the foundational movements. YouTube channels like HASfit and MedBridge have well-regarded beginner programs designed for older adults. Also worth checking: many Medicare Advantage plans include a gym benefit (SilverSneakers is the most common) that covers membership costs entirely."
+lastmod: 2026-07-07
 ---
 
 Most people don't realize they've already lost a significant amount of muscle by the time they notice anything's wrong.
@@ -37,7 +38,13 @@ That last part is what most people don't realize, and it's the part that matters
 
 ## The Science Is More Encouraging Than You've Heard
 
-Here's the thing that changed my thinking on this years ago: I used to believe, like a lot of people in fitness, that after a certain age the window for meaningful muscle rebuilding was mostly closed. Then I read a 1994 study out of Tufts University by Maria Fiatarone and colleagues, published in the *New England Journal of Medicine*, that showed nursing home residents aged 72 to 98 increased their leg muscle strength by an average of 113% after just 10 weeks of resistance training. Some of them had been using walkers. Some improved enough to walk without one.
+| Age Group | Duration | Muscle Strength Improvement | Notes |
+| --- | --- | --- | --- |
+| 72-98 years | 10 weeks | +113% (leg strength) | Nursing home residents, some using walkers; Fiatarone et al., 1994 |
+| 65+ years | Varies | Measurable gains | Progressive resistance training; meta-analysis, *British Journal of Sports Medicine*, 2019 |
+| Case example: 71 years | 14 weeks | Grip +22%, chair-stand +62.5% | Resistance training + protein optimization |
+
+Here's the thing that changed my thinking on this years ago: I used to believe, like a lot of people in fitness, that after a certain age the window for meaningful muscle rebuilding was mostly closed. Then I read a 1994 study out of Tufts University by Maria Fiatarone and colleagues, published in the *New England Journal of Medicine*, that showed nursing home residents aged 72 to 98 increased their leg muscle strength by an average of 113% after just 10 weeks of [resistance training](/safe-weight-lifting-for-seniors-guide/). Some of them had been using walkers. Some improved enough to walk without one.
 
 That study rearranged my thinking completely.
 

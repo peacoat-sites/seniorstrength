@@ -23,6 +23,7 @@ faqs:
     a: "In most cases, the opposite is true: appropriate exercise is one of the most evidence-backed responses to a fall, once any injuries are medically cleared. The risk of avoiding activity is that it accelerates the physical and psychological decline that leads to the next fall. That said, what counts as 'appropriate' exercise should be guided by a physical therapist or qualified trainer who can assess your specific situation."
   - q: "How do I know if my balance problem is serious enough to see a doctor?"
     a: "Any fall that results in injury should prompt a medical visit. Beyond that, if you're noticing that you frequently grab surfaces for support, feel unsteady on uneven ground or in low light, or have had multiple near-falls in the past few months, those patterns warrant a conversation with your physician, specifically asking for a fall risk assessment. It's not an overreaction; it's exactly what those screenings are designed for."
+lastmod: 2026-07-07
 ---
 
 Most people assume balance gets worse with age the same way hair goes gray: inevitable, random, not much you can do about it. I believed that too, for longer than I'd like to admit. What changed my mind was watching a 71-year-old client named Margaret go from grabbing door frames every time she stood up to hiking a moderately technical trail in the Catskills, twelve weeks after we started working together. That doesn't happen if balance decline is just "aging."
@@ -32,6 +33,12 @@ So I went looking for the actual reasons. And what I found is that the story mos
 ---
 
 ## Your Balance System Is Actually Three Systems in One
+
+| Balance System | Primary Component | Age of Decline | Key Function |
+| --- | --- | --- | --- |
+| Vestibular | Inner ear hair cells | ~55 years | Detects movement and head position |
+| Visual | Eyes | Variable | Depth perception and low-light vision |
+| Proprioceptive | Muscle, tendon, and joint sensors | Variable | Spatial awareness without visual input |
 
 Here's what surprised me when I first started digging into the physiology: balance isn't a single thing your body does. It's the product of three separate input systems working simultaneously, all feeding into your brain, which then coordinates a response. Lose significant function in any one of them and you're working with a handicap. Lose function in two, and falls become a genuine daily risk.
 

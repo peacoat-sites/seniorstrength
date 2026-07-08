@@ -23,7 +23,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-
+lastmod: 2026-07-07
 ---
 You're at the gym, or maybe just standing in your living room with a pair of light dumbbells, and someone's told you that building muscle after 65 is basically impossible. That your body is too far gone. I've heard that from so many clients when they first walk through my door. And I'll be direct: it's wrong. Provably, scientifically wrong. What *is* true is that muscle building after 65 looks different, requires smarter strategy, and punishes the mistakes that younger people can get away with. Get those things right, and your body will respond in ways that genuinely surprise you.
 
@@ -53,7 +53,7 @@ A more appropriate approach for most beginners in this age group:
 
 **Progress by increasing reps before increasing weight.** If you're doing 2 sets of 8 reps on a goblet squat, work toward 2 sets of 12 before adding weight. That extra four reps is still progressive overload, but it's gentler on joints.
 
-**Aim for 2 to 3 resistance training sessions per week.** Research supports this frequency as optimal for older adults. More than three sessions weekly doesn't produce proportionally better results and significantly increases injury risk at this stage.
+**Aim for 2 to 3 [resistance training sessions per week](/how-often-should-seniors-strength-train/).** Research supports this frequency as optimal for older adults. More than three sessions weekly doesn't produce proportionally better results and significantly increases injury risk at this stage.
 
 **Work in the 8 to 15 rep range for most exercises.** This range builds both strength and muscle size effectively, and it's safer on joints than the heavy, low-rep work powerlifters favor.
 
@@ -61,11 +61,16 @@ A more appropriate approach for most beginners in this age group:
 
 ## Protein: You're Probably Eating Enough for a Sedentary Person, Not a Training One
 
+| Protein Intake Level | Sedentary Adult | Older Adult Resistance Training | Example (150 lb person) |
+|---|---|---|---|
+| Grams per kg body weight | 0.8 g/kg | 1.2-1.6 g/kg | 82-109 g/day |
+| Daily total | ~54 g (150 lb example) | 82-109 g | Per research guidelines |
+
 This is where I've watched so many well-intentioned programs fall apart. People show up three times a week, work hard, and wonder why they're not seeing results. Often the answer is protein.
 
 The standard recommendation for sedentary adults is 0.8 grams of protein per kilogram of body weight per day. For a 150-pound person, that's about 54 grams. Research increasingly suggests that older adults who are resistance training need closer to 1.2 to 1.6 grams per kilogram per day to maximize muscle protein synthesis. For that same 150-pound person, that's 82 to 109 grams daily. That's a meaningful difference.
 
-There's another wrinkle specific to older adults: anabolic resistance. Younger muscle tissue kicks off protein synthesis with a relatively small amino acid stimulus. Older muscle tissue often requires a larger dose per meal to get the same response. Practically, this means spreading protein across meals matters, and each meal should ideally contain at least 25 to 40 grams of high-quality protein rather than skimping at breakfast and lunch and front-loading at dinner.
+There's another wrinkle specific to older adults: [anabolic resistance](/how-seniors-can-regain-lost-muscle-mass/). Younger muscle tissue kicks off protein synthesis with a relatively small amino acid stimulus. Older muscle tissue often requires a larger dose per meal to get the same response. Practically, this means spreading protein across meals matters, and each meal should ideally contain at least 25 to 40 grams of high-quality protein rather than skimping at breakfast and lunch and front-loading at dinner.
 
 High-quality protein sources to prioritize: eggs, Greek yogurt, cottage cheese, chicken, fish, lean beef, and for plant-based eaters, soy protein, tempeh, and lentils combined with other plant proteins to ensure complete amino acid profiles.
 
@@ -75,7 +80,7 @@ One honest note: if you have kidney disease or other conditions that affect prot
 
 ## The Exercises That Actually Matter Most
 
-Not all exercises are created equal for adults over 65. The most valuable movements are compound, multi-joint exercises that train the patterns you use in daily life.
+Not all exercises are created equal for adults over 65. The most valuable movements are [compound, multi-joint exercises](/best-strength-exercises-for-seniors-at-home/) that train the patterns you use in daily life.
 
 | Exercise | Primary Muscles | Why It Matters for Daily Function |
 |---|---|---|

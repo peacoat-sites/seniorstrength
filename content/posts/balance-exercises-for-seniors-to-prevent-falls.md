@@ -23,11 +23,11 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-
+lastmod: 2026-07-07
 ---
 Every 11 seconds, an older adult ends up in an emergency room because of a fall. That statistic from the CDC hit me hard the first time I read it, and honestly, it still does. But here's what strikes me even more: most of those falls don't have to happen. Not through luck or constant vigilance or abandoning everything you enjoy doing. Through actual training. Specific, consistent, well-chosen training that rewires how your body responds when your foot lands somewhere unexpected.
 
-Maybe you're wondering if you're already too far gone. Maybe you had a close call recently and now you're scared it'll happen again. Maybe your doctor mentioned balance training and you nodded along without knowing what that actually looks like. Wherever you're starting from, you're in the right place. And you're definitely not too late.
+Maybe you're wondering if you're already too far gone. Maybe you had a close call recently and now you're scared it'll happen again. Maybe your doctor mentioned [balance training](/balance-training-for-fall-prevention-seniors/) and you nodded along without knowing what that actually looks like. Wherever you're starting from, you're in the right place. And you're definitely not too late.
 
 <div class="value-module">
   <div class="vm-head">Balance Exercise Progression Guide</div>
@@ -52,7 +52,7 @@ Most articles about balance skip over this, and I think that's a mistake. There 
 
 **Static balance** is holding a stable position, standing at the sink brushing your teeth, reaching for something in a high cabinet without swaying. This is your foundation.
 
-**Dynamic balance** is staying in control while moving. Walking across a gravel lot, stepping off a curb, turning around while reaching for something. This is where most falls actually happen, and it's the one people usually undertrain.
+**Dynamic balance** is [staying in control while moving](/how-to-improve-balance-after-60/). Walking across a gravel lot, stepping off a curb, turning around while reaching for something. This is where most falls actually happen, and it's the one people usually undertrain.
 
 A solid balance program builds your static foundation first, then gradually challenges your dynamic stability. Jump straight to dynamic work before the foundation is solid, and you'll actually increase your fall risk instead of decreasing it.
 

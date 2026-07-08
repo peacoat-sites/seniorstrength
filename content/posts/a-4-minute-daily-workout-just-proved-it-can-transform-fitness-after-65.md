@@ -12,6 +12,7 @@ author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 slug: "a-4-minute-daily-workout-just-proved-it-can-transform-fitness-after-65"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most of us have heard the advice so many times it's stopped registering: you need at least 150 minutes of moderate activity per week, plus two days of strength training. Good advice on paper. But for adults over 65, that prescription has a compliance problem so severe it's almost embarrassing to mention. Fewer than one in five older adults actually meet the muscle-strengthening recommendation. Not because they're lazy. Because the bar feels impossibly high when your knees hurt, your schedule is unpredictable, and the gym is 20 minutes away.
 
@@ -19,11 +20,18 @@ So when a randomized trial from Penn State College of Medicine landed in *PLOS O
 
 ## What the FAST-2 Trial Actually Found
 
+| Metric | Improvement After 12 Weeks | Clinical Significance |
+| --- | --- | --- |
+| Chair-stand repetitions (30-sec window) | +4.2 reps | Predictor of fall risk and functional independence |
+| One-legged balance hold | +3.6 seconds | Balance and stability indicator |
+| Sit-to-stand time | -2.3 seconds | Early marker of strength decline |
+| Study adherence rate | 81% | Exceptionally high vs. traditional programs (50%+ dropout) |
+
 The study enrolled 97 adults aged 65 and older and put them through a protocol called FAST-2: four exercises, 30 seconds each, with 30-second rest periods between them. Push-ups, chair stands, two-arm rows, and stair stepping. That's it. No equipment beyond a chair and a set of stairs. Total active exercise time: four minutes.
 
 After 12 weeks, the numbers were hard to dismiss. Participants added an average of 4.2 additional chair-stand repetitions in a 30-second window. They held a one-legged balance stand 3.6 seconds longer. They shaved 2.3 seconds off their sit-to-stand time. For younger adults, those improvements might sound modest. For someone in their mid-70s, they represent the difference between moving through the world confidently and quietly avoiding activities that feel risky.
 
-Chair-stand performance and one-legged balance aren't arbitrary fitness metrics. They're among the strongest predictors of fall risk and functional independence in older adults. A 4.2 rep improvement in 30-second chair stands is clinically significant territory. The sit-to-stand time reduction matters because that movement, getting up from a chair, is one of the first things older adults start compensating around when strength begins to decline.
+Chair-stand performance and one-legged balance aren't arbitrary fitness metrics. They're among the strongest predictors of [fall risk and functional independence](/what-your-grip-strength-says-about-how-long-you-will-live/) in older adults. A 4.2 rep improvement in 30-second chair stands is clinically significant territory. The sit-to-stand time reduction matters because that movement, getting up from a chair, is one of the first things older adults start compensating around when strength begins to decline.
 
 ## Why Adherence Is the Real Story Here
 

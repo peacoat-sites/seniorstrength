@@ -18,7 +18,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-
+lastmod: 2026-07-07
 ---
 ## When Every Morning Feels Like a Battle
 
@@ -62,7 +62,7 @@ The key word is *gentle*. High-impact activities can make things worse, but thes
 * **Walking**, even 20 to 30 minutes a day makes a meaningful difference
 * **Swimming or water aerobics**, the buoyancy takes pressure off joints while building strength
 * **Tai chi**, research shows it significantly reduces pain and stiffness in arthritis patients
-* **Chair yoga**, improves flexibility and circulation without straining inflamed joints
+* **[Chair yoga](/best-stretches-for-seniors-with-lower-back-pain/)**, improves flexibility and circulation without straining inflamed joints
 * **Stretching**, gentle morning stretches can dramatically reduce that early-morning stiffness
 
 Aim for at least 150 minutes of moderate movement per week, as recommended by the Centers for Disease Control and Prevention (CDC) for older adults. Even breaking this into 10-minute sessions throughout the day counts. Every minute matters.

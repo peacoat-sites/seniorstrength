@@ -23,6 +23,7 @@ faqs:
    a: "More than most people expect. Getting protein earlier in the day rather than loaded at dinner supports muscle protein synthesis throughout the day. Eating something with protein and carbohydrates shortly after exercise (within an hour) meaningfully improves recovery, particularly in older adults whose repair processes are already slower."
  - q: "Can diet really affect energy levels that much after 60?"
    a: "Yes, and I'd argue it's the lever most people underestimate. Chronic dehydration, protein deficiency, gut inflammation from a low-fiber diet, and micronutrient gaps can all mimic fatigue that people assume is just aging. That's not always the case. Many of my clients have seen meaningful energy improvements by addressing nutrition before changing anything else."
+lastmod: 2026-07-07
 ---
 
 Most people I work with come to me having already tried something. They've cut back on sugar, maybe started drinking more water, picked up a protein shake at Costco. They're not starting from zero. They're starting from confused, because everything they read seems to contradict everything else, and their body isn't responding the way it did at 45.
@@ -35,11 +36,20 @@ Here's what I tell people at the start: the rules changed. Not because nutrition
 
 ## Protein Is the One Thing Most Seniors Are Getting Wrong
 
+| Metric | Younger Adults (35 years) | Older Adults (60+ years) |
+| --- | --- | --- |
+| Protein needed per meal for muscle stimulus | ~20 grams | 35-40 grams |
+| Recommended daily protein intake | 0.8 g/kg body weight | 1.2-1.6 g/kg body weight |
+| Example for 160-pound person | N/A | 87-116 grams/day |
+| Typical intake observed in seniors | N/A | 50-60 grams/day |
+| Gut microbiome diversity target | N/A | 30+ different plant foods/week |
+| Post-workout carb + protein window | N/A | 30-60 minutes |
+
 I'll be direct about this one: almost every person over 60 who walks into my sessions is under-eating protein. Not slightly. Significantly.
 
 The old recommended daily allowance of 0.8 grams per kilogram of body weight was set based on what prevents deficiency, not what supports muscle maintenance or active aging. There's a meaningful difference. Research published in the *Journal of Nutrition, Health & Aging* and replicated across multiple institutions points consistently toward older adults needing somewhere between 1.2 and 1.6 grams per kilogram of body weight daily, especially if they're strength training. For a 160-pound person, that's roughly 87 to 116 grams of protein a day. Most people I test are hitting 50 to 60.
 
-Why does it matter so much after 60? Something called anabolic resistance. Your muscles become less responsive to the protein signals that trigger growth and repair. To get the same muscle-building stimulus a 35-year-old gets from 20 grams of protein at a meal, you may need 35 to 40 grams. The dose has to go up to get the same result. It's not fair. It's just what's true.
+Why does it matter so much after 60? Something called [anabolic resistance](/how-much-protein-do-seniors-need-to-build-muscle/). Your muscles become less responsive to the protein signals that trigger growth and repair. To get the same muscle-building stimulus a 35-year-old gets from 20 grams of protein at a meal, you may need 35 to 40 grams. The dose has to go up to get the same result. It's not fair. It's just what's true.
 
 So what does that actually look like on a plate? A 6-ounce chicken breast, a cup of Greek yogurt, two eggs and some cottage cheese. Spread it across meals rather than loading it all at dinner, which is what most people accidentally do. Your muscles can only use so much at once, and the evidence strongly suggests that distributing protein more evenly across three meals does more for muscle protein synthesis than the same total amount eaten mostly at night.
 
@@ -55,7 +65,7 @@ Here's my honest take: very low carbohydrate diets can work for weight managemen
 
 Carbohydrates are still your body's preferred fuel for moderate-to-high intensity work. Period. The question isn't whether to eat them. It's which ones, and when.
 
-The "which ones" answer is genuinely simple: prioritize whole food carbohydrate sources. Oats, sweet potatoes, brown rice, legumes, fruit. These aren't just carbohydrates. They come packaged with fiber, which slows glucose absorption, supports gut health (more on that in a second), and feeds the kind of gut bacteria linked to lower systemic inflammation. Processed carbs and added sugar do the opposite. They spike blood glucose, accelerate inflammation, and leave you hungry again in an hour.
+The "which ones" answer is genuinely simple: prioritize whole food carbohydrate sources. Oats, sweet potatoes, brown rice, legumes, fruit. These aren't just carbohydrates. They come packaged with fiber, which slows glucose absorption, supports gut health (more on that in a second), and feeds the kind of gut bacteria linked to lower [systemic inflammation](/anti-inflammatory-foods-for-senior-joints/). Processed carbs and added sugar do the opposite. They spike blood glucose, accelerate inflammation, and leave you hungry again in an hour.
 
 The "when" question matters more than most people realize. A small carbohydrate-containing meal or snack within an hour or two before exercise can noticeably improve your performance and recovery. Something like a banana and a tablespoon of peanut butter, or a half-cup of oatmeal. It doesn't have to be complicated. And within 30 to 60 minutes after a workout, pairing carbohydrates with protein (the classic combo) helps shuttle amino acids into muscle tissue and replenishes glycogen faster.
 

@@ -23,6 +23,7 @@ faqs:
    a: "Stop the movement. There's a real difference between the mild discomfort of muscles working and actual pain, and you know the difference better than any article can tell you. Sharp pain, joint pain, or pain that persists after stopping are all signals to stop and get that evaluated before continuing. Don't push through it."
  - q: "Do I need equipment to get started?"
    a: "No. Seated marching, knee extensions, ankle work, and calf raises require nothing but a sturdy chair. A resistance band (under $15) opens up a lot more options. Light dumbbells or even household items add more variety. You can build a meaningful routine with zero equipment and add tools gradually as you progress."
+lastmod: 2026-07-07
 ---
 
 Most people who find their way to this page are sitting in a chair right now, wondering if that's a problem. It isn't. In fact, that chair might be exactly where your comeback starts.
@@ -45,6 +46,15 @@ There's also a confidence factor that's real and that I don't think gets discuss
 
 ## The Exercises That Actually Build Something
 
+| Exercise | Primary Target | Equipment | Reps/Duration |
+| --- | --- | --- | --- |
+| Seated Marching | Hip flexors, lower abdominals | None | 10-20 reps |
+| Seated Knee Extensions | Quadriceps | Optional: ankle weights ($12-20) | Until fatigue |
+| Seated Row with Resistance Band | Mid-back (rhomboids, trapezius) | Resistance band (<$15) | Until fatigue |
+| Seated Calf Raises | Calf muscles | None | 15-25 reps |
+| Seated Overhead Press | Shoulders, upper arms | Light dumbbells or canned goods | 10-12 reps |
+| Seated Ankle Circles & Dorsiflexion | Ankle mobility | None | Mobility work |
+
 Let me give you the ones I actually prescribe, with enough detail that you can do them correctly.
 
 **Seated Marching**
@@ -63,7 +73,7 @@ If this becomes easy after a few weeks, you can add a light ankle weight. The An
 
 This one requires a resistance band, which you can get from any sporting goods store or online for under $15. Anchor the band around a table leg in front of you, or have someone hold the ends. Hold one end in each hand, arms extended forward, then pull your elbows back like you're trying to pinch something between your shoulder blades. Hold briefly, then return slowly.
 
-This targets the mid-back muscles (rhomboids and mid-trapezius) that become critically weak in people who spend hours at a computer or slouched in chairs. Weak mid-back is a major driver of the forward-hunched posture you see in a lot of older adults, and that posture in turn affects breathing, balance, and digestion. This one exercise addresses something that almost nobody talks about in senior fitness content.
+This targets the mid-back muscles (rhomboids and mid-trapezius) that become critically weak in people who spend hours at a computer or slouched in chairs. Weak mid-back is a major driver of the [forward-hunched posture](/core-exercises-for-seniors-with-bad-backs/) you see in a lot of older adults, and that posture in turn affects breathing, balance, and digestion. This one exercise addresses something that almost nobody talks about in senior fitness content.
 
 **Seated Calf Raises**
 

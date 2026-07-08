@@ -18,7 +18,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-
+lastmod: 2026-07-07
 ---
 You wake up in the morning, and before you even get out of bed, your knees and fingers remind you that arthritis is part of your daily life. Maybe you used to love walking in the park or dancing with friends, but now the thought of exercise feels more daunting than exciting. You're not alone. Here's the good news: **low impact exercises for seniors with arthritis** can actually reduce your pain, improve your flexibility, and help you get back to doing the things you love.
 
@@ -66,7 +66,7 @@ Many senior centers and recreation programs offer beginner tai chi classes. Free
 
 ### 4. Gentle Yoga
 
-Yoga combines stretching, strength, and mindfulness in one practice. For seniors with arthritis, chair yoga is especially useful. All poses are done seated or using a chair for support, which improves flexibility without the repeated strain of getting up and down from the floor.
+Yoga combines stretching, strength, and mindfulness in one practice. For seniors with arthritis, [chair yoga is especially useful](/seated-yoga-for-seniors-12-poses-you-can-do-in-a-chair/). All poses are done seated or using a chair for support, which improves flexibility without the repeated strain of getting up and down from the floor.
 
 Regular yoga practice relieves stiffness in the hips, spine, shoulders, and hands. It also teaches you how to breathe through discomfort, a skill that helps with chronic pain management in everyday life.
 

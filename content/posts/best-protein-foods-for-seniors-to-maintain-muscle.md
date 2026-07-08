@@ -18,7 +18,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-
+lastmod: 2026-07-07
 ---
 You've probably felt it: stairs get harder, groceries feel heavier, everyday tasks take more effort. Between 60 and 80, most people experience a real decline in strength. The frustrating part? It doesn't have to be inevitable. Getting enough protein makes a measurable difference in how strong you stay and how long you can live independently.
 
@@ -46,6 +46,17 @@ A 150-pound senior should target 68 to 102 grams daily. That's actually doable i
 
 ## Top Protein Foods for Seniors to Support Muscle Health
 
+| Protein Source | Protein per Serving | Key Nutrients | Notes |
+| --- | --- | --- | --- |
+| Eggs (1 large) | 6g | Vitamin D, B12, choline | Versatile, safe for healthy seniors |
+| Greek yogurt (1 cup) | 15-20g | Calcium | Choose plain; add berries or honey |
+| Chicken/Turkey (3 oz) | 25-30g | Low saturated fat | Poach or slow-cook for tenderness |
+| Fish/Seafood (salmon, tuna, sardines) | Varies | Omega-3s | Canned versions equally nutritious |
+| Lentils (1 cup cooked) | ~18g | Fiber, iron | Pair with rice or whole grain for complete amino acids |
+| Cottage cheese (1 cup) | 25g | Slow-digesting protein | Good bedtime snack |
+| Tofu, firm (½ cup) | 10g | Plant-based calcium | Absorbs flavors well in stir-fries |
+| Edamame (1 cup) | 17g | Plant-based calcium | Good meat alternative |
+
 Photo by [Khaled Ali](https://unsplash.com/@khkar?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
 The best protein sources have all nine essential amino acids, digest easily, and fit into normal meals. Here's what actually works.
@@ -64,7 +75,7 @@ Chicken breast and turkey deliver 25 to 30 grams per 3-ounce serving and almost 
 
 ### 4. Fish and Seafood
 
-Salmon, tuna, and sardines give you protein *and* omega-3s that reduce muscle inflammation and actually support muscle growth. Aim for two servings weekly. Canned versions are as good as fresh and cost less.
+Salmon, tuna, and sardines give you protein *and* [omega-3s that reduce muscle inflammation](/best-omega-3-foods-for-seniors-with-joint-pain/) and actually support muscle growth. Aim for two servings weekly. Canned versions are as good as fresh and cost less.
 
 ### 5. Legumes and Beans
 

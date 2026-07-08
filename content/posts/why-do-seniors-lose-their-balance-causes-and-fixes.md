@@ -18,7 +18,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-
+lastmod: 2026-07-07
 ---
 ## When Simple Tasks Start Feeling Risky
 
@@ -54,7 +54,7 @@ Your hips, thighs, and ankles matter most. When these muscles can't react fast e
 
 The vestibular system naturally declines with age. One common problem is benign paroxysmal positional vertigo (BPPV), where tiny calcium crystals shift out of place in your inner ear and trigger sudden, disorienting dizziness.
 
-BPPV is actually very common in older adults. And here's the thing: it's highly treatable. A physical therapist can perform something called the Epley maneuver, which is just a series of specific head movements. It works quickly.
+BPPV is actually very common in older adults. And here's the thing: it's highly treatable. A physical therapist can perform something called the [Epley maneuver](/vestibular-exercises-for-seniors-with-dizziness/), which is just a series of specific head movements. It works quickly.
 
 ### Medication Side Effects
 
@@ -103,9 +103,9 @@ The most important thing to know is this: balance can be improved at any age. Re
 Simple exercises done consistently retrain your nervous system and strengthen the muscles keeping you steady. Try these:
 
  * **Single-leg stand:** Hold a countertop and stand on one foot for 10 to 30 seconds.
- * **Heel-to-toe walking:** Walk in a straight line placing one foot directly in front of the other.
+ * **[Heel-to-toe walking](/heel-to-toe-walking-the-best-balance-exercise-for-seniors/):** Walk in a straight line placing one foot directly in front of the other.
  * **Sit-to-stand exercises:** Rising from a chair without using your hands builds leg and hip strength.
- * **Tai Chi:** Multiple studies show Tai Chi reduces falls by up to 45 percent in older adults.
+ * **Tai Chi:** Multiple studies show [Tai Chi reduces falls](/fall-prevention-exercises-for-elderly-at-home/) by up to 45 percent in older adults.
 
 Aim for at least two to three balance-focused sessions per week. Even 10 minutes a day leads to meaningful improvement over time.
 

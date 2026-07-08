@@ -23,7 +23,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-
+lastmod: 2026-07-07
 ---
 Maybe you sat down five minutes ago and you're not entirely sure your knees will cooperate when you stand back up. Or maybe a doctor, physical therapist, or well-meaning family member told you to "do some exercise," but the gym feels impossible and getting down on a floor mat sounds unappealing. Here's something that might surprise you: some of the most effective lower-body strengthening you can do happens entirely from a chair. Not as a compromise. Not as a stepping stone you'll eventually graduate from. As a legitimate, research-backed approach to building the leg strength, joint stability, and functional mobility that keep you independent and safe in daily life.
 
@@ -102,6 +102,13 @@ After two to three weeks of basic movements, a looped resistance band around you
 Start with one set of each exercise. Work up to two or three sets over several weeks. Three sessions per week with at least one rest day between sessions lets your muscles recover and rebuild.
 
 ## How to Progress Safely Over Time
+
+| Stage | What Changes | Example |
+|---|---|---|
+| Week 1-2 | Learn the movements, bodyweight only | Seated leg extensions, 10 reps, 1 set |
+| Week 3-4 | Add ankle weights (1-2 lbs) or resistance band | Seated hamstring curls with band, 10 reps, 1 set |
+| Week 5-8 | Increase to 2-3 sets, or add 1-2 lbs more weight | Seated leg extensions, 10 reps, 2-3 sets with 2-3 lb ankle weights |
+| Week 8+ | Slow tempo, higher reps, or increase weight by 1-2 lbs | Seated leg extensions, 12-15 reps at slower tempo, 3 sets |
 
 You'll get stronger faster than you expect if you're consistent. Here's what to do when exercises start feeling easy, because they will.
 

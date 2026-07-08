@@ -12,6 +12,7 @@ author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 slug: "ozempic-and-muscle-loss-what-older-adults-on-glp-1s-must-know"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 A patient I'll call Margaret, 68, came to see me six months after starting Wegovy. She'd lost 22 pounds, her blood pressure was down, and her doctor was thrilled. But she could barely get up from a chair without using her arms, and she'd fallen twice on her morning walks. The scale said she was winning. Her body said something else was happening.
 
@@ -33,13 +34,20 @@ Separately, Rice University and The Methodist Hospital Research Institute launch
 
 ## What the Current Guidance Actually Recommends
 
+| Component | Recommendation | Key Detail |
+| --- | --- | --- |
+| Resistance Training | 2-3 times per week | Progressive; targets major muscle groups and daily-function movements |
+| Protein Intake | 1.2-1.6 g/kg body weight daily | ~87-116 g/day for a 160-lb person |
+| Muscle-Mass Monitoring | DEXA scans or functional tests | Grip strength and timed chair rises flag early loss |
+| Provider Conversation | Baseline assessment required | Should include strength and function, not just BMI and blood sugar |
+
 If you or someone you care about is over 65 and taking a GLP-1 medication, the standard of care is evolving quickly. In 2026, leading providers are increasingly recommending what's now being called a muscle-preserving protocol, and it has four main components.
 
-The first is resistance training. Not casual walking. Not yoga alone. Actual progressive resistance work, meaning exercises that challenge your muscles enough to stimulate adaptation. I've seen too many older adults told to "stay active" without any specifics, and that guidance simply isn't adequate here.
+The first is resistance training. Not casual walking. Not yoga alone. Actual [progressive resistance work](/strength-training-is-now-essential-for-older-adults-on-glp-1-drugs/), meaning exercises that challenge your muscles enough to stimulate adaptation. I've seen too many older adults told to "stay active" without any specifics, and that guidance simply isn't adequate here.
 
-The second is protein intake, specifically 1.2 to 1.6 grams per kilogram of body weight daily. For a 160-pound person, that's roughly 87 to 116 grams of protein per day. GLP-1 medications suppress appetite significantly, which is part of how they work, but that same appetite suppression can make it very easy to undereat protein without realizing it. This is where working with a registered dietitian, not just general nutrition advice from the internet, becomes genuinely important.
+The second is protein intake, specifically 1.2 to 1.6 grams per kilogram of body weight daily. For a 160-pound person, that's roughly 87 to 116 grams of protein per day. GLP-1 medications suppress appetite significantly, which is part of how they work, but that same appetite suppression can make it very easy to undereat protein without realizing it. This is where working with a [registered dietitian](/on-ozempic-over-60-here-is-how-to-protect-your-muscle/), not just general nutrition advice from the internet, becomes genuinely important.
 
-The third component is routine muscle-mass monitoring. DEXA scans are the gold standard, but even simple functional tests like grip strength measurement and timed chair rises, which count how long it takes you to stand up from a chair five times in a row, can flag early muscle loss before it becomes a crisis. Ask your prescribing doctor whether this kind of monitoring is built into your follow-up plan. If it's not, that's worth raising directly.
+The third component is routine muscle-mass monitoring. DEXA scans are the gold standard, but even simple functional tests like [grip strength measurement](/what-your-grip-strength-says-about-how-long-you-will-live/) and timed chair rises, which count how long it takes you to stand up from a chair five times in a row, can flag early muscle loss before it becomes a crisis. Ask your prescribing doctor whether this kind of monitoring is built into your follow-up plan. If it's not, that's worth raising directly.
 
 The fourth is the conversation itself. Providers who are prescribing these medications should be asking about your baseline strength and function, not just your BMI and blood sugar.
 

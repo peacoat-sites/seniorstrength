@@ -18,7 +18,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-
+lastmod: 2026-07-07
 ---
 Cooking for one or two people can feel pointless. Giant portions. Ingredients rotting in the crisper drawer. A fridge full of food you're sick of by Wednesday. That's where meal prep changes things, a couple hours on Sunday means actual, healthy meals all week without the daily grind.
 
@@ -26,7 +26,7 @@ Whether you're flying solo or cooking for two, meal prep saves time, money, and 
 
 ## Why Meal Prep Makes Sense for Older Adults
 
-Your body's needs shift as you age. You need more protein to keep muscle, more calcium for bones, and decent fiber for digestion. Meanwhile, a lot of seniors lose appetite or just can't be bothered cooking something complicated every single day.
+Your body's needs shift as you age. You need more protein to keep muscle, [more calcium for bones](/calcium-rich-foods-for-seniors-non-dairy-options-too/), and decent fiber for digestion. Meanwhile, a lot of seniors lose appetite or just can't be bothered cooking something complicated every single day.
 
 Meal prepping tackles several problems at once. It kills the urge to grab processed junk when you're tired or unmotivated.
 

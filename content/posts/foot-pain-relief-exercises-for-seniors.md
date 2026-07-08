@@ -18,15 +18,15 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-
+lastmod: 2026-07-07
 ---
 If you've ever hobbled out of bed in the morning and winced the moment your feet hit the floor, you're far from alone. Millions of seniors deal with daily foot discomfort that makes every step feel like a chore. The good news is that **foot pain relief exercises for seniors** can make a real, lasting difference, no expensive treatments or complicated equipment required.
 
-Foot pain can stem from many sources: plantar fasciitis, arthritis, weakened muscles, or simply years of wear and tear. The right gentle exercises can strengthen the muscles that support your feet, improve flexibility, and reduce inflammation. Let's walk through everything you need to know to get started safely.
+Foot pain can stem from many sources: plantar fasciitis, arthritis, weakened muscles, or simply years of wear and tear. The right gentle exercises can strengthen the muscles that support your feet, improve flexibility, and [reduce inflammation](/how-to-reduce-joint-inflammation-naturally-for-seniors/). Let's walk through everything you need to know to get started safely.
 
 ## Why Foot Pain Is So Common After 60
 
-As we age, the fat padding in our feet naturally thins out, leaving less cushioning between our bones and the ground. The tendons and ligaments that hold the foot together become less elastic and more prone to stiffness. Conditions like osteoarthritis, bunions, and plantar fasciitis become increasingly common in our 60s and beyond.
+As we age, the fat padding in our feet naturally thins out, leaving less cushioning between our bones and the ground. The tendons and ligaments that hold the foot together become less elastic and more prone to stiffness. Conditions like [osteoarthritis](/how-to-prevent-osteoporosis-naturally-after-60/), bunions, and plantar fasciitis become increasingly common in our 60s and beyond.
 
 Even years of wearing poorly fitting shoes can catch up with us later in life. Understanding why your feet hurt is the first step toward giving them the right kind of care.
 
@@ -72,7 +72,7 @@ Hold for 15 to 30 seconds, then release slowly. Repeat three times on each foot.
 
 Place a small towel or a handful of marbles on the floor. Using only your toes, try to pick up the marbles one at a time and place them in a cup, or scrunch the towel toward you with your toes. It sounds simple, but this is a powerful workout for the small muscles throughout your foot and toes.
 
-Spend about two minutes on each foot. It's also a wonderful way to improve coordination and mind-body connection, which matters for fall prevention.
+Spend about two minutes on each foot. It's also a wonderful way to improve coordination and mind-body connection, which matters for [fall prevention](/best-stretches-for-seniors-with-lower-back-pain/).
 
 ### 5. Ankle Circles
 

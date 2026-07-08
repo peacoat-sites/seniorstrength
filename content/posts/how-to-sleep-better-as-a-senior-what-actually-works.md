@@ -19,7 +19,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-
+lastmod: 2026-07-07
 ---
 ## The Sleep Struggle: Why Nights Get Tougher After 60
 
@@ -28,6 +28,17 @@ author_bio: "Robert Davis focuses on nutrition for older adults, especially the 
 Your body changes how it sleeps. That's normal aging, not a life sentence. Less melatonin production, an earlier circadian rhythm, health conditions kicking in. Once you understand what's happening, you can actually do something about it.
 
 ## Why Senior Sleep Patterns Change
+
+| Sleep Factor | Recommendation | Why It Matters |
+| --- | --- | --- |
+| Room Temperature | 65-68°F | Triggers sleep signals; cooler temps improve sleep quality |
+| Bedtime Wind-Down | 30-60 minutes | Gives your body transition signal before sleep |
+| Afternoon Nap Duration | 20-30 minutes max | Longer naps wreck nighttime sleep |
+| Nap Cutoff Time | Before 3 PM | Prevents interference with nighttime sleep |
+| Morning Light Exposure | 20-30 minutes, within 1 hour of waking | Anchors circadian rhythm; improves nighttime sleep |
+| Caffeine Cutoff | 2 PM or earlier | Caffeine stays in your system 10+ hours at age 60+ |
+| Fluid Cutoff Before Bed | 2-3 hours | Reduces nocturia (nighttime bathroom trips) |
+| Recommended Sleep Duration | 7-9 hours | Optimal restorative sleep for older adults |
 
 After 50, your brain starts producing less deep, restorative sleep. You wake more often. Eight hours in bed feels like four. It's not in your head.
 
@@ -85,7 +96,7 @@ Progressive muscle relaxation works really well for older adults. Start with you
 
 Breathing exercises calm your nervous system. Try the 4-7-8 technique: breathe in for 4 counts, hold for 7, exhale for 8. It activates your parasympathetic nervous system, the sleep system. Do it in bed.
 
-Meditation and mindfulness actually work. Even 5-10 minutes of guided meditation quiets racing thoughts. Apps like Insight Timer have free sleep meditations designed for older adults.
+[Meditation and mindfulness actually work](/meditation-for-seniors-how-to-start-and-why-it-helps/). Even 5-10 minutes of guided meditation quiets racing thoughts. Apps like Insight Timer have free sleep meditations designed for older adults.
 
 Gentle stretching or yin yoga before bed loosens tight muscles and reduces pain. It also lowers cortisol (your stress hormone) and promotes relaxation. YouTube has solid senior-friendly routines specifically for sleep.
 

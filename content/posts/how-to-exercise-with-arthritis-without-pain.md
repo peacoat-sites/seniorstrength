@@ -23,6 +23,7 @@ faqs:
     a: "I'd push back on this as a routine strategy. Pre-medicating can mask warning signals that would otherwise tell you to stop or modify, leading to more joint damage. If you genuinely can't exercise without prior pain medication, that's a signal the exercise intensity or type needs adjustment, not that the medication strategy is correct."
   - q: "How long before I notice improvement from exercising with arthritis?"
     a: "Expect four to six weeks before meaningful pain reduction, eight to twelve weeks for functional strength gains. The first two to three weeks often feel like nothing is changing, and some people experience a temporary uptick in soreness as muscles adapt. That window is where most people quit. Don't."
+lastmod: 2026-07-07
 ---
 
 Most exercise advice for arthritis is built around one bad idea: that movement causing any discomfort should stop immediately. That instinct makes sense until you understand that the joint stiffness, aching, and weakness arthritis causes are made significantly worse by inactivity, not better. Resting your way through arthritis is, in most cases, the thing that accelerates it.
@@ -46,6 +47,14 @@ I thought this was too simplistic when I first encountered it. Then I watched it
 ---
 
 ## What Types of Exercise Actually Help
+
+| Exercise Type | Joint Loading Reduction | Pain Reduction | Key Benefit | Best For |
+| --- | --- | --- | --- | --- |
+| Water-based (aquatic) | 50-75% | Significant | Muscle building with minimal joint stress | Starting point, high comfort |
+| Strength training (2x/week) | Varies | 35-40% over 16 weeks | Protects joints via muscle support | Long-term functional improvement |
+| Cycling/stationary bike | Low | Moderate | Controlled motion arc | Joint-friendly cardio |
+| Walking | Moderate-High | Mild | Accessible | Supplement, not primary |
+| Flexibility/mobility | N/A | Reduces stiffness | Synovial fluid mobility | Daily pre-exercise prep |
 
 Rheumatoid and osteoarthritis are different diseases with somewhat different exercise needs, but the general hierarchy holds for both.
 

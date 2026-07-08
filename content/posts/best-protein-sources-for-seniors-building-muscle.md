@@ -23,7 +23,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-
+lastmod: 2026-07-07
 ---
 You're at the gym, third set of seated leg presses done, and the trainer hands you a protein shake made from some chalky powder that tastes like vanilla-flavored disappointment. "You need at least 30 grams after every workout," he says. You nod, drink it, and wonder if this is really what it takes. Maybe. But here's what most people don't realize: the protein question for adults over 60 is far more nuanced than a post-workout shake, and getting it wrong doesn't just slow your results, it can quietly work against the very muscle you're trying to build.
 
@@ -31,7 +31,7 @@ You're at the gym, third set of seated leg presses done, and the trainer hands y
 
 The standard Recommended Dietary Allowance for protein is 0.8 grams per kilogram of body weight per day. That number surprises almost everyone. It was set to prevent deficiency, not to optimize muscle building. For a 70-year-old trying to get stronger, it's genuinely inadequate.
 
-I've seen clients in their late 60s eating what they believed was "plenty of protein" because they'd hit the RDA. Chicken salads for lunch, Greek yogurt as a snack, call it good. They were still losing muscle. Why? After about age 60, your body becomes less efficient at converting dietary protein into muscle tissue. Researchers call this anabolic resistance. Your muscles simply don't respond to protein signals the way they did at 40.
+I've seen clients in their late 60s eating what they believed was "plenty of protein" because they'd hit the RDA. Chicken salads for lunch, Greek yogurt as a snack, call it good. They were still losing muscle. Why? After about age 60, your body becomes less efficient at converting dietary protein into muscle tissue. Researchers call this [anabolic resistance](/how-much-protein-do-seniors-need-to-build-muscle/). Your muscles simply don't respond to protein signals the way they did at 40.
 
 The practical fix: most sports nutrition researchers and geriatric dietitians now recommend somewhere between 1.2 and 1.6 grams of protein per kilogram of body weight daily for older adults doing strength training. For a 170-pound person, that's roughly 93 to 123 grams per day. That's a meaningful target, and which foods you use to hit it actually matters.
 
@@ -47,11 +47,24 @@ Not all protein is created equal. What you're looking for is high leucine conten
 
 **Greek yogurt and cottage cheese** are workhorse options. Plain Greek yogurt at 2% fat has roughly 17 to 20 grams per cup. Cottage cheese, often underrated, provides about 25 grams per cup and is rich in casein protein, which digests slowly and may help preserve muscle overnight when eaten before bed. This isn't speculation, there's solid research on pre-sleep casein and muscle protein synthesis in older adults.
 
-**Salmon and other fatty fish** give you protein and omega-3 fatty acids in one shot. EPA and DHA, the main omega-3s, have direct anti-inflammatory effects that support muscle recovery and may reduce anabolic resistance. A 3-ounce serving of salmon runs about 22 grams of protein. Aim for fatty fish two to three times per week.
+**Salmon and other fatty fish** give you protein and [omega-3 fatty acids](/anti-inflammatory-foods-for-senior-joints/) in one shot. EPA and DHA, the main omega-3s, have direct anti-inflammatory effects that support muscle recovery and may reduce anabolic resistance. A 3-ounce serving of salmon runs about 22 grams of protein. Aim for fatty fish two to three times per week.
 
 **Legumes and soy** matter if you eat plant-forward. Most plant proteins are lower in leucine than animal sources, but soy is the exception. Tofu, tempeh, and edamame are complete proteins with leucine levels that approach meat. A cup of cooked edamame contains about 17 grams of protein. Black beans or lentils give you 15 to 18 grams per cup, but combine them with a leucine-rich source like Greek yogurt or eggs in the same meal, and their muscle-building effectiveness improves significantly.
 
 ## How to Compare Your Options at a Glance
+
+| Food | Serving Size | Protein (g) | Leucine (g) | Notes |
+|---|---|---|---|---|
+| Whole eggs | 2 large | 12 | ~1.1 | High bioavailability; cook thoroughly |
+| Greek yogurt (plain, 2%) | 1 cup | 17-20 | ~1.7 | Opt for low-sugar varieties |
+| Cottage cheese (2%) | 1 cup | 25 | ~2.3 | Great pre-sleep option |
+| Salmon (cooked) | 3 oz | 22 | ~1.8 | Bonus: omega-3 fatty acids |
+| Chicken breast (cooked) | 3 oz | 26 | ~2.1 | Lean, versatile, affordable |
+| 90% lean ground beef | 3 oz | 22 | ~1.8 | Contains natural creatine |
+| Tempeh | 3 oz | 16 | ~1.0 | Best plant-based leucine source |
+| Edamame (shelled) | 1 cup | 17 | ~1.2 | Complete protein; easy snack |
+| Lentils (cooked) | 1 cup | 18 | ~1.3 | Pair with leucine-rich food |
+| Whey protein powder | 1 scoop (~30g) | 24-26 | ~2.5 | Fast-digesting; useful post-workout |
 
 This table is designed for quick reference when you're planning meals. All values are approximate and can vary by brand, preparation, and cut.
 

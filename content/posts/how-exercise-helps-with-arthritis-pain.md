@@ -23,6 +23,7 @@ faqs:
    a: "No, and I want to be honest about that. Exercise doesn't regenerate cartilage that's already lost. What it does, clearly and consistently, is reduce pain, improve function, slow further progression, and build the muscular support that compensates for joint changes. That's a meaningful set of outcomes even without a cure."
  - q: "How long before I notice a difference?"
    a: "Most people report some improvement in pain and mobility within four to six weeks of consistent exercise. Significant functional gains tend to show up more clearly around the eight to twelve week mark. If you're three months in without any change, that's worth revisiting with a clinician, because the program may need adjustment."
+lastmod: 2026-07-07
 ---
 
 Most people come to me after they've already stopped moving. Not because they wanted to, but because someone, somewhere, told them that pain meant they should rest. And honestly? That advice made sense on the surface. It just happens to be one of the most counterproductive things a person with arthritis can do.
@@ -53,7 +54,7 @@ Aquatic exercise is genuinely wonderful. The buoyancy reduces joint load, the wa
 
 But it shouldn't be *all* you do.
 
-Strength training, done correctly, is probably the most protective intervention available to someone with arthritis. When the muscles around a joint are strong, they absorb force that would otherwise be transmitted directly to cartilage and bone. Quadriceps strength, specifically, has a well-documented inverse relationship with knee osteoarthritis progression: weaker quads mean more pain and faster decline. This has been replicated enough times across enough populations that I consider it settled.
+[Strength training, done correctly](/functional-fitness-exercises-for-seniors/), is probably the most protective intervention available to someone with arthritis. When the muscles around a joint are strong, they absorb force that would otherwise be transmitted directly to cartilage and bone. Quadriceps strength, specifically, has a well-documented inverse relationship with knee osteoarthritis progression: weaker quads mean more pain and faster decline. This has been replicated enough times across enough populations that I consider it settled.
 
 Here's a loose sense of what an effective weekly structure might look like for someone managing arthritis (keeping in mind that individual circumstances vary enormously and you should always work with your own healthcare provider to tailor this):
 

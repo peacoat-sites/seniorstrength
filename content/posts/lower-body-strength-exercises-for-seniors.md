@@ -23,6 +23,7 @@ faqs:
     a: "You'll likely notice functional improvements (standing up feeling easier, less fatigue on stairs) within 4-6 weeks. Measurable strength gains on something like the 30-second chair stand test typically show up by 8-12 weeks of consistent twice-weekly training. The neuromuscular improvements (your nervous system learning to recruit muscle more efficiently) come first; actual muscle hypertrophy takes longer but does occur even in adults in their 80s."
   - q: "Do I need equipment or a gym membership to do these exercises?"
     a: "No. Everything described in this article can be done at home with a sturdy chair, a step or low stair, and optionally a $10-15 resistance loop band. A gym can be useful for variety and social motivation, but the fundamental exercises that produce the most benefit for older adults require almost no equipment."
+lastmod: 2026-07-07
 ---
 
 Most people assume the biggest threat to independence as you age is heart disease or memory loss. I'd argue it's actually losing the ability to get up off the floor.
@@ -35,9 +36,14 @@ What I want to do here is give you the real picture: which exercises actually bu
 
 ## Why Lower Body Strength Declines Faster Than You Think
 
-Here's something that surprised me when I first dug into the physiology: muscle loss after 60 isn't linear. It accelerates. The research on sarcopenia (age-related muscle loss) consistently shows that the rate of decline roughly doubles between your 60s and your 70s if you're not doing targeted resistance training. A landmark paper published in the *Journal of Gerontology* found that adults who were sedentary lost an average of 1-2% of lower body muscle mass per year in their 60s, jumping to 2-4% per year after 70.
+| Age Group | Muscle Loss Rate (Sedentary) | Research Source |
+| --- | --- | --- |
+| 60s | 1-2% per year | Journal of Gerontology |
+| 70+ | 2-4% per year | Journal of Gerontology |
 
-The lower body takes the hardest hit for a few reasons. One, it's the furthest from your heart. Two, the fast-twitch muscle fibers responsible for power and quick reactions atrophy disproportionately with age. And three, most people reduce walking distances before they reduce arm activities, so the legs get less daily stimulation without anyone really noticing.
+Here's something that surprised me when I first dug into the physiology: [muscle loss after 60](/how-seniors-can-regain-lost-muscle-mass/) isn't linear. It accelerates. The research on sarcopenia (age-related muscle loss) consistently shows that the rate of decline roughly doubles between your 60s and your 70s if you're not doing targeted resistance training. A landmark paper published in the *Journal of Gerontology* found that adults who were sedentary lost an average of 1-2% of lower body muscle mass per year in their 60s, jumping to 2-4% per year after 70.
+
+The lower body takes the hardest hit for a few reasons. One, it's the furthest from your heart. Two, the [fast-twitch muscle fibers](/how-to-build-muscle-after-60/) responsible for power and quick reactions atrophy disproportionately with age. And three, most people reduce walking distances before they reduce arm activities, so the legs get less daily stimulation without anyone really noticing.
 
 What this means practically: by the time someone tells me their balance has gotten "a little shaky," they've often already lost 15-20% of their functional lower body strength. That's not a rounding error. That's the difference between catching yourself on a slippery floor and falling.
 
@@ -67,7 +73,7 @@ A box or bottom stair step works fine. Step-ups are essentially a single-leg squ
 
 Place your right foot fully on the step. Push through that heel to stand up, bringing the left foot up to tap the step before stepping back down. The key is pushing through the front (stepping) leg rather than pushing off the back leg. Start with a 4-6 inch step height. Work up to 8 inches. Hold light dumbbells (2-5 lbs) once the movement feels stable.
 
-Three sets of 8 per leg, twice a week. Concrete example: a 68-year-old client of mine (former nurse, had been sedentary for about four years post-retirement) started step-ups at 4 inches in October and was comfortably working with a 7-inch step and 3 lb dumbbells by December. Her score on the Berg Balance Scale, a standardized clinical balance assessment, went from 42/56 to 50/56 in that same period. That's clinically meaningful progress.
+Three sets of 8 per leg, twice a week. Concrete example: a 68-year-old client of mine (former nurse, had been sedentary for about four years post-retirement) started step-ups at 4 inches in October and was comfortably working with a 7-inch step and 3 lb dumbbells by December. Her score on the [Berg Balance Scale](/how-often-should-seniors-strength-train/), a standardized clinical balance assessment, went from 42/56 to 50/56 in that same period. That's clinically meaningful progress.
 
 **Glute Bridges**
 

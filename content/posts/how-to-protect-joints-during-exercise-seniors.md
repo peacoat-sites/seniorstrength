@@ -23,6 +23,7 @@ faqs:
     a: "Pool walking or aquatic exercise, if you have access to a heated therapy pool, is hard to beat for low joint stress combined with real cardiovascular and muscular benefit. On land, slow, controlled bodyweight squats (only to the depth comfortable for you), chair-assisted standing exercises, and walking on flat, even surfaces are all solid starting points. Build duration before intensity."
   - q: "Can I still build real strength without loading my joints heavily?"
     a: "Yes. The research is clear that meaningful strength gains are achievable at moderate loads (roughly 40 to 60% of your one-rep max) when repetitions are performed slowly and controlled. 'Slow' in this context means 3 to 4 seconds on the lowering phase of any movement. This approach taxes the muscle while significantly reducing compressive and shear forces on the joint."
+lastmod: 2026-07-07
 ---
 
 Every week, someone comes to me after getting hurt doing an exercise their doctor told them would be "gentle on the joints." Walking lunges. Jumping jacks as a "low-impact warmup." Leg press machines cranked to high resistance because "more weight means more benefit." And every time, I think: whoever gave that advice wasn't watching a 68-year-old with early knee osteoarthritis try to execute it.
@@ -63,7 +64,7 @@ Joint protection during exercise comes down to two things, and they interact: ho
 
 **Load management.** More resistance isn't always better, even for building strength. The research on this has gotten more nuanced over the last several years. A 2022 paper in *The Journal of Strength and Conditioning Research* found that older adults made comparable strength gains training at 30-60% of their one-rep maximum compared to higher loads, with significantly less joint stress. The key variable was time under tension, meaning slower, more controlled repetitions, rather than the amount of weight.
 
-For someone with knee or hip arthritis, this is genuinely good news. You don't need to load the joint heavily to get stronger. You need to load it consistently, progressively, and in good position.
+For someone with [knee or hip arthritis](/how-to-exercise-with-arthritis-without-pain/), this is genuinely good news. You don't need to load the joint heavily to get stronger. You need to load it consistently, progressively, and in good position.
 
 **Alignment.** This is where a mirror, a knowledgeable trainer, or at minimum a phone propped up to record yourself is worth more than almost any piece of equipment you can buy. Common misalignments I see:
 
@@ -74,7 +75,7 @@ For someone with knee or hip arthritis, this is genuinely good news. You don't n
 
 You don't have to fix all of these overnight. But knowing they exist, and watching for them, changes everything.
 
-**Worked example:** A 71-year-old client of mine, a retired electrician named Frank, came to me with persistent medial knee pain. He'd been told to stop doing squats. We didn't stop squats. We widened his stance slightly, added a resistance band just above the knees to train his glutes to stop the valgus collapse, and dropped the weight to a goblet squat with a 15-pound kettlebell. Eight weeks in, his knee pain had dropped from a 6/10 to a 1-2/10 on most days, and his leg strength had measurably improved. Scenario: knee pain from squat-pattern valgus collapse → adjusted alignment, reduced load, targeted glute activation → pain reduced by approximately 70% over 8 weeks.
+**Worked example:** A 71-year-old client of mine, a retired electrician named Frank, came to me with persistent [medial knee pain](/exercises-to-avoid-after-knee-replacement/). He'd been told to stop doing squats. We didn't stop squats. We widened his stance slightly, added a resistance band just above the knees to train his glutes to stop the valgus collapse, and dropped the weight to a goblet squat with a 15-pound kettlebell. Eight weeks in, his knee pain had dropped from a 6/10 to a 1-2/10 on most days, and his leg strength had measurably improved. Scenario: knee pain from squat-pattern valgus collapse → adjusted alignment, reduced load, targeted glute activation → pain reduced by approximately 70% over 8 weeks.
 
 ---
 

@@ -23,7 +23,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-
+lastmod: 2026-07-07
 ---
 Maybe you've just had a check-up where your doctor said something like "you really should be more active," and you nodded along, but walked out of the office still not knowing what that actually means for your life. Or maybe you've been exercising for years and you're wondering if what you're doing is enough, or possibly too much. Either way, you're looking for a real answer, not a pamphlet with stick figures on it.
 
@@ -39,11 +39,18 @@ Here's what the guidelines don't tell you: they don't account for where you're s
 
 ## Understanding the Three Pillars: Aerobic, Strength, and Balance
 
+| Type of Exercise | Weekly Target | Example Activities | Key Benefit |
+|---|---|---|---|
+| Moderate Aerobic | 150-300 minutes | Walking, swimming, cycling, dancing | Heart health, endurance, mood |
+| Vigorous Aerobic | 75-150 minutes | Brisk hiking, running, fast cycling | Cardiovascular fitness, time efficiency |
+| Strength Training | 2+ days per week | Resistance bands, weights, bodyweight exercises | Muscle preservation, functional independence |
+| Balance Training | 3+ days per week | Tai Chi, yoga, single-leg stands, heel-to-toe walking | Fall prevention, coordination |
+
 Most people picture walking when they think about exercise for older adults. Walking is wonderful. I mean that genuinely. But it's only one piece of a three-part picture, and the other two pieces are arguably more critical to your quality of life and your independence as you age.
 
 **Aerobic exercise** is what most people picture: walking, swimming, cycling, dancing. It keeps your heart and lungs strong, helps manage blood pressure and blood sugar, supports mood, and improves sleep. Moderate intensity means you can still hold a conversation but you're breathing noticeably harder than at rest. The "talk test" is a simple and effective way to gauge this.
 
-**Strength training** is where I see the most gaps in older adults' routines, and also where I've seen some of the most dramatic improvements in function. After age 30, adults lose roughly 3 to 8 percent of their muscle mass per decade, and that rate accelerates significantly after 60. This process, called sarcopenia, is a primary driver of falls, fatigue, and loss of independence. Two sessions per week of resistance exercise targeting the major muscle groups, legs, hips, back, abdomen, chest, shoulders, and arms, can meaningfully slow this loss and even reverse some of it. This doesn't have to mean a barbell. Resistance bands, bodyweight exercises, water resistance in a pool, and machine weights all count.
+**Strength training** is where I see the most gaps in older adults' routines, and also where I've seen some of the most dramatic improvements in function. After age 30, adults lose roughly 3 to 8 percent of their muscle mass per decade, and that rate accelerates significantly after 60. This process, called sarcopenia, is a primary driver of falls, fatigue, and [loss of independence](/exercises-for-seniors-to-stay-independent/). Two sessions per week of resistance exercise targeting the major muscle groups, legs, hips, back, abdomen, chest, shoulders, and arms, can meaningfully slow this loss and even reverse some of it. This doesn't have to mean a barbell. Resistance bands, bodyweight exercises, water resistance in a pool, and machine weights all count.
 
 **Balance training** often gets treated as an afterthought, but falls are the leading cause of injury-related death among adults over 65 in the United States. Single-leg stands, heel-to-toe walking, Tai Chi, and yoga all build the neuromuscular coordination your body needs to catch itself before a stumble becomes a fall. Three days per week is the target, but honestly, some balance practice woven into your daily routine (standing on one foot while you brush your teeth, for example) costs you almost nothing and adds up quickly.
 

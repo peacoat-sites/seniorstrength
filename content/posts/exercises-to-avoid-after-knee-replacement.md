@@ -23,6 +23,7 @@ faqs:
     a: "Most surgeons clear patients for swimming and pool exercise once the incision is fully closed and there's no sign of infection, typically around six to eight weeks post-op. Pool walking and gentle flutter kicks are usually the starting point. Flip turns, breaststroke frog kicks, and any movement requiring forceful twisting of the knee should be discussed with your surgeon specifically."
   - q: "Is cycling good for knee replacement recovery?"
     a: "Stationary cycling with the seat adjusted high enough that you're not reaching deep knee flexion is among the most consistently recommended exercises for TKR recovery. It improves range of motion and quadriceps strength with minimal impact. Low resistance is key early on. Outdoor road cycling can be introduced later for many patients, but mountain biking and aggressive cycling remain on the avoid list for most."
+lastmod: 2026-07-07
 ---
 
 Most post-knee replacement guides hand you a tidy list of "safe" exercises and call it a day. What they skip is the other list: the movements that feel fine, look harmless, and can quietly damage your new joint before you even realize something's going wrong.
@@ -39,11 +40,21 @@ A total knee replacement (TKR) involves removing damaged cartilage and bone, the
 
 The American Academy of Orthopaedic Surgeons has tracked implant survivorship data for decades. Current figures (as of 2026) show roughly 90% of TKR implants still functioning well at 15 years, and better than 80% at 20 years. Those numbers assume reasonable activity choices. Push the joint hard in the wrong directions repeatedly, and you accelerate wear on that polyethylene, loosen the cement fixation, or stress the surrounding soft tissue before it's healed.
 
-Your physical therapist gives you a protocol timed to tissue healing. There's a reason the phases exist. The problem is that once people feel good, around weeks six to ten for most, they start improvising.
+Your physical therapist gives you a [protocol timed to tissue healing](/safe-exercise-after-hip-replacement/). There's a reason the phases exist. The problem is that once people feel good, around weeks six to ten for most, they start improvising.
 
 ---
 
 ## The Specific Exercises to Avoid (and Why Each One)
+
+| Activity | Impact Level | Primary Risk | Typical Restriction Timeline |
+| --- | --- | --- | --- |
+| Running/Jogging | High | Accelerated polyethylene wear, implant revision | Permanent for most patients |
+| Deep squats (>90°) | High | Patellofemoral stress, posterior insert wear | First 3-6 months, then modified only |
+| Leg press at full depth | High | Compressive stress on knee joint | Indefinite; use range limiters |
+| Stair climbers/step mills | High | Repetitive deep flexion under load | Often indefinite |
+| Elliptical (high resistance/incline) | Moderate-High | Increased force across knee | Adjust settings; moderate only |
+| Contact/pivot sports (singles tennis, soccer, skiing) | High | Periprosthetic fracture, ligament stress | Indefinite; doubles tennis may be approved |
+| Kneeling on replaced knee | Moderate | Disruption of healing tissue | First 6 months minimum |
 
 **High-impact everything, full stop.** Running, jogging, jumping rope, plyometric circuits, high-impact aerobics, basketball, racquetball. The vertical ground reaction force during running hits roughly 2.5 times your body weight per step. For a 170-pound person, that's 425 pounds of force cycling through the implant with every stride. Repeatedly. The AAOS and most major orthopedic guidelines explicitly advise against running after TKR, not just during recovery, but permanently for most patients.
 

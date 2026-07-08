@@ -23,7 +23,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-
+lastmod: 2026-07-07
 ---
 Most fitness advice for older adults focuses on what feels safe rather than what actually works. That's a problem. "Gentle chair stretches" and "light walking" are fine starting points, but they won't rebuild the quad strength that keeps you out of a nursing home. They won't stop the muscle loss that begins accelerating after 60 and can take 1-2% of your muscle mass per year if you let it. And they definitely won't fix the hip and ankle weakness that turns a small trip on the sidewalk into a six-week recovery.
 
@@ -34,6 +34,14 @@ So here's what actually works, ranked honestly, with the mistakes called out alo
 ---
 
 ## The Exercises That Actually Build Leg Strength (and Why Most Lists Get the Order Wrong)
+
+| Exercise | Sets | Reps | Frequency | Key Benefit |
+| --- | --- | --- | --- | --- |
+| Chair stands | 2-3 | 8-12 | 3x/week | Teaches fundamental movement pattern |
+| Wall squats | 3 | 20-60 sec hold | As part of routine | Quad strength without joint stress |
+| Step-ups | - | - | As part of routine | Single-leg strength, exposes asymmetries |
+| Calf raises | 2 | 15-20 | As part of routine | Balance correction, fall prevention |
+| Glute bridges | - | - | As part of routine | Knee alignment, reduces knee pain |
 
 Most articles list squats first. I'd actually start with the chair stand, not because it's easier, but because it teaches the movement pattern that matters most and gives you an honest baseline.
 

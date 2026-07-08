@@ -23,6 +23,7 @@ faqs:
    a: "Pain that radiates below the knee, comes with numbness or tingling in the legs, is accompanied by weakness, or involves any bowel or bladder changes needs prompt medical attention. So does back pain following a fall in someone with known or suspected osteoporosis. New, severe pain that's dramatically different from anything you've felt before is also worth having evaluated, even if it turns out to be nothing alarming."
  - q: "Can strengthening my core really reduce back pain, or is that overhyped?"
    a: "It's not overhyped, but it's often misdirected. Strengthening the right muscles through the right movements genuinely reduces pain and improves function over time. The mistake is equating 'core' with 'abs' and defaulting to flexion exercises that can irritate the spine. The research is fairly clear that motor control training (teaching the deep stabilizers to activate correctly and consistently) produces better outcomes for chronic low back pain than general strengthening alone. So yes, core work helps. The question is which core work."
+lastmod: 2026-07-07
 ---
 
 Most people who come to me with back pain are already frustrated before they even sit down. They've tried the stretches their doctor printed off a handout, maybe watched a few YouTube videos, probably rested more than they should have. And nothing stuck, or it helped briefly, then the pain crept back.
@@ -47,6 +48,15 @@ Movement is medicine. Gentle, appropriate, consistent movement. That's the frame
 
 ## The Exercises That Actually Move the Needle
 
+| Exercise | Starting Repetitions | Target Repetitions | Duration/Hold | Primary Benefit |
+| --- | --- | --- | --- | --- |
+| Pelvic Tilts | 10 | 10 | 5 sec hold | Recruits deep core stabilizers |
+| Glute Bridges | 8 | 15 | 2-3 sec hold | Reduces lumbar spine demand |
+| Bird Dog | Per side | Per side | 3-5 sec hold | Anti-rotation and anti-extension stability |
+| Cat-Cow | 5-8 | 5-8 | Slow continuous | Mobility and warm-up |
+| Standing Hip Flexor Stretch | Per side | Per side | 30 sec hold | Addresses tight hip flexors |
+| Wall Sits | 1 set | 1 set | 20-30 sec hold | Quad and glute strength without spinal load |
+
 I want to be specific here rather than give you a generic list. Not all "back exercises" are created equal for people over 60, and some popular ones, I'd argue, are actively counterproductive for certain presentations. (More on that in a moment.)
 
 **Pelvic tilts.** This is where I start with almost every new client dealing with low back pain. Lying on your back with knees bent, feet flat on the floor: gently flatten your lower back against the floor by tightening your abdominals, hold for five seconds, release. That's it. It sounds too simple to matter. It matters enormously because it teaches the body to recruit the deep core stabilizers rather than relying on the lumbar extensors to do all the work. Do 10 repetitions, twice a day. You'll feel almost nothing while doing them. Give it two weeks.
@@ -69,7 +79,7 @@ Start with 8 repetitions. Work toward 15 before you add difficulty.
 
 Here's where I expect some pushback.
 
-A lot of seniors come to me having been told to "strengthen your core." And so they've been doing crunches, or sit-ups, or some variation of both. I understand why, that's been the conventional wisdom for decades. But for adults over 60 with degenerative disc disease, spinal stenosis, or osteoporosis (all very common), repeated spinal flexion under load is a real problem. Stuart McGill, a spinal biomechanics researcher at the University of Waterloo whose work has substantially reshaped how clinicians think about back rehabilitation, has documented how flexion-based movements can accelerate disc damage over time.
+A lot of seniors come to me having been told to "strengthen your core." And so they've been doing crunches, or sit-ups, or some variation of both. I understand why, that's been the conventional wisdom for decades. But for adults over 60 with degenerative disc disease, spinal stenosis, or osteoporosis (all very common), [repeated spinal flexion under load](/how-to-stay-active-with-arthritis/) is a real problem. Stuart McGill, a spinal biomechanics researcher at the University of Waterloo whose work has substantially reshaped how clinicians think about back rehabilitation, has documented how flexion-based movements can accelerate disc damage over time.
 
 The "core" most people need to strengthen is not the six-pack musculature. It's the deep, circumferential stabilizing system: the muscles that resist movement rather than produce it. That's what pelvic tilts and bird dogs are training. That's why I'd rather have a 68-year-old doing a 20-second plank (properly, with a neutral spine) than 20 crunches.
 

@@ -18,7 +18,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-
+lastmod: 2026-07-07
 ---
 Every year, millions of older adults fall, and it's not always on a slippery sidewalk or icy step. Most happen inside the home. Maybe you've noticed yourself gripping the armrest a little tighter getting up from the couch, or your balance just isn't as sharp as it used to be. That's incredibly common. The real news is that **fall prevention exercises for elderly adults** actually work. A simple routine you can do in your living room, no fancy equipment, no gym membership, can make you feel steadier and more confident in just a few weeks.
 
@@ -26,7 +26,7 @@ Every year, millions of older adults fall, and it's not always on a slippery sid
 
 Muscles weaken with age. Your balance system gets less responsive. None of this means falling is some kind of inevitable destiny, but it does mean your body needs intentional training.
 
-Movement rewires how your brain and body communicate. Research shows older adults who do balance and strength work reduce their fall risk by 23%. That's not just a modest improvement. That's a concrete number from something you can do between commercial breaks.
+Movement rewires how your brain and body communicate. Research shows older adults who do [balance and strength work](/how-to-improve-balance-in-seniors-over-70/) reduce their fall risk by 23%. That's not just a modest improvement. That's a concrete number from something you can do between commercial breaks.
 
 ## Before You Begin: Safety First
 
@@ -72,7 +72,7 @@ How to do it: Sit in a firm chair, feet flat on the floor about shoulder-width a
 
 Strong calves let you react fast if you feel yourself slipping. Ankle strength matters more than most people think.
 
-How to do it: Stand behind your chair, holding the back lightly. Rise up on the balls of your feet, hold 2 seconds, lower down. 15 reps. Work up to 3 sets over time.
+How to do it: Stand behind your chair, [holding the back lightly](/standing-balance-exercises-seniors-can-do-holding-a-chair/). Rise up on the balls of your feet, hold 2 seconds, lower down. 15 reps. Work up to 3 sets over time.
 
 ### 5. Side Leg Raises
 

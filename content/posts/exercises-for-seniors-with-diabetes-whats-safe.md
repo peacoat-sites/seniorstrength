@@ -18,7 +18,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-
+lastmod: 2026-07-07
 ---
 Managing blood sugar while staying active can feel like walking a tightrope. One wrong move and you're convinced your glucose will spike, or worse, you'll pull something. Here's the thing: **exercises for seniors with diabetes** aren't just safe. They're arguably your most powerful tool for managing your condition and feeling genuinely better on a daily basis.
 
@@ -52,6 +52,12 @@ Know the warning signs of low blood sugar during exercise: shakiness, sweating, 
 
 ## The Best Types of Exercise for Seniors With Diabetes
 
+| Exercise Type | Frequency | Duration | Key Benefit for Diabetes |
+| --- | --- | --- | --- |
+| Aerobic Activity | Most days of the week | 30 minutes (build up from 10-15 min) | Lowers post-meal blood sugar, improves insulin efficiency |
+| Strength Training | 2-3 times per week | 1 set of 10-15 reps per exercise | Increases muscle glucose consumption, improves blood sugar control at rest |
+| Flexibility & Balance | Daily | 5-10 minutes | Prevents falls, maintains mobility, supports nerve function |
+
 Photo by [Ahmet Kurt](https://unsplash.com/@ahmetkurt?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
 Not all exercise does the same thing, but you've got plenty of options that don't feel like punishment. A solid program combines aerobic activity, strength training, and flexibility work.
@@ -66,7 +72,7 @@ Low-impact aerobic options that actually work:
  * Swimming or water aerobics, gentle on joints and excellent for your cardiovascular system
  * Cycling on a stationary bike, you control the pace and intensity completely
  * Chair dancing or low-impact aerobics classes
- * Tai chi, improves balance, cuts stress, and supports glucose control
+ * [Tai chi](/tai-chi-for-seniors-best-beginner-routines-for-balance/), improves balance, cuts stress, and supports glucose control
 
 Start with 10–15 minutes per session and work up to 30 minutes most days of the week. Consistency beats intensity every single time.
 

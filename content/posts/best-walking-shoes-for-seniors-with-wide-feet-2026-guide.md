@@ -18,7 +18,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-
+lastmod: 2026-07-07
 ---
 If you've ever squeezed your feet into shoes that felt like a vice grip by midday, you know the feeling. Millions of seniors struggle to find comfortable footwear that actually fits, and if you've got wider feet, the search gets ten times worse. Finding the **best walking shoes for seniors with wide feet** shouldn't require a PhD in shoe engineering. This guide cuts through the noise so you can walk comfortably, safely, and with actual confidence every single day.
 
@@ -102,7 +102,7 @@ Quick breakdown:
  * **Lace-up:** Customizable and secure, may feel more supportive on uneven terrain if you're an active walker
  * **Slip-on:** Most convenient, but offers the least adjustability. Look for elastic panels that give you width
 
-Significant swelling or difficulty bending? Velcro is almost always your best bet for both safety and ease.
+Significant swelling or [difficulty bending](/foam-roller-for-seniors-how-to-use-it-safely/)? Velcro is almost always your best bet for both safety and ease.
 
 ## How to Get the Right Fit: Tips from Podiatrists
 

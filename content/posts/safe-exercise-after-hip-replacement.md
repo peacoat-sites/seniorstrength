@@ -23,6 +23,7 @@ faqs:
    a: "Not in the first six months, and after that, it depends on your single-leg stability and your surgeon's guidance. The lateral movements and quick direction changes create hip loading patterns that are meaningfully different from walking or cycling. Get cleared specifically for pickleball before you step on the court."
  - q: "Can I do squats and lunges after a hip replacement?"
    a: "Yes, in most cases, once you're past the precaution period. Sit-to-stand movements (which are essentially functional squats) are often started within weeks of surgery. Full-depth squats and lunges come later, typically after three to four months, with attention to maintaining the hip above 90 degrees of flexion if posterior precautions were in place. Build into them gradually and learn proper technique from someone qualified. Depth is earned, not assumed."
+lastmod: 2026-07-07
 ---
 
 Every week, someone sits across from me and says some version of the same thing: "My surgeon cleared me at twelve weeks, so I figured I could just... get back to normal." They're not wrong to feel hopeful. But "cleared" and "ready for full activity" are two very different things, and that gap is where most post-hip-replacement setbacks happen.
@@ -59,13 +60,20 @@ One thing worth pushing back on: many people stop PT the moment insurance stops 
 
 ## Months Three to Six: Building the Foundation That Actually Protects the Implant
 
+| Phase | Timeline | Primary Focus | Key Exercises |
+| --- | --- | --- | --- |
+| Immediate Post-Op | Weeks 1-2 | Joint protection, basic mobility | Ankle pumps, heel slides, quad sets, glute squeezes, short walks with assistive device |
+| Early Recovery | Weeks 4-8 | Weight-bearing, endurance building | Standing hip exercises, stationary cycling (10-15 min), walking without assistive device |
+| Foundation Building | Months 3-6 | Biomechanics, stabilizer strength | Side-lying hip abduction, resistance band work, mini squats, step-ups (4-8 inch), single-leg balance |
+| Return to Activity | Month 6+ | Full functional capacity | Progressive weight-bearing, cardiovascular training, sport-specific movement |
+
 This is the phase that gets ignored most often, and it's probably the most important phase of the entire recovery.
 
-The hip replacement itself doesn't wear out from activity. What causes long-term implant problems is poor biomechanics: people who walk with a persistent Trendelenburg gait (the hip dropping on the non-stance side), who carry uneven load because their glute medius never fully recovered, who rely on momentum rather than muscle to get up from chairs. These patterns stress both the implant and the joints above and below it.
+The hip replacement itself doesn't wear out from activity. What causes long-term implant problems is poor biomechanics: people who walk with a persistent Trendelenburg gait (the hip dropping on the non-stance side), who carry uneven load because their [glute medius never fully recovered](/how-to-protect-joints-during-exercise-seniors/), who rely on momentum rather than muscle to get up from chairs. These patterns stress both the implant and the joints above and below it.
 
 The muscles to focus on during this phase, specifically, are the glute medius, the glute maximus, and the hip flexors. The glute medius, that flat fan-shaped muscle on the side of the hip, is almost always severely weakened after hip replacement. It's the primary stabilizer of the pelvis during walking. If it's weak, your whole lower body compensates. I've seen patients with chronic knee pain in the non-operated leg that resolved completely once the glute medius on the surgical side got strong again.
 
-Exercises that work well here: side-lying hip abduction (done slowly, with the pelvis stable), standing hip abduction with a light resistance band, mini squats progressing to sit-to-stand repetitions, step-ups onto a four-inch step progressing to an eight-inch step, and single-leg balance work. For balance work specifically, start at a counter, hold lightly, and work toward fingertip contact, then no hands, then eyes closed. The eyes-closed piece is where most people are surprised by how much work they still have to do even months after surgery.
+Exercises that work well here: side-lying hip abduction (done slowly, with the pelvis stable), standing hip abduction with a light resistance band, mini squats progressing to sit-to-stand repetitions, step-ups onto a four-inch step progressing to an eight-inch step, and [single-leg balance work](/home-safety-tips-to-prevent-senior-falls/). For balance work specifically, start at a counter, hold lightly, and work toward fingertip contact, then no hands, then eyes closed. The eyes-closed piece is where most people are surprised by how much work they still have to do even months after surgery.
 
 Walking is your main cardiovascular tool during this phase. Start with whatever distance is comfortable and add roughly ten percent per week. Flat surfaces first, then gentle inclines, then uneven terrain. Uneven terrain is important. Grass, gravel, slight slopes. These small perturbations train the stabilizers in a way that treadmills simply don't.
 

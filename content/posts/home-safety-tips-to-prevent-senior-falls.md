@@ -23,6 +23,7 @@ faqs:
    a: "It reduces injury severity if a fall happens, because there's more cushioning. Whether it reduces the likelihood of a fall is less clear. Thick, plush carpet can actually catch feet and contribute to trips. Low-pile, firmly-secured carpet is the safest option. Loose area rugs on any surface are the opposite of safe, even with non-slip backing, and I'd remove them without much hesitation."
  - q: "My doctor said I should see a 'fall prevention specialist.' Is that a real thing?"
    a: "Yes. Physical therapists who specialize in vestibular and balance rehabilitation exist in most metro areas and many smaller cities. Occupational therapists can do home assessments and are often the more relevant referral for modifying your specific living environment. Ask for a referral to both if your physician isn't sure which to recommend. They address different parts of the problem and often work well in combination."
+lastmod: 2026-07-07
 ---
 Falls are the leading cause of injury-related death in adults over 65 in the United States. Not car accidents. Not heart events. Falls. And yet most articles on the topic offer the same recycled checklist: "remove throw rugs, install grab bars, improve lighting." Fine advice, technically. But it skips the parts that actually trip people up, sometimes literally.
 
@@ -31,6 +32,16 @@ Here's what I see consistently working with older clients: the danger isn't usua
 Let's be specific about that.
 
 ## The Room-by-Room Walkthrough That Actually Matters
+
+| Location | Hazard | Solution | Approx. Cost |
+| --- | --- | --- | --- |
+| Bedroom | Poor visibility during nighttime bathroom trips | Motion-activated LED night light | Under $15 |
+| Bathroom | Difficulty standing from toilet | Raised toilet seat with armrests | ~$40 |
+| Bathroom | Slipping in/out of shower | Adhesive anti-slip strips on tile | $10-15 |
+| Kitchen | Unsafe reaching to high shelves | Step stool with handle grip | $35-40 |
+| Stairs | Unclear step edges, depth perception issues | Contrasting-color non-slip tape | $10-15 |
+| Stairs | Single handrail | Add second handrail (labor) | Varies |
+| Bathroom | Unsafe grab bars | Properly installed into wall studs or toggle bolts | $50-150+ (installation) |
 
 Most fall-prevention guides treat the home as a vague, abstract space. Your home is not abstract. It has a specific layout, specific furniture placement, and specific patterns of movement. The living room where you never have a problem during the day becomes a minefield at 2 a.m. when you're getting up for water.
 
@@ -64,7 +75,7 @@ Handrails and night lights help. They don't build the physical capacity to catch
 
 That capacity comes from lower body strength and reactive balance. Both are trainable well into your 80s, and the research on this is genuinely encouraging.
 
-Single-leg balance practice is about the simplest thing you can do and one of the most effective. Stand near a counter, lift one foot a few inches off the floor, hold for 10 seconds, switch sides. Work up to 30 seconds. Once it gets easy, try it with eyes closed. The difference between eyes-open and eyes-closed balance is striking and tells you something important about how much you rely on sight to stay upright.
+[Single-leg balance practice](/how-to-exercise-with-arthritis-without-pain/) is about the simplest thing you can do and one of the most effective. Stand near a counter, lift one foot a few inches off the floor, hold for 10 seconds, switch sides. Work up to 30 seconds. Once it gets easy, try it with eyes closed. The difference between eyes-open and eyes-closed balance is striking and tells you something important about how much you rely on sight to stay upright.
 
 Sit-to-stand from a chair without using your hands is both an exercise and a real-world skill. If you can't do it without pushing off the armrests, that's your training target. It predicts fall risk better than most single measures, and improving it directly builds the strength you need to recover from a stumble.
 

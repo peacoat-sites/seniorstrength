@@ -23,7 +23,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-
+lastmod: 2026-07-07
 ---
 Most home workout advice for seniors is written by people who have never watched a 68-year-old try to get up off the floor after a poorly cued exercise went sideways. The recommendations look fine on paper: "do squats, do lunges, stay active." What they skip is the sequencing, the load progression, and the specific reasons certain moves are dramatically more valuable than others at this stage of life. That gap isn't a minor editorial flaw. It's how people get hurt and quit.
 
@@ -31,7 +31,7 @@ Here's what actually matters, and why.
 
 ## Why Strength Training After 60 Is Different (Not Harder, Just Different)
 
-Sarcopenia, the gradual loss of muscle mass that begins around age 30 and accelerates after 60, isn't a background inconvenience. It's the engine behind most of what older adults fear: falls, fatigue, difficulty rising from chairs, losing independence. The good news? Muscle is trainable at any age. Research published in journals like *Medicine & Science in Sports & Exercise* consistently shows that adults in their 70s and 80s can make significant strength gains with consistent, progressive resistance training.
+Sarcopenia, the gradual loss of muscle mass that begins around age 30 and accelerates after 60, isn't a background inconvenience. It's the engine behind most of what older adults fear: falls, fatigue, difficulty rising from chairs, losing independence. The good news? Muscle is trainable at any age. Research published in journals like *Medicine & Science in Sports & Exercise* consistently shows that adults in their 70s and 80s can make significant strength gains with consistent, [progressive resistance training](/how-to-build-muscle-after-60/).
 
 The real difference at 60-plus isn't potential. It's recovery time and injury tolerance. A 35-year-old can grind through soreness and bounce back in 48 hours. A 70-year-old who overdoes it on day one might need two weeks to recover, and that two weeks often kills the habit before it starts. The solution isn't to train timidly. It's to train intelligently: start at 60-70% of your actual capacity, not 100%, and build from there.
 

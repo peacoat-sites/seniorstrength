@@ -23,7 +23,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-
+lastmod: 2026-07-07
 ---
 Most advice about osteoporosis exercise is dangerously incomplete. Not wrong, exactly, but incomplete in ways that can lead you straight into a fracture rather than away from one.
 
@@ -45,7 +45,7 @@ So let me give you the real picture.
 
 Walking is probably the most common recommendation older adults hear after an osteoporosis diagnosis. And I get it. Walking is safe, accessible, and genuinely good for you in about fifty different ways. But if building or preserving bone density is your goal, walking alone won't move the needle much, and the research here is pretty consistent on that point.
 
-Bone responds to mechanical stress. Specifically, it responds to forces that are higher than what it normally experiences. If your skeleton's already used to walking, walking doesn't provide a novel enough stimulus to trigger bone remodeling. A 2017 study in the Journal of Bone and Mineral Research looked at postmenopausal women doing supervised resistance training twice a week and found meaningful improvements in femoral neck and lumbar spine density. Walking groups in similar studies rarely show the same gains.
+Bone responds to mechanical stress. Specifically, it responds to forces that are higher than what it normally experiences. If your skeleton's already used to walking, walking doesn't provide a novel enough stimulus to trigger bone remodeling. A 2017 study in the Journal of Bone and Mineral Research looked at postmenopausal women doing supervised [resistance training](/exercises-to-strengthen-knees-for-seniors/) twice a week and found meaningful improvements in femoral neck and lumbar spine density. Walking groups in similar studies rarely show the same gains.
 
 What bone tissue needs is progressive loading. That means gradually increasing the challenge over time, whether through resistance training, impact activities, or both. The word "progressive" is doing a lot of work in that sentence.
 

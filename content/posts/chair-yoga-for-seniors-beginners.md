@@ -23,11 +23,12 @@ faqs:
    a: "Stop the movement that's causing it. Sharp or acute pain is always a signal to back off, not push through. Mild muscle fatigue or a gentle stretching sensation is normal. If pain persists after modifying or stopping a specific movement, talk to your doctor or a physical therapist before continuing."
  - q: "Can chair yoga actually improve balance, or is it just stretching?"
    a: "It genuinely improves balance, and the research backs this up. A study published in the International Journal of Yoga found significant improvements in balance and functional mobility in older adults after a chair yoga intervention. The mechanism is partly physical (hip and core strength) and partly neurological: you're rebuilding the body awareness your balance system depends on."
+lastmod: 2026-07-07
 ---
 
 Most people picture chair yoga and think it's basically stretching for people who gave up. I understand that reaction. The first time a doctor suggested it to a patient I was working with, a 71-year-old retired electrician named Frank who'd had a hip replacement six months earlier, he looked at me like I'd offered him a participation trophy. Six weeks later he was telling everyone in his building about it.
 
-That gap between perception and reality is exactly why I want to write this piece carefully. Chair yoga done right is not gentle napping with background music. At its best, it builds the kind of functional strength and body awareness that keeps you from grabbing the wall when you stand up too fast, from crumpling when you step off a curb wrong, from living in that low-level chronic tightness that most people over 60 just accept as the price of getting older.
+That gap between perception and reality is exactly why I want to write this piece carefully. Chair yoga done right is not gentle napping with background music. At its best, it builds the kind of functional strength and body awareness that keeps you from grabbing the wall when you stand up too fast, from crumpling when you step off a curb wrong, from living in that [low-level chronic tightness](/gentle-exercises-for-seniors-with-arthritis/) that most people over 60 just accept as the price of getting older.
 
 It also has a genuinely low floor for entry. You don't need a gym. You don't need yoga experience. You need a sturdy chair without wheels.
 
@@ -35,7 +36,7 @@ It also has a genuinely low floor for entry. You don't need a gym. You don't nee
 
 Here's the thing most fitness writing gets wrong about chair yoga: the chair isn't a compromise. It's a tool for accessing positions you couldn't safely hold standing up, without the nervous system spending all its energy just keeping you upright.
 
-Think about what happens when you ask a 68-year-old with tight hips and mild balance issues to do a standing warrior pose. Half their brain is managing balance anxiety. They're gripping their feet into the floor. Their breathing gets shallow. None of that is yoga. That's stress wearing a yoga costume.
+Think about what happens when you ask a 68-year-old with tight hips and mild balance issues to do a standing warrior pose. Half their brain is managing [balance anxiety](/best-low-impact-exercises-for-bad-knees/). They're gripping their feet into the floor. Their breathing gets shallow. None of that is yoga. That's stress wearing a yoga costume.
 
 Seated, the same person can actually rotate their spine, open their hips, breathe into the movement, and build genuine awareness of what their body is doing. Over time, that awareness transfers to standing. Balance improves. Not because you practiced standing balance drills, but because you finally learned to feel your body from the inside.
 

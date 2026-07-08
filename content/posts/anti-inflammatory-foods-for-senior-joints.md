@@ -23,6 +23,7 @@ faqs:
    a: "Synovial fluid, which lubricates joints, is largely water-based, so chronic dehydration does negatively affect joint lubrication. But beyond staying adequately hydrated, drinking extra water above what you need doesn't produce additional joint benefit. The target for most older adults is somewhere around 6 to 8 cups daily, adjusted for body size and activity level."
  - q: "Are anti-inflammatory supplements like glucosamine and chondroitin worth taking?"
    a: "The evidence is genuinely mixed. The large GAIT trial found glucosamine and chondroitin didn't outperform placebo for mild knee osteoarthritis, but did show a significant effect in the subgroup with moderate-to-severe pain. Some people respond, some don't. If you try it, give it a minimum of 3 months before deciding, and use a reputable brand with independent testing. It's not a waste of money for everyone, but it's also not the slam-dunk some supplement companies imply."
+lastmod: 2026-07-07
 ---
 
 Most articles about joint inflammation start with something like "did you know omega-3 fatty acids are anti-inflammatory?" You did know. Everyone knows. What they skip is the part where they tell you how much actually matters, what the research looks like in older adults specifically, and why some foods touted as joint superfoods are doing almost nothing while others are dramatically undersold.
@@ -33,11 +34,19 @@ Let's fix that.
 
 Joint inflammation in older adults isn't just leftover damage from decades of use. It's an ongoing metabolic process. Your body is actively producing pro-inflammatory signaling molecules (cytokines, if you want the word) in response to things you eat, how much you move, how well you sleep, and how much visceral fat you're carrying. Diet is one lever among several, but it's a meaningful one, and you can pull it starting today.
 
-The part that gets glossed over: food doesn't replace medical treatment for conditions like rheumatoid arthritis or severe osteoarthritis. If you're managing either, what you eat matters, but it works alongside medication and physical therapy, not instead of it. That said, for the chronic low-grade inflammation that quietly degrades cartilage and amplifies pain signals, dietary changes have a real, documented effect.
+The part that gets glossed over: food doesn't replace medical treatment for conditions like rheumatoid arthritis or severe osteoarthritis. If you're managing either, what you eat matters, but it works alongside medication and physical therapy, not instead of it. That said, for the [chronic low-grade inflammation](/foods-that-reduce-inflammation-for-arthritis/) that quietly degrades cartilage and amplifies pain signals, dietary changes have a real, documented effect.
 
 A 2017 study published in *Nutrients* tracked older adults with knee osteoarthritis who shifted toward a Mediterranean-style diet over 16 weeks. Pain scores dropped. CRP (a standard blood marker for inflammation) dropped. Those aren't huge numbers in isolation, but they're consistent with a pattern you see across multiple study designs.
 
 ## The foods that actually move the needle
+
+| Food | Key Compounds | Typical Serving | Primary Benefit |
+| --- | --- | --- | --- |
+| Fatty fish (salmon, mackerel, sardines) | EPA and DHA (long-chain omega-3s) | 2-3 servings per week | Reduces inflammatory prostaglandin production |
+| Extra virgin olive oil | Oleocanthal, polyphenols | Use for cooking and dressings | Inhibits COX-1 and COX-2 enzymes |
+| Tart cherry juice or concentrate | Anthocyanins, quercetin | 8 oz twice daily (or concentrate in water) | Reduces inflammation markers and joint pain |
+| Turmeric with black pepper | Curcumin + piperine | 1 tsp (or standardized supplement with 95% curcuminoids) | Anti-inflammatory (improved absorption with piperine or fat) |
+| Leafy greens and cruciferous vegetables | Vitamin K, antioxidants | Daily intake | Supports bone and cartilage metabolism |
 
 **Fatty fish.** Not fish in general. Fatty fish. Salmon, mackerel, sardines, herring. These contain EPA and DHA, the long-chain omega-3s that the body can directly use to dial back inflammatory prostaglandin production. Your body can technically convert the ALA in flaxseed to EPA and DHA, but it does so at roughly 5-10% efficiency. Flaxseed is fine. It's not the same thing. If you can eat two to three servings of fatty fish per week, that's the real lever.
 
@@ -57,7 +66,7 @@ Use it for low to medium heat cooking, for dressings, for finishing dishes. Spen
 
 Dietary patterns don't work in one direction only. If you're adding fatty fish and olive oil while still eating a diet high in refined carbohydrates and seed oils, you're partially undermining your own effort.
 
-Refined seed oils, specifically soybean, corn, cottonseed, and sunflower oil, are extremely high in omega-6 fatty acids. Omega-6 isn't inherently bad. The problem is ratio. When your omega-6 to omega-3 intake is 20:1 (close to the average American diet), you're running a strongly pro-inflammatory metabolic environment. Shift toward olive oil, use butter for high-heat cooking, and you move that ratio meaningfully.
+Refined seed oils, specifically soybean, corn, cottonseed, and sunflower oil, are extremely high in omega-6 fatty acids. Omega-6 isn't inherently bad. The problem is ratio. When your [omega-6 to omega-3 intake](/best-diet-for-senior-fitness-and-energy/) is 20:1 (close to the average American diet), you're running a strongly pro-inflammatory metabolic environment. Shift toward olive oil, use butter for high-heat cooking, and you move that ratio meaningfully.
 
 Ultra-processed foods. This category matters more than any single ingredient. Products that combine refined flour, added sugars, industrial seed oils, and synthetic additives consistently associate with elevated inflammatory markers in large cohort studies. That's not one mechanism, it's several working together. Reducing your intake of packaged snacks, fast food, and sweetened drinks is, frankly, more impactful for joint inflammation than adding any single "superfood."
 

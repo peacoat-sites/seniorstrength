@@ -18,7 +18,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-
+lastmod: 2026-07-07
 ---
 ## When Every Step Hurts: Understanding Joint Pain in Seniors
 
@@ -43,6 +43,18 @@ There are three main types of omega-3s:
 For seniors dealing with arthritis or chronic joint pain, EPA and DHA do the heavy lifting. But plant-based sources matter too, especially if fish isn't appealing to you.
 
 ## Top Omega-3 Fish and Seafood Choices for Joint Relief
+
+| Omega-3 Source | Type | Omega-3 Content (per serving) | Best For |
+| --- | --- | --- | --- |
+| Salmon (3 oz) | Fish (EPA/DHA) | 1,500-2,000 mg | High absorption, versatile cooking |
+| Mackerel (3 oz) | Fish (EPA/DHA) | 4,000+ mg | Maximum potency |
+| Sardines (3 oz) | Fish (EPA/DHA) | High | Low mercury, added calcium |
+| Herring (3 oz) | Fish (EPA/DHA) | High | High EPA and DHA |
+| Trout (3 oz) | Fish (EPA/DHA) | Moderate-High | Mild flavor, easy to cook |
+| Chia seeds (2 tbsp) | Plant (ALA) | 5,000 mg | Plant-based, easy prep |
+| Ground flaxseed (1 tbsp) | Plant (ALA) | 1,600 mg | Easy to add to meals |
+| Walnuts (1 oz) | Plant (ALA) | 2,500 mg | Antioxidants included |
+| Algae oil | Plant (EPA/DHA) | Varies | Vegetarian/vegan EPA and DHA |
 
 Fatty fish is the gold standard for omega-3s. You get high amounts of EPA and DHA in a form your body absorbs quickly.
 
@@ -70,7 +82,7 @@ These are easy to add to meals you probably already make:
 * **Chia seeds**, two tablespoons pack around 5,000 mg of ALA. Make a chia pudding the night before and grab it for breakfast.
 * **Walnuts**, a small handful (about one ounce) gives you roughly 2,500 mg of ALA. They also contain antioxidants that fight damage in your joints.
 * **Hemp seeds**, a good mix of omega-3 and omega-6 fatty acids. Toss them on salads or stir them into soups.
-* **Edamame**, young soybeans make a tasty snack with decent ALA and plenty of protein to support the muscles around your joints.
+* **Edamame**, young soybeans make a tasty snack with decent ALA and plenty of protein to support the [muscles around your joints](/best-protein-foods-for-seniors-to-maintain-muscle/).
 * **Algae oil**, made from marine algae, this is the plant-based source of actual EPA and DHA. Great for vegetarians and vegans.
 
 Here's the honest part: ALA from plants has to convert to EPA and DHA in your body, and that conversion isn't very efficient. Still, plant-based omega-3s deliver real anti-inflammatory benefits and belong in any senior's diet.
@@ -88,7 +100,7 @@ Here's what a simple day looks like when you naturally work in omega-3 foods:
 
 See how this menu also includes colorful vegetables and whole grains? They work with omega-3s to fight inflammation even harder, creating a one-two punch for your joint health.
 
-Add water to this picture too. Joints need hydration to stay lubricated. Shoot for six to eight glasses a day alongside your meals.
+Add water to this picture too. [Joints need hydration](/hydration-tips-for-seniors-why-it-matters-more-as-you-age/) to stay lubricated. Shoot for six to eight glasses a day alongside your meals.
 
 ## Other Lifestyle Tips That Boost Omega-3 Benefits for Seniors
 

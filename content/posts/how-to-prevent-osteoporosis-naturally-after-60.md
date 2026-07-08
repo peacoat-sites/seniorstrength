@@ -18,7 +18,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-
+lastmod: 2026-07-07
 ---
 If you've recently had a bone density scan and heard words like "osteopenia" or "low bone mass," you're not alone. Millions of adults over 60 live with the very real fear of fractures, falls, and losing their independence. The good news? There are proven, practical ways to **prevent osteoporosis naturally after 60**, and it's never too late to start protecting your bones.
 
@@ -50,6 +50,17 @@ Magnesium and Vitamin K2 are two underrated bone heroes. Magnesium activates Vit
 
 ## The Right Exercise to Strengthen Your Bones
 
+| Activity | Type | Frequency | Duration | Best For |
+| --- | --- | --- | --- | --- |
+| Walking or hiking | Weight-bearing | Most days | 30+ min | Accessibility, consistency |
+| Dancing | Weight-bearing | Most days | 30+ min | Balance, enjoyment |
+| Tennis or pickleball | Weight-bearing | Most days | 30+ min | Coordination |
+| Stair climbing | Weight-bearing | Most days | 30+ min | Hip and spine density |
+| Low-impact aerobics | Weight-bearing | Most days | 30+ min | Seniors (structured) |
+| Resistance training | Resistance | 2x per week | 30+ min | Bone strengthening |
+| Tai chi | Balance | Daily | Varies | Fall prevention |
+| Yoga | Balance | Daily | Varies | Fall prevention |
+
 Photo by [Becky Geist](https://unsplash.com/@proaudiovoices?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
 Exercise is one of the most powerful tools you have to prevent osteoporosis naturally after 60. But not all exercise works equally for bone health. You need activities that stress your bones and stimulate new growth.
@@ -66,7 +77,7 @@ Exercise is one of the most powerful tools you have to prevent osteoporosis natu
 
 Aim for at least **30 minutes of weight-bearing activity most days**, plus two resistance training sessions per week. Start gently and progress slowly. Talk to your doctor before beginning any new exercise program.
 
-Balance exercises like tai chi and yoga deserve a mention too. They don't build bone directly, but they dramatically reduce your fall risk, and preventing falls means preventing fractures.
+Balance exercises like tai chi and yoga deserve a mention too. They don't build bone directly, but they dramatically [reduce your fall risk](/how-to-reduce-joint-inflammation-naturally-for-seniors/), and preventing falls means preventing fractures.
 
 ## Lifestyle Habits That Quietly Damage Your Bones
 

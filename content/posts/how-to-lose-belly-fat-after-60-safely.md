@@ -18,7 +18,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-
+lastmod: 2026-07-07
 ---
 You've noticed it creeping up on you, that stubborn belly that definitely wasn't there ten years ago. No matter what you try, it won't budge. Millions of people over 60 deal with this exact problem. Here's the thing: you can lose belly fat after 60 safely and effectively. You just need an approach that actually fits your body at this stage of life.
 
@@ -41,6 +41,17 @@ This matters beyond how you look. Visceral fat, the deep belly fat wrapped aroun
 But here's the good news: even modest belly fat loss changes things. Losing just 5–10% of your body weight lowers blood pressure, improves blood sugar control, and reduces inflammation. Small wins compound fast.
 
 ## Safe and Effective Exercise Strategies for Seniors
+
+| Strategy | Key Benefit | Frequency/Duration |
+| --- | --- | --- |
+| Strength training | Boosts resting metabolism | 2-3 sessions per week |
+| Walking | Low-impact cardio foundation | 30 minutes most days |
+| Swimming or water aerobics | Joint-friendly, full-body | As tolerated |
+| Chair yoga or tai chi | Balance, flexibility, stress reduction | Regular practice |
+| Resistance band workouts | Safe muscle building | 2-3 sessions per week |
+| Sleep | Regulates hunger hormones (ghrelin/leptin) | 7-9 hours nightly |
+| Stress management | Lowers cortisol-driven belly fat | Daily practice |
+| Protein at each meal | Preserves muscle, increases satiety | Every meal |
 
 Photo by [Vlad Sargu](https://unsplash.com/@vladsargu?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
@@ -81,7 +92,7 @@ What happens when you're sleeping and resting matters just as much as what you d
 
 Sleep deprivation cranks up ghrelin (the hunger hormone) and tanks leptin (the fullness hormone). You'll feel hungrier all day and crave high-calorie junk. Aim for seven to nine hours of actual quality sleep each night.
 
-Stress releases cortisol, a hormone that tells your body to store fat specifically in your belly. Managing stress isn't just therapy, it's a legitimate belly fat strategy. Try deep breathing, meditation, gardening, or time with people you love.
+Stress releases cortisol, a hormone that tells your body to store fat specifically in your belly. Managing stress isn't just therapy, it's a legitimate belly fat strategy. Try deep breathing, meditation, [gardening, or time with people](/gardening-as-exercise-for-seniors-benefits-and-tips/) you love.
 
   * Keep a consistent sleep schedule, even on weekends
   * Limit screen time and caffeine in the evening
@@ -93,7 +104,7 @@ Stress releases cortisol, a hormone that tells your body to store fat specifical
 
 Most people try to change everything at once. Two weeks of crash dieting produces quick results, then nothing changes. That's not how this works.
 
-Pick one or two changes to start. Maybe a daily walk. Maybe swapping afternoon cookies for nuts. Once those feel normal, add another change. Slow and steady seems boring compared to dramatic overhauls. It's also the only approach that actually sticks.
+Pick one or two changes to start. Maybe a [daily walk](/does-walking-30-minutes-a-day-help-seniors-lose-weight/). Maybe swapping afternoon cookies for nuts. Once those feel normal, add another change. Slow and steady seems boring compared to dramatic overhauls. It's also the only approach that actually sticks.
 
 Stop measuring success only on the scale. Notice how your clothes fit. Notice your energy. Notice your sleep quality. These wins matter more than the number, and they're way more motivating.
 

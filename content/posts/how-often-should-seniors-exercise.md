@@ -23,7 +23,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-
+lastmod: 2026-07-07
 ---
 Most fitness advice aimed at seniors treats "exercise frequency" like a scheduling problem. Pick three days a week, check the box, done. But frequency isn't the real question. The real question is: how much stress can your body absorb, recover from, and adapt to, given where you are *right now*? Those are very different conversations, and conflating them is exactly how people end up either spinning their wheels or getting hurt.
 
@@ -40,6 +40,13 @@ What they leave out matters just as much: recovery capacity. A 35-year-old and a
 ---
 
 ## The Four Types of Exercise and How Often You Need Each
+
+| Exercise Type | Minimum Frequency | Optimal Frequency | Recovery Needed |
+|---|---|---|---|
+| Aerobic (moderate) | 3 days/week | 5 days/week | Low, 24 hours |
+| Resistance training | 2 days/week | 3 days/week | High, 48-72 hours |
+| Balance work | 3 days/week | Daily | Minimal |
+| Flexibility/mobility | 3 days/week | Daily | Minimal |
 
 Lumping all exercise into one category is the fastest way to get a useless answer on frequency. These four types have genuinely different recovery demands and different payoffs.
 

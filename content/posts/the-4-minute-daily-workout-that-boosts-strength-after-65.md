@@ -12,6 +12,7 @@ author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
 slug: "the-4-minute-daily-workout-that-boosts-strength-after-65"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've been telling yourself that you just don't have time to exercise, or that anything worth doing has to take 30 to 45 minutes, new research published this spring is about to make that argument harder to hold onto. And honestly? I think that's a good thing.
 
@@ -20,6 +21,13 @@ A randomized trial out of Penn State, published in *PLOS One* on March 12, 2026,
 You might be wondering if this is one of those studies where the headline sounds dramatic but the actual results are modest. It's a fair question. Let me walk you through what they actually found.
 
 ## What the Study Actually Found
+
+| Metric | FAST-2 Group | Control Group | Difference |
+| --- | --- | --- | --- |
+| Chair-stand repetitions (30 sec) | +4.2 reps | Baseline | 4.2 more reps |
+| One-legged stand time | +3.6 seconds | Baseline | 3.6 seconds longer |
+| Sit-to-stand time | -2.3 seconds | Baseline | 2.3 seconds faster |
+| Study adherence rate | 81% | N/A | Baseline |
 
 The Penn State team, working through the College of Medicine, enrolled 97 adults who averaged 74 years old. These weren't people who were already active. Before the study, participants were logging just 18 minutes of total physical activity per week, which puts them squarely in the sedentary category most clinicians worry about. So the results weren't shaped by people who already had a baseline fitness habit.
 

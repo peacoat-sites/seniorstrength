@@ -23,6 +23,7 @@ faqs:
    a: "Yes, though it takes more planning. Eggs, Greek yogurt, cottage cheese, edamame, lentils, tofu, tempeh, and high-quality plant protein powders can all contribute substantially. The main thing to pay attention to with plant proteins is leucine content, since leucine is the amino acid most directly involved in triggering muscle protein synthesis, and it's less abundant in most plant sources than in animal proteins. Mixing sources and considering a supplement helps close that gap."
  - q: "Does creatine actually work for older adults?"
    a: "This is one of the supplements with reasonably solid evidence behind it for older adults specifically. Creatine monohydrate (the basic, inexpensive version) has been shown in multiple studies to improve strength and lean mass gains when combined with resistance training in people over 60. A typical dose is 3 to 5 grams per day. It's generally considered safe for healthy kidneys, but check with your doctor if you have any kidney concerns. And don't bother with the fancy branded versions at three times the price."
+lastmod: 2026-07-07
 ---
 Most people don't realize they've been losing muscle for years before they notice anything wrong. Sarcopenia, the medical term for age-related muscle loss, starts as early as your 30s and accelerates after 60. By the time you're struggling to get up from a low chair or your grocery bags feel heavier than they used to, you've already lost ground. The good news is that this isn't a one-way door.
 
@@ -37,6 +38,13 @@ Here's the biology in plain language: when you place a meaningful load on a musc
 So "just move more" fails because it doesn't address this. You need deliberate, progressive resistance training. And you probably need more protein than you're currently eating.
 
 ## The Protein Problem Nobody Talks About Enough
+
+| Protein Target | Grams per kg Body Weight | Example: 150-lb Person | Key Context |
+| --- | --- | --- | --- |
+| Old standard recommendation | 0.8 g/kg | ~55g daily | Now considered too low for muscle preservation |
+| Current recommendation for older adults | 1.2-1.6 g/kg | ~95g daily (at 1.4 g/kg) | Based on sports science and gerontology research |
+| Per-meal utilization limit | N/A | 25-40g per meal | Body can only synthesize ~25-40g protein per meal |
+| Typical daily gap for most people | N/A | +30-40g needed | Difference between current intake and target |
 
 For years, the standard recommendation was 0.8 grams of protein per kilogram of body weight per day. That's roughly 55 grams for a 150-pound person. Current sports science and gerontology research pretty clearly shows that number is too low for older adults who want to preserve or build muscle. A more realistic target is somewhere between 1.2 and 1.6 grams per kilogram of body weight daily, though some researchers have argued for even higher in people doing consistent resistance training.
 

@@ -18,7 +18,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-
+lastmod: 2026-07-07
 ---
 Do you wake up more tired than you used to? Notice your bones aching in ways they didn't before? Wonder if your diet is actually holding up the way it did a decade ago?
 
@@ -35,6 +35,14 @@ Meanwhile, you're eating less. Not because you're trying to, but because appetit
 That's the window where supplements matter most.
 
 ## Vitamin D and Calcium: The Bone Health Foundation
+
+| Nutrient | Daily Need (70+) | Best Form | Key Notes |
+| --- | --- | --- | --- |
+| Vitamin D | 800 IU | D3 (cholecalciferol) | Take with fat-containing meal for better absorption |
+| Calcium | 1,200 mg | Calcium citrate | Absorbs better than carbonate, especially with low stomach acid |
+| Vitamin B12 | 2.4 mcg | Sublingual tablet | Higher doses often recommended; skips stomach acid requirement |
+| Magnesium | 420 mg (male) / 320 mg (female) | Magnesium glycinate | Won't upset stomach; take in evening for sleep support |
+| Omega-3 (EPA+DHA) | 500 mg general / 1,000 mg for heart disease | Fish oil or algae-based | Look for products listing EPA and DHA amounts separately |
 
 These two get mentioned constantly for a reason. After 70, your skin gets worse at making vitamin D from sunlight. Your intestines absorb calcium less efficiently. Combine both and your bones quietly weaken over time, fracture risk climbs, and suddenly you're thinking twice about going for a walk or visiting grandkids.
 

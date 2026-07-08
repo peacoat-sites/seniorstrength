@@ -23,7 +23,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-
+lastmod: 2026-07-07
 ---
 Most seniors are taking calcium wrong. Not the wrong supplement necessarily, but the wrong dose at the wrong time in the wrong form, often without the one nutrient that determines whether any of it actually works. I've watched clients dutifully swallow their calcium carbonate every morning with coffee and then wonder why their DEXA scans kept getting worse. Here's what actually happens.
 
@@ -47,13 +47,21 @@ One number people forget: about 30% of calcium absorption from food happens pass
 
 ## Food First, Supplement Second
 
+| Calcium Source | Amount | Elemental Calcium |
+| --- | --- | --- |
+| Plain low-fat yogurt | 1 cup | ~415 mg |
+| Parmesan cheese | 1 ounce | ~330 mg |
+| Canned sardines with bones | 3 ounces | ~325 mg |
+| Calcium carbonate supplement | Per pill | Higher per pill |
+| Calcium citrate supplement | Per pill | Lower per pill |
+
 A cup of plain low-fat yogurt has around 415 mg of calcium. An ounce of parmesan has roughly 330 mg. Three ounces of canned sardines with bones delivers about 325 mg. Fortified orange juice, firm tofu made with calcium sulfate, cooked kale, almonds: calcium is available in real variety, not just dairy.
 
 Calculate your approximate daily intake from food before deciding how much to supplement. Most people getting a varied diet are already hitting 500-700 mg through food. That means you might only need 500-600 mg from supplements, not 1,200 mg, since supplements are filling the gap not replacing the whole intake.
 
 This matters because high supplemental calcium (above roughly 1,000 mg/day from supplements alone) has been associated in some studies with increased cardiovascular risk, particularly in women. The research here is genuinely mixed, and a 2022 review in *JAMA Cardiology* didn't find a clear causal link, but it's a reason not to double up on calcium supplements when diet already gives you a solid foundation.
 
-Vitamin D from food is harder. Fatty fish (salmon, mackerel) are the best natural sources. Fortified milk and fortified cereals offer smaller amounts. The sun still helps if you're outside for 15-20 minutes around midday with arms exposed, but window glass blocks UVB, and sunscreen reduces synthesis. Realistically, most older adults do need a vitamin D supplement.
+Vitamin D from food is harder. Fatty fish (salmon, mackerel) are the [best natural sources](/best-foods-for-bone-health-in-seniors/). Fortified milk and fortified cereals offer smaller amounts. The sun still helps if you're outside for 15-20 minutes around midday with arms exposed, but window glass blocks UVB, and sunscreen reduces synthesis. Realistically, most older adults do need a vitamin D supplement.
 
 ## Choosing the Right Form
 

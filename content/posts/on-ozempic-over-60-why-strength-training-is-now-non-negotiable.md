@@ -12,6 +12,7 @@ author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
 slug: "on-ozempic-over-60-why-strength-training-is-now-non-negotiable"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Something surprising came out of the Endocrine Society's ENDO 2026 conference in Chicago this month, and I don't think it's getting nearly enough attention. Researchers tracked wearable fitness device data from 753 patients with obesity who had started a GLP-1 receptor agonist, drugs like Ozempic, Wegovy, Mounjaro, or Zepbound, and found that physical activity actually *decreased* significantly after they began treatment. Not slightly. Significantly. As [Healio reported on June 13](https://www.healio.com/news/endocrinology/20260613/exercise-declined-in-patients-with-obesity-after-starting-a-glp1), people moved less once they started the medication, not more. If you're over 60 and currently taking one of these drugs, that finding should stop you cold. Because for older adults specifically, the combination of GLP-1-driven muscle loss and reduced movement isn't just a missed opportunity. It's a genuine health risk.
 
@@ -32,6 +33,10 @@ There are explanations for this. GLP-1 drugs slow gastric emptying and reduce ap
 For adults over 60, this is a problem. Movement, especially resistance-based movement, is one of the primary tools we have for preserving muscle. When activity drops at the same time the medication is reducing lean tissue, you're losing on two fronts. As the [PMC review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12391595/) frames it, the risk isn't theoretical. It's a documented physiological trajectory for older adults on these medications without a structured muscle-preservation strategy.
 
 ## What the Research Actually Recommends
+
+| Metric | Standard RDA | GLP-1 Therapeutic Range | Example: 170 lb (77 kg) Person |
+| --- | --- | --- | --- |
+| Protein Target | 0.8 g/kg body weight | 1.2-1.6 g/kg body weight | 62 g/day | 92-123 g/day |
 
 The protein targets being discussed in clinical circles now are notably higher than what most people over 60 are eating. Current expert guidance from a June 2026 piece in Diabetes In Control recommends that older adults on GLP-1 therapy aim for 1.2 to 1.6 grams of protein per kilogram of body weight daily. The standard RDA sits at 0.8 grams per kilogram. That's significant. A 170-pound (77 kg) person at the standard RDA would target about 62 grams of protein a day. At the higher therapeutic range, that jumps to 92 to 123 grams.
 

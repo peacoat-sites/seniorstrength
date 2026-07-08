@@ -18,7 +18,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-
+lastmod: 2026-07-07
 ---
 If you're waking up with a stiff lower back, you're in good company. Millions of seniors deal with this every single day, and it's frustrating enough that getting dressed or walking to the kitchen starts to feel like work. The encouraging part: stretches that actually work exist, and they're simple, gentle, and don't require a gym.
 
@@ -26,7 +26,7 @@ You don't need special equipment or even much time. Fifteen minutes a day, done 
 
 ## Why Lower Back Pain Is So Common in Seniors
 
-Your muscles and ligaments naturally lose strength and elasticity as you age. The discs between your vertebrae get thinner, lose moisture, and become less cushioned. After 60, conditions like osteoarthritis and spinal stenosis show up more frequently. Even mundane stuff, sitting too long, sleeping on a bad mattress, can trigger flare-ups.
+Your muscles and ligaments naturally lose strength and elasticity as you age. The discs between your vertebrae get thinner, lose moisture, and become less cushioned. After 60, conditions like [osteoarthritis and spinal stenosis](/how-to-prevent-osteoporosis-naturally-after-60/) show up more frequently. Even mundane stuff, sitting too long, sleeping on a bad mattress, can trigger flare-ups.
 
 Here's the thing that most people get wrong: rest isn't the answer. Movement is. Gentle stretching keeps muscles loose, improves blood flow, and helps your spine stay stable and strong.
 
@@ -47,6 +47,14 @@ Keep these guidelines in mind:
 Start low and build gradually. That's the real secret to making this a sustainable habit.
 
 ## 5 Best Stretches for Lower Back Pain Seniors Can Do Daily
+
+| Stretch | Duration | Repetitions | Best For |
+| --- | --- | --- | --- |
+| Knee-to-Chest Stretch | 20-30 seconds | 2-3 times per side | Lumbar spine tension relief |
+| Cat-Cow Stretch | N/A | 8-10 slow repetitions | Full spine mobility |
+| Seated Forward Bend | 20-30 seconds | 2-3 times | Hamstrings and lower back |
+| Child's Pose | 30+ seconds | 1-2 times | Lumbar decompression |
+| Pelvic Tilt | 5 seconds per rep | 10-15 repetitions | Core strengthening and alignment |
 
 Photo by [Trọng Tín](https://unsplash.com/@nitgnort?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
@@ -92,7 +100,7 @@ Not everyone's comfortable on the floor, and that's completely legitimate. Chair
 
  * **Seated spinal twist:** Sit tall, place your right hand on your left knee, gently rotate your torso left. Hold 20 seconds, switch.
  * **Seated hip flexor stretch:** Sit at the edge of your chair and slide your right foot behind you, keeping your back straight. You'll feel a gentle stretch in the front of your right hip. Hold and switch.
- * **Seated figure-four stretch:** Cross your right ankle over your left knee and lean forward gently. This targets the piriformis muscle, a major culprit in lower back pain. Hold and switch.
+ * **Seated figure-four stretch:** Cross your right ankle over your left knee and lean forward gently. This targets the [piriformis muscle](/how-to-reduce-joint-inflammation-naturally-for-seniors/), a major culprit in lower back pain. Hold and switch.
 
 These can happen anywhere. Kitchen table. Living room. Your desk. No excuses needed.
 

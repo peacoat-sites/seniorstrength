@@ -12,6 +12,7 @@ author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
 slug: "the-4-minute-daily-workout-that-builds-real-strength-after-65"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Picture this: it's a Tuesday morning and you're already negotiating with yourself about whether today is really the day to do those exercises your doctor mentioned. The routine you found online takes 45 minutes. You'd need to change clothes. Your knee has been a little off. By 9 a.m., you've talked yourself out of it, same as last week.
 
@@ -39,7 +40,7 @@ Dr. Christopher Sciamanna, the study's lead author and a professor of medicine a
 
 This is the part that gets under-reported. The 97 participants weren't healthy, active older adults who just needed a nudge. They had pre-existing walking difficulty. They were specifically recruited because they're the population that typically gets left out of exercise research or handed overly cautious advice to just walk more.
 
-I've worked with people in this situation, and the common clinical error is excessive caution that slides into inactivity. There's a real worry about falls, about pain flare-ups, about doing more harm than good. Those concerns are legitimate and should involve a conversation with your doctor or physical therapist, especially if you're managing a specific condition. But the PLOS One findings suggest that a carefully structured, short program of functional resistance training is safe for this group and actually effective at reducing the fall risk factors we're trying to protect against in the first place.
+I've worked with people in this situation, and the common clinical error is excessive caution that slides into inactivity. There's a real worry about falls, about pain flare-ups, about doing more harm than good. Those concerns are legitimate and should involve a conversation with your doctor or physical therapist, especially if you're managing a specific condition. But the PLOS One findings suggest that a carefully structured, short program of functional resistance training is safe for this group and actually effective at reducing the [fall risk factors](/what-your-grip-strength-says-about-how-long-you-will-live/) we're trying to protect against in the first place.
 
 The key word is structured. These four exercises in this format. Not a random assortment of things you found on YouTube.
 

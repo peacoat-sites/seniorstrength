@@ -18,7 +18,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-
+lastmod: 2026-07-07
 ---
 Waking up after knee replacement surgery convinced you'll never move freely again is probably the scariest part. The thing is, most people walk independently and feel genuinely stronger within weeks if they actually do the exercises. Recovery feels agonizingly slow at first, but movement (done right) is literally your best medicine.
 
@@ -79,6 +79,12 @@ Lie on your back and slowly slide your heel toward your body by bending your kne
 Place a rolled towel or pillow under your knee. Straighten your leg by lifting your heel off the bed, hold for five seconds, then lower slowly. Builds quad strength without excessive stress.
 
 ## Weeks Three to Six: Building Strength and Mobility
+
+| Recovery Phase | Timeline | Primary Goals | Key Exercises |
+| --- | --- | --- | --- |
+| Weeks 1-2 | Days 1-14 post-op | Reduce swelling, improve circulation, gentle muscle activation | Ankle pumps, quad sets, heel slides, short arc quads |
+| Weeks 3-6 | Days 15-42 post-op | Build strength and mobility, increase range of motion | Seated knee bends, straight leg raises, standing knee bends, mini squats |
+| Week 6+ | 43+ days post-op | Restore endurance, balance, and functional activities | Walking programs, stationary cycling, water exercises |
 
 Photo by [Haberdoedas](https://unsplash.com/@haberdoedas?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 

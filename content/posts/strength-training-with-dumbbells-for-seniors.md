@@ -23,13 +23,13 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-
+lastmod: 2026-07-07
 ---
 Most fitness content aimed at seniors is either patronizing or reckless. It's either "gentle chair exercises for beginners!" with stock photos of smiling people holding two-pound weights, or it's generic bodybuilding advice with zero acknowledgment that a 68-year-old recovering from a hip replacement isn't the same as a 30-year-old starting a bulk. The truth sits in the middle, and it's more interesting than either extreme.
 
 Dumbbells, specifically, are one of the best tools available for building strength after 60. Not resistance bands, though they have their place. Not machines, despite what every commercial gym will tell you. Dumbbells work because they demand your stabilizer muscles to engage, they adjust to your exact capacity on any given day, and you can use them at home without a $90-a-month membership. That independence matters more than most trainers admit.
 
-Here's what else matters: sarcopenia, the gradual loss of muscle mass that begins around age 30 and accelerates after 60, is not inevitable. A 2021 study in the *Journal of Cachexia, Sarcopenia and Muscle* found that progressive resistance training remains effective at building lean mass well into the eighth and ninth decades of life. "Effective" isn't vague encouragement. It means measurable increases in muscle cross-sectional area, grip strength, and functional mobility. You're not fighting a losing battle. You're fighting a winnable one.
+Here's what else matters: sarcopenia, the gradual loss of muscle mass that begins around age 30 and accelerates after 60, is not inevitable. A 2021 study in the *Journal of Cachexia, Sarcopenia and Muscle* found that [progressive resistance training](/how-often-should-seniors-strength-train/) remains effective at building lean mass well into the eighth and ninth decades of life. "Effective" isn't vague encouragement. It means measurable increases in muscle cross-sectional area, grip strength, and functional mobility. You're not fighting a losing battle. You're fighting a winnable one.
 
 ## Why Most Dumbbell Advice for Seniors Gets the Starting Point Wrong
 

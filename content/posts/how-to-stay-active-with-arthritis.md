@@ -23,7 +23,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-
+lastmod: 2026-07-07
 ---
 Sixty-three percent of adults over 65 with arthritis cut back on physical activity because of pain. I've worked with enough of them to know that's usually the wrong move, and it costs them more than the pain itself ever could.
 
@@ -43,6 +43,14 @@ Rheumatoid arthritis adds another layer because of flares. During an active flar
 
 ## What Actually Works: Movement Types That Earn Their Reputation
 
+| Exercise Type | Impact Level | Key Benefit | Best For |
+| --- | --- | --- | --- |
+| Aquatic Exercise | Very Low (up to 90% joint load reduction) | Strength building with minimal joint stress | Significant hip/knee osteoarthritis |
+| Strength Training | Low-Moderate | Builds shock-absorbing muscle; reduces pain progression | Knee osteoarthritis, functional decline prevention |
+| Tai Chi | Low | Balance improvement, fall risk reduction | Proprioception maintenance, arthritis-related inactivity |
+| Stationary Cycling | Low | Smooth joint arc, adjustable resistance | Knee arthritis, controlled progression |
+| Walking | Moderate-High (on hard surfaces) | Accessible movement | Mild arthritis, good footwear/surface critical |
+
 Not all exercise is equal for arthritic joints. I'd push back hard on the "just walk more" advice that well-meaning doctors have been handing out for decades.
 
 Walking is fine. It's not magic. For someone with significant hip or knee osteoarthritis on a hard surface, walking can actually be high-impact enough to increase pain if done too long or too fast. I'd rather someone do 15 minutes on a track with good footwear than 45 minutes on concrete.
@@ -55,7 +63,7 @@ Here's what I'd actually prioritize:
 
 **Tai chi** keeps showing up in the research. A well-cited 2016 trial in *Annals of Internal Medicine* compared tai chi to physical therapy for knee osteoarthritis and found comparable outcomes. The balance benefits matter significantly because one of the underappreciated risks of arthritis-related inactivity is increased fall risk as proprioception and strength decline together.
 
-**Cycling**, stationary or outdoor, puts the knee through a smooth arc with minimal impact. Road cycling on uneven surfaces can jar things, but a quality stationary bike like the Schwinn 270 or the Sunny Health SF-B1805 (both around $300-400) gives you a controlled environment where you can adjust resistance gradually. Recumbent bikes are worth considering if upright positioning aggravates your hips or lower back.
+**Cycling**, stationary or outdoor, puts the knee through a smooth arc with minimal impact. Road cycling on uneven surfaces can jar things, but a quality stationary bike like the Schwinn 270 or the Sunny Health SF-B1805 (both around $300-400) gives you a controlled environment where you can adjust resistance gradually. Recumbent bikes are worth considering if upright positioning aggravates [your hips or lower back](/exercises-to-reduce-back-pain-in-seniors/).
 
 Yoga is more complicated. Some styles, especially hot yoga or vigorous vinyasa, aren't appropriate for many people with arthritis. Restorative yoga or a class specifically designed for arthritis or seniors is a different experience entirely. If a yoga teacher doesn't know what modifications to offer you before you even ask, that's useful information.
 

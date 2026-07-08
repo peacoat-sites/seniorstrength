@@ -23,7 +23,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-
+lastmod: 2026-07-07
 ---
 Most people don't start thinking seriously about strength training until something goes wrong. A stumble on the porch steps. A moment of grabbing the wall to steady themselves. A doctor's appointment where the words "bone density" or "fall risk" come up for the first time. If that sounds familiar, you're not behind. You're exactly where a lot of people are when they first walk into my office.
 
@@ -35,9 +35,9 @@ What I want to do here is walk you through a set of standing exercises that work
 
 ## Why Standing Exercises Specifically?
 
-You might be wondering why we're staying on our feet instead of doing seated or floor-based work. It's a fair question, and the answer is more specific than "standing is better."
+You might be wondering why we're staying on our feet instead of doing [seated or floor-based work](/chair-exercises-for-seniors/). It's a fair question, and the answer is more specific than "standing is better."
 
-When you exercise while standing, your body has to manage balance continuously, not just during the obvious balance moves. Your ankles, your hip stabilizers, the small muscles along your spine, they're all working together just to keep you upright. That's exactly the kind of integrated, real-world demand your nervous system needs to stay sharp. A 2020 review in the *Journal of Aging and Physical Activity* found that exercise programs incorporating standing, weight-bearing movement improved balance outcomes significantly more than seated-only programs in adults over 65.
+When you exercise while standing, your body has to manage balance continuously, not just during the obvious balance moves. Your ankles, your hip stabilizers, the small muscles along your spine, they're all working together just to keep you upright. That's exactly the kind of integrated, real-world demand your nervous system needs to stay sharp. A 2020 review in the *Journal of Aging and Physical Activity* found that exercise programs incorporating standing, weight-bearing movement improved balance outcomes significantly more than [seated-only programs](/bed-exercises-for-elderly-with-limited-mobility/) in adults over 65.
 
 Seated exercise has real value. Particularly if you're managing a condition that affects standing tolerance. But if you *can* stand safely, even with one hand resting on a chair or counter, standing movements train the physical skills that prevent falls better than anything you can do sitting down.
 

@@ -23,6 +23,7 @@ faqs:
     a: "Stop the exercise immediately and rest. Orthostatic hypotension, a drop in blood pressure with positional changes, is common in older adults who've been in bed for extended periods. It's worth mentioning to the person's doctor if it occurs repeatedly, since it's manageable but needs to be factored into any exercise plan."
   - q: "Do resistance bands work for bed exercises?"
     a: "Yes, and they're worth having. A light resistance band looped around the ankles adds meaningful load to heel slides and supine marching without requiring any additional equipment or a partner. TheraBand sells a set of graduated resistance bands for around $15-20 that covers most needs. Just make sure the band is secured safely and won't snap back toward the face."
+lastmod: 2026-07-07
 ---
 Most people assume that if you can't get out of bed easily, you can't really exercise. That assumption is wrong, and it costs people more than they realize.
 
@@ -54,9 +55,9 @@ I want to be specific about what's actually worth doing here, because generic li
 
 **Glute bridges.** This one requires more strength, so it's not always the starting point. Lying on your back with knees bent and feet flat on the mattress, press through your heels and lift your hips a few inches off the bed. Hold briefly, lower slowly. The hip extensors and glutes are the most important muscles for rising from a seated position, and this exercise targets them directly. I'll be honest: some people over 60 with significant hip or lumbar pathology shouldn't do full bridges. A modified version, just a slight posterior pelvic tilt without actually lifting the hips, can be the safer entry point.
 
-**Seated edge exercises.** If someone can sit at the edge of the bed with feet supported, either on the floor or a step stool, the options expand considerably. Seated knee extensions, seated marching, and supported standing practice all become available. The transition from lying-down exercises to edge-of-bed exercises is a significant milestone and worth celebrating.
+**[Seated edge exercises](/seated-leg-exercises-for-seniors/).** If someone can sit at the edge of the bed with feet supported, either on the floor or a step stool, the options expand considerably. Seated knee extensions, seated marching, and supported standing practice all become available. The transition from lying-down exercises to edge-of-bed exercises is a significant milestone and worth celebrating.
 
-**Hand and grip exercises.** These get ignored almost entirely, and I find that frustrating. Grip strength is an independent predictor of overall functional health and longevity in older adults, and it deteriorates during illness just like leg strength does. Squeezing a soft ball, towel, or even just interlacing fingers and pressing palms together provides genuine stimulus. It's also something a person can do without any assistance and with zero risk of falling.
+**[Hand and grip exercises](/10-minute-exercise-routine-for-seniors/).** These get ignored almost entirely, and I find that frustrating. Grip strength is an independent predictor of overall functional health and longevity in older adults, and it deteriorates during illness just like leg strength does. Squeezing a soft ball, towel, or even just interlacing fingers and pressing palms together provides genuine stimulus. It's also something a person can do without any assistance and with zero risk of falling.
 
 
 ## The Mattress Problem Nobody Talks About
