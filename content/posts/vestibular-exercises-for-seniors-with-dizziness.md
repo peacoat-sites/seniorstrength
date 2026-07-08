@@ -1,5 +1,5 @@
 ---
-title: "Vestibular exercises for seniors with dizziness"
+title: "Stop Dizziness Fast With These Vestibular Exercises"
 date: 2026-05-18T02:45:21.709066+00:00
 draft: false
 description: "Discover the best vestibular exercises for seniors with dizziness. Learn 5 gentle, effective movements that improve balance, reduce vertigo, and help you fee"
@@ -18,7 +18,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 ## When the Room Won't Stop Spinning
 

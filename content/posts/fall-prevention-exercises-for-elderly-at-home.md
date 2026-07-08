@@ -1,5 +1,5 @@
 ---
-title: "Fall prevention exercises for elderly at home"
+title: "Prevent Falls at Home: Safe Exercises for Older Adults"
 date: 2026-05-21T05:21:01.699955+00:00
 draft: false
 description: "Discover the best fall prevention exercises for elderly adults to do safely at home. Build strength, improve balance, and reduce fall risk with this easy, ex"

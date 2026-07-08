@@ -1,5 +1,5 @@
 ---
-title: "Best morning routines for seniors over 65"
+title: "Start Your Day Right: Morning Routines for Active Seniors"
 date: 2026-05-25T19:30:07.598946+00:00
 draft: false
 description: "Discover the best morning routine for seniors over 65,  including gentle exercise, nourishing breakfast ideas, mental wellness tips, and simple habits that b"
@@ -18,7 +18,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Do you wake up stiff, groggy, unsure how to start the day with any real energy? You're not alone. Millions of people over 65 struggle with sluggish mornings, and it bleeds into everything else, mood, mobility, the whole day tanks. The good news: a simple, consistent **morning routine for seniors** actually works. Small, deliberate habits practiced day after day can shift how you feel, how you move, how you think.
 

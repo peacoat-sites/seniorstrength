@@ -1,5 +1,5 @@
 ---
-title: "Knee replacement recovery exercises for seniors"
+title: "Regain Mobility: Essential Exercises After Knee Replacement"
 date: 2026-05-20T09:32:16.339597+00:00
 draft: false
 description: "Discover the best knee replacement recovery exercises for seniors, from gentle week-one movements to strength-building routines that restore mobility, reduc"
@@ -18,7 +18,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Waking up after knee replacement surgery convinced you'll never move freely again is probably the scariest part. The thing is, most people walk independently and feel genuinely stronger within weeks if they actually do the exercises. Recovery feels agonizingly slow at first, but movement (done right) is literally your best medicine.
 

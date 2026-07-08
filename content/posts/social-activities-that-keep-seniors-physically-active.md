@@ -1,5 +1,5 @@
 ---
-title: "Social activities that keep seniors physically active"
+title: "How Social Activities Keep Seniors Strong and Mobile"
 date: 2026-05-25T22:43:04.341402+00:00
 draft: false
 description: "Discover the best social activities seniors physical health depends on. From walking groups to dance classes and pickleball, stay active, connected, and happ"
@@ -18,7 +18,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Do you sit more than you used to? Most seniors do. The years pile up, motivation drains, and exercising alone starts to feel pointless. But here's what changes everything: mixing movement with people you actually want to see. Combine friendship with activity, and something shifts. You stay active. You stay happy. You stay healthy into your 70s and 80s.
 
