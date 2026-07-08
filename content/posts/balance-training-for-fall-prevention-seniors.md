@@ -3,7 +3,7 @@ title: "Balance Training For Fall Prevention Seniors"
 date: 2026-06-30T21:27:50.890509+00:00
 draft: false
 description: "Discover effective balance training exercises to help seniors prevent falls, improve stability, and maintain independence safely at home or in the gym."
-image: "https://images.pexels.com/photos/12086683/pexels-photo-12086683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12086683.jpg"
 categories: ["Balance & Mobility"]
 tags: ["balance", "training", "fall", "prevention", "seniors"]
 author: "Dr. Patricia Williams"

@@ -3,7 +3,7 @@ title: "Best Protein Sources For Seniors Building Muscle"
 date: 2026-06-01T15:34:38.521490+00:00
 draft: false
 description: "Discover the best protein sources for seniors to build and maintain muscle mass. Learn which foods support strength, recovery, and healthy aging effectively."
-image: "https://images.pexels.com/photos/37803279/pexels-photo-37803279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/37803279.jpg"
 categories: ["Nutrition"]
 tags: ["best", "protein", "sources", "seniors", "building"]
 slug: "best-protein-sources-for-seniors-building-muscle"

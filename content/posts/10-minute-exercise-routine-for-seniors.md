@@ -3,7 +3,7 @@ title: "10 Minute Exercise Routine For Seniors"
 date: 2026-07-01T21:27:23.729415+00:00
 draft: false
 description: "Discover a simple 10 minute exercise routine for seniors to boost strength, balance, and flexibility safely at home with no equipment needed."
-image: "https://images.pexels.com/photos/33768798/pexels-photo-33768798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33768798.jpg"
 categories: ["Low-Impact Workouts"]
 tags: ["minute", "exercise", "routine", "seniors"]
 author: "Linda Chen"

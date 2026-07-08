@@ -3,7 +3,7 @@ title: "Ozempic and Muscle Loss: What Older Adults on GLP-1s Must Know"
 date: 2026-06-29T21:26:24.413677+00:00
 draft: false
 description: "Discover how Ozempic and GLP-1 medications may cause muscle loss in older adults and learn key strategies to protect your strength while losing weight safely."
-image: "https://images.pexels.com/photos/4720763/pexels-photo-4720763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4720763.jpg"
 categories: ["trending"]
 tags: ["ozempic", "muscle", "loss:", "what", "older"]
 author: "Robert Davis"

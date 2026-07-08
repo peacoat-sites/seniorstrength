@@ -3,7 +3,7 @@ title: "How Exercise Fights Inflammaging in Adults Over 60"
 date: 2026-06-23T21:45:55.170963+00:00
 draft: false
 description: "Discover how regular exercise helps adults over 60 combat inflammaging, reduce chronic inflammation, and protect long-term health with science-backed movement s"
-image: "https://images.pexels.com/photos/4720787/pexels-photo-4720787.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4720787.jpg"
 categories: ["trending"]
 tags: ["exercise", "fights", "inflammaging", "adults", "over"]
 author: "James Cooper"

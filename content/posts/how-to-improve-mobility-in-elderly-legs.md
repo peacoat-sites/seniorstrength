@@ -3,7 +3,7 @@ title: "How To Improve Mobility In Elderly Legs"
 date: 2026-06-24T21:22:26.467335+00:00
 draft: false
 description: "Discover effective exercises and daily habits to improve mobility in elderly legs, helping seniors stay active, independent, and reduce fall risk."
-image: "https://images.pexels.com/photos/6193716/pexels-photo-6193716.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6193716.jpg"
 categories: ["Balance & Mobility"]
 tags: ["improve", "mobility", "elderly", "legs"]
 author: "Linda Chen"

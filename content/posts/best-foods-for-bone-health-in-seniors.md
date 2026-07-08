@@ -3,7 +3,7 @@ title: "Best Foods For Bone Health In Seniors"
 date: 2026-06-26T21:17:42.242261+00:00
 draft: false
 description: "Discover the top foods that support strong bones in seniors, from calcium-rich dairy to leafy greens and fatty fish for better bone density."
-image: "https://images.pexels.com/photos/6975158/pexels-photo-6975158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6975158.jpg"
 categories: ["Nutrition"]
 tags: ["best", "foods", "bone", "health", "seniors"]
 author: "James Cooper"

@@ -3,7 +3,7 @@ title: "Anti Inflammatory Foods For Senior Joints"
 date: 2026-06-24T21:24:29.045518+00:00
 draft: false
 description: "Discover the best anti inflammatory foods to ease senior joint pain naturally. Simple dietary changes to support mobility and reduce stiffness in older adults."
-image: "https://images.pexels.com/photos/5965952/pexels-photo-5965952.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5965952.jpg"
 categories: ["Nutrition"]
 tags: ["anti", "inflammatory", "foods", "senior", "joints"]
 author: "Robert Davis"

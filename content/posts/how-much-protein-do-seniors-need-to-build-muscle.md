@@ -3,7 +3,7 @@ title: "How Much Protein Do Seniors Need To Build Muscle"
 date: 2026-06-27T21:01:56.088370+00:00
 draft: false
 description: "Discover how much protein seniors need daily to build and maintain muscle, plus the best food sources and timing tips to maximize strength after 60."
-image: "https://images.pexels.com/photos/6815693/pexels-photo-6815693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6815693.jpg"
 categories: ["Nutrition"]
 tags: ["much", "protein", "seniors", "need", "build"]
 author: "Robert Davis"

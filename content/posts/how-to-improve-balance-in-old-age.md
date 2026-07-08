@@ -3,7 +3,7 @@ title: "How To Improve Balance In Old Age"
 date: 2026-07-04T20:58:23.385531+00:00
 draft: false
 description: "Discover simple exercises and lifestyle tips to improve balance in old age, reduce fall risk, and stay active, steady, and confident as you get older."
-image: "https://images.pexels.com/photos/8939956/pexels-photo-8939956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8939956.jpg"
 categories: ["Balance & Mobility"]
 tags: ["improve", "balance"]
 author: "Helen Santos"

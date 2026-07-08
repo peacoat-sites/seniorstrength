@@ -3,7 +3,7 @@ title: "How Seniors Can Regain Lost Muscle Mass"
 date: 2026-07-03T21:04:37.692208+00:00
 draft: false
 description: "Discover proven exercises and nutrition tips to help seniors rebuild muscle mass, boost strength, and improve mobility for a healthier, more active life."
-image: "https://images.pexels.com/photos/4720782/pexels-photo-4720782.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4720782.jpg"
 categories: ["Strength Training"]
 tags: ["seniors", "regain", "lost", "muscle", "mass"]
 author: "James Cooper"

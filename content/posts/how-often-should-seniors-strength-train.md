@@ -3,7 +3,7 @@ title: "How Often Should Seniors Strength Train"
 date: 2026-06-09T21:49:56.169737+00:00
 draft: false
 description: "Discover how often seniors should strength train to build muscle, boost balance, and stay independent. Get expert-backed weekly workout recommendations for olde"
-image: "https://images.pexels.com/photos/4720570/pexels-photo-4720570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4720570.jpg"
 categories: ["Strength Training"]
 tags: ["often", "should", "seniors", "strength", "train"]
 slug: "how-often-should-seniors-strength-train"

@@ -3,7 +3,7 @@ title: "Gentle Exercises For Seniors With Arthritis"
 date: 2026-06-10T22:03:32.622807+00:00
 draft: false
 description: "Discover safe, gentle exercises for seniors with arthritis that reduce joint pain, improve mobility, and boost strength. Start moving comfortably today with exp"
-image: "https://images.pexels.com/photos/6974993/pexels-photo-6974993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6974993.jpg"
 categories: ["Low-Impact Workouts"]
 tags: ["gentle", "exercises", "seniors", "with", "arthritis"]
 slug: "gentle-exercises-for-seniors-with-arthritis"

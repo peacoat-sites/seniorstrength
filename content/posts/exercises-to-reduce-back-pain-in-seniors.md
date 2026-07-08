@@ -3,7 +3,7 @@ title: "Exercises To Reduce Back Pain In Seniors"
 date: 2026-06-25T21:43:36.025176+00:00
 draft: false
 description: "Discover gentle exercises to reduce back pain in seniors. Improve mobility, strengthen muscles, and enjoy daily life with these safe, effective routines."
-image: "https://images.pexels.com/photos/7020823/pexels-photo-7020823.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7020823.jpg"
 categories: ["Joint Health"]
 tags: ["exercises", "reduce", "back", "pain", "seniors"]
 author: "Helen Santos"

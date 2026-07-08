@@ -3,7 +3,7 @@ title: "Water Aerobics Exercises For Seniors"
 date: 2026-06-02T12:55:53.503306+00:00
 draft: false
 description: "Discover the best water aerobics exercises for seniors to boost strength, flexibility, and balance while protecting joints. Stay active and healthy in the pool "
-image: "https://images.pexels.com/photos/7222189/pexels-photo-7222189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7222189.jpg"
 categories: ["Low-Impact Workouts"]
 tags: ["water", "aerobics", "exercises", "seniors"]
 slug: "water-aerobics-exercises-for-seniors"

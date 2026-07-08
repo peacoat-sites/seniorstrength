@@ -3,7 +3,7 @@ title: "How Seniors Can Stay Fit At Home"
 date: 2026-06-22T22:04:34.111600+00:00
 draft: false
 description: "Discover simple exercises and wellness routines seniors can do at home to build strength, improve balance, and stay active and healthy every day."
-image: "https://images.pexels.com/photos/6973184/pexels-photo-6973184.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6973184.jpg"
 categories: ["General Fitness"]
 tags: ["seniors", "stay", "home"]
 author: "Helen Santos"

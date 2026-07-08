@@ -3,7 +3,7 @@ title: "Home Safety Tips To Prevent Senior Falls"
 date: 2026-06-16T22:13:39.927880+00:00
 draft: false
 description: "Discover practical home safety tips to prevent senior falls, from grab bars and better lighting to removing tripping hazards and improving bathroom safety."
-image: "https://images.pexels.com/photos/6924154/pexels-photo-6924154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6924154.jpg"
 categories: ["Injury Prevention"]
 tags: ["home", "safety", "tips", "prevent", "senior"]
 author: "Linda Chen"

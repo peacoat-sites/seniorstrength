@@ -3,7 +3,7 @@ title: "Bodyweight Strength Exercises For Older Adults"
 date: 2026-06-02T12:53:30.857563+00:00
 draft: false
 description: "Build functional strength safely with the best bodyweight exercises for older adults. Improve balance, mobility, and independence with no equipment needed."
-image: "https://images.pexels.com/photos/4775197/pexels-photo-4775197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4775197.jpg"
 categories: ["Strength Training"]
 tags: ["bodyweight", "strength", "exercises", "older", "adults"]
 slug: "bodyweight-strength-exercises-for-older-adults"

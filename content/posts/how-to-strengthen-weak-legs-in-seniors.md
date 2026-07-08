@@ -3,7 +3,7 @@ title: "How To Strengthen Weak Legs In Seniors"
 date: 2026-06-17T22:00:27.863895+00:00
 draft: false
 description: "Discover safe and effective exercises to strengthen weak legs in seniors, improve balance, and boost independence with simple daily routines."
-image: "https://images.pexels.com/photos/7020965/pexels-photo-7020965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7020965.jpg"
 categories: ["Strength Training"]
 tags: ["strengthen", "weak", "legs", "seniors"]
 author: "Robert Davis"

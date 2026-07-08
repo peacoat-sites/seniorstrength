@@ -3,7 +3,7 @@ title: "Leg Strengthening Exercises For Elderly"
 date: 2026-06-03T14:09:34.281887+00:00
 draft: false
 description: "Discover safe and effective leg strengthening exercises for elderly adults to improve balance, mobility, and independence. Start building stronger legs today."
-image: "https://images.pexels.com/photos/4587382/pexels-photo-4587382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4587382.jpg"
 categories: ["Strength Training"]
 tags: ["strengthening", "exercises", "elderly"]
 slug: "leg-strengthening-exercises-for-elderly"

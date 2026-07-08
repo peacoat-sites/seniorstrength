@@ -3,7 +3,7 @@ title: "Foods That Reduce Inflammation For Arthritis"
 date: 2026-06-27T21:04:45.976045+00:00
 draft: false
 description: "Discover the best anti-inflammatory foods for arthritis relief. Learn how omega-3s, berries, and leafy greens can help reduce joint pain naturally."
-image: "https://images.pexels.com/photos/7890175/pexels-photo-7890175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7890175.jpg"
 categories: ["Nutrition"]
 tags: ["foods", "that", "reduce", "inflammation", "arthritis"]
 author: "Helen Santos"

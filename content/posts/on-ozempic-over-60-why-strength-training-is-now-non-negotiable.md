@@ -3,7 +3,7 @@ title: "On Ozempic Over 60? Why Strength Training Is Now Non-Negotiable"
 date: 2026-06-16T22:11:22.165524+00:00
 draft: false
 description: "Taking Ozempic over 60? Discover why strength training is essential to protect muscle mass, maintain bone density, and get the most from your weight loss journe"
-image: "https://images.pexels.com/photos/6922175/pexels-photo-6922175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6922175.jpg"
 categories: ["trending"]
 tags: ["ozempic", "over", "strength", "training", "non-negotiable"]
 author: "James Cooper"

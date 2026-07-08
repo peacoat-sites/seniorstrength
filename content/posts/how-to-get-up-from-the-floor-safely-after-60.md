@@ -3,7 +3,7 @@ title: "How To Get Up From The Floor Safely After 60"
 date: 2026-06-18T22:08:48.911594+00:00
 draft: false
 description: "Learn the safest step-by-step method to get up from the floor after 60, protecting your joints and preventing falls with simple techniques."
-image: "https://images.pexels.com/photos/8436545/pexels-photo-8436545.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8436545.jpg"
 categories: ["Balance & Mobility"]
 tags: ["from", "floor", "safely", "after"]
 author: "James Cooper"

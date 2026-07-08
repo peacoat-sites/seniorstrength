@@ -3,7 +3,7 @@ title: "Chair Yoga For Seniors Beginners"
 date: 2026-06-19T21:11:56.733009+00:00
 draft: false
 description: "Discover gentle chair yoga poses perfect for seniors just starting out. Improve flexibility, balance, and strength safely from the comfort of a chair."
-image: "https://images.pexels.com/photos/6975769/pexels-photo-6975769.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6975769.jpg"
 categories: ["Low-Impact Workouts"]
 tags: ["chair", "yoga", "seniors", "beginners"]
 author: "Robert Davis"

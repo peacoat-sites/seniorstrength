@@ -3,7 +3,7 @@ title: "How To Prevent Falls In Elderly At Home"
 date: 2026-06-15T22:18:57.924515+00:00
 draft: false
 description: "Discover practical tips to prevent falls in elderly at home with simple home modifications, exercise routines, and safety strategies to reduce injury risk."
-image: "https://images.pexels.com/photos/18459246/pexels-photo-18459246.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18459246.jpg"
 categories: ["Injury Prevention"]
 tags: ["prevent", "falls", "elderly", "home"]
 author: "Helen Santos"

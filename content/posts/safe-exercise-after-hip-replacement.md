@@ -3,7 +3,7 @@ title: "Safe Exercise After Hip Replacement"
 date: 2026-06-25T21:45:46.499517+00:00
 draft: false
 description: "Discover gentle exercises to rebuild strength and mobility after hip replacement surgery, with expert tips to stay safe and speed up your recovery."
-image: "https://images.pexels.com/photos/10875061/pexels-photo-10875061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10875061.jpg"
 categories: ["Injury Prevention"]
 tags: ["safe", "exercise", "after", "replacement"]
 author: "Dr. Patricia Williams"

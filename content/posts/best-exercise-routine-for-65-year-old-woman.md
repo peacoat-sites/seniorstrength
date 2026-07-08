@@ -3,7 +3,7 @@ title: "Best Exercise Routine For 65 Year Old Woman"
 date: 2026-06-05T21:27:34.009509+00:00
 draft: false
 description: "Stay fit and healthy with the best exercise routine for 65 year old women. Discover safe, effective workouts to boost strength, balance, and energy levels today"
-image: "https://images.pexels.com/photos/6815661/pexels-photo-6815661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6815661.jpg"
 categories: ["General Fitness"]
 tags: ["best", "exercise", "routine", "year", "woman"]
 slug: "best-exercise-routine-for-65-year-old-woman"

@@ -3,7 +3,7 @@ title: "Exercises To Avoid After Knee Replacement"
 date: 2026-07-06T21:28:03.677538+00:00
 draft: false
 description: "Protect your new joint by learning which exercises to avoid after knee replacement surgery and what safe alternatives can support your recovery."
-image: "https://images.pexels.com/photos/9644823/pexels-photo-9644823.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9644823.jpg"
 categories: ["Injury Prevention"]
 tags: ["exercises", "avoid", "after", "knee", "replacement"]
 author: "Linda Chen"

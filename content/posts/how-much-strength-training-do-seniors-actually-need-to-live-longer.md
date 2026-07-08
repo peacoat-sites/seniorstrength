@@ -3,7 +3,7 @@ title: "How Much Strength Training Do Seniors Actually Need to Live Longer"
 date: 2026-07-05T20:58:44.868213+00:00
 draft: false
 description: "Discover how much strength training seniors actually need to boost longevity, preserve muscle, and improve health with simple, science-backed weekly exercise gu"
-image: "https://images.pexels.com/photos/13219986/pexels-photo-13219986.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/13219986.jpg"
 categories: ["trending"]
 tags: ["much", "strength", "training", "seniors", "actually"]
 author: "Dr. Patricia Williams"

@@ -3,7 +3,7 @@ title: "How To Stay Active With Arthritis"
 date: 2026-06-13T21:15:36.070799+00:00
 draft: false
 description: "Discover gentle exercises and expert tips to stay active with arthritis, reduce joint pain, and improve mobility while protecting your joints and overall health"
-image: "https://images.pexels.com/photos/7500667/pexels-photo-7500667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7500667.jpg"
 categories: ["Joint Health"]
 tags: ["stay", "active", "with", "arthritis"]
 slug: "how-to-stay-active-with-arthritis"

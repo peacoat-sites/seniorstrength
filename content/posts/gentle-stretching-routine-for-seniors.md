@@ -3,7 +3,7 @@ title: "Gentle Stretching Routine For Seniors"
 date: 2026-05-24T22:13:01.142265+00:00
 draft: false
 description: "Discover a safe and easy gentle stretching routine for seniors to improve flexibility, reduce stiffness, boost mobility, and enhance overall health and well-bei"
-image: "https://images.pexels.com/photos/7500035/pexels-photo-7500035.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7500035.jpg"
 categories: ["Flexibility"]
 tags: ["gentle", "stretching", "routine", "seniors"]
 slug: "gentle-stretching-routine-for-seniors"

@@ -3,7 +3,7 @@ title: "How to stay motivated to exercise as a senior"
 date: 2026-05-21T16:08:22.652618+00:00
 draft: false
 description: "Struggling to stay active? Discover proven strategies to boost motivation to exercise for seniors, build lasting habits, and enjoy fitness after 60, startin"
-image: "https://images.pexels.com/photos/5992886/pexels-photo-5992886.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5992886.jpg"
 categories: ["lifestyle"]
 slug: "how-to-stay-motivated-to-exercise-as-a-senior"
 affiliate_disclosure: true

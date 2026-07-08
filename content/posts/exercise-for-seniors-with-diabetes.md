@@ -3,7 +3,7 @@ title: "Exercise For Seniors With Diabetes"
 date: 2026-05-31T11:08:13.083651+00:00
 draft: false
 description: "Discover safe and effective exercise tips for seniors with diabetes. Learn how physical activity helps manage blood sugar, boost energy, and improve overall hea"
-image: "https://images.pexels.com/photos/8173545/pexels-photo-8173545.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8173545.jpg"
 categories: ["General Fitness"]
 tags: ["exercise", "seniors", "with", "diabetes"]
 slug: "exercise-for-seniors-with-diabetes"

@@ -3,7 +3,7 @@ title: "How Exercise Helps With Arthritis Pain"
 date: 2026-06-29T00:38:47.772897+00:00
 draft: false
 description: "Discover how regular exercise reduces arthritis pain, improves joint flexibility, and strengthens muscles to help you move better and live more comfortably."
-image: "https://images.pexels.com/photos/4164453/pexels-photo-4164453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4164453.jpg"
 categories: ["General Fitness"]
 tags: ["exercise", "helps", "with", "arthritis", "pain"]
 author: "Linda Chen"

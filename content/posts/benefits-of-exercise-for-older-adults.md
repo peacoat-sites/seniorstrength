@@ -3,7 +3,7 @@ title: "Benefits Of Exercise For Older Adults"
 date: 2026-06-07T21:11:41.150654+00:00
 draft: false
 description: "Discover the key benefits of exercise for older adults, from improved strength and balance to better heart health and mental wellbeing. Start moving for a healt"
-image: "https://images.pexels.com/photos/6787500/pexels-photo-6787500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6787500.jpg"
 categories: ["General Fitness"]
 tags: ["benefits", "exercise", "older", "adults"]
 slug: "benefits-of-exercise-for-older-adults"

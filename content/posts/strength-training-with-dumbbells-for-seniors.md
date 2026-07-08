@@ -3,7 +3,7 @@ title: "Strength Training With Dumbbells For Seniors"
 date: 2026-06-08T21:50:23.664535+00:00
 draft: false
 description: "Discover safe and effective dumbbell strength training exercises designed for seniors to build muscle, improve balance, boost energy, and maintain independence "
-image: "https://images.pexels.com/photos/7322466/pexels-photo-7322466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7322466.jpg"
 categories: ["Strength Training"]
 tags: ["strength", "training", "with", "dumbbells", "seniors"]
 slug: "strength-training-with-dumbbells-for-seniors"

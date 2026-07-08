@@ -3,7 +3,7 @@ title: "Core Strengthening Exercises For Seniors"
 date: 2026-06-05T12:21:15.699287+00:00
 draft: false
 description: "Discover the best core strengthening exercises for seniors to improve balance, posture, and stability. Safe, effective moves to help older adults stay active an"
-image: "https://images.pexels.com/photos/8032898/pexels-photo-8032898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8032898.jpg"
 categories: ["Strength Training"]
 tags: ["core", "strengthening", "exercises", "seniors"]
 slug: "core-strengthening-exercises-for-seniors"

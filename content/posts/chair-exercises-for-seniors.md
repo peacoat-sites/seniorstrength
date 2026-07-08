@@ -3,7 +3,7 @@ title: "Chair Exercises For Seniors"
 date: 2026-05-22T19:16:37.480574+00:00
 draft: false
 description: "Discover safe and effective chair exercises for seniors to improve strength, flexibility, and balance. Stay active and healthy from the comfort of a chair."
-image: "https://images.pexels.com/photos/8899515/pexels-photo-8899515.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8899515.jpg"
 categories: ["Low-Impact Workouts"]
 tags: ["chair", "exercises", "seniors"]
 slug: "chair-exercises-for-seniors"

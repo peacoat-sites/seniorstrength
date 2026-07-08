@@ -3,7 +3,7 @@ title: "Seated Leg Exercises For Seniors"
 date: 2026-05-21T00:45:03.089364+00:00
 draft: false
 description: "Discover the best seated leg exercises for seniors to build strength, improve circulation, and boost mobility, all from the comfort of a chair. Safe and easy t"
-image: "https://images.pexels.com/photos/4971007/pexels-photo-4971007.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4971007.jpg"
 categories: ["Low-Impact Workouts"]
 tags: ["seated", "exercises", "seniors"]
 slug: "seated-leg-exercises-for-seniors"

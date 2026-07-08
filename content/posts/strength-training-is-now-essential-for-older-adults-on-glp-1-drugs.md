@@ -3,7 +3,7 @@ title: "Strength Training Is Now Essential for Older Adults on GLP-1 Drugs"
 date: 2026-06-26T21:19:59.847522+00:00
 draft: false
 description: "Discover why strength training is crucial for older adults taking GLP-1 medications and how exercise helps preserve muscle mass while maximizing weight loss res"
-image: "https://images.pexels.com/photos/28552615/pexels-photo-28552615.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/28552615.jpg"
 categories: ["trending"]
 tags: ["strength", "training", "essential", "older", "adults"]
 author: "Linda Chen"

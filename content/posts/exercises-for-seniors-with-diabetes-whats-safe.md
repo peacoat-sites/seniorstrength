@@ -3,7 +3,7 @@ title: "Exercises for seniors with diabetes: what&#8217;s safe"
 date: 2026-05-27T06:11:31.521147+00:00
 draft: false
 description: "Discover the safest and most effective exercises for seniors with diabetes. Learn how to manage blood sugar, prevent injury, and build a routine that fits yo"
-image: "https://images.pexels.com/photos/8899548/pexels-photo-8899548.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8899548.jpg"
 categories: ["exercise"]
 slug: "exercises-for-seniors-with-diabetes-whats-safe"
 affiliate_disclosure: true

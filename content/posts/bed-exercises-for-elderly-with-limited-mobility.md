@@ -3,7 +3,7 @@ title: "Bed Exercises For Elderly With Limited Mobility"
 date: 2026-06-18T22:06:55.748817+00:00
 draft: false
 description: "Discover gentle bed exercises for elderly with limited mobility to boost strength, circulation, and flexibility from the comfort of home."
-image: "https://images.pexels.com/photos/8899520/pexels-photo-8899520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8899520.jpg"
 categories: ["Low-Impact Workouts"]
 tags: ["exercises", "elderly", "with", "limited", "mobility"]
 author: "Dr. Patricia Williams"

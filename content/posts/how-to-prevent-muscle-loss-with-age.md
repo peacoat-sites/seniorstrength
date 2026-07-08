@@ -3,7 +3,7 @@ title: "How To Prevent Muscle Loss With Age"
 date: 2026-06-14T21:13:49.405842+00:00
 draft: false
 description: "Discover proven strategies to prevent muscle loss as you age, including strength training, protein intake, and lifestyle habits to stay strong and active."
-image: "https://images.pexels.com/photos/6815674/pexels-photo-6815674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6815674.jpg"
 categories: ["Fitness Basics"]
 tags: ["prevent", "muscle", "loss", "with"]
 author: "Helen Santos"

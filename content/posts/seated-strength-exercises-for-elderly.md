@@ -3,7 +3,7 @@ title: "Seated Strength Exercises For Elderly"
 date: 2026-06-23T21:43:28.379551+00:00
 draft: false
 description: "Discover effective seated strength exercises for elderly adults to build muscle, improve balance, and boost independence safely from a chair."
-image: "https://images.pexels.com/photos/8436630/pexels-photo-8436630.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8436630.jpg"
 categories: ["Strength Training"]
 tags: ["seated", "strength", "exercises", "elderly"]
 author: "Dr. Patricia Williams"

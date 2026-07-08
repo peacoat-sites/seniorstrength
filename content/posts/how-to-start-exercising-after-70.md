@@ -3,7 +3,7 @@ title: "How To Start Exercising After 70"
 date: 2026-06-15T22:21:03.357088+00:00
 draft: false
 description: "Discover safe and effective ways to start exercising after 70. Build strength, improve balance, and boost energy with beginner-friendly fitness tips for seniors"
-image: "https://images.pexels.com/photos/6922123/pexels-photo-6922123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6922123.jpg"
 categories: ["Fitness Basics"]
 tags: ["start", "exercising", "after"]
 author: "Dr. Patricia Williams"

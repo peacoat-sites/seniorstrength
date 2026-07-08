@@ -3,7 +3,7 @@ title: "Dumbbell Exercises For Seniors At Home"
 date: 2026-07-01T21:30:08.938339+00:00
 draft: false
 description: "Discover safe and effective dumbbell exercises for seniors to do at home. Build strength, improve balance, and boost energy with these easy routines."
-image: "https://images.pexels.com/photos/6922140/pexels-photo-6922140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6922140.jpg"
 categories: ["Strength Training"]
 tags: ["dumbbell", "exercises", "seniors", "home"]
 author: "Robert Davis"

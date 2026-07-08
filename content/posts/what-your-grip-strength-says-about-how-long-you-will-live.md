@@ -3,7 +3,7 @@ title: "What Your Grip Strength Says About How Long You Will Live"
 date: 2026-06-20T21:19:43.324752+00:00
 draft: false
 description: "Discover what your grip strength reveals about your longevity and overall health. Learn how this simple test predicts lifespan and steps to improve it today."
-image: "https://images.pexels.com/photos/6539838/pexels-photo-6539838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6539838.jpg"
 categories: ["trending"]
 tags: ["what", "your", "grip", "strength", "says"]
 author: "Dr. Patricia Williams"

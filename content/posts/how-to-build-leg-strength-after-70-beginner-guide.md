@@ -3,7 +3,7 @@ title: "How to build leg strength after 70 (beginner guide)"
 date: 2026-05-28T01:16:13.115609+00:00
 draft: false
 description: "Discover the best leg strength exercises for seniors with this beginner-friendly guide. Safe, simple moves to build stability, prevent falls, and stay indepe"
-image: "https://images.pexels.com/photos/7530582/pexels-photo-7530582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7530582.jpg"
 categories: ["exercise"]
 slug: "how-to-build-leg-strength-after-70-beginner-guide"
 affiliate_disclosure: true

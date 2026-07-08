@@ -3,7 +3,7 @@ title: "Neck pain stretches for seniors (do these daily)"
 date: 2026-05-28T14:16:26.687651+00:00
 draft: false
 description: "Discover the best neck pain stretches for seniors with this easy daily routine. Relieve stiffness, improve flexibility, and feel better in just minutes a day"
-image: "https://images.pexels.com/photos/8795578/pexels-photo-8795578.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8795578.jpg"
 categories: ["pain"]
 slug: "neck-pain-stretches-for-seniors-do-these-daily"
 affiliate_disclosure: true

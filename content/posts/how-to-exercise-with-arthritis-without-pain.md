@@ -3,7 +3,7 @@ title: "How To Exercise With Arthritis Without Pain"
 date: 2026-07-04T20:56:25.487466+00:00
 draft: false
 description: "Discover safe, effective exercises for arthritis sufferers that reduce joint pain, improve flexibility, and keep you active without making symptoms worse."
-image: "https://images.pexels.com/photos/6285212/pexels-photo-6285212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6285212.jpg"
 categories: ["Injury Prevention"]
 tags: ["exercise", "with", "arthritis", "without", "pain"]
 author: "Robert Davis"

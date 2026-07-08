@@ -3,7 +3,7 @@ title: "Functional Fitness Exercises For Seniors"
 date: 2026-06-29T21:28:19.936556+00:00
 draft: false
 description: "Discover the best functional fitness exercises for seniors to boost strength, balance, and independence. Stay active and safe with these easy daily moves."
-image: "https://images.pexels.com/photos/4127530/pexels-photo-4127530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4127530.jpg"
 categories: ["General Fitness"]
 tags: ["functional", "fitness", "exercises", "seniors"]
 author: "Helen Santos"

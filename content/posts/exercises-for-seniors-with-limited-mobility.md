@@ -3,7 +3,7 @@ title: "Exercises For Seniors With Limited Mobility"
 date: 2026-06-20T21:17:41.874419+00:00
 draft: false
 description: "Discover safe, effective exercises for seniors with limited mobility to boost strength, flexibility, and independence from a chair or bed."
-image: "https://images.pexels.com/photos/35113473/pexels-photo-35113473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35113473.jpg"
 categories: ["Low-Impact Workouts"]
 tags: ["exercises", "seniors", "with", "limited", "mobility"]
 author: "Helen Santos"

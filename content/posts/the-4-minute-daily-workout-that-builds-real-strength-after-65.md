@@ -3,7 +3,7 @@ title: "The 4-Minute Daily Workout That Builds Real Strength After 65"
 date: 2026-06-17T22:02:57.835083+00:00
 draft: false
 description: "Discover the simple 4-minute daily workout designed for adults over 65 that builds genuine strength, improves balance, and supports healthy aging with minimal e"
-image: "https://images.pexels.com/photos/4720561/pexels-photo-4720561.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4720561.jpg"
 categories: ["trending"]
 tags: ["4-minute", "daily", "workout", "that", "builds"]
 author: "Helen Santos"

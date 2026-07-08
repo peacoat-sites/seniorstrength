@@ -3,7 +3,7 @@ title: "Exercises For Seniors To Stay Independent"
 date: 2026-06-05T21:25:30.765574+00:00
 draft: false
 description: "Stay strong and mobile as you age with these simple exercises for seniors designed to improve balance, flexibility, and strength to help you maintain independen"
-image: "https://images.pexels.com/photos/8417516/pexels-photo-8417516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8417516.jpg"
 categories: ["General Fitness"]
 tags: ["exercises", "seniors", "stay", "independent"]
 slug: "exercises-for-seniors-to-stay-independent"

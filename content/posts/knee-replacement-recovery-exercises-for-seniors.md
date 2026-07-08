@@ -3,7 +3,7 @@ title: "Knee replacement recovery exercises for seniors"
 date: 2026-05-20T09:32:16.339597+00:00
 draft: false
 description: "Discover the best knee replacement recovery exercises for seniors, from gentle week-one movements to strength-building routines that restore mobility, reduc"
-image: "https://images.pexels.com/photos/8464567/pexels-photo-8464567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8464567.jpg"
 categories: ["pain"]
 slug: "knee-replacement-recovery-exercises-for-seniors"
 affiliate_disclosure: true

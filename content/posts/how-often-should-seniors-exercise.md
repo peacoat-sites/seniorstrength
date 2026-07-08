@@ -3,7 +3,7 @@ title: "How Often Should Seniors Exercise"
 date: 2026-05-23T22:21:26.354815+00:00
 draft: false
 description: "Regular exercise is vital for older adults. Discover expert-recommended guidelines on how often seniors should exercise to boost strength, balance, and overall "
-image: "https://images.pexels.com/photos/6922173/pexels-photo-6922173.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6922173.jpg"
 categories: ["Fitness Basics"]
 tags: ["often", "should", "seniors", "exercise"]
 slug: "how-often-should-seniors-exercise"

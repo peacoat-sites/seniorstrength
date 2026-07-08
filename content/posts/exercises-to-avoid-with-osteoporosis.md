@@ -3,7 +3,7 @@ title: "Exercises To Avoid With Osteoporosis"
 date: 2026-06-11T22:03:12.908678+00:00
 draft: false
 description: "Protect your bones and prevent fractures by learning which exercises to avoid with osteoporosis, plus safe alternatives to stay active and strong."
-image: "https://images.pexels.com/photos/20552877/pexels-photo-20552877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/20552877.jpg"
 categories: ["Injury Prevention"]
 tags: ["exercises", "avoid", "with", "osteoporosis"]
 slug: "exercises-to-avoid-with-osteoporosis"

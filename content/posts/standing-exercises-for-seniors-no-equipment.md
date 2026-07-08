@@ -3,7 +3,7 @@ title: "Standing Exercises For Seniors No Equipment"
 date: 2026-06-12T21:45:32.548215+00:00
 draft: false
 description: "Discover simple standing exercises for seniors that require no equipment. Improve balance, strength, and mobility safely at home with these easy, effective rout"
-image: "https://images.pexels.com/photos/6975786/pexels-photo-6975786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6975786.jpg"
 categories: ["Low-Impact Workouts"]
 tags: ["standing", "exercises", "seniors", "equipment"]
 slug: "standing-exercises-for-seniors-no-equipment"

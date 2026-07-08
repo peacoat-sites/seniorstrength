@@ -3,7 +3,7 @@ title: "Best Diet For Senior Fitness And Energy"
 date: 2026-06-21T21:13:31.364241+00:00
 draft: false
 description: "Discover the best diet for senior fitness and energy. Learn which foods fuel strength, boost vitality, and support healthy aging for adults over 60."
-image: "https://images.pexels.com/photos/8805797/pexels-photo-8805797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8805797.jpg"
 categories: ["Nutrition"]
 tags: ["best", "diet", "senior", "fitness", "energy"]
 author: "James Cooper"

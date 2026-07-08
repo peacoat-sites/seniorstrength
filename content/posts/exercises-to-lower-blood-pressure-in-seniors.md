@@ -3,7 +3,7 @@ title: "Exercises To Lower Blood Pressure In Seniors"
 date: 2026-07-02T21:06:45.977229+00:00
 draft: false
 description: "Discover safe, effective exercises to lower blood pressure in seniors. Simple routines including walking, swimming, and stretching to support heart health."
-image: "https://images.pexels.com/photos/8899516/pexels-photo-8899516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8899516.jpg"
 categories: ["General Fitness"]
 tags: ["exercises", "lower", "blood", "pressure", "seniors"]
 author: "Dr. Patricia Williams"

@@ -3,7 +3,7 @@ title: "Upper Body Exercises For Seniors"
 date: 2026-06-10T22:01:37.372556+00:00
 draft: false
 description: "Discover the best upper body exercises for seniors to build strength, improve mobility, and boost independence. Safe, effective moves suitable for all fitness l"
-image: "https://images.pexels.com/photos/12086689/pexels-photo-12086689.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12086689.jpg"
 categories: ["Strength Training"]
 tags: ["upper", "body", "exercises", "seniors"]
 slug: "upper-body-exercises-for-seniors"

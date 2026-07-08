@@ -3,7 +3,7 @@ title: "How to sleep better as a senior (what actually works)"
 date: 2026-05-21T23:05:15.987930+00:00
 draft: false
 description: "Learn proven strategies for better sleep as a senior. Discover 8 science-backed techniques to improve sleep quality, manage insomnia, and wake refreshed"
-image: "https://images.pexels.com/photos/8860200/pexels-photo-8860200.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8860200.jpg"
 categories: ["lifestyle"]
 tags: ["sleep", "better", "senior", "actually", "works"]
 slug: "how-to-sleep-better-as-a-senior-what-actually-works"

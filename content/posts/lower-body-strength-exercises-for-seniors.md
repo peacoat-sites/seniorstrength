@@ -3,7 +3,7 @@ title: "10 Lower Body Strength Exercises Built for Seniors"
 date: 2026-07-07T21:26:59.325676+00:00
 draft: false
 description: "Build leg strength, improve balance, and stay independent with these 10 safe lower body exercises designed specifically for older adults."
-image: "https://images.pexels.com/photos/7020825/pexels-photo-7020825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7020825.jpg"
 categories: ["Strength Training"]
 tags: ["lower", "body", "strength", "exercises", "seniors"]
 author: "Dr. Patricia Williams"

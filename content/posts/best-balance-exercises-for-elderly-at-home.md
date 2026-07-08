@@ -3,7 +3,7 @@ title: "Best Balance Exercises For Elderly At Home"
 date: 2026-06-12T21:43:13.113987+00:00
 draft: false
 description: "Discover the best balance exercises for elderly at home to prevent falls, boost stability, and improve confidence with safe, easy routines you can do daily."
-image: "https://images.pexels.com/photos/8899507/pexels-photo-8899507.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8899507.jpg"
 categories: ["Balance & Mobility"]
 tags: ["best", "balance", "exercises", "elderly", "home"]
 slug: "best-balance-exercises-for-elderly-at-home"

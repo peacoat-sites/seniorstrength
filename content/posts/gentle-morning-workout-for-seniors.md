@@ -3,7 +3,7 @@ title: "Gentle Morning Workout For Seniors"
 date: 2026-06-29T00:36:33.166629+00:00
 draft: false
 description: "Start your day right with these gentle morning exercises designed for seniors to boost flexibility, balance, and energy safely from home."
-image: "https://images.pexels.com/photos/8637979/pexels-photo-8637979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8637979.jpg"
 categories: ["Low-Impact Workouts"]
 tags: ["gentle", "morning", "workout", "seniors"]
 author: "James Cooper"

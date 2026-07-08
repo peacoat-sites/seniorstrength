@@ -3,7 +3,7 @@ title: "Seated Cardio Workout For Elderly"
 date: 2026-06-04T12:20:45.829899+00:00
 draft: false
 description: "Discover gentle seated cardio exercises designed for elderly adults to boost heart health, improve mobility, and increase energy levels safely from the comfort "
-image: "https://images.pexels.com/photos/6539867/pexels-photo-6539867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6539867.jpg"
 categories: ["Low-Impact Workouts"]
 tags: ["seated", "cardio", "workout", "elderly"]
 slug: "seated-cardio-workout-for-elderly"

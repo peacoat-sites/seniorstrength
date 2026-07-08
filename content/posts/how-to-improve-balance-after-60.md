@@ -3,7 +3,7 @@ title: "How To Improve Balance After 60"
 date: 2026-06-09T21:47:31.956475+00:00
 draft: false
 description: "Discover simple exercises and tips to improve balance after 60, reduce fall risk, and stay active, confident, and independent as you age gracefully."
-image: "https://images.pexels.com/photos/8637980/pexels-photo-8637980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8637980.jpg"
 categories: ["Balance & Mobility"]
 tags: ["improve", "balance", "after"]
 slug: "how-to-improve-balance-after-60"

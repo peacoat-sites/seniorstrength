@@ -3,7 +3,7 @@ title: "Why Seniors on Ozempic Must Prioritize Strength Training Now"
 date: 2026-06-19T21:09:52.374497+00:00
 draft: false
 description: "Seniors taking Ozempic risk losing muscle mass fast. Learn why strength training is essential to protect your body, maintain mobility, and stay strong while los"
-image: "https://images.pexels.com/photos/6922169/pexels-photo-6922169.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6922169.jpg"
 categories: ["trending"]
 tags: ["seniors", "ozempic", "must", "prioritize", "strength"]
 author: "Linda Chen"

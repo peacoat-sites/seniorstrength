@@ -3,7 +3,7 @@ title: "On Ozempic Over 60? Here Is How to Protect Your Muscle"
 date: 2026-06-14T21:11:53.415911+00:00
 draft: false
 description: "Discover how to protect muscle mass while taking Ozempic after 60. Expert tips on exercise, protein intake, and lifestyle habits to stay strong and healthy."
-image: "https://images.pexels.com/photos/14524650/pexels-photo-14524650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14524650.jpg"
 categories: ["trending"]
 tags: ["ozempic", "over", "here", "protect", "your"]
 author: "Robert Davis"

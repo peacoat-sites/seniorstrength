@@ -3,7 +3,7 @@ title: "A 4-Minute Daily Workout Just Proved It Can Transform Fitness After 65"
 date: 2026-06-22T22:02:02.097232+00:00
 draft: false
 description: "Discover how a simple 4-minute daily workout can dramatically improve strength, balance, and overall fitness for adults over 65, backed by compelling new resear"
-image: "https://images.pexels.com/photos/8172908/pexels-photo-8172908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8172908.jpg"
 categories: ["trending"]
 tags: ["4-minute", "daily", "workout", "just", "proved"]
 author: "Robert Davis"

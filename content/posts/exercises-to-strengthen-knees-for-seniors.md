@@ -3,7 +3,7 @@ title: "Exercises To Strengthen Knees For Seniors"
 date: 2026-05-29T11:37:26.381011+00:00
 draft: false
 description: "Discover the best exercises to strengthen knees for seniors. Improve mobility, reduce pain, and boost stability with these safe, easy-to-follow workout routines"
-image: "https://images.pexels.com/photos/5067741/pexels-photo-5067741.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5067741.jpg"
 categories: ["Joint Health"]
 tags: ["exercises", "strengthen", "knees", "seniors"]
 slug: "exercises-to-strengthen-knees-for-seniors"

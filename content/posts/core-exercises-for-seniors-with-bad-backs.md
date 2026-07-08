@@ -3,7 +3,7 @@ title: "Core Exercises For Seniors With Bad Backs"
 date: 2026-06-21T21:15:35.864837+00:00
 draft: false
 description: "Discover gentle core exercises designed for seniors with bad backs to build strength, reduce pain, and improve stability safely at home."
-image: "https://images.pexels.com/photos/7500129/pexels-photo-7500129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7500129.jpg"
 categories: ["Strength Training"]
 tags: ["core", "exercises", "seniors", "with", "backs"]
 author: "Linda Chen"

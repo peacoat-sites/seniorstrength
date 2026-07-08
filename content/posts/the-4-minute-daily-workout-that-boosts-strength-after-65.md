@@ -3,7 +3,7 @@ title: "The 4-Minute Daily Workout That Boosts Strength After 65"
 date: 2026-06-30T21:30:03.002510+00:00
 draft: false
 description: "Discover the simple 4-minute daily workout designed for adults over 65 that builds real strength, improves balance, and fits easily into any routine."
-image: "https://images.pexels.com/photos/6496087/pexels-photo-6496087.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6496087.jpg"
 categories: ["trending"]
 tags: ["4-minute", "daily", "workout", "that", "boosts"]
 author: "James Cooper"
