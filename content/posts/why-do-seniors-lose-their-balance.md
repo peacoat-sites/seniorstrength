@@ -23,7 +23,7 @@ faqs:
     a: "In most cases, the opposite is true: appropriate exercise is one of the most evidence-backed responses to a fall, once any injuries are medically cleared. The risk of avoiding activity is that it accelerates the physical and psychological decline that leads to the next fall. That said, what counts as 'appropriate' exercise should be guided by a physical therapist or qualified trainer who can assess your specific situation."
   - q: "How do I know if my balance problem is serious enough to see a doctor?"
     a: "Any fall that results in injury should prompt a medical visit. Beyond that, if you're noticing that you frequently grab surfaces for support, feel unsteady on uneven ground or in low light, or have had multiple near-falls in the past few months, those patterns warrant a conversation with your physician, specifically asking for a fall risk assessment. It's not an overreaction; it's exactly what those screenings are designed for."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people assume balance gets worse with age the same way hair goes gray: inevitable, random, not much you can do about it. I believed that too, for longer than I'd like to admit. What changed my mind was watching a 71-year-old client named Margaret go from grabbing door frames every time she stood up to hiking a moderately technical trail in the Catskills, twelve weeks after we started working together. That doesn't happen if balance decline is just "aging."
@@ -133,6 +133,6 @@ The overrated intervention? Grip rails and grab bars installed without any accom
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

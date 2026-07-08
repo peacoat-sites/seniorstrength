@@ -12,7 +12,7 @@ author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 slug: "strength-training-seniors-need-to-stay-safe-on-the-pickleball-court"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 If you've picked up a paddle in the last couple of years, you're in good company. [Pickleball participation has exploded](/pickleball-is-surging-among-seniors-so-are-the-injuries/) across the country, and for adults over 60, the appeal makes complete sense: it's social, it's genuinely fun, and it gets you moving in ways that sitting at home absolutely doesn't. But if you've been hearing more about injuries lately, or maybe felt a tweak in your ankle after a hard lateral step, you're not imagining it. Orthopedic clinics are flagging a real and rising trend this summer, and it's worth understanding what's actually going on before you assume the solution is simply playing less.
@@ -86,6 +86,6 @@ Pickleball is genuinely good for you. The social engagement, the cardiovascular 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

@@ -18,7 +18,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your doctor says you need to build strength. Your joints say the gym is out of the question. Millions of seniors face this exact frustration every year, and it's a real one. The good news? **The best resistance bands for seniors** offer a safe, affordable, and genuinely effective way to build muscle, improve balance, and stay active from your living room.
 
@@ -70,7 +70,7 @@ The flat, latex bands work well for upper and lower body exercises, and they're 
 
 * **Best for:** Rehab, physical therapy, and beginners
 * **Resistance range:** Extra light to heavy
-* **Price range:** $15–$25
+* **Price range:** $15-$25
 
 ### 2. Fit Simplify Resistance Loop Band Set: Best Value
 
@@ -80,7 +80,7 @@ They're particularly popular for seated leg exercises, hip strengthening, and ba
 
 * **Best for:** Leg and hip exercises, everyday use
 * **Resistance range:** X-light to X-heavy
-* **Price range:** $10–$15
+* **Price range:** $10-$15
 
 ### 3. Whatafit Resistance Bands with Handles: Best for Full-Body Workouts
 
@@ -90,7 +90,7 @@ The stackable design means you can combine bands to increase resistance as you g
 
 * **Best for:** Upper body strength, full-body routines
 * **Resistance range:** 10 lbs to 150 lbs combined
-* **Price range:** $20–$35
+* **Price range:** $20-$35
 
 ### 4. Booty Bands by Sports Research: Best Fabric Bands
 
@@ -100,7 +100,7 @@ The anti-slip inner grip keeps them firmly in place during exercises like clamsh
 
 * **Best for:** Hip, glute, and knee exercises
 * **Resistance range:** Light, medium, heavy
-* **Price range:** $20–$30
+* **Price range:** $20-$30
 
 ### 5. SPRI Xertube Resistance Band: Best for Chair Exercises
 
@@ -110,7 +110,7 @@ It comes in multiple resistance levels sold individually, so you can choose exac
 
 * **Best for:** Seated exercises, [post-surgery recovery](/foam-roller-for-seniors-how-to-use-it-safely/)
 * **Resistance range:** Ultra light to ultra heavy
-* **Price range:** $10–$20
+* **Price range:** $10-$20
 
 ## How to Start Using Resistance Bands Safely
 
@@ -121,7 +121,7 @@ Once you have the green light, follow these guidelines:
 * **Start with the lightest resistance** and focus on proper form before adding tension.
 * **Move slowly and with control.** Don't let the band snap back quickly.
 * **Breathe steadily.** Exhale during exertion, inhale on the return.
-* **Aim for 2–3 sessions per week** with rest days in between for muscle recovery.
+* **Aim for 2-3 sessions per week** with rest days in between for muscle recovery.
 * **Inspect your bands regularly** for nicks, tears, or loss of elasticity. Replace them if damaged.
 * **Stop if you feel sharp pain.** Mild muscle fatigue is normal, but pain is a signal to stop.
 

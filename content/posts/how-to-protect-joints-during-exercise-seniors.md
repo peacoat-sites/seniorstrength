@@ -23,7 +23,7 @@ faqs:
     a: "Pool walking or aquatic exercise, if you have access to a heated therapy pool, is hard to beat for low joint stress combined with real cardiovascular and muscular benefit. On land, slow, controlled bodyweight squats (only to the depth comfortable for you), chair-assisted standing exercises, and walking on flat, even surfaces are all solid starting points. Build duration before intensity."
   - q: "Can I still build real strength without loading my joints heavily?"
     a: "Yes. The research is clear that meaningful strength gains are achievable at moderate loads (roughly 40 to 60% of your one-rep max) when repetitions are performed slowly and controlled. 'Slow' in this context means 3 to 4 seconds on the lowering phase of any movement. This approach taxes the muscle while significantly reducing compressive and shear forces on the joint."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Every week, someone comes to me after getting hurt doing an exercise their doctor told them would be "gentle on the joints." Walking lunges. Jumping jacks as a "low-impact warmup." Leg press machines cranked to high resistance because "more weight means more benefit." And every time, I think: whoever gave that advice wasn't watching a 68-year-old with early knee osteoarthritis try to execute it.
@@ -128,6 +128,6 @@ Resistance bands are also worth keeping around. Inexpensive, versatile, and exce
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
 

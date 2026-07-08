@@ -18,7 +18,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You notice it in small ways at first. A wrist that aches after gardening. Stairs that feel steeper than they used to. A doctor mentioning your bone density has dropped since your last scan. Millions of adults over 60 are quietly losing bone mass every year, often without realizing it until a fracture happens. Here's what matters: your bone health diet after 60 is one of the most powerful tools you have to slow bone loss, strengthen your skeleton, and stay active for decades to come.
 
@@ -52,10 +52,10 @@ Most people think calcium first when bone health comes up. Fair enough. But it's
 Here are the most important bone-building nutrients for adults over 60:
 
   * **Calcium:** The main mineral in bone tissue. Adults over 50 need 1,200 mg per day. Food sources are always preferred over supplements when possible.
-  * **Vitamin D:** Without enough vitamin D, your body cannot properly absorb calcium. Many seniors are deficient without knowing it. Aim for 800–1,000 IU daily.
+  * **Vitamin D:** Without enough vitamin D, your body cannot properly absorb calcium. Many seniors are deficient without knowing it. Aim for 800-1,000 IU daily.
   * **Magnesium:** Supports bone structure and helps activate vitamin D. Found in nuts, seeds, leafy greens, and whole grains.
   * **Vitamin K2:** Helps direct calcium into bones rather than into arteries. Found in fermented foods, hard cheeses, and egg yolks.
-  * **Protein:** Bones are about 30% protein by weight. Adequate protein supports bone matrix strength; aim for 1.0–1.2 grams per kilogram of body weight daily.
+  * **Protein:** Bones are about 30% protein by weight. Adequate protein supports bone matrix strength; aim for 1.0-1.2 grams per kilogram of body weight daily.
   * **Phosphorus:** Works alongside calcium to build strong bone. Found in dairy, fish, meat, and legumes.
   * **Zinc and Boron:** Trace minerals that support bone mineral density and vitamin D metabolism.
 
@@ -143,7 +143,7 @@ These aren't complicated recipes. They're just smart, bone-friendly combinations
 
 Whole foods should always come first. The nutrients in food are better absorbed and come packaged with hundreds of other compounds that support overall health.
 
-That said, supplements can be appropriate when dietary intake falls short. Many adults over 60 struggle to get adequate vitamin D from food and limited sun exposure, so a supplement of 800–1,000 IU of vitamin D3 daily is widely recommended by physicians for this age group.
+That said, supplements can be appropriate when dietary intake falls short. Many adults over 60 struggle to get adequate vitamin D from food and limited sun exposure, so a supplement of 800-1,000 IU of vitamin D3 daily is widely recommended by physicians for this age group.
 
 Calcium supplements are more controversial. Recent research suggests that high-dose calcium supplements (particularly calcium carbonate taken without food) may not be as beneficial as once thought and could pose cardiovascular risks in some people. Always talk to your doctor before starting any supplement regimen. A simple blood test can reveal your current vitamin D levels and guide the right approach for you personally.
 

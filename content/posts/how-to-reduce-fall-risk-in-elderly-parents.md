@@ -11,14 +11,14 @@ faqs:
   - q: "What is the most effective way to reduce fall risk in elderly adults?"
     a: "The most effective approach combines multiple strategies at once, regular balance and strength exercises, home safety modifications, and a medication review with a doctor. Research shows that multi-component programs addressing more than one risk factor are far more effective than any single change alone. Starting with a visit to the doctor to assess individual risk factors is a smart first step. From there, a physical therapist can design a personalized exercise program and an occupational therapist can help evaluate the home environment."
   - q: "How often should seniors exercise to improve balance?"
-    a: "Most experts recommend balance and strength training at least three times per week for meaningful improvement. Even short sessions of 15–20 minutes are beneficial when done consistently. Programs like tai chi or community-based fall prevention classes such as Stepping On or Otago are well-researched and designed specifically for older adults. Many are available through senior centers, YMCAs, or even online."
+    a: "Most experts recommend balance and strength training at least three times per week for meaningful improvement. Even short sessions of 15-20 minutes are beneficial when done consistently. Programs like tai chi or community-based fall prevention classes such as Stepping On or Otago are well-researched and designed specifically for older adults. Many are available through senior centers, YMCAs, or even online."
   - q: "When should I be concerned about my parent’s fall risk?"
     a: "If your parent has already fallen once in the past year, that is a significant warning sign, people who fall once are two to three times more likely to fall again. Other red flags include frequent near-misses, reluctance to walk without holding onto furniture, complaints of dizziness, or avoiding activities they used to enjoy out of fear. Bring these concerns to their doctor right away. Many healthcare providers use a simple screening tool called the Timed Up and Go (TUG) test to measure fall risk quickly and objectively."
 author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If you've watched a parent grip the wall for balance or shuffle carefully across a slippery floor, you already know that quiet fear. Falls are the leading cause of injury among older adults, and **reducing fall risk in elderly parents** is genuinely one of the most important things a family can do. The good news? Most falls are preventable. It takes home changes, the right exercises, and daily habits. That's it.
 
@@ -87,7 +87,7 @@ Research shows that programs focusing on balance training and lower-body strengt
 
 * **Chair stands:** Slowly rise from a chair without using your hands, then sit back down. Repeat 10 times to strengthen thighs and hips.
 * **[Heel-to-toe walking](/heel-to-toe-walking-the-best-balance-exercise-for-seniors/):** Walk in a straight line placing one foot directly in front of the other, like walking a tightrope. Hold a wall for support if needed.
-* **Single-leg stands:** Stand on one foot for 10–30 seconds while holding a countertop. Switch sides.
+* **Single-leg stands:** Stand on one foot for 10-30 seconds while holding a countertop. Switch sides.
 * **Calf raises:** Stand behind a chair, hold the back, and rise up on your toes. Lower slowly.
 * **Side leg raises:** Stand behind a chair and lift one leg out to the side, hold briefly, and lower slowly.
 

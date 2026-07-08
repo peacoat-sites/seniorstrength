@@ -9,7 +9,7 @@ slug: "shoulder-pain-exercises-for-seniors-gentle-relief-moves"
 affiliate_disclosure: true
 faqs:
   - q: "How often should seniors do shoulder pain exercises?"
-    a: "Most physical therapists recommend doing gentle shoulder exercises 4–5 times per week for best results. Daily movement is ideal, but giving your body at least one full rest day per week allows tissues to recover and repair. Consistency over time matters far more than doing too much too soon."
+    a: "Most physical therapists recommend doing gentle shoulder exercises 4-5 times per week for best results. Daily movement is ideal, but giving your body at least one full rest day per week allows tissues to recover and repair. Consistency over time matters far more than doing too much too soon."
   - q: "Can shoulder pain exercises make pain worse?"
     a: "When done correctly and gently, these exercises should produce mild, temporary discomfort at most, not sharp or increasing pain. If an exercise makes your pain noticeably worse during or after the session, stop doing it and consult your doctor or physical therapist. It may be that you need a modified version or a different approach entirely."
   - q: "Are these exercises safe for seniors with arthritis?"
@@ -18,7 +18,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-
+lastmod: 2026-07-08
 ---
 If you wake up reaching for your coffee cup and your shoulder screams in protest, you're in good company. Millions of seniors deal with this every single day. The encouraging part? The right **shoulder pain exercises for seniors** can make a real difference, often without pills or a trip to an expensive clinic. These gentle moves restore mobility, ease stiffness, and get you back to living your life.
 
@@ -36,7 +36,7 @@ Talk to your doctor or physical therapist before starting any new exercise routi
 
 Follow these rules before each session:
 
-* Warm up with a hot shower or heating pad on your shoulder for 5–10 minutes
+* Warm up with a hot shower or heating pad on your shoulder for 5-10 minutes
 * Move slowly and never force your arm past a comfortable range
 * Stop immediately if you feel sharp or worsening pain
 * Breathe steadily throughout each movement (holding your breath only tightens everything)
@@ -46,7 +46,7 @@ Listening to your body is the most important skill you'll develop. Progress at y
 
 ## Gentle Shoulder Pain Exercises for Seniors
 
-These exercises target older adults specifically, focusing on range of motion, stiffness relief, and strengthening the muscles that support your shoulder. Do them 4–5 times per week for best results.
+These exercises target older adults specifically, focusing on range of motion, stiffness relief, and strengthening the muscles that support your shoulder. Do them 4-5 times per week for best results.
 
 ### 1. Pendulum Swings
 
@@ -64,7 +64,7 @@ This loosens the muscles across the top of your shoulders and neck base. It's pe
 
 Targets the back of your shoulder and rotator cuff. Gently bring one arm across your chest at about shoulder height and use your other hand to lightly press it closer.
 
-Hold for 20–30 seconds and feel the gentle pull in the back of your shoulder. Release slowly and switch sides. Do 3 reps each side. Never yank it.
+Hold for 20-30 seconds and feel the gentle pull in the back of your shoulder. Release slowly and switch sides. Do 3 reps each side. Never yank it.
 
 ### 4. Wall Crawl Exercise
 
@@ -76,7 +76,7 @@ Repeat 10 times per arm. You'll notice each week you can reach a bit higher. Mar
 
 Tight chest muscles pull your shoulders forward and contribute big-time to shoulder pain and poor posture. Stand in a doorway and place your forearms against each side of the frame at shoulder height.
 
-Lean your body forward gently until you feel a comfortable stretch across your chest and shoulders. Hold for 20–30 seconds and repeat 3 times. This reverses the rounded-shoulder posture that builds up from years of sitting.
+Lean your body forward gently until you feel a comfortable stretch across your chest and shoulders. Hold for 20-30 seconds and repeat 3 times. This reverses the rounded-shoulder posture that builds up from years of sitting.
 
 ### 6. Towel Stretch
 
@@ -84,7 +84,7 @@ Improves internal rotation, a movement that gets restricted with many shoulder c
 
 Use your top hand to gently pull the towel upward, stretching the lower arm's shoulder. Hold for 20 seconds, then switch. Do 3 sets each side. This one's especially helpful for frozen shoulder or rotator cuff tightness.
 
-**Pro Tip:** Apply a warm compress or heating pad for 10 minutes before exercising. Warmth increases blood flow and loosens tight tissue, making your movements easier and more effective. After exercising, switch to a cold pack for 10–15 minutes to reduce inflammation.
+**Pro Tip:** Apply a warm compress or heating pad for 10 minutes before exercising. Warmth increases blood flow and loosens tight tissue, making your movements easier and more effective. After exercising, switch to a cold pack for 10-15 minutes to reduce inflammation.
 
 ## Strengthening Exercises to Prevent Future Pain
 
@@ -95,7 +95,7 @@ Consider adding these:
 * **Resistance band rows:** Anchor a light resistance band and pull it toward your chest for rear shoulder and upper back strength
 * **Wall push-ups:** Stand arm's length from a wall and perform slow, controlled push-ups to build shoulder and chest strength
 * **Scapular squeezes:** Sit or stand and gently squeeze your shoulder blades together, holding for 5 seconds. Repeat 15 times.
-* **Side arm raises with light weights:** Use a 1–2 pound weight or even a soup can and slowly raise your arm out to the side up to shoulder height
+* **Side arm raises with light weights:** Use a 1-2 pound weight or even a soup can and slowly raise your arm out to the side up to shoulder height
 
 Start with the lightest possible resistance. Perfect, slow form beats heavy weight every time. Consistency over intensity is the winning formula.
 
@@ -107,7 +107,7 @@ Make these adjustments:
 
 * Position your screen or book at eye level to reduce neck and shoulder strain
 * Sleep on your back or non-painful side with a supportive pillow, not on your sore shoulder
-* Take a short movement break every 30–45 minutes if you sit for long periods
+* Take a short movement break every 30-45 minutes if you sit for long periods
 * Stay well hydrated. Joints need fluid to stay lubricated and healthy.
 * Eat an anti-inflammatory diet rich in berries, leafy greens, fatty fish, and nuts
 

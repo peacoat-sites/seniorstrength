@@ -18,7 +18,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You want to stay active and flexible, but getting down on a yoga mat and back up again just isn't as easy as it used to be. Maybe your knees ache, your balance isn't what it was, or you simply worry about falling. The good news? You don't need a mat, special clothing, or perfect balance to enjoy the benefits of yoga. **Seated yoga for seniors** lets you experience all the stretching, breathing, and calming benefits of traditional yoga from the comfort and safety of a sturdy chair.
 
@@ -36,7 +36,7 @@ For older adults, the chair provides stability and support, which dramatically r
 * **Reduces stress and anxiety** through mindful breathing.
 * **Can be done anywhere**: at home, in a community center, or even at work.
 
-All you need is a sturdy, armless chair (a dining chair works perfectly), comfortable clothing, and about 20–30 minutes of quiet time.
+All you need is a sturdy, armless chair (a dining chair works perfectly), comfortable clothing, and about 20-30 minutes of quiet time.
 
 ## Before You Begin: A Few Safety Tips
 
@@ -54,7 +54,7 @@ Sit tall at the front edge of your chair, feet flat on the floor and hip-width a
 
 ### 2. Seated Cat-Cow Stretch
 
-Place both hands on your knees. As you inhale, arch your back gently and lift your chest (Cow). As you exhale, round your spine forward and drop your chin to your chest (Cat). Repeat 5–8 times to warm up the entire spine and release stiffness in the lower back.
+Place both hands on your knees. As you inhale, arch your back gently and lift your chest (Cow). As you exhale, round your spine forward and drop your chin to your chest (Cat). Repeat 5-8 times to warm up the entire spine and release stiffness in the lower back.
 
 ### 3. Seated Forward Bend
 
@@ -100,9 +100,9 @@ Finish your session by sitting comfortably with your hands resting in your lap, 
 
 Even practicing two or three times per week brings noticeable improvements in flexibility, balance, and mood within just a few weeks. Consistency matters far more than intensity when it comes to yoga.
 
-You can practice all 12 poses as a complete 20–30 minute routine, or choose just three or four poses to do as a gentle morning wake-up or an afternoon energy boost. Both work wonderfully.
+You can practice all 12 poses as a complete 20-30 minute routine, or choose just three or four poses to do as a gentle morning wake-up or an afternoon energy boost. Both work wonderfully.
 
-If you're new to exercise in general, start with just 10–15 minutes and gradually build up. Listen to your body. Some days you'll feel more flexible than others, and that's completely normal.
+If you're new to exercise in general, start with just 10-15 minutes and gradually build up. Listen to your body. Some days you'll feel more flexible than others, and that's completely normal.
 
 ## Start Your Chair Yoga Journey Today
 

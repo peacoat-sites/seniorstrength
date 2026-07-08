@@ -18,7 +18,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Have you ever reached for something on a high shelf and felt a wobble, or hesitated at the top of the stairs because your footing didn't feel solid? You're not alone. Millions of people over 70 live with these moments every day. The good news is that balance can be improved, and most of it can happen in your own home, starting right now.
 
@@ -48,8 +48,8 @@ You don't need a gym or equipment. Your living room and a sturdy chair are enoug
 
 Here are the best exercises for adults over 70:
 
-* **Single-Leg Stand:** Hold the back of a sturdy chair and lift one foot slightly off the floor. Hold for 10–15 seconds, then switch sides. Repeat 3 times per leg.
-* **[Heel-to-Toe Walk](/heel-to-toe-walking-the-best-balance-exercise-for-seniors/):** Walk in a straight line, placing the heel of one foot directly in front of the toes of the other. Take 10–20 steps. It's the same test police use for good reason, it works.
+* **Single-Leg Stand:** Hold the back of a sturdy chair and lift one foot slightly off the floor. Hold for 10-15 seconds, then switch sides. Repeat 3 times per leg.
+* **[Heel-to-Toe Walk](/heel-to-toe-walking-the-best-balance-exercise-for-seniors/):** Walk in a straight line, placing the heel of one foot directly in front of the toes of the other. Take 10-20 steps. It's the same test police use for good reason, it works.
 * **Side Leg Raises:** Stand behind a chair, hold lightly for support, and slowly lift one leg out to the side. Lower it gently. Do 10 repetitions on each side.
 * **Sit-to-Stand:** Using a firm chair, sit down slowly and stand back up without using your hands if possible. Do 10 repetitions. This builds the exact leg strength your real life demands.
 * **Calf Raises:** Stand behind a chair and slowly rise onto your toes, then lower back down. Repeat 15 times. Strong calves matter for balance during walking.
@@ -70,7 +70,7 @@ Chair yoga is perfect if you've got limited mobility or joint pain. You get the 
 
 What you eat and drink matters more for your balance than you'd think. Dehydration causes dizziness and unsteadiness in seniors, the problem is your thirst sensation decreases with age, so you don't feel it.
 
-Aim for 6–8 glasses of water daily, even when you're not thirsty. Herbal tea and water-rich foods like cucumber, watermelon, and broth all count.
+Aim for 6-8 glasses of water daily, even when you're not thirsty. Herbal tea and water-rich foods like cucumber, watermelon, and broth all count.
 
 These nutrients directly support balance and stability:
 

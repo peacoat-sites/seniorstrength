@@ -9,7 +9,7 @@ slug: "healthy-weight-for-seniors-what-bmi-means-after-65"
 affiliate_disclosure: true
 faqs:
  - q: "What is considered a healthy BMI for a 70-year-old?"
-   a: "Most geriatric health experts consider a BMI between 23 and 30 to be acceptable for adults over 70, though the ideal range varies by individual. A BMI slightly above the standard “normal” range of 18.5–24.9 may actually offer some health protection for older adults. Always discuss your specific BMI with your doctor in the context of your overall health, not as a standalone number."
+   a: "Most geriatric health experts consider a BMI between 23 and 30 to be acceptable for adults over 70, though the ideal range varies by individual. A BMI slightly above the standard “normal” range of 18.5-24.9 may actually offer some health protection for older adults. Always discuss your specific BMI with your doctor in the context of your overall health, not as a standalone number."
  - q: "Is it normal to gain weight after 65 even without eating more?"
    a: "Yes, this is very common and has a biological explanation. As we age, our metabolism naturally slows down, and hormonal changes, particularly in estrogen and testosterone, cause fat to redistribute, especially around the abdomen. Muscle loss also means your body burns fewer calories at rest. Small, gradual changes in diet and regular physical activity can help manage this shift."
  - q: "Should seniors try to lose weight if their BMI is in the “overweight” range?"
@@ -18,7 +18,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You step on the scale and the number stares back at you. But what does it actually mean at 65, 70, or 75 years old? Most seniors find themselves confused by **healthy weight seniors BMI** charts that were built with younger adults in mind. The real answer is that understanding your ideal weight after 65 requires more nuance than a single number on a chart.
 
@@ -48,7 +48,7 @@ These numbers were largely established using data from younger populations. For 
 
 Here's something your doctor may not have told you directly: many researchers and geriatric specialists now believe that a slightly higher BMI may actually be _protective_ for adults over 65. This phenomenon even has a name, the "obesity paradox."
 
-Studies published in _JAMA_ and _The Lancet_ suggest that seniors with a BMI in the 25–27 range often have better outcomes during illness and recovery than those at the lower end of "normal." A little extra body weight can provide energy reserves during serious illness or surgery.
+Studies published in _JAMA_ and _The Lancet_ suggest that seniors with a BMI in the 25-27 range often have better outcomes during illness and recovery than those at the lower end of "normal." A little extra body weight can provide energy reserves during serious illness or surgery.
 
 But this does **not** mean carrying excess weight is risk-free. Obesity (BMI over 30) is still linked to heart disease, type 2 diabetes, joint problems, and reduced mobility in older adults.
 
@@ -67,7 +67,7 @@ Here are some factors that affect how you should interpret your BMI after 65:
  * **Muscle mass loss:** Begins in your 30s and accelerates after 60, lowering your weight without improving health
  * **Bone density changes:** Osteoporosis can reduce bone weight, lowering BMI artificially
  * **Fat redistribution:** Fat tends to shift toward the abdomen as we age, increasing health risks even at normal BMI
- * **Height loss:** Many seniors lose 1–2 inches of height over time, which can push BMI numbers higher without any actual weight gain
+ * **Height loss:** Many seniors lose 1-2 inches of height over time, which can push BMI numbers higher without any actual weight gain
 
 Because of all this, most geriatric health specialists recommend using BMI as just one tool in a bigger picture, not the final word on your health.
 
@@ -111,7 +111,7 @@ The goal isn't to chase a perfect BMI. The goal is to feel strong, energetic, an
 
 **Don't skip meals to lose weight.** Severe calorie restriction is dangerous for seniors and can accelerate muscle loss. Focus on the quality of what you eat rather than dramatically cutting quantity.
 
-**Stay hydrated.** Seniors are more susceptible to dehydration, which can suppress appetite and cause unintended weight loss. Aim for 6–8 glasses of water daily.
+**Stay hydrated.** Seniors are more susceptible to dehydration, which can suppress appetite and cause unintended weight loss. Aim for 6-8 glasses of water daily.
 
 **Work with your healthcare team.** Your doctor, dietitian, or physical therapist can create a personalized plan that considers your medications, medical history, and personal goals. Something no BMI chart can do.
 

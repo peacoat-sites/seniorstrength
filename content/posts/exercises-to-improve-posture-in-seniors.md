@@ -23,7 +23,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-
+lastmod: 2026-07-08
 ---
 Most people assume bad posture in older adults is just gravity winning. I used to think that too. Then I spent a few months going deep on the actual biomechanics, reviewed a stack of research going back to a 2003 landmark study in the *Journal of Bone and Mineral Research* on spinal curvature and mortality risk, and started paying closer attention to what was actually happening with the clients I was seeing in their 60s, 70s, and 80s. What I found changed how I think about this almost completely.
 
@@ -57,7 +57,7 @@ Start with 2 sets of 8. This sounds easy. For many people over 65 with tight ant
 
 Underrated doesn't begin to cover it. Genuinely one of the highest-value, lowest-risk exercises on this list. You're strengthening the deep cervical flexors, which are basically the core muscles of your neck, and directly countering the forward head position.
 
-Sit or stand tall. Without tilting your head up or down, gently draw your chin straight back, creating a "double chin." Hold for 3–5 seconds. Release. The motion is horizontal, not a nod. Think of it as sliding your head backward on a shelf.
+Sit or stand tall. Without tilting your head up or down, gently draw your chin straight back, creating a "double chin." Hold for 3-5 seconds. Release. The motion is horizontal, not a nod. Think of it as sliding your head backward on a shelf.
 
 Do 10 reps, several times a day. You can do these while watching television. I've had clients who did them at every red light while driving. The frequency matters more than the intensity here.
 
@@ -65,7 +65,7 @@ Do 10 reps, several times a day. You can do these while watching television. I'v
 
 This one has a high ceiling for benefit but requires some care in execution.
 
-Place a foam roller horizontally on the floor. Sit in front of it and lower yourself back so the roller sits at the middle of your upper back, roughly at shoulder blade level. Support your head with your hands. Gently extend back over the roller, letting your upper back arch over it. Hold 20–30 seconds, then shift slightly up or down to address different segments.
+Place a foam roller horizontally on the floor. Sit in front of it and lower yourself back so the roller sits at the middle of your upper back, roughly at shoulder blade level. Support your head with your hands. Gently extend back over the roller, letting your upper back arch over it. Hold 20-30 seconds, then shift slightly up or down to address different segments.
 
 I'll be honest about this: it feels uncomfortable for most people the first few times, particularly if you have significant stiffness in the thoracic spine. Start with a softer option, like a rolled towel, before moving to a firm foam roller. And if you have osteoporosis, skip this one or discuss it with a physical therapist first. The gentle mobilization is great for most people; the compressive force at one point on a potentially fragile spine is not a risk worth taking without clearance.
 
@@ -75,21 +75,21 @@ These are done lying face-down and target the lower and mid trapezius, the muscl
 
 Lie face-down on a firm surface, arms extended above your head in a "Y" shape, thumbs pointing up. Lift your arms a few inches off the ground, hold 2 seconds, lower. That's Y. Then move arms to shoulder level for T, then bend elbows to 90 degrees at your sides for W, lifting after each position. No weight to start. Body weight is enough.
 
-This is harder than it looks. Most people can only do 5–6 reps in each position before the muscles fatigue. That's fine. That's information.
+This is harder than it looks. Most people can only do 5-6 reps in each position before the muscles fatigue. That's fine. That's information.
 
 ### Hip Flexor Stretching (Because Posture Isn't Just Above the Waist)
 
 I see this left out of almost every posture program for seniors, which baffles me. Chronically tight hip flexors pull the pelvis into an anterior tilt, which in turn causes the lower back to overarch and sets off a chain of compensations all the way up the spine. You cannot fully address upper body posture while ignoring what's happening at the hips.
 
-The low lunge stretch (or a standing hip flexor stretch if getting to the floor is difficult) held for 30–45 seconds per side, done daily, makes a real difference over 6–8 weeks. If floor work isn't accessible, a half-kneeling position on a cushioned surface works. So does a standing version: stand near a wall for balance, step one foot behind you, tuck your pelvis slightly, and lean gently forward until you feel the stretch in the front of the hip of your back leg.
+The low lunge stretch (or a standing hip flexor stretch if getting to the floor is difficult) held for 30-45 seconds per side, done daily, makes a real difference over 6-8 weeks. If floor work isn't accessible, a half-kneeling position on a cushioned surface works. So does a standing version: stand near a wall for balance, step one foot behind you, tuck your pelvis slightly, and lean gently forward until you feel the stretch in the front of the hip of your back leg.
 
 ### Seated Rows with Resistance Bands
 
 Resistance bands are genuinely one of the best tools for older adults, not because they're "easier" but because they allow strength training with a continuous, controllable load that's joint-friendly and adjustable.
 
-Sit in a sturdy chair, loop a resistance band around something stable at chest height (or use a door anchor), hold both ends with arms extended. Pull back, squeezing your shoulder blades together, elbows driving behind you. Hold 1–2 seconds at the peak. Slow, controlled return.
+Sit in a sturdy chair, loop a resistance band around something stable at chest height (or use a door anchor), hold both ends with arms extended. Pull back, squeezing your shoulder blades together, elbows driving behind you. Hold 1-2 seconds at the peak. Slow, controlled return.
 
-This directly strengthens the mid and lower trapezius and rhomboids. Do 2–3 sets of 12–15 reps. As for bands, Theraband and TherEx are reliable. A 5-pack of varying resistance levels runs about $15–$25 online, which makes this one of the most cost-effective interventions on this list.
+This directly strengthens the mid and lower trapezius and rhomboids. Do 2-3 sets of 12-15 reps. As for bands, Theraband and TherEx are reliable. A 5-pack of varying resistance levels runs about $15-$25 online, which makes this one of the most cost-effective interventions on this list.
 
 ## The Consistency Problem (This Is the Part Nobody Likes to Hear)
 

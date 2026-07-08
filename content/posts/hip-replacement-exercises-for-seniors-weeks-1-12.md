@@ -18,7 +18,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Recovering from hip replacement surgery can feel overwhelming, especially when you're not sure which movements are safe and which might set you back. If you're searching for **hip replacement exercises seniors** can rely on, you've found it. This guide walks you through a safe, week-by-week exercise plan from the day you come home all the way through your 12-week milestone.
 
@@ -44,7 +44,7 @@ Before you start the weekly plan, there are a few ground rules every senior shou
 
 These rules apply most strictly during weeks 1 through 6. Your surgeon will let you know when restrictions can be eased based on your individual progress.
 
-## Weeks 1–2: Gentle Bed and Chair Exercises to Start Recovery
+## Weeks 1-2: Gentle Bed and Chair Exercises to Start Recovery
 
 Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
@@ -68,7 +68,7 @@ Seated in a firm chair, slowly lift one knee about 2 to 3 inches off the seat, h
 
 **Pro Tip:** Set a gentle alarm on your phone every 1 to 2 hours as a reminder to do your ankle pumps and heel slides. Consistency during the first two weeks matters more than any other factor in your recovery.
 
-## Weeks 3–6: Building Strength and Stability
+## Weeks 3-6: Building Strength and Stability
 
 Photo by [Centre for Ageing Better](https://unsplash.com/@ageing_better?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
@@ -88,7 +88,7 @@ Stand behind a sturdy chair with both hands resting lightly on the back. Bend bo
 
 Your physical therapist may also begin short walking sessions on flat surfaces during this phase. Aim to increase your walking distance a little more each day without overdoing it.
 
-## Weeks 7–10: Increasing Endurance and Functional Movement
+## Weeks 7-10: Increasing Endurance and Functional Movement
 
 | Week Range | Primary Goals | Key Exercises | Duration/Frequency |
 | --- | --- | --- | --- |
@@ -112,7 +112,7 @@ Lying on your non-operated side, slowly raise your operated leg upward about 18 
 
 Many seniors can also begin short walks outdoors during this phase. Walking on slightly uneven surfaces, like a gentle path in a park, helps train your balance in a safe, natural way.
 
-## Weeks 11–12: Returning to an Active Lifestyle
+## Weeks 11-12: Returning to an Active Lifestyle
 
 The final stretch of your structured recovery is about fine-tuning your strength, improving your walking gait, and preparing for the activities you love. Most seniors notice their limp has diminished significantly by now.
 

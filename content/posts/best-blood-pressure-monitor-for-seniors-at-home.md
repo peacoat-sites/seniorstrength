@@ -18,13 +18,13 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 <div class="value-module">
  <div class="vm-head">Quick Cuff-Fit & Reading Check</div>
  <div class="vm-body">
  <p class="vm-intro">Before you trust any reading, run through this checklist. Accuracy matters, and these details make the difference.</p>
- <ol><li><strong>Cuff size check:</strong> Measure mid-upper-arm circumference; use standard cuff (22–32 cm) or large cuff (32–42 cm) accordingly, wrong size can skew readings 10–15 mmHg.</li><li><strong>Rest period:</strong> Sit quietly for 5 minutes with feet flat, back supported, arm at heart level on a table.</li><li><strong>Empty bladder first:</strong> A full bladder can add 10–15 mmHg to systolic reading.</li><li><strong>No talking during measurement:</strong> Conversation can raise reading by 10 mmHg or more.</li><li><strong>Bare arm or thin sleeve only:</strong> Thick clothing under the cuff inflates results.</li><li><strong>Take two readings 1 minute apart:</strong> Average them; if they differ by more than 5 mmHg, take a third.</li><li><strong>Log time, arm used, and posture:</strong> Consistency helps your doctor spot real trends versus measurement noise.</li><li><strong>Validate annually:</strong> Bring your monitor to a clinic visit; compare its reading with the office device, difference should be ≤5 mmHg.</li></ol>
+ <ol><li><strong>Cuff size check:</strong> Measure mid-upper-arm circumference; use standard cuff (22-32 cm) or large cuff (32-42 cm) accordingly, wrong size can skew readings 10-15 mmHg.</li><li><strong>Rest period:</strong> Sit quietly for 5 minutes with feet flat, back supported, arm at heart level on a table.</li><li><strong>Empty bladder first:</strong> A full bladder can add 10-15 mmHg to systolic reading.</li><li><strong>No talking during measurement:</strong> Conversation can raise reading by 10 mmHg or more.</li><li><strong>Bare arm or thin sleeve only:</strong> Thick clothing under the cuff inflates results.</li><li><strong>Take two readings 1 minute apart:</strong> Average them; if they differ by more than 5 mmHg, take a third.</li><li><strong>Log time, arm used, and posture:</strong> Consistency helps your doctor spot real trends versus measurement noise.</li><li><strong>Validate annually:</strong> Bring your monitor to a clinic visit; compare its reading with the office device, difference should be ≤5 mmHg.</li></ol>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
@@ -130,8 +130,8 @@ Two numbers. **Systolic** on top (when your heart beats), **diastolic** on botto
 Here's the American Heart Association breakdown:
 
 * **Normal:** Less than 120/80 mmHg
-* **Elevated:** 120–129 systolic and less than 80 diastolic
-* **High Blood Pressure Stage 1:** 130–139/80–89 mmHg
+* **Elevated:** 120-129 systolic and less than 80 diastolic
+* **High Blood Pressure Stage 1:** 130-139/80-89 mmHg
 * **High Blood Pressure Stage 2:** 140 or higher/90 or higher mmHg
 * **Hypertensive Crisis:** Higher than 180/120 mmHg, get emergency care immediately
 

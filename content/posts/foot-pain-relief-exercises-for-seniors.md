@@ -18,7 +18,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If you've ever hobbled out of bed in the morning and winced the moment your feet hit the floor, you're far from alone. Millions of seniors deal with daily foot discomfort that makes every step feel like a chore. The good news is that **foot pain relief exercises for seniors** can make a real, lasting difference, no expensive treatments or complicated equipment required.
 
@@ -44,7 +44,7 @@ Always perform these exercises on a stable surface, and keep a chair or wall nea
   * Stay consistent, even 10 minutes a day adds up to big results
   * Pair exercises with rest and gentle icing if inflammation is present
 
-**Pro Tip:** The best time to do foot exercises is right after a warm shower or bath. Heat loosens tight muscles and tendons, making your exercises more effective and comfortable. Keep a small towel on the bathroom floor and spend 5–10 minutes working through a few moves while your feet are still warm.
+**Pro Tip:** The best time to do foot exercises is right after a warm shower or bath. Heat loosens tight muscles and tendons, making your exercises more effective and comfortable. Keep a small towel on the bathroom floor and spend 5-10 minutes working through a few moves while your feet are still warm.
 
 ## 5 Gentle Foot Pain Relief Exercises to Try Today
 

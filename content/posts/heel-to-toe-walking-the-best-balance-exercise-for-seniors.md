@@ -18,7 +18,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Have you ever felt a sudden wobble while walking across the room, or grabbed a countertop just to steady yourself? Millions of seniors deal with balance challenges every single day. The good news: a simple, no-equipment exercise called **heel-to-toe walking** can make a real difference, and you can start practicing it today.
 
@@ -86,9 +86,9 @@ Start with just two to three sessions per week, completing two or three lengths 
 
 Many seniors find it helpful to tie the exercise to something they already do, for example, doing a few heel-to-toe lengths before their morning coffee or after an evening walk. Linking a new habit to an existing routine makes it easier to stick with.
 
-  * **Weeks 1–2:** 2 sessions per week, 2 lengths each (use a wall for support)
-  * **Weeks 3–4:** 3 sessions per week, 3 lengths each (try without wall support)
-  * **Month 2 and beyond:** Daily practice, 4–6 lengths, arms crossed or eyes briefly closed for added challenge
+  * **Weeks 1-2:** 2 sessions per week, 2 lengths each (use a wall for support)
+  * **Weeks 3-4:** 3 sessions per week, 3 lengths each (try without wall support)
+  * **Month 2 and beyond:** Daily practice, 4-6 lengths, arms crossed or eyes briefly closed for added challenge
 
 ## Ways to Make It More Challenging as You Progress
 

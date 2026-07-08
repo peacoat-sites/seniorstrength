@@ -18,7 +18,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-
+lastmod: 2026-07-08
 ---
 You wake up and immediately feel it: stiffness in your back, your hips, maybe your knees. For anyone over 70, those first few minutes out of bed can feel like a real struggle. The good news is simple. A 10-minute routine of morning stretches can transform how you feel all day long. No gym, no equipment, no prior experience needed.
 
@@ -26,7 +26,7 @@ You wake up and immediately feel it: stiffness in your back, your hips, maybe yo
  <div class="vm-head">Stretch Sequence with Hold Times</div>
  <div class="vm-body">
  <p class="vm-intro">Use this reference to pace your 10-minute routine with recommended durations based on commonly accepted guidelines for older adults.</p>
- <table><caption>10-Minute Senior Stretch Sequence (Recommended Hold Times)</caption><thead><tr><th>Order</th><th>Stretch</th><th>Position</th><th>Hold Duration</th><th>Repetitions</th><th>Target Area</th></tr></thead><tbody><tr><td>1</td><td>Ankle Circles</td><td>Lying or seated</td><td>5 sec per circle</td><td>5 each direction, each foot</td><td>Ankles, circulation</td></tr><tr><td>2</td><td>Knee-to-Chest</td><td>Lying on back</td><td>20–30 sec</td><td>2 each leg</td><td>Lower back, hips</td></tr><tr><td>3</td><td>Seated Cat-Cow</td><td>Chair (edge of seat)</td><td>5 sec each position</td><td>5 full cycles</td><td>Spine mobility</td></tr><tr><td>4</td><td>Neck Tilts</td><td>Seated</td><td>15–20 sec</td><td>2 each side</td><td>Neck, upper shoulders</td></tr><tr><td>5</td><td>Shoulder Rolls</td><td>Seated or standing</td><td>3 sec per roll</td><td>10 forward, 10 backward</td><td>Shoulders, upper back</td></tr><tr><td>6</td><td>Seated Hamstring Stretch</td><td>Chair (one leg extended)</td><td>20–30 sec</td><td>2 each leg</td><td>Back of thighs</td></tr><tr><td>7</td><td>Calf Stretch</td><td>Standing (wall support)</td><td>20–30 sec</td><td>2 each leg</td><td>Calves, Achilles</td></tr><tr><td>8</td><td>Chest Opener</td><td>Seated or standing</td><td>15–20 sec</td><td>3 times</td><td>Chest, posture</td></tr></tbody><tfoot><tr><td colspan="6">Total time: approximately 10 minutes. Rest 5–10 seconds between stretches as needed. Always use chair or wall support for standing stretches.</td></tr></tfoot></table>
+ <table><caption>10-Minute Senior Stretch Sequence (Recommended Hold Times)</caption><thead><tr><th>Order</th><th>Stretch</th><th>Position</th><th>Hold Duration</th><th>Repetitions</th><th>Target Area</th></tr></thead><tbody><tr><td>1</td><td>Ankle Circles</td><td>Lying or seated</td><td>5 sec per circle</td><td>5 each direction, each foot</td><td>Ankles, circulation</td></tr><tr><td>2</td><td>Knee-to-Chest</td><td>Lying on back</td><td>20-30 sec</td><td>2 each leg</td><td>Lower back, hips</td></tr><tr><td>3</td><td>Seated Cat-Cow</td><td>Chair (edge of seat)</td><td>5 sec each position</td><td>5 full cycles</td><td>Spine mobility</td></tr><tr><td>4</td><td>Neck Tilts</td><td>Seated</td><td>15-20 sec</td><td>2 each side</td><td>Neck, upper shoulders</td></tr><tr><td>5</td><td>Shoulder Rolls</td><td>Seated or standing</td><td>3 sec per roll</td><td>10 forward, 10 backward</td><td>Shoulders, upper back</td></tr><tr><td>6</td><td>Seated Hamstring Stretch</td><td>Chair (one leg extended)</td><td>20-30 sec</td><td>2 each leg</td><td>Back of thighs</td></tr><tr><td>7</td><td>Calf Stretch</td><td>Standing (wall support)</td><td>20-30 sec</td><td>2 each leg</td><td>Calves, Achilles</td></tr><tr><td>8</td><td>Chest Opener</td><td>Seated or standing</td><td>15-20 sec</td><td>3 times</td><td>Chest, posture</td></tr></tbody><tfoot><tr><td colspan="6">Total time: approximately 10 minutes. Rest 5-10 seconds between stretches as needed. Always use chair or wall support for standing stretches.</td></tr></tfoot></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
@@ -61,7 +61,7 @@ This hits the areas that matter most: neck, shoulders, back, hips, legs. About o
 
 ### 1. Neck Side Stretch (1 minute)
 
-Sit upright. Slowly tilt your right ear toward your right shoulder and hold for 15–20 seconds. Switch sides. This loosens the neck muscles that tighten overnight.
+Sit upright. Slowly tilt your right ear toward your right shoulder and hold for 15-20 seconds. Switch sides. This loosens the neck muscles that tighten overnight.
 
 ### 2. Shoulder Rolls (1 minute)
 
@@ -73,7 +73,7 @@ Sit up tall, interlace your fingers behind your back, and gently squeeze your sh
 
 ### 4. Seated Forward Bend (1 minute)
 
-Hinge forward at the hips from your chair, letting your hands rest on your shins or thighs. Hold for 20–30 seconds and breathe deeply. You'll feel it through your lower back and hamstrings.
+Hinge forward at the hips from your chair, letting your hands rest on your shins or thighs. Hold for 20-30 seconds and breathe deeply. You'll feel it through your lower back and hamstrings.
 
 ### 5. Ankle Circles (1 minute)
 
@@ -81,7 +81,7 @@ Lift one foot slightly and rotate your ankle in slow circles: five times clockwi
 
 ### 6. Seated Knee-to-Chest (1 minute)
 
-While seated, gently bring one knee toward your chest, holding with both hands for 15–20 seconds. Switch legs. This relieves lower back and hip flexor tightness.
+While seated, gently bring one knee toward your chest, holding with both hands for 15-20 seconds. Switch legs. This relieves lower back and hip flexor tightness.
 
 ### 7. Standing Calf Stretch (1 minute)
 
@@ -93,7 +93,7 @@ Still holding your chair, step forward with your right foot and shift your weigh
 
 ### 9. Standing Side Stretch (1 minute)
 
-Stand tall holding your chair with one hand. Raise your opposite arm overhead and lean gently to the side, creating one long line from hip to fingertips. Hold 15–20 seconds per side. This opens up your entire side beautifully.
+Stand tall holding your chair with one hand. Raise your opposite arm overhead and lean gently to the side, creating one long line from hip to fingertips. Hold 15-20 seconds per side. This opens up your entire side beautifully.
 
 ### 10. Deep Breathing Finish (1 minute)
 

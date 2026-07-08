@@ -13,12 +13,12 @@ faqs:
  - q: "Is walking enough exercise if I have diabetes?"
    a: "Walking is genuinely one of the best exercises for seniors with diabetes, it’s low-impact, free, and highly effective at improving insulin sensitivity. Studies show that a 15-minute walk after each meal can significantly reduce post-meal blood sugar spikes. However, adding some strength training twice a week will give you additional benefits that walking alone can’t provide, including better muscle mass and metabolic health."
  - q: "What should I eat before and after exercise?"
-   a: "If your blood sugar is in a safe range before exercise, you may not need to eat anything beforehand. If it’s on the lower end (below 100 mg/dL), a small snack with 15–20 grams of carbohydrates and some protein, like apple slices with peanut butter, works well. After exercise, a balanced meal or snack with protein and complex carbohydrates helps your muscles recover and stabilizes blood sugar. Always work with your dietitian or diabetes care team to personalize your nutrition plan. Exercise is one of the most empowering choices you can make for your diabetes and your overall wellbeing. You don’"
+   a: "If your blood sugar is in a safe range before exercise, you may not need to eat anything beforehand. If it’s on the lower end (below 100 mg/dL), a small snack with 15-20 grams of carbohydrates and some protein, like apple slices with peanut butter, works well. After exercise, a balanced meal or snack with protein and complex carbohydrates helps your muscles recover and stabilizes blood sugar. Always work with your dietitian or diabetes care team to personalize your nutrition plan. Exercise is one of the most empowering choices you can make for your diabetes and your overall wellbeing. You don’"
 author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Managing blood sugar while staying active can feel like walking a tightrope. One wrong move and you're convinced your glucose will spike, or worse, you'll pull something. Here's the thing: **exercises for seniors with diabetes** aren't just safe. They're arguably your most powerful tool for managing your condition and feeling genuinely better on a daily basis.
 
@@ -40,7 +40,7 @@ Before you lace up your sneakers, talk to your doctor. Your physician needs to r
 
 Here's what you need to handle before starting a new routine:
 
- * **Check your blood sugar before and after exercise**, aim to start with levels between 100–250 mg/dL
+ * **Check your blood sugar before and after exercise**, aim to start with levels between 100-250 mg/dL
  * **Stay hydrated**, dehydration affects glucose levels more than most people realize
  * **Wear proper footwear**, diabetic neuropathy can numb your feet, making supportive shoes critical
  * **Carry a fast-acting carbohydrate**, glucose tablets or juice can correct hypoglycemia quickly
@@ -48,7 +48,7 @@ Here's what you need to handle before starting a new routine:
 
 Know the warning signs of low blood sugar during exercise: shakiness, sweating, confusion, or sudden weakness. Stop immediately and treat with a fast-acting sugar if these show up.
 
-**Pro Tip:** Check your blood sugar about 30 minutes before exercising. If it's below 100 mg/dL, eat a small snack with 15–20 grams of carbohydrates, like a banana or a few crackers, before you begin. This simple habit can prevent dangerous lows during your workout.
+**Pro Tip:** Check your blood sugar about 30 minutes before exercising. If it's below 100 mg/dL, eat a small snack with 15-20 grams of carbohydrates, like a banana or a few crackers, before you begin. This simple habit can prevent dangerous lows during your workout.
 
 ## The Best Types of Exercise for Seniors With Diabetes
 
@@ -74,7 +74,7 @@ Low-impact aerobic options that actually work:
  * Chair dancing or low-impact aerobics classes
  * [Tai chi](/tai-chi-for-seniors-best-beginner-routines-for-balance/), improves balance, cuts stress, and supports glucose control
 
-Start with 10–15 minutes per session and work up to 30 minutes most days of the week. Consistency beats intensity every single time.
+Start with 10-15 minutes per session and work up to 30 minutes most days of the week. Consistency beats intensity every single time.
 
 ### Strength Training
 
@@ -88,13 +88,13 @@ Effective options:
  * Bodyweight exercises like sit-to-stands and wall push-ups
  * Chair-based strength exercises for those with balance concerns
 
-Begin with one set of 10–15 repetitions per exercise and progress slowly. Your muscles and joints need time to adapt.
+Begin with one set of 10-15 repetitions per exercise and progress slowly. Your muscles and joints need time to adapt.
 
 ### Flexibility and Balance Training
 
 Stretching and balance work don't burn as many calories. That doesn't make them optional. Falls are a leading cause of serious injury in older adults, and diabetes can affect your nerve function and balance.
 
-Yoga, gentle stretching routines, and balance exercises like standing on one foot protect you from falls and keep your body moving freely. Try to include some flexibility and balance work every day, even just 5–10 minutes.
+Yoga, gentle stretching routines, and balance exercises like standing on one foot protect you from falls and keep your body moving freely. Try to include some flexibility and balance work every day, even just 5-10 minutes.
 
 ## Exercises to Approach With Caution
 
@@ -118,7 +118,7 @@ The best routine is one you'll actually stick with. Variety keeps things interes
 Here's a sample weekly structure for beginners:
 
  * **Monday:** 20-minute walk + 5 minutes of stretching
- * **Tuesday:** Chair-based strength training (15–20 minutes)
+ * **Tuesday:** Chair-based strength training (15-20 minutes)
  * **Wednesday:** Gentle yoga or tai chi (20 minutes)
  * **Thursday:** 20-minute walk or water aerobics
  * **Friday:** Strength training with resistance bands

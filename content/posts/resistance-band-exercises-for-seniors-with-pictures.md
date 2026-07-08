@@ -11,14 +11,14 @@ faqs:
   - q: "Are resistance bands safe if I have arthritis?"
     a: "Yes, resistance bands are often recommended by physical therapists for people with arthritis because they allow smooth, low-impact movement. Always start with a very light band and avoid any exercise that causes sharp joint pain. Mild muscle fatigue is normal, joint pain is a signal to stop. Check with your doctor before starting any new exercise program."
   - q: "How do I know if I’m using the right resistance level?"
-    a: "The right band should make the last 2–3 reps of each set feel challenging but still doable with good form. If you finish 15 reps feeling like you could do 15 more easily, it’s time to try a slightly heavier band. If you can’t complete 8 reps without losing form or holding your breath, drop down to a lighter band."
+    a: "The right band should make the last 2-3 reps of each set feel challenging but still doable with good form. If you finish 15 reps feeling like you could do 15 more easily, it’s time to try a slightly heavier band. If you can’t complete 8 reps without losing form or holding your breath, drop down to a lighter band."
   - q: "Can resistance bands really build muscle, or are they just for rehab?"
     a: "Resistance bands absolutely build real muscle, research backs this up. A 2019 study published in the journal SAGE Open Medicine found that resistance band training produced similar muscle strength gains to traditional weight training. The key is progressive overload, gradually making the exercises more challenging over time, just as you would with weights."
 author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You want to stay strong and active, but the gym feels intimidating, and your joints aren't exactly thrilled about heavy weights anymore. Sound familiar? Resistance band exercises for seniors are a safe, affordable, and surprisingly effective way to build strength right from your living room. These stretchy, colorful bands are gentle on your joints, easy to store, and powerful enough to challenge your muscles at any fitness level.
 
@@ -68,7 +68,7 @@ You should feel slightly warmer and looser, not tired or out of breath.
 
 ## 7 Resistance Band Exercises for Seniors (With Picture Descriptions)
 
-Do each exercise slowly and with control. Aim for 10–15 repetitions per exercise. Rest 30–60 seconds between. If 10 reps feels too easy, increase resistance. If it hurts (not just challenges), stop and rest.
+Do each exercise slowly and with control. Aim for 10-15 repetitions per exercise. Rest 30-60 seconds between. If 10 reps feels too easy, increase resistance. If it hurts (not just challenges), stop and rest.
 
 ### 1. Seated Row
 
@@ -122,7 +122,7 @@ Keep a simple notebook. Write down which exercises you did, how many reps, and h
 
 ## You've Got This
 
-Starting a new exercise routine can feel like a big step. But resistance bands make it wonderfully manageable. With just a few dollars, some floor space, and 20–30 minutes a few times a week, you'll genuinely build strength, improve balance, and feel more confident in your body. Every rep is an investment in your independence and your quality of life.
+Starting a new exercise routine can feel like a big step. But resistance bands make it wonderfully manageable. With just a few dollars, some floor space, and 20-30 minutes a few times a week, you'll genuinely build strength, improve balance, and feel more confident in your body. Every rep is an investment in your independence and your quality of life.
 
 Photo by [Customerbox](https://unsplash.com/@customerbox?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 

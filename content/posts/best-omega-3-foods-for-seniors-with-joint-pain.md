@@ -18,7 +18,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 ## When Every Step Hurts: Understanding Joint Pain in Seniors
 
@@ -60,7 +60,7 @@ Fatty fish is the gold standard for omega-3s. You get high amounts of EPA and DH
 
 Eat fatty fish two to three times a week. Here are the actual best options:
 
-* **Salmon**, one of the richest sources, about 1,500–2,000 mg of omega-3s per 3-ounce serving. Wild-caught Atlantic or Pacific salmon works best.
+* **Salmon**, one of the richest sources, about 1,500-2,000 mg of omega-3s per 3-ounce serving. Wild-caught Atlantic or Pacific salmon works best.
 * **Sardines**, cheap, come in a can, and loaded with omega-3s. Plus they're high in calcium for your bones.
 * **Mackerel**, often overlooked, but it delivers over 4,000 mg of omega-3s per serving. Grill it with lemon and herbs.
 * **Herring**, a Nordic favorite with incredibly high EPA and DHA. Smoked herring on whole grain crackers is a solid five-minute snack.

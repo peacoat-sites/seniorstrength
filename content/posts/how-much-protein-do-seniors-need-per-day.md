@@ -18,7 +18,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You eat what feels like a perfectly healthy meal, yet you still feel tired, weak, or notice your muscles aren't as strong as they used to be. Sound familiar? Many seniors experience this frustrating cycle without realizing the culprit might be hiding right on their plate: not enough protein. Understanding **how much protein seniors need daily** is one of the most important steps you can take to protect your strength, energy, and independence as you age.
 
@@ -50,7 +50,7 @@ Here's what that actually looks like:
 
 These numbers may feel large at first. Once you start paying attention to your food choices, though, hitting these targets becomes very manageable.
 
-**Pro Tip:** Spread your protein intake evenly across all three meals rather than loading it all at dinner. Research shows your muscles absorb and use protein more efficiently when you consume 25–30 grams per meal throughout the day.
+**Pro Tip:** Spread your protein intake evenly across all three meals rather than loading it all at dinner. Research shows your muscles absorb and use protein more efficiently when you consume 25-30 grams per meal throughout the day.
 
 ## The Best Protein Sources for Seniors
 
@@ -99,7 +99,7 @@ Knowing what you need is one thing. Actually getting there in real life is anoth
 
 Here are some easy, practical ways to add more protein to your day without completely overhauling your diet:
 
-  * **Start your morning with eggs or Greek yogurt**, both deliver 15–20 grams of protein at breakfast
+  * **Start your morning with eggs or Greek yogurt**, both deliver 15-20 grams of protein at breakfast
   * **Add a handful of nuts** to your oatmeal, salad, or as an afternoon snack
   * **Stir protein powder into smoothies or soups**, a flavorless whey or pea protein powder is nearly undetectable
   * **Choose cottage cheese as a snack** instead of crackers or chips, it provides about 25 grams per cup

@@ -23,7 +23,7 @@ faqs:
     a: "Generally yes, and in many cases it's actively recommended, but 'resistance training' covers a wide range of exercises and some are more appropriate than others depending on your specific condition. A physical therapist or certified trainer experienced with older adults can help you identify safe movement patterns. High-impact loading on fragile bone is a real concern, but controlled resistance training done with proper form tends to be well-tolerated and can actually improve bone density over time."
   - q: "What if I can't afford a gym or a personal trainer?"
     a: "You don't need either to start making real progress. A basic resistance band set ($15-30), a sturdy chair, and a countertop for balance support cover the foundational movements. YouTube channels like HASfit and MedBridge have well-regarded beginner programs designed for older adults. Also worth checking: many Medicare Advantage plans include a gym benefit (SilverSneakers is the most common) that covers membership costs entirely."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people don't realize they've already lost a significant amount of muscle by the time they notice anything's wrong.
@@ -141,6 +141,6 @@ A third example worth including:
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

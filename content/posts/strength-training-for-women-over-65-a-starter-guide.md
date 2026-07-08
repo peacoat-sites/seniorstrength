@@ -18,7 +18,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've noticed it too, haven't you? Climbing stairs feels harder than it used to. Carrying groceries from the car wears you out. Getting up from a low chair takes a little more effort each year. If any of this sounds familiar, you're not alone. And there's something you can do about it. **Strength training for women over 65** is one of the most powerful tools available to help you feel stronger, move more freely, and live more independently. It's never too late to start.
 
@@ -62,7 +62,7 @@ Here are six beginner-friendly exercises to build your foundation:
 
 * **Chair squats:** Stand in front of a sturdy chair, lower yourself slowly as if sitting down, then rise back up. This builds powerful leg and glute muscles while practicing a movement you use every single day.
 * **Wall push-ups:** Stand facing a wall, place your hands flat against it, and do a push-up motion. This strengthens your chest, shoulders, and arms without the pressure of a floor push-up.
-* **Seated dumbbell curls:** Sitting in a chair with light dumbbells (even 2–5 lbs to start), bend your arms up toward your shoulders and lower slowly. This builds bicep strength for lifting and carrying.
+* **Seated dumbbell curls:** Sitting in a chair with light dumbbells (even 2-5 lbs to start), bend your arms up toward your shoulders and lower slowly. This builds bicep strength for lifting and carrying.
 * **Standing calf raises:** Hold a counter or chair back for balance, rise up on your toes, then slowly lower. This strengthens the calves and improves ankle stability.
 * **Glute bridges:** Lie on your back with knees bent and feet flat. Press your hips up toward the ceiling, hold briefly, then lower. This strengthens hips, glutes, and lower back.
 * **Resistance band rows:** Attach a light resistance band to a door handle, hold both ends, and pull toward your chest. This builds upper back strength that supports good posture.

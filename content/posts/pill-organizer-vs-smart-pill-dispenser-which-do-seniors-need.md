@@ -18,7 +18,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You set your medications out on the kitchen counter, fully intending to take them after breakfast. Then the phone rings, a neighbor stops by, and suddenly it's dinnertime, and you have no idea whether you took your morning pills or not. Sound familiar? You're not alone. Millions of older adults struggle with managing multiple medications every day, and choosing the right pill organizer for seniors can make all the difference between staying on track and risking a missed or double dose.
 
@@ -52,7 +52,7 @@ Here's the catch: a standard pill organizer doesn't remind you. It sits quietly 
 
 A smart pill dispenser is a more advanced device that stores your medications and actively reminds you to take them. Most models use audible alarms, flashing lights, or voice prompts to alert you at the right time. Some connect to a smartphone app so a family member or caregiver can monitor whether doses have been taken remotely.
 
-Smart dispensers range widely in price. A basic alarm pill box runs around $30. Fully automated models that dispense one dose at a time? $60–$150 or more. Higher-end versions like the Hero or MedMinder can even notify a loved one if a dose is missed.
+Smart dispensers range widely in price. A basic alarm pill box runs around $30. Fully automated models that dispense one dose at a time? $60-$150 or more. Higher-end versions like the Hero or MedMinder can even notify a loved one if a dose is missed.
 
 A smart pill dispenser is likely the better choice if you:
 
@@ -82,7 +82,7 @@ Here's what matters most, laid out clearly.
 
 **Traditional Pill Organizer:**
 
-  * Cost: $5–$30
+  * Cost: $5-$30
   * No reminders or alarms
   * Portable and travel-friendly
   * No batteries or charging required
@@ -91,7 +91,7 @@ Here's what matters most, laid out clearly.
 
 **Smart Pill Dispenser:**
 
-  * Cost: $30–$150+
+  * Cost: $30-$150+
   * Built-in alarms, lights, or voice alerts
   * Some models track missed doses remotely
   * Requires charging or power outlet

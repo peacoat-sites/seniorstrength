@@ -18,7 +18,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You lace up your shoes, step outside, and wonder: _am I doing enough?_ Maybe your doctor mentioned getting more steps in, or you caught something on the news about 10,000 steps. But the idea of walking that much can feel overwhelming, especially if your knees ache, your energy tanks by afternoon, or you haven't been active in years. Here's the thing though: a walking workout for seniors doesn't have to be extreme. It just needs to be smart, steady, and built around _your_ body.
 
@@ -52,11 +52,11 @@ Most sedentary adults average between 2,000 and 4,000 steps per day. Wherever yo
 
 Slow and steady actually wins this. Pushing too hard too fast is the #1 reason people over 60 get injured, burn out, and quit. Here's a gentle ramp designed specifically for seniors:
 
- * **Weeks 1–2:** Walk for 10 to 15 minutes once a day, five days a week. Keep it comfortable and easy.
- * **Weeks 3–4:** Add a second short walk in the afternoon, even just 10 minutes after dinner.
- * **Weeks 5–6:** Extend your main walk to 20–25 minutes and keep your second walk steady.
- * **Weeks 7–8:** Try one longer walk (30–40 minutes) on the weekend and maintain shorter walks on weekdays.
- * **Weeks 9–12:** Combine walks throughout the day to reach your step target gradually and comfortably.
+ * **Weeks 1-2:** Walk for 10 to 15 minutes once a day, five days a week. Keep it comfortable and easy.
+ * **Weeks 3-4:** Add a second short walk in the afternoon, even just 10 minutes after dinner.
+ * **Weeks 5-6:** Extend your main walk to 20-25 minutes and keep your second walk steady.
+ * **Weeks 7-8:** Try one longer walk (30-40 minutes) on the weekend and maintain shorter walks on weekdays.
+ * **Weeks 9-12:** Combine walks throughout the day to reach your step target gradually and comfortably.
 
 Three 10-minute walks add up to the same benefit as one 30-minute walk, according to the American Heart Association. You don't need one long block of time.
 

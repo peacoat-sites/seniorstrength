@@ -18,7 +18,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-
+lastmod: 2026-07-08
 ---
 Picture this: you wake up in the morning, and before your feet even hit the floor, your knees are already reminding you they're there. That familiar ache can make the idea of exercise feel impossible, or even risky. But here's the good news: **chair exercises for seniors** are one of the safest, most effective ways to stay active, build strength, and improve your overall health, even when your knees aren't cooperating.
 
@@ -52,7 +52,7 @@ A solid dining room chair or a straight-backed kitchen chair usually works perfe
 
 Even though you're seated, a brief warm-up helps prepare your muscles and joints for movement. It increases blood flow and makes exercise more comfortable and more effective.
 
-Spend about 3–5 minutes doing these gentle warm-up movements before your workout:
+Spend about 3-5 minutes doing these gentle warm-up movements before your workout:
 
   * **Seated march**, lift one knee up slowly, lower it, then alternate sides for 30 seconds
   * **Ankle circles**, lift one foot slightly and rotate the ankle in slow circles, 5 times in each direction
@@ -63,11 +63,11 @@ These simple moves tell your body, "It's time to move," without shocking stiff j
 
 ## The Best Chair Exercises for Seniors With Bad Knees
 
-The following exercises are designed to be gentle on your knees while still building real strength and improving flexibility. Try to do 10–15 repetitions of each exercise, and rest as needed between movements.
+The following exercises are designed to be gentle on your knees while still building real strength and improving flexibility. Try to do 10-15 repetitions of each exercise, and rest as needed between movements.
 
 ### 1. Seated Leg Extensions
 
-Sit up tall in your chair. Slowly straighten one leg until it's parallel to the floor, hold for 2–3 seconds, then gently lower it back down. Alternate legs. This strengthens your quadriceps (the muscles along the front of your thigh), which directly support your knee joint.
+Sit up tall in your chair. Slowly straighten one leg until it's parallel to the floor, hold for 2-3 seconds, then gently lower it back down. Alternate legs. This strengthens your quadriceps (the muscles along the front of your thigh), which directly support your knee joint.
 
 ### 2. Seated Calf Raises
 
@@ -87,13 +87,13 @@ Hold the sides of your chair for stability. Keeping your leg straight, slowly li
 
 ### 6. Seated Chest Press with Arm Reach
 
-Don't forget your upper body! Sit tall and reach both arms straight out in front of you, then pull them back in toward your chest. Repeat 12–15 times. This works your chest, shoulders, and arms, and improves posture, which actually helps take load off your knees when you stand and walk.
+Don't forget your upper body! Sit tall and reach both arms straight out in front of you, then pull them back in toward your chest. Repeat 12-15 times. This works your chest, shoulders, and arms, and improves posture, which actually helps take load off your knees when you stand and walk.
 
 ## Adding Gentle Stretches to Reduce Stiffness
 
 Stretching after your exercises is just as important as the workout itself. It helps maintain flexibility, reduces soreness, and can actually ease knee pain over time by keeping the surrounding muscles long and supple.
 
-Try these simple stretches, holding each one for 20–30 seconds:
+Try these simple stretches, holding each one for 20-30 seconds:
 
   * **Seated hamstring stretch**, extend one leg straight, flex your foot, and gently lean forward from your hips until you feel a stretch in the back of your thigh
   * **Seated quad stretch**, sit toward the edge of your chair, extend one leg behind you with your foot flat on the floor, and hold gently
@@ -108,7 +108,7 @@ Consistency beats intensity when you're managing knee pain. Aim for **3 to 5 ses
 
 Start slow. Even 10 minutes a day, three days a week is a wonderful beginning. As your strength builds and your comfort level increases, you can gradually extend the time or add more repetitions. Progress at your own pace, and celebrate every small victory along the way.
 
-You'll probably notice improvements in just 2–3 weeks: less stiffness in the morning, greater ease when getting up from a chair, and more confidence on your feet.
+You'll probably notice improvements in just 2-3 weeks: less stiffness in the morning, greater ease when getting up from a chair, and more confidence on your feet.
 
 ## Recommended Resources
 

@@ -18,7 +18,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've noticed it creeping up on you, that stubborn belly that definitely wasn't there ten years ago. No matter what you try, it won't budge. Millions of people over 60 deal with this exact problem. Here's the thing: you can lose belly fat after 60 safely and effectively. You just need an approach that actually fits your body at this stage of life.
 
@@ -26,10 +26,10 @@ You've noticed it creeping up on you, that stubborn belly that definitely wasn't
 
 Your hormones are shifting. Women's estrogen drops, men's testosterone declines, and both changes signal your body to park more fat around your midsection. It's biology, not laziness.
 
-Your metabolism also slows down naturally as you age, roughly 1–2% per decade after 20. You're probably less active than you were in your 40s. Muscle mass decreases, which means fewer calories burned every single day. It's a perfect storm. But storms pass.
+Your metabolism also slows down naturally as you age, roughly 1-2% per decade after 20. You're probably less active than you were in your 40s. Muscle mass decreases, which means fewer calories burned every single day. It's a perfect storm. But storms pass.
 
   * Hormonal changes redirect fat storage to the belly area
-  * Metabolism slows by roughly 1–2% per decade after 20
+  * Metabolism slows by roughly 1-2% per decade after 20
   * Loss of muscle mass (sarcopenia) reduces calorie burning
   * Stress hormones like cortisol can increase abdominal fat
   * Poor sleep quality, common after 60, is linked to weight gain
@@ -38,7 +38,7 @@ Your metabolism also slows down naturally as you age, roughly 1–2% per decade 
 
 This matters beyond how you look. Visceral fat, the deep belly fat wrapped around your organs, links directly to heart disease, type 2 diabetes, and even cognitive decline in older adults. It's serious.
 
-But here's the good news: even modest belly fat loss changes things. Losing just 5–10% of your body weight lowers blood pressure, improves blood sugar control, and reduces inflammation. Small wins compound fast.
+But here's the good news: even modest belly fat loss changes things. Losing just 5-10% of your body weight lowers blood pressure, improves blood sugar control, and reduces inflammation. Small wins compound fast.
 
 ## Safe and Effective Exercise Strategies for Seniors
 

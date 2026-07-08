@@ -11,14 +11,14 @@ faqs:
  - q: "Is tai chi safe for seniors with arthritis or knee problems?"
    a: "Yes, in most cases tai chi is excellent for people with arthritis. The slow, gentle movements help lubricate the joints and reduce stiffness without high-impact stress. That said, always consult your doctor or physical therapist first, especially if you have severe knee or hip conditions. Many practitioners also perform tai chi while seated in a chair, which makes it accessible for virtually any mobility level."
  - q: "How long before seniors see results from tai chi?"
-   a: "Most beginners notice improvements in balance, posture, and energy levels within three to four weeks of consistent practice. More significant benefits, like reduced fall risk and improved joint flexibility, typically become noticeable after two to three months. The key word is consistent. Even short sessions of 10–15 minutes practiced regularly outperform occasional longer sessions."
+   a: "Most beginners notice improvements in balance, posture, and energy levels within three to four weeks of consistent practice. More significant benefits, like reduced fall risk and improved joint flexibility, typically become noticeable after two to three months. The key word is consistent. Even short sessions of 10-15 minutes practiced regularly outperform occasional longer sessions."
  - q: "Can seniors do tai chi if they’ve never exercised before?"
    a: "Absolutely. Tai chi is actually one of the best starting points for seniors who are completely new to exercise. There are no complicated athletic skills to learn, no minimum fitness level required, and the pace is entirely self-directed. Many seniors in their 70s and 80s begin tai chi with no prior exercise history and go on to practice it joyfully for years. It truly is a practice for every body, at every starting point."
 author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-
+lastmod: 2026-07-08
 ---
 ## When Balance Becomes a Daily Worry
 
@@ -58,7 +58,7 @@ Keep these beginner tips in mind:
 * **Wear supportive, flat-soled shoes**, avoid thick-soled sneakers that reduce ground feel
 * **Practice on a non-slip surface**, a yoga mat or carpeted floor is ideal
 * **Have a chair nearby** for support when you first begin
-* **Start with just 10–15 minutes** per session and gradually increase
+* **Start with just 10-15 minutes** per session and gradually increase
 * **Never push through pain**, tai chi should feel gentle and comfortable
 * **Wear loose, comfortable clothing** that allows free movement
 
@@ -72,7 +72,7 @@ You don't need to learn an entire 24-movement form on day one. These five founda
 
 ### 1. Wuji Stance (Standing Meditation)
 
-Stand with your feet shoulder-width apart, knees very slightly bent, and arms relaxed at your sides. Focus on your breathing and imagine roots growing from your feet into the ground. Hold for 1–3 minutes.
+Stand with your feet shoulder-width apart, knees very slightly bent, and arms relaxed at your sides. Focus on your breathing and imagine roots growing from your feet into the ground. Hold for 1-3 minutes.
 
 This foundational stance teaches body awareness and builds quiet strength in the legs and core without any movement required.
 

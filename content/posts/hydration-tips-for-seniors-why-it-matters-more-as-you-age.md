@@ -18,7 +18,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've just finished a quiet morning at home and realize you haven't had a single glass of water yet, and it's already noon. Sound familiar? Many older adults find themselves going hours without drinking, often without feeling noticeably thirsty. That's actually one of the most important things to understand about aging and hydration. These **hydration tips for seniors** can make a real difference in how you feel, think, and move every single day.
 
@@ -49,7 +49,7 @@ The good news? Most of these risks drop significantly when you make consistent h
 
 Photo by [Supattra Khorasri](https://unsplash.com/@sup4114kho?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-The old "eight glasses a day" rule is a helpful starting point, but individual needs vary. Most health experts recommend that older adults aim for about **6 to 8 cups (48–64 ounces) of fluid per day**, though some people need more depending on their activity level, climate, and health conditions.
+The old "eight glasses a day" rule is a helpful starting point, but individual needs vary. Most health experts recommend that older adults aim for about **6 to 8 cups (48-64 ounces) of fluid per day**, though some people need more depending on their activity level, climate, and health conditions.
 
 Fluid doesn't only come from water. Foods like cucumbers, watermelon, oranges, soups, and yogurt also contribute to your daily hydration. These can be especially helpful for seniors who struggle to drink large amounts of plain water.
 

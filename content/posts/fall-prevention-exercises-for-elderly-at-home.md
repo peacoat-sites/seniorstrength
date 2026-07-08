@@ -18,7 +18,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Every year, millions of older adults fall, and it's not always on a slippery sidewalk or icy step. Most happen inside the home. Maybe you've noticed yourself gripping the armrest a little tighter getting up from the couch, or your balance just isn't as sharp as it used to be. That's incredibly common. The real news is that **fall prevention exercises for elderly adults** actually work. A simple routine you can do in your living room, no fancy equipment, no gym membership, can make you feel steadier and more confident in just a few weeks.
 
@@ -88,7 +88,7 @@ Three times a week is the minimum that actually produces results. Many people st
 
 Here's a sample week:
 
-* **Monday, Wednesday, Friday:** All five exercises (about 20–25 minutes)
+* **Monday, Wednesday, Friday:** All five exercises (about 20-25 minutes)
 * **Tuesday, Thursday:** A short walk, nothing intense
 * **Saturday:** A gentle yoga video made for seniors
 * **Sunday:** Rest. Your muscles rebuild on rest days

@@ -18,7 +18,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If you've ever squeezed your feet into shoes that felt like a vice grip by midday, you know the feeling. Millions of seniors struggle to find comfortable footwear that actually fits, and if you've got wider feet, the search gets ten times worse. Finding the **best walking shoes for seniors with wide feet** shouldn't require a PhD in shoe engineering. This guide cuts through the noise so you can walk comfortably, safely, and with actual confidence every single day.
 
@@ -115,7 +115,7 @@ Follow these fitting tips:
  * Measure both feet. One foot is almost always slightly bigger than the other
  * Shop in person when you can, so you can actually walk around and feel the shoe
  * Find stores with certified fit specialists like New Balance or Fleet Feet locations
- * Replace walking shoes every 300–500 miles, even if they look fine
+ * Replace walking shoes every 300-500 miles, even if they look fine
  * Consider custom orthotics if store insoles don't cut it
 
 Don't assume your shoe size from your 40s is still accurate. Getting measured takes five minutes and saves you months of pain.

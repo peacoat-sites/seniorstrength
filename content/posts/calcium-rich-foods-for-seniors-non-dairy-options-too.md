@@ -18,7 +18,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your doctor told you your calcium is low, and you froze. What now? Millions of seniors are in the same boat, lactose intolerance, digestive issues, or just plain taste preferences push them away from dairy. But here's the thing: calcium-rich foods for seniors aren't limited to milk. There are delicious, accessible options that'll keep your bones strong through your 70s and 80s.
 
@@ -32,7 +32,7 @@ The National Institutes of Health says adults 51 and older need about 1,200 mg o
 
 If dairy works for you, these are your easiest wins:
 
-* **Plain yogurt (1 cup):** Around 300–400 mg of calcium, plus probiotics for gut health
+* **Plain yogurt (1 cup):** Around 300-400 mg of calcium, plus probiotics for gut health
 * **Low-fat milk (1 cup):** Approximately 300 mg of calcium
 * **Cheddar cheese (1.5 oz):** About 300 mg in a small serving
 * **Cottage cheese (1 cup):** Around 200 mg and high in protein
@@ -68,7 +68,7 @@ Don't have dairy tolerance? There's a whole world waiting for you. Plant-based o
 * **White beans (1 cup cooked):** Approximately 130 mg of calcium and filling as hell
 * **Almonds (1 oz):** About 75 mg of calcium plus healthy fats
 * **Chia seeds (2 tablespoons):** Around 180 mg of calcium. Stir them into yogurt or oatmeal.
-* **Fortified orange juice (1 cup):** Often contains 300–350 mg of added calcium
+* **Fortified orange juice (1 cup):** Often contains 300-350 mg of added calcium
 * **Fortified plant-based milks (1 cup):** Almond, soy, and oat milk are usually fortified to match regular milk
 
 Sardines and canned salmon are cheap, need zero cooking, and deliver both calcium and vitamin D. That combination is hard to beat for your bones.
