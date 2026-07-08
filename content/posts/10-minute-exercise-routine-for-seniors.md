@@ -1,5 +1,5 @@
 ---
-title: "10 Minute Exercise Routine For Seniors"
+title: "Quick Workouts That Keep Seniors Strong and Independent"
 date: 2026-07-01T21:27:23.729415+00:00
 draft: false
 description: "Discover a simple 10 minute exercise routine for seniors to boost strength, balance, and flexibility safely at home with no equipment needed."
@@ -23,7 +23,7 @@ faqs:
    a: "Most of it, yes, with a few notes. Forward bending at the spine (not the hips) should be avoided or minimized if you have diagnosed osteoporosis. The balance and heel raise work is actually especially important for bone density, since weight-bearing activity stimulates bone remodeling. But please run this by your doctor or a physical therapist who knows your bone density scores before starting."
  - q: "How long before I notice a difference?"
    a: "Most people notice something within two to three weeks, usually in balance and ease of movement rather than dramatic strength gains. Actual strength improvements take longer, typically six to eight weeks of consistent work. The early wins are things like: getting off the couch without bracing yourself, walking on uneven ground with less anxiety, feeling less stiff in the morning. Those changes are real and they come sooner than most people expect."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people don't realize that ten minutes is enough. Not ten minutes as a warm-up. Ten minutes as the whole workout. I know that sounds like I'm trying to sell you something, but stay with me, because this is one of those cases where the conventional wisdom ("more is always better") actually works against older adults, especially those who are just getting back to movement after a long break.

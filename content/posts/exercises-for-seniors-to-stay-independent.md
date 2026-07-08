@@ -1,5 +1,5 @@
 ---
-title: "Exercises For Seniors To Stay Independent"
+title: "Stay Independent: Essential Exercises for Active Seniors"
 date: 2026-06-05T21:25:30.765574+00:00
 draft: false
 description: "Stay strong and mobile as you age with these simple exercises for seniors designed to improve balance, flexibility, and strength to help you maintain independen"
@@ -23,7 +23,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-
+lastmod: 2026-07-08
 ---
 Most people don't realize they're losing independence long before a fall happens. It happens quietly: gripping a railing tighter than you used to, skipping stairs when you can take the elevator, hesitating before standing up from a low chair. If any of that sounds familiar, you're not alone, and you're not too late.
 

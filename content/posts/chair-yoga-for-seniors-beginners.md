@@ -1,5 +1,5 @@
 ---
-title: "Chair Yoga For Seniors Beginners"
+title: "Chair Yoga for Seniors: Safe Stretches You Can Do Today"
 date: 2026-06-19T21:11:56.733009+00:00
 draft: false
 description: "Discover gentle chair yoga poses perfect for seniors just starting out. Improve flexibility, balance, and strength safely from the comfort of a chair."
@@ -23,7 +23,7 @@ faqs:
    a: "Stop the movement that's causing it. Sharp or acute pain is always a signal to back off, not push through. Mild muscle fatigue or a gentle stretching sensation is normal. If pain persists after modifying or stopping a specific movement, talk to your doctor or a physical therapist before continuing."
  - q: "Can chair yoga actually improve balance, or is it just stretching?"
    a: "It genuinely improves balance, and the research backs this up. A study published in the International Journal of Yoga found significant improvements in balance and functional mobility in older adults after a chair yoga intervention. The mechanism is partly physical (hip and core strength) and partly neurological: you're rebuilding the body awareness your balance system depends on."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people picture chair yoga and think it's basically stretching for people who gave up. I understand that reaction. The first time a doctor suggested it to a patient I was working with, a 71-year-old retired electrician named Frank who'd had a hip replacement six months earlier, he looked at me like I'd offered him a participation trophy. Six weeks later he was telling everyone in his building about it.

@@ -1,5 +1,5 @@
 ---
-title: "How Exercise Helps With Arthritis Pain"
+title: "Movement Medicine: How Exercise Eases Arthritis Pain"
 date: 2026-06-29T00:38:47.772897+00:00
 draft: false
 description: "Discover how regular exercise reduces arthritis pain, improves joint flexibility, and strengthens muscles to help you move better and live more comfortably."
@@ -23,7 +23,7 @@ faqs:
    a: "No, and I want to be honest about that. Exercise doesn't regenerate cartilage that's already lost. What it does, clearly and consistently, is reduce pain, improve function, slow further progression, and build the muscular support that compensates for joint changes. That's a meaningful set of outcomes even without a cure."
  - q: "How long before I notice a difference?"
    a: "Most people report some improvement in pain and mobility within four to six weeks of consistent exercise. Significant functional gains tend to show up more clearly around the eight to twelve week mark. If you're three months in without any change, that's worth revisiting with a clinician, because the program may need adjustment."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people come to me after they've already stopped moving. Not because they wanted to, but because someone, somewhere, told them that pain meant they should rest. And honestly? That advice made sense on the surface. It just happens to be one of the most counterproductive things a person with arthritis can do.

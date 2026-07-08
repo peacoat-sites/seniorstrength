@@ -1,5 +1,5 @@
 ---
-title: "Best Foods For Bone Health In Seniors"
+title: "Strengthen Your Bones: Essential Foods for Aging Well"
 date: 2026-06-26T21:17:42.242261+00:00
 draft: false
 description: "Discover the top foods that support strong bones in seniors, from calcium-rich dairy to leafy greens and fatty fish for better bone density."
@@ -23,7 +23,7 @@ faqs:
    a: "High caffeine intake (think four or more cups of coffee per day) is associated with mildly increased calcium excretion, but moderate coffee consumption (one to three cups daily) appears to have minimal effect on bone density in adults who are meeting their calcium needs. If you're calcium-deficient and drinking a lot of coffee, that combination is worth addressing. If your nutrition is otherwise solid, a couple of cups of coffee is not going to be the thing that breaks your hip."
  - q: "Should I be taking a bone-health supplement formula like Algaecal or Citracal?"
    a: "The research is mixed. AlgaeCal has some proprietary studies showing benefit, but those studies are industry-funded and small, which warrants some skepticism. Citracal and similar calcium citrate products are legitimate for people who need supplemental calcium. My general view: get a full dietary assessment first, address any clear nutrient gaps through food and targeted single-nutrient supplements (vitamin D3 especially), and be cautious about expensive multi-ingredient formulas that promise more than the evidence actually supports. Always worth a conversation with your physician or a registe"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people think the window for building bone density closes sometime in your 30s, and after that you're just trying to slow the losses. I believed that too, for a long time. What surprised me, after spending the better part of a year reading the research on skeletal health in older adults and talking to the clients I work with every week, is how much that picture is incomplete. You can't rebuild bone the way a 25-year-old can. That's true. But the degree to which nutrition influences bone turnover well into your 70s and 80s is genuinely underappreciated, even by people who think they're already on top of it.

@@ -1,5 +1,5 @@
 ---
-title: "How To Improve Mobility In Elderly Legs"
+title: "Regain Leg Strength: Simple Moves For Seniors"
 date: 2026-06-24T21:22:26.467335+00:00
 draft: false
 description: "Discover effective exercises and daily habits to improve mobility in elderly legs, helping seniors stay active, independent, and reduce fall risk."
@@ -23,7 +23,7 @@ faqs:
    a: "Active mobility work (like CARs or contract-relax stretching) can be done before exercise as part of a warm-up. Long passive stretches held for 30-60 seconds are better placed after exercise, when the tissue is warm and there's no evidence they're reducing the neuromuscular activation you need for the workout ahead."
  - q: "Is it safe to work on leg mobility with arthritis?"
    a: "Generally yes, though the specifics depend on the type and severity. Gentle, controlled movement through available range is often beneficial for arthritic joints because it maintains synovial fluid circulation and slows the loss of range. The key is staying within pain-free (or discomfort-free) range. Anything that produces sharp or lasting pain is a signal to stop and check with your doctor or physical therapist."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people assume that stiff, weak legs in their 60s, 70s, and 80s are just what aging looks like. You lose range of motion, your stride gets shorter, stairs get harder, and that's the deal. I believed that too, honestly, until I started watching what actually happened when older clients worked on mobility consistently and deliberately. What I saw contradicted almost everything the standard "stretch more" advice suggests.

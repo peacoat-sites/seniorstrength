@@ -1,5 +1,5 @@
 ---
-title: "How To Improve Balance In Old Age"
+title: "Steady On Your Feet: Balance Exercises For Older Adults"
 date: 2026-07-04T20:58:23.385531+00:00
 draft: false
 description: "Discover simple exercises and lifestyle tips to improve balance in old age, reduce fall risk, and stay active, steady, and confident as you get older."
@@ -23,6 +23,7 @@ faqs:
     a: "The evidence for older adults specifically is mixed. They can help with ankle proprioception when used carefully, but the injury risk during use is real. If you want to try one, start with a flat disc rather than a dome, keep one hand on a stable surface, and only use it for short intervals. Honestly, for most people, flat-ground exercises give you 80% of the benefit with far less risk."
   - q: "Should I wear shoes or go barefoot for balance exercises?"
     a: "This is genuinely debated. Barefoot (on a non-slip surface) increases sensory feedback to your feet, which can enhance proprioceptive training. Shoes provide stability and reduce injury risk if you wobble. My practical advice: if you have no foot conditions and your floor is safe, try some exercises in socks or bare feet. If you have neuropathy, plantar fasciitis, or any foot conditions, keep supportive footwear on and talk to your podiatrist."
+lastmod: 2026-07-08
 ---
 
 Falls are the leading cause of injury-related death among adults 65 and older in the United States. Not car accidents. Not heart attacks. Falls. And yet most of the balance advice floating around out there is either too vague to act on ("just try yoga!") or too intimidating to start ("here's a 45-minute balance training protocol").

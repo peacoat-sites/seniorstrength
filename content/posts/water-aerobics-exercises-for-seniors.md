@@ -1,5 +1,5 @@
 ---
-title: "Water Aerobics Exercises For Seniors"
+title: "Water Aerobics: Low-Impact Exercises for Stronger Seniors"
 date: 2026-06-02T12:55:53.503306+00:00
 draft: false
 description: "Discover the best water aerobics exercises for seniors to boost strength, flexibility, and balance while protecting joints. Stay active and healthy in the pool "
@@ -23,7 +23,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Picture this: your doctor tells you to "stay active" after a knee replacement, a flare-up of arthritis, or a fall that shook your confidence more than it hurt your body. You want to exercise. You know you need to. But every option you can think of either hurts your joints, scares you with its fall risk, or feels like it was designed for someone thirty years younger. Then somebody mentions the pool. Maybe you dismiss it. Water aerobics sounds like gentle bobbing around with foam noodles, not a real workout. I've heard that from dozens of clients, and almost every single one of them changed their mind within two weeks of actually getting in the water.
 

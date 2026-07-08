@@ -1,5 +1,5 @@
 ---
-title: "Gentle Exercises For Seniors With Arthritis"
+title: "Pain-Free Movement: Arthritis Exercises Seniors Love"
 date: 2026-06-10T22:03:32.622807+00:00
 draft: false
 description: "Discover safe, gentle exercises for seniors with arthritis that reduce joint pain, improve mobility, and boost strength. Start moving comfortably today with exp"
@@ -23,7 +23,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Arthritis affects roughly 1 in 2 adults over the age of 65. And yet most people's doctor hands them a pamphlet with exercises that look nothing like what their body can actually do that day. If you've ever rolled your eyes at a generic workout recommendation while your knees are swollen and your fingers won't close all the way in the morning, you're not imagining the disconnect. The advice isn't wrong exactly. It's just incomplete.
 

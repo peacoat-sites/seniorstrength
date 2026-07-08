@@ -1,5 +1,5 @@
 ---
-title: "Leg Strengthening Exercises For Elderly"
+title: "Build Stronger Legs: Safe Exercises for Seniors"
 date: 2026-06-03T14:09:34.281887+00:00
 draft: false
 description: "Discover safe and effective leg strengthening exercises for elderly adults to improve balance, mobility, and independence. Start building stronger legs today."
@@ -23,7 +23,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most fitness advice for older adults focuses on what feels safe rather than what actually works. That's a problem. "Gentle chair stretches" and "light walking" are fine starting points, but they won't rebuild the quad strength that keeps you out of a nursing home. They won't stop the muscle loss that begins accelerating after 60 and can take 1-2% of your muscle mass per year if you let it. And they definitely won't fix the hip and ankle weakness that turns a small trip on the sidewalk into a six-week recovery.
 

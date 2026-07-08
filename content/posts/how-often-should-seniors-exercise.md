@@ -1,5 +1,5 @@
 ---
-title: "How Often Should Seniors Exercise"
+title: "The Right Exercise Schedule For Active Seniors"
 date: 2026-05-23T22:21:26.354815+00:00
 draft: false
 description: "Regular exercise is vital for older adults. Discover expert-recommended guidelines on how often seniors should exercise to boost strength, balance, and overall "
@@ -23,7 +23,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most fitness advice aimed at seniors treats "exercise frequency" like a scheduling problem. Pick three days a week, check the box, done. But frequency isn't the real question. The real question is: how much stress can your body absorb, recover from, and adapt to, given where you are *right now*? Those are very different conversations, and conflating them is exactly how people end up either spinning their wheels or getting hurt.
 

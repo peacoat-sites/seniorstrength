@@ -1,5 +1,5 @@
 ---
-title: "Gentle Stretching Routine For Seniors"
+title: "Easy Stretches That Keep Seniors Mobile and Pain-Free"
 date: 2026-05-24T22:13:01.142265+00:00
 draft: false
 description: "Discover a safe and easy gentle stretching routine for seniors to improve flexibility, reduce stiffness, boost mobility, and enhance overall health and well-bei"
@@ -23,7 +23,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people think stretching is the *safe* part of fitness. The warm-up. The part where nothing bad happens. I used to think that too, until I watched a 68-year-old client nearly topple during a standing quad stretch she'd pulled from a magazine. She was healthy, active, and completely blindsided by how fast her balance went. That moment rewired everything I thought I knew about flexibility work for older adults.
 

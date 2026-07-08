@@ -1,5 +1,5 @@
 ---
-title: "How Often Should Seniors Strength Train"
+title: "The Right Strength Training Schedule for Older Adults"
 date: 2026-06-09T21:49:56.169737+00:00
 draft: false
 description: "Discover how often seniors should strength train to build muscle, boost balance, and stay independent. Get expert-backed weekly workout recommendations for olde"
@@ -23,7 +23,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people who ask me this question are already doing it wrong. Not dangerously wrong, just inefficiently wrong in a way that either leaves results on the table or quietly sets them up for an overuse injury six months down the road. The honest answer to "how often should seniors strength train?" is more nuanced than almost every generic fitness article will tell you, and it took me years of working directly with older adults to understand why.
 

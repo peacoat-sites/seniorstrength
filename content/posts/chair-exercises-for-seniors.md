@@ -1,5 +1,5 @@
 ---
-title: "Chair Exercises For Seniors"
+title: "Chair Exercises for Seniors: Stay Strong Without Standing"
 date: 2026-05-22T19:16:37.480574+00:00
 draft: false
 description: "Discover safe and effective chair exercises for seniors to improve strength, flexibility, and balance. Stay active and healthy from the comfort of a chair."
@@ -23,7 +23,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-
+lastmod: 2026-07-08
 ---
 Most fitness advice for older adults treats a chair like a consolation prize, something you resort to when you can't hack it standing up. That's completely backwards. A chair is a tool, and when you use it right, it becomes one of the most effective pieces of equipment for building the strength, balance, and mobility that actually keep you independent and on your feet.
 

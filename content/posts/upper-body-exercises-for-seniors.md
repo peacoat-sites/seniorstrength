@@ -1,5 +1,5 @@
 ---
-title: "Upper Body Exercises For Seniors"
+title: "Strengthen Your Upper Body: Safe Exercises for Seniors"
 date: 2026-06-10T22:01:37.372556+00:00
 draft: false
 description: "Discover the best upper body exercises for seniors to build strength, improve mobility, and boost independence. Safe, effective moves suitable for all fitness l"
@@ -23,7 +23,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most upper body exercise advice for older adults is, bluntly, watered-down nonsense. "Try some arm circles!" Cool. That'll really help you lift a carry-on into the overhead bin or push yourself up off the floor after a fall. The exercises that actually build functional strength get skipped because trainers are either overcautious or they're defaulting to the same dusty chair routine they've used since 1987.
 

@@ -1,5 +1,5 @@
 ---
-title: "Exercise For Seniors With Diabetes"
+title: "Safe Workouts for Seniors Managing Diabetes"
 date: 2026-05-31T11:08:13.083651+00:00
 draft: false
 description: "Discover safe and effective exercise tips for seniors with diabetes. Learn how physical activity helps manage blood sugar, boost energy, and improve overall hea"
@@ -23,7 +23,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-
+lastmod: 2026-07-08
 ---
 Most people managing type 2 diabetes get told to "walk more and eat less sugar." That's not wrong, exactly. It's just incomplete enough to be nearly useless, and in some cases, actively dangerous. Exercise affects blood glucose in ways that aren't intuitive, and getting it wrong doesn't just mean a wasted workout. It can mean a hypoglycemic episode on the treadmill at 7 a.m. with nobody around. That's the gap most coverage fails to bridge.
 

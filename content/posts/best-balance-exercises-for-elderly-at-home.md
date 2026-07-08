@@ -1,5 +1,5 @@
 ---
-title: "Best Balance Exercises For Elderly At Home"
+title: "Stay Steady: 5 Balance Exercises Seniors Can Do At Home"
 date: 2026-06-12T21:43:13.113987+00:00
 draft: false
 description: "Discover the best balance exercises for elderly at home to prevent falls, boost stability, and improve confidence with safe, easy routines you can do daily."

@@ -1,5 +1,5 @@
 ---
-title: "Safe Weight Lifting For Seniors Guide"
+title: "Strength Training After 60: Lift Safely, Stay Strong"
 date: 2026-06-05T12:23:18.327157+00:00
 draft: false
 description: "Discover safe weight lifting tips for seniors. Learn proper techniques, recommended exercises, and expert advice to build strength, improve balance, and stay in"
@@ -23,7 +23,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most fitness content aimed at older adults spends three paragraphs warning you about your doctor before it says anything useful. Let's skip that part. You're an adult. You know your own body. What you might not know is how badly the standard "light weights, high reps" advice that gets recycled for seniors actually serves you, and in some cases, actively works against you.
 

@@ -1,5 +1,5 @@
 ---
-title: "Core Exercises For Seniors With Bad Backs"
+title: "Safe Core Exercises For Seniors With Back Pain"
 date: 2026-06-21T21:15:35.864837+00:00
 draft: false
 description: "Discover gentle core exercises designed for seniors with bad backs to build strength, reduce pain, and improve stability safely at home."
@@ -23,6 +23,7 @@ faqs:
    a: "This comes up more than you'd think. Some physicians are working from advice that predates the current biomechanical research. I'd suggest asking specifically whether your doctor is aware of your disc or bone density status, and whether they'd be open to a referral to a physical therapist for a spine-specific exercise program. You're allowed to ask follow-up questions."
  - q: "How long before I notice a difference in my back pain?"
    a: "Most people with chronic, non-acute back pain notice meaningful improvement in 6-8 weeks of consistent, properly performed core training. Some people feel better sooner. The caveat is that you have to actually be consistent, which means two or three times a week minimum, not occasional sessions when the pain spikes. Building the habit before the pain flare is the whole point."
+lastmod: 2026-07-08
 ---
 
 Most people with a bad back have been told, at some point, to "strengthen your core." What they're rarely told is which exercises are actually safe for them, and which ones are quietly making things worse. I've seen this play out dozens of times: someone comes in after months of doing crunches and sit-ups on a doctor's recommendation, and their back pain has gotten measurably worse. Not because they were lazy or doing them wrong. Because crunches are genuinely a bad choice for most adults over 60 with existing back problems, full stop.

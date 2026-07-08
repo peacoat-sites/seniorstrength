@@ -1,5 +1,5 @@
 ---
-title: "How To Strengthen Weak Legs In Seniors"
+title: "Reclaim Your Strength: Simple Leg Exercises For Seniors"
 date: 2026-06-17T22:00:27.863895+00:00
 draft: false
 description: "Discover safe and effective exercises to strengthen weak legs in seniors, improve balance, and boost independence with simple daily routines."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, genuinely. The process is slower and requires more protein intake to support (most older adults are under-eating protein significantly), but studies have shown muscle hypertrophy in adults well into their 80s with consistent resistance training. Aim for roughly 1.2 grams of protein per kilogram of body weight daily to support muscle building."
  - q: "Do I need equipment or a gym membership to start?"
    a: "No. A sturdy chair, a wall, and a low step are enough to begin a meaningful program. Once you're ready to add resistance, a set of light dumbbells or a resistance band loop costs under $20 and covers a lot of ground. Equipment becomes more useful as you get stronger, but it's not where you start."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people don't realize how fast leg strength actually declines after 60. Research published in the Journal of Gerontology puts the number at roughly 1-2% of muscle mass lost per year after age 50, and that rate accelerates. By the time someone's struggling to get up from a chair without using their arms, they've usually been losing ground quietly for years.
 

@@ -1,5 +1,5 @@
 ---
-title: "Best Exercise Routine For 65 Year Old Woman"
+title: "The 65+ Workout Plan That Actually Works"
 date: 2026-06-05T21:27:34.009509+00:00
 draft: false
 description: "Stay fit and healthy with the best exercise routine for 65 year old women. Discover safe, effective workouts to boost strength, balance, and energy levels today"

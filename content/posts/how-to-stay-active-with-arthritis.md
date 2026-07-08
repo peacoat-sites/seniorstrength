@@ -1,5 +1,5 @@
 ---
-title: "How To Stay Active With Arthritis"
+title: "Stay Strong: Moving Well With Arthritis Pain"
 date: 2026-06-13T21:15:36.070799+00:00
 draft: false
 description: "Discover gentle exercises and expert tips to stay active with arthritis, reduce joint pain, and improve mobility while protecting your joints and overall health"
@@ -23,7 +23,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Sixty-three percent of adults over 65 with arthritis cut back on physical activity because of pain. I've worked with enough of them to know that's usually the wrong move, and it costs them more than the pain itself ever could.
 

@@ -1,5 +1,5 @@
 ---
-title: "How To Start Exercising After 70"
+title: "Start Moving At 70: A Beginner's Fitness Guide"
 date: 2026-06-15T22:21:03.357088+00:00
 draft: false
 description: "Discover safe and effective ways to start exercising after 70. Build strength, improve balance, and boost energy with beginner-friendly fitness tips for seniors"
@@ -23,7 +23,7 @@ faqs:
    a: "No. Significant muscle soreness (the kind that limits your movement for two or three days) is a sign you did too much, especially early in a program. Mild fatigue or a light 'worked' feeling is fine. But if you're dreading your next session because of how sore you are, dial it back."
  - q: "What's the single most important thing to focus on first?"
    a: "Balance. Hands down. Strength can be rebuilt over months. A fall and the injury, hospitalization, or loss of confidence that follows can set you back years. Even five minutes of balance work daily makes a measurable difference, and it requires no equipment at all."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people over 70 who come to me have already been told they need to exercise. Their doctor mentioned it, their adult kids are nudging them, maybe they read something alarming about falls and muscle loss. What they haven't been told is *how* to actually start without hurting themselves, getting overwhelmed, or wasting money on programs that weren't designed for them in the first place.
 

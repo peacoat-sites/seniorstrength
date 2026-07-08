@@ -1,5 +1,5 @@
 ---
-title: "Bed Exercises For Elderly With Limited Mobility"
+title: "Bed Exercises For Seniors With Limited Mobility"
 date: 2026-06-18T22:06:55.748817+00:00
 draft: false
 description: "Discover gentle bed exercises for elderly with limited mobility to boost strength, circulation, and flexibility from the comfort of home."
@@ -23,7 +23,7 @@ faqs:
     a: "Stop the exercise immediately and rest. Orthostatic hypotension, a drop in blood pressure with positional changes, is common in older adults who've been in bed for extended periods. It's worth mentioning to the person's doctor if it occurs repeatedly, since it's manageable but needs to be factored into any exercise plan."
   - q: "Do resistance bands work for bed exercises?"
     a: "Yes, and they're worth having. A light resistance band looped around the ankles adds meaningful load to heel slides and supine marching without requiring any additional equipment or a partner. TheraBand sells a set of graduated resistance bands for around $15-20 that covers most needs. Just make sure the band is secured safely and won't snap back toward the face."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people assume that if you can't get out of bed easily, you can't really exercise. That assumption is wrong, and it costs people more than they realize.
 

@@ -1,5 +1,5 @@
 ---
-title: "Best Exercise Routine For 70 Year Old Man"
+title: "Strength Training For 70-Year-Old Men: Stay Active"
 date: 2026-06-08T21:52:53.669050+00:00
 draft: false
 description: "Discover the best exercise routine for a 70 year old man to boost strength, balance, and flexibility. Safe, effective workouts tailored for seniors to stay acti"

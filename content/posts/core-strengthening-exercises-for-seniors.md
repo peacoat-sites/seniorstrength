@@ -1,5 +1,5 @@
 ---
-title: "Core Strengthening Exercises For Seniors"
+title: "Stronger Core, Better Balance: Exercises Seniors Can Do Daily"
 date: 2026-06-05T12:21:15.699287+00:00
 draft: false
 description: "Discover the best core strengthening exercises for seniors to improve balance, posture, and stability. Safe, effective moves to help older adults stay active an"
@@ -23,7 +23,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-
+lastmod: 2026-07-08
 ---
 Most advice about core training for older adults is wrong. Not dangerous, exactly, just wrong in a way that wastes time and sometimes makes things worse. The standard recommendation you'll hear at most gyms goes something like this: "Do some planks, maybe a few crunches, try a bird dog." And sure, those exercises exist on a spectrum somewhere between fine and useful. But they're almost never taught in the right order, for the right reasons, and they skip over the foundational work that actually makes a difference when you're 65, 72, or 84.
 

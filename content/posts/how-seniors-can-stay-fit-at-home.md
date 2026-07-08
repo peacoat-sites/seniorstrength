@@ -1,5 +1,5 @@
 ---
-title: "How Seniors Can Stay Fit At Home"
+title: "Easy Home Exercises To Build Strength As You Age"
 date: 2026-06-22T22:04:34.111600+00:00
 draft: false
 description: "Discover simple exercises and wellness routines seniors can do at home to build strength, improve balance, and stay active and healthy every day."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes. The research on this has gotten significantly clearer over the past decade. Older adults build muscle more slowly than younger adults and require slightly higher protein intake to support it (most guidelines currently suggest around 1.2-1.6 grams per kilogram of body weight per day for active older adults), but the process works. The window doesn't close at 60 or 70 or even 80."
  - q: "What if getting up and down from the floor is difficult?"
    a: "Work on it specifically, because floor transfers are a key functional skill and losing them correlates with reduced independence. Practice getting down and up using a chair for support. Over time, reduce how much support you use. If it's painful rather than just challenging, that's worth investigating with a physical therapist before pushing through."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most home fitness advice for older adults is either condescendingly simple or quietly dangerous. You'll find articles recommending chair sits and wall push-ups alongside breathless enthusiasm for "senior-friendly" routines that, in practice, do almost nothing to build the strength and balance that actually keep you upright and independent. The gap between feel-good content and genuinely effective training is wide, and most people land in it.

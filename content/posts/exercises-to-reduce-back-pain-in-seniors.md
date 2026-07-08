@@ -1,5 +1,5 @@
 ---
-title: "Exercises To Reduce Back Pain In Seniors"
+title: "The Best Back Exercises for Active Seniors"
 date: 2026-06-25T21:43:36.025176+00:00
 draft: false
 description: "Discover gentle exercises to reduce back pain in seniors. Improve mobility, strengthen muscles, and enjoy daily life with these safe, effective routines."
@@ -23,7 +23,7 @@ faqs:
    a: "Pain that radiates below the knee, comes with numbness or tingling in the legs, is accompanied by weakness, or involves any bowel or bladder changes needs prompt medical attention. So does back pain following a fall in someone with known or suspected osteoporosis. New, severe pain that's dramatically different from anything you've felt before is also worth having evaluated, even if it turns out to be nothing alarming."
  - q: "Can strengthening my core really reduce back pain, or is that overhyped?"
    a: "It's not overhyped, but it's often misdirected. Strengthening the right muscles through the right movements genuinely reduces pain and improves function over time. The mistake is equating 'core' with 'abs' and defaulting to flexion exercises that can irritate the spine. The research is fairly clear that motor control training (teaching the deep stabilizers to activate correctly and consistently) produces better outcomes for chronic low back pain than general strengthening alone. So yes, core work helps. The question is which core work."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people who come to me with back pain are already frustrated before they even sit down. They've tried the stretches their doctor printed off a handout, maybe watched a few YouTube videos, probably rested more than they should have. And nothing stuck, or it helped briefly, then the pain crept back.

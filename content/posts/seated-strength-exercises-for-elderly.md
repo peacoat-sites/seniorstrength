@@ -1,5 +1,5 @@
 ---
-title: "Seated Strength Exercises For Elderly"
+title: "Build Strength While Sitting: Safe Exercises for Older Adults"
 date: 2026-06-23T21:43:28.379551+00:00
 draft: false
 description: "Discover effective seated strength exercises for elderly adults to build muscle, improve balance, and boost independence safely from a chair."
@@ -23,7 +23,7 @@ faqs:
    a: "Stop the movement. There's a real difference between the mild discomfort of muscles working and actual pain, and you know the difference better than any article can tell you. Sharp pain, joint pain, or pain that persists after stopping are all signals to stop and get that evaluated before continuing. Don't push through it."
  - q: "Do I need equipment to get started?"
    a: "No. Seated marching, knee extensions, ankle work, and calf raises require nothing but a sturdy chair. A resistance band (under $15) opens up a lot more options. Light dumbbells or even household items add more variety. You can build a meaningful routine with zero equipment and add tools gradually as you progress."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people who find their way to this page are sitting in a chair right now, wondering if that's a problem. It isn't. In fact, that chair might be exactly where your comeback starts.

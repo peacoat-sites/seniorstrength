@@ -1,5 +1,5 @@
 ---
-title: "How to stay motivated to exercise as a senior"
+title: "Stay Active: The Motivation Tricks That Work For Older Adults"
 date: 2026-05-21T16:08:22.652618+00:00
 draft: false
 description: "Struggling to stay active? Discover proven strategies to boost motivation to exercise for seniors, build lasting habits, and enjoy fitness after 60, startin"
@@ -18,7 +18,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You lace up your sneakers, feel fired up for a few days, and then life happens. Sound familiar? Finding lasting motivation to exercise is one of the most common health challenges for people aged 60 and beyond. The good news? With the right strategies, staying active can actually become something you look forward to, not something you dread.
 

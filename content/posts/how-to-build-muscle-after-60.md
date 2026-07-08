@@ -1,5 +1,5 @@
 ---
-title: "How To Build Muscle After 60"
+title: "Building Muscle After 60: A Practical Guide"
 date: 2026-06-13T21:17:36.041359+00:00
 draft: false
 description: "Discover proven strategies to build muscle after 60, including strength training tips, nutrition advice, and recovery techniques to help you gain strength and s"
@@ -23,7 +23,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people over 60 are told to "be careful" with strength training. What they actually need is to do more of it.
 

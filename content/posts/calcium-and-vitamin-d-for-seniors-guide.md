@@ -1,5 +1,5 @@
 ---
-title: "Calcium And Vitamin D For Seniors Guide"
+title: "Bone Health Essentials: Calcium And Vitamin D For Active Seniors"
 date: 2026-06-06T21:05:51.026557+00:00
 draft: false
 description: "Discover how calcium and vitamin D support bone health in seniors. Learn recommended daily intake, best food sources, supplement tips, and deficiency warning si"
@@ -23,7 +23,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most seniors are taking calcium wrong. Not the wrong supplement necessarily, but the wrong dose at the wrong time in the wrong form, often without the one nutrient that determines whether any of it actually works. I've watched clients dutifully swallow their calcium carbonate every morning with coffee and then wonder why their DEXA scans kept getting worse. Here's what actually happens.
 

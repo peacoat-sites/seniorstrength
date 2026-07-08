@@ -1,5 +1,5 @@
 ---
-title: "Benefits Of Exercise For Older Adults"
+title: "How Exercise Transforms Health in Your 60s and Beyond"
 date: 2026-06-07T21:11:41.150654+00:00
 draft: false
 description: "Discover the key benefits of exercise for older adults, from improved strength and balance to better heart health and mental wellbeing. Start moving for a healt"

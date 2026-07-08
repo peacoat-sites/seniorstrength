@@ -1,5 +1,5 @@
 ---
-title: "Home Safety Tips To Prevent Senior Falls"
+title: "Stop Senior Falls Before They Start: 7 Home Safety Fixes"
 date: 2026-06-16T22:13:39.927880+00:00
 draft: false
 description: "Discover practical home safety tips to prevent senior falls, from grab bars and better lighting to removing tripping hazards and improving bathroom safety."
@@ -23,7 +23,7 @@ faqs:
    a: "It reduces injury severity if a fall happens, because there's more cushioning. Whether it reduces the likelihood of a fall is less clear. Thick, plush carpet can actually catch feet and contribute to trips. Low-pile, firmly-secured carpet is the safest option. Loose area rugs on any surface are the opposite of safe, even with non-slip backing, and I'd remove them without much hesitation."
  - q: "My doctor said I should see a 'fall prevention specialist.' Is that a real thing?"
    a: "Yes. Physical therapists who specialize in vestibular and balance rehabilitation exist in most metro areas and many smaller cities. Occupational therapists can do home assessments and are often the more relevant referral for modifying your specific living environment. Ask for a referral to both if your physician isn't sure which to recommend. They address different parts of the problem and often work well in combination."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Falls are the leading cause of injury-related death in adults over 65 in the United States. Not car accidents. Not heart events. Falls. And yet most articles on the topic offer the same recycled checklist: "remove throw rugs, install grab bars, improve lighting." Fine advice, technically. But it skips the parts that actually trip people up, sometimes literally.
 

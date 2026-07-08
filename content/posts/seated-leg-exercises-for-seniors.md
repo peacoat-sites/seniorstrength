@@ -1,5 +1,5 @@
 ---
-title: "Seated Leg Exercises For Seniors"
+title: "Strengthen Your Legs Without Standing: Seated Exercises"
 date: 2026-05-21T00:45:03.089364+00:00
 draft: false
 description: "Discover the best seated leg exercises for seniors to build strength, improve circulation, and boost mobility, all from the comfort of a chair. Safe and easy t"
@@ -23,7 +23,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Maybe you sat down five minutes ago and you're not entirely sure your knees will cooperate when you stand back up. Or maybe a doctor, physical therapist, or well-meaning family member told you to "do some exercise," but the gym feels impossible and getting down on a floor mat sounds unappealing. Here's something that might surprise you: some of the most effective lower-body strengthening you can do happens entirely from a chair. Not as a compromise. Not as a stepping stone you'll eventually graduate from. As a legitimate, research-backed approach to building the leg strength, joint stability, and functional mobility that keep you independent and safe in daily life.
 

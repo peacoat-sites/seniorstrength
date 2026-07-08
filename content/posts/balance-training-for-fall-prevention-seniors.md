@@ -1,5 +1,5 @@
 ---
-title: "Balance Training For Fall Prevention Seniors"
+title: "Stop Falls Before They Start: Balance Exercises for Seniors"
 date: 2026-06-30T21:27:50.890509+00:00
 draft: false
 description: "Discover effective balance training exercises to help seniors prevent falls, improve stability, and maintain independence safely at home or in the gym."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, with some important caveats. Both Parkinson's disease and peripheral neuropathy affect balance through different mechanisms than normal aging, and the program needs to account for that. For Parkinson's, LSVT BIG (a specific physical therapy protocol) has the strongest evidence base. For neuropathy, sensory substitution strategies, like relying more deliberately on visual cues and using appropriate footwear, matter as much as exercise. Work with a PT who knows the specific condition rather than a generic program."
  - q: "How often should I be doing balance training?"
    a: "Three to five days per week is the research-supported range, with most of the benefit coming from daily shorter sessions rather than longer infrequent ones. Ten to fifteen minutes daily of targeted balance work outperforms 45-minute sessions twice a week, because you're reinforcing neural patterns that benefit from frequent repetition. The barrier to daily practice is low: most of it can happen in your kitchen while the coffee brews."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most balance training advice for older adults is either too timid to be useful or borrowed wholesale from athletic training programs that have no business near a 70-year-old with osteoporosis. Both extremes leave people worse off.

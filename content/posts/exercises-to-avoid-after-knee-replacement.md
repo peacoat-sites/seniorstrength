@@ -1,5 +1,5 @@
 ---
-title: "Exercises To Avoid After Knee Replacement"
+title: "Protect Your New Knee: 7 Movements To Skip"
 date: 2026-07-06T21:28:03.677538+00:00
 draft: false
 description: "Protect your new joint by learning which exercises to avoid after knee replacement surgery and what safe alternatives can support your recovery."
@@ -23,7 +23,7 @@ faqs:
     a: "Most surgeons clear patients for swimming and pool exercise once the incision is fully closed and there's no sign of infection, typically around six to eight weeks post-op. Pool walking and gentle flutter kicks are usually the starting point. Flip turns, breaststroke frog kicks, and any movement requiring forceful twisting of the knee should be discussed with your surgeon specifically."
   - q: "Is cycling good for knee replacement recovery?"
     a: "Stationary cycling with the seat adjusted high enough that you're not reaching deep knee flexion is among the most consistently recommended exercises for TKR recovery. It improves range of motion and quadriceps strength with minimal impact. Low resistance is key early on. Outdoor road cycling can be introduced later for many patients, but mountain biking and aggressive cycling remain on the avoid list for most."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most post-knee replacement guides hand you a tidy list of "safe" exercises and call it a day. What they skip is the other list: the movements that feel fine, look harmless, and can quietly damage your new joint before you even realize something's going wrong.

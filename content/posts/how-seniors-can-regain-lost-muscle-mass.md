@@ -1,5 +1,5 @@
 ---
-title: "How Seniors Can Regain Lost Muscle Mass"
+title: "Rebuild Muscle After 60: The Science-Backed Way"
 date: 2026-07-03T21:04:37.692208+00:00
 draft: false
 description: "Discover proven exercises and nutrition tips to help seniors rebuild muscle mass, boost strength, and improve mobility for a healthier, more active life."

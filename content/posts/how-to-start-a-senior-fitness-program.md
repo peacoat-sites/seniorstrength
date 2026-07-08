@@ -1,5 +1,5 @@
 ---
-title: "How To Start A Senior Fitness Program"
+title: "Start Your Fitness Journey: A Beginner's Guide for Seniors"
 date: 2026-06-07T21:13:39.883504+00:00
 draft: false
 description: "Discover how to start a senior fitness program safely with expert tips on exercises, goals, and building strength, flexibility, and balance for a healthier life"
@@ -23,7 +23,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people start their senior fitness program the exact same wrong way. They do too much, too fast, get hurt or exhausted by week two, and then quietly decide that exercise "just isn't for them anymore." I've watched this happen repeatedly, and honestly, the fitness industry deserves a lot of the blame for it.
 

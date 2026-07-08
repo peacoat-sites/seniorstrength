@@ -1,5 +1,5 @@
 ---
-title: "How To Exercise With Arthritis Without Pain"
+title: "Stay Strong: The Arthritis-Friendly Exercise Guide"
 date: 2026-07-04T20:56:25.487466+00:00
 draft: false
 description: "Discover safe, effective exercises for arthritis sufferers that reduce joint pain, improve flexibility, and keep you active without making symptoms worse."
@@ -23,7 +23,7 @@ faqs:
     a: "I'd push back on this as a routine strategy. Pre-medicating can mask warning signals that would otherwise tell you to stop or modify, leading to more joint damage. If you genuinely can't exercise without prior pain medication, that's a signal the exercise intensity or type needs adjustment, not that the medication strategy is correct."
   - q: "How long before I notice improvement from exercising with arthritis?"
     a: "Expect four to six weeks before meaningful pain reduction, eight to twelve weeks for functional strength gains. The first two to three weeks often feel like nothing is changing, and some people experience a temporary uptick in soreness as muscles adapt. That window is where most people quit. Don't."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most exercise advice for arthritis is built around one bad idea: that movement causing any discomfort should stop immediately. That instinct makes sense until you understand that the joint stiffness, aching, and weakness arthritis causes are made significantly worse by inactivity, not better. Resting your way through arthritis is, in most cases, the thing that accelerates it.

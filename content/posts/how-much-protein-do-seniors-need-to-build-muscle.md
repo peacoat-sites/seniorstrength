@@ -1,5 +1,5 @@
 ---
-title: "How Much Protein Do Seniors Need To Build Muscle"
+title: "The Protein Target for Building Muscle After 60"
 date: 2026-06-27T21:01:56.088370+00:00
 draft: false
 description: "Discover how much protein seniors need daily to build and maintain muscle, plus the best food sources and timing tips to maximize strength after 60."
@@ -23,7 +23,7 @@ faqs:
    a: "Aim for at least 25 to 40 grams at each main meal rather than concentrating most of your protein at dinner. After resistance exercise specifically, consuming protein within about two hours appears to significantly improve muscle protein synthesis, which matters more as we age."
  - q: "Can seniors build muscle after 70?"
    a: "Yes, with consistency and adequate protein. The process is slower than in younger adults and requires more dietary protein to achieve similar results, but multiple studies confirm that meaningful muscle gain is possible well into the 70s and 80s with resistance training and sufficient nutrition."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people are eating about half the protein they actually need. Not because they don't care, but because the advice they've been given is outdated.

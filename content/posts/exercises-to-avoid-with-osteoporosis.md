@@ -1,5 +1,5 @@
 ---
-title: "Exercises To Avoid With Osteoporosis"
+title: "The Moves To Skip: Safe Exercise For Osteoporosis"
 date: 2026-06-11T22:03:12.908678+00:00
 draft: false
 description: "Protect your bones and prevent fractures by learning which exercises to avoid with osteoporosis, plus safe alternatives to stay active and strong."
@@ -12,7 +12,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Three years ago, a woman I'll call Margaret walked into a physical therapy clinic where I was consulting, carrying a printout from a popular fitness website. She'd been doing sit-ups every morning to "strengthen her core" after her doctor told her she had osteoporosis. She was proud of her consistency. Four months of it.
 

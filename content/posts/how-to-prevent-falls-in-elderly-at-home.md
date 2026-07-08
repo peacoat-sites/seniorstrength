@@ -1,5 +1,5 @@
 ---
-title: "How To Prevent Falls In Elderly At Home"
+title: "Stop Falls Before They Start: Home Safety for Seniors"
 date: 2026-06-15T22:18:57.924515+00:00
 draft: false
 description: "Discover practical tips to prevent falls in elderly at home with simple home modifications, exercise routines, and safety strategies to reduce injury risk."
@@ -23,7 +23,7 @@ faqs:
    a: "Honestly, the earlier the better, because balance and leg strength are easier to maintain than to rebuild. But starting in your 60s or 70s absolutely still produces real results. The research supports meaningful improvements in balance and fall rates even when training begins in the 80s."
  - q: "Does a cane or walker help prevent falls, or does it create dependency?"
    a: "Used correctly, both can reduce fall risk significantly, and neither creates dependency in the way people fear. The bigger risk is avoiding a mobility aid out of pride and falling as a result. A physical therapist can assess which device (if any) is appropriate and, critically, make sure the person knows how to use it correctly. Many people use canes at the wrong height, which actually increases instability."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Every 11 seconds, an older adult is treated in an emergency room for a fall-related injury. I've watched that statistic play out in real lives, and it never gets easier. What does get easier, though, is knowing what actually prevents falls versus what just makes people feel like they're doing something.
 

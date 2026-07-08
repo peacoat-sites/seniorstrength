@@ -1,5 +1,5 @@
 ---
-title: "Best Diet For Senior Fitness And Energy"
+title: "Fuel Your Active Years: The Right Foods For Senior Energy"
 date: 2026-06-21T21:13:31.364241+00:00
 draft: false
 description: "Discover the best diet for senior fitness and energy. Learn which foods fuel strength, boost vitality, and support healthy aging for adults over 60."
@@ -23,7 +23,7 @@ faqs:
    a: "More than most people expect. Getting protein earlier in the day rather than loaded at dinner supports muscle protein synthesis throughout the day. Eating something with protein and carbohydrates shortly after exercise (within an hour) meaningfully improves recovery, particularly in older adults whose repair processes are already slower."
  - q: "Can diet really affect energy levels that much after 60?"
    a: "Yes, and I'd argue it's the lever most people underestimate. Chronic dehydration, protein deficiency, gut inflammation from a low-fiber diet, and micronutrient gaps can all mimic fatigue that people assume is just aging. That's not always the case. Many of my clients have seen meaningful energy improvements by addressing nutrition before changing anything else."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people I work with come to me having already tried something. They've cut back on sugar, maybe started drinking more water, picked up a protein shake at Costco. They're not starting from zero. They're starting from confused, because everything they read seems to contradict everything else, and their body isn't responding the way it did at 45.

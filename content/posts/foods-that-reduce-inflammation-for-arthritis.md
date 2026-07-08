@@ -1,5 +1,5 @@
 ---
-title: "Foods That Reduce Inflammation For Arthritis"
+title: "The Arthritis-Fighting Foods That Actually Work"
 date: 2026-06-27T21:04:45.976045+00:00
 draft: false
 description: "Discover the best anti-inflammatory foods for arthritis relief. Learn how omega-3s, berries, and leafy greens can help reduce joint pain naturally."
@@ -23,7 +23,7 @@ faqs:
    a: "Possibly, over time, but this should only happen in coordination with your rheumatologist or primary care physician, not by quietly cutting your doses. Some patients do reduce their NSAID use after sustained dietary changes. Never adjust prescription medications on your own based on dietary improvements."
  - q: "What's the single most impactful change someone can make?"
    a: "If I had to pick one: replace refined seed oils with extra-virgin olive oil and eat fatty fish twice a week. Those two changes address the omega-6 to omega-3 imbalance more directly than almost anything else you can do with food alone. Everything else builds on that foundation."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 My refrigerator used to look like a pharmacy. Prescription bottles on the counter, anti-inflammatory meds next to the coffee maker, and a fridge full of frozen dinners because cooking felt like one more thing I didn't have the energy for. I've sat across from clients in that exact place, joints aching, frustrated, wondering if diet changes were just another thing someone was going to try to sell them.

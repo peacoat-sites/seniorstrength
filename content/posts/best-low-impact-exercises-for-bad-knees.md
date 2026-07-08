@@ -1,5 +1,5 @@
 ---
-title: "Best Low Impact Exercises For Bad Knees"
+title: "Knee Pain Shouldn't Stop Your Workouts"
 date: 2026-06-01T15:36:50.340453+00:00
 draft: false
 description: "Discover the best low impact exercises for bad knees that reduce pain and build strength. Stay active safely with gentle workouts approved for knee health."

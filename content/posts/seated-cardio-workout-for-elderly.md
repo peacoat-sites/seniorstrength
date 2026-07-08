@@ -1,5 +1,5 @@
 ---
-title: "Seated Cardio Workout For Elderly"
+title: "Seated Cardio Workouts That Boost Energy Fast"
 date: 2026-06-04T12:20:45.829899+00:00
 draft: false
 description: "Discover gentle seated cardio exercises designed for elderly adults to boost heart health, improve mobility, and increase energy levels safely from the comfort "
@@ -23,7 +23,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people assume that once you're sitting down, you're not really working out. That assumption has kept a lot of older adults from making real progress with their cardiovascular health. I see it constantly: someone comes in after a fall, or a knee replacement, or a long stretch of being sedentary, and they've been told to "stay active" without anyone actually showing them how. Seated cardio is how we bridge that gap. And done right, it's more effective than most people expect.
 

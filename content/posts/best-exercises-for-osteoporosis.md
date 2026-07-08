@@ -1,5 +1,5 @@
 ---
-title: "Best Exercises For Osteoporosis"
+title: "Strengthen Your Bones: Safe Exercises For Osteoporosis"
 date: 2026-06-11T22:05:21.940015+00:00
 draft: false
 description: "Discover the best exercises for osteoporosis to strengthen bones, improve balance, and reduce fracture risk. Learn safe, effective workouts recommended by exper"
@@ -23,7 +23,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most advice about osteoporosis exercise is dangerously incomplete. Not wrong, exactly, but incomplete in ways that can lead you straight into a fracture rather than away from one.
 

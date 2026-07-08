@@ -1,5 +1,5 @@
 ---
-title: "How To Improve Balance After 60"
+title: "Steady On Your Feet: 5 Balance Fixes for Active Adults"
 date: 2026-06-09T21:47:31.956475+00:00
 draft: false
 description: "Discover simple exercises and tips to improve balance after 60, reduce fall risk, and stay active, confident, and independent as you age gracefully."
@@ -12,7 +12,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Three falls. That's what it took before Patricia finally agreed to come see me. She was 67, fiercely independent, and absolutely certain her two previous stumbles on the back porch steps were just bad luck. The third one sent her to the ER with a bruised hip and a badly shaken confidence. By the time she sat down across from me, she wasn't asking about strength or cardio anymore. She just wanted to feel safe in her own house again.
 
