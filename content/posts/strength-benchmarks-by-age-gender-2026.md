@@ -8,19 +8,19 @@ author_title: "Medical Reviewer"
 date: 2026-06-28
 featured_depth: true
 faqs:
- - question: "Am I strong for my age?"
-   answer: "Use the table below. If you can lift 1.0x bodyweight squat, you're at average for your age/gender. Above 1.25x = above average. Below 0.75x = below average. Genetics + training both matter."
- - question: "Why do women's benchmarks differ from men's?"
-   answer: "Biological differences in muscle mass distribution and hormones. Women average 40-50% less upper body muscle. But relative strength (as % bodyweight) is closer. Women often excel in proportion to their frame."
- - question: "Should I use these as training goals?"
-   answer: "Yes, but context matters. These are population averages. Your actual potential depends on years training, genetics, and injury history. Use benchmarks to track *you*, not compare to random people."
- - question: "What if I'm way below average?"
-   answer: "Normal. Most people don't train. If you're training consistently (3+ months) and still below average, focus on form and progressive overload, strength gains take 6-12 weeks to show."
- - question: "Do these benchmarks change with age?"
-   answer: "Yes. Peak strength is late 20s to early 30s. After 40, decline is ~1-2% per year if untrained. But trained 70-year-olds often outlift untrained 40-year-olds."
+ - q: "Am I strong for my age?"
+   a: "Use the table below. If you can lift 1.0x bodyweight squat, you're at average for your age/gender. Above 1.25x = above average. Below 0.75x = below average. Genetics + training both matter."
+ - q: "Why do women's benchmarks differ from men's?"
+   a: "Biological differences in muscle mass distribution and hormones. Women average 40-50% less upper body muscle. But relative strength (as % bodyweight) is closer. Women often excel in proportion to their frame."
+ - q: "Should I use these as training goals?"
+   a: "Yes, but context matters. These are population averages. Your actual potential depends on years training, genetics, and injury history. Use benchmarks to track *you*, not compare to random people."
+ - q: "What if I'm way below average?"
+   a: "Normal. Most people don't train. If you're training consistently (3+ months) and still below average, focus on form and progressive overload, strength gains take 6-12 weeks to show."
+ - q: "Do these benchmarks change with age?"
+   a: "Yes. Peak strength is late 20s to early 30s. After 40, decline is ~1-2% per year if untrained. But trained 70-year-olds often outlift untrained 40-year-olds."
 categories: ["Fitness", "Strength Training", "Health Data"]
 keywords: ["strength benchmarks by age", "how much should I be able to lift", "squat deadlift bench press standards"]
-lastmod: 2026-07-07
+lastmod: 2026-07-09
 ---
 
 Most people have no idea if they're strong.
