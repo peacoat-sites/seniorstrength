@@ -7,7 +7,8 @@ image: "https://images.pexels.com/photos/7551667/pexels-photo-7551667.jpeg?auto=
 categories: ["Balance & Safety"]
 tags: ["fall risk", "balance", "assessment", "seniors", "safety"]
 slug: "fall-risk-assessment"
-author: "Carol Mitchum"
+author: "Dr. Patricia Williams"
+author_slug: "dr-patricia-williams"
 affiliate_disclosure: false
 faqs:
   - q: "How accurate is the 30-second chair stand test?"
