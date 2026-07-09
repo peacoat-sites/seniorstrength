@@ -2,29 +2,32 @@
   {
     "label": "Fall Risk Assessment",
     "url": "/fall-risk-assessment/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "fall",
       "risk",
       "assessment"
-    ]
+    ],
+    "desc": "Answer a short assessment to gauge your fall risk and next steps."
   },
   {
     "label": "Protein Calc",
     "url": "/senior-protein-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "protein"
-    ]
+    ],
+    "desc": "Find how much daily protein you need to preserve muscle as you age."
   },
   {
     "label": "Strength Standards Age",
     "url": "/strength-standards-by-age/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "strength",
       "standards",
       "age"
-    ]
+    ],
+    "desc": "See how your strength compares to others your age and sex."
   }
 ]
