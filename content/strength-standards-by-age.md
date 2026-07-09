@@ -3,6 +3,9 @@ title: "Senior Strength Standards by Age (Chair Stand Test)"
 date: 2026-01-01
 draft: false
 description: "See how your lower-body strength compares to others your age using the 30-second chair stand test, with average ranges for adults 60 to 94."
+author: "Linda Chen"
+author_slug: "linda-chen"
+author_title: "Physical Therapist"
 ---
 
 Most people over 60 have no idea whether their strength is normal, declining, or genuinely strong for their age, because nobody ever gives them a number to measure against. The 30-second chair stand test fixes that. It's the single most useful at-home strength check I know of: it takes half a minute, needs only a sturdy chair, and it predicts something that actually matters, your risk of falling.
