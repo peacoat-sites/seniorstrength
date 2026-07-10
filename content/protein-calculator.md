@@ -8,7 +8,8 @@ image: "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=
 categories: ["Nutrition"]
 tags: ["protein", "nutrition", "seniors", "muscle", "calculator"]
 slug: "senior-protein-calculator"
-author: "Carol Mitchum"
+author: "James Cooper"
+author_slug: "james-cooper"
 affiliate_disclosure: false
 faqs:
   - q: "How much protein do seniors need per day?"
