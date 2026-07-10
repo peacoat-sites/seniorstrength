@@ -1,0 +1,21 @@
+{
+  "question": "How often do you strength train?",
+  "options": [
+    {
+      "label": "Just getting started",
+      "votes": 342
+    },
+    {
+      "label": "2-3 times a week",
+      "votes": 296
+    },
+    {
+      "label": "About once a week",
+      "votes": 178
+    },
+    {
+      "label": "Not yet, researching",
+      "votes": 133
+    }
+  ]
+}
