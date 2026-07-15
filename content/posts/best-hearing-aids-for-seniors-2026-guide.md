@@ -130,8 +130,6 @@ Other options exist. Some state Medicaid programs cover hearing aids for low-inc
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Age Cymru](https://unsplash.com/@agecymru?utm_source=seniorstrength&utm_medium=referral)

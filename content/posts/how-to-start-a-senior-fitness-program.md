@@ -97,8 +97,6 @@ Start smaller than makes sense. Stay more consistent than feels necessary. Let t
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Yan Krukau](https://www.pexels.com/@yankrukov)

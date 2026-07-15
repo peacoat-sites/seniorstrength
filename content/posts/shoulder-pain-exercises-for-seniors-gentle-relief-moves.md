@@ -125,8 +125,6 @@ Most shoulder pain in seniors responds well to gentle exercise and self-care. Bu
 
 A doctor or physical therapist can provide a proper diagnosis and create a personalized plan for your specific situation. There's no shame in asking for professional support. It's one of the wisest things you can do.
 
-## Recommended Resources
-
 ## Sources
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)

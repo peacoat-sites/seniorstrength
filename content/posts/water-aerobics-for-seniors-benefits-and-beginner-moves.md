@@ -107,8 +107,6 @@ Photo by [Jonathan Marchant](https://unsplash.com/@cool_guy_jon?utm_source=senio
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Jonathan Marchant](https://unsplash.com/@cool_guy_jon?utm_source=seniorstrength&utm_medium=referral)

@@ -115,8 +115,6 @@ The longer I do this work, the more convinced I am that the biggest obstacle for
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto)

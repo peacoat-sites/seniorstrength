@@ -119,8 +119,6 @@ That last one is the whole point, really. Not a milestone workout or a weight on
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [SHVETS production](https://www.pexels.com/@shvets-production)

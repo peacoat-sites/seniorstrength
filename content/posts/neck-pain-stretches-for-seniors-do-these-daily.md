@@ -132,8 +132,6 @@ Photo by [Jimmy Liu](https://unsplash.com/@jimmy__liu?utm_source=seniorstrength&
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral)

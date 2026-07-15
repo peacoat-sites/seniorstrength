@@ -139,8 +139,6 @@ Start where you are. Go at your own pace. Trust the process. The steadiness and 
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Mobio Marketing](https://unsplash.com/@mobio_be?utm_source=seniorstrength&utm_medium=referral)

@@ -137,8 +137,6 @@ You've already taken the hardest step by learning about stretching and back care
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Ahmet Kurt](https://unsplash.com/@ahmetkurt?utm_source=seniorstrength&utm_medium=referral)

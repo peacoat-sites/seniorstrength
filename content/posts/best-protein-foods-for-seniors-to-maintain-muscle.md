@@ -113,8 +113,6 @@ Do at least two days of strength training weekly. Get a protein snack within an 
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral)

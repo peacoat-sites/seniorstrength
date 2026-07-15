@@ -144,8 +144,6 @@ Photo by [jason hu](https://unsplash.com/@hujason?utm_source=seniorstrength&utm_
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Avesta](https://unsplash.com/@avesta1?utm_source=seniorstrength&utm_medium=referral)

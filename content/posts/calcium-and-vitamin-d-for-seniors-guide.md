@@ -103,8 +103,6 @@ Get the blood test. Know your numbers. Adjust from there. That's a more reliable
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [ready made](https://www.pexels.com/@readymade)

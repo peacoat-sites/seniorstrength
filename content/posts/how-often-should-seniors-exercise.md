@@ -122,8 +122,6 @@ The right exercise frequency isn't a universal number. It's the intersection of 
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)

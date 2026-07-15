@@ -132,8 +132,6 @@ Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstr
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Junior REIS](https://unsplash.com/@juniorreisfoto?utm_source=seniorstrength&utm_medium=referral)

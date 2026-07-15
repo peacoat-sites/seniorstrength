@@ -118,8 +118,6 @@ Taking care of yourself in the kitchen means you keep cooking for yourself for y
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)

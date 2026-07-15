@@ -126,8 +126,6 @@ You've already taken the hard step by learning how food matters. Now take that k
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)

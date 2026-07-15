@@ -112,8 +112,6 @@ Roll your shoulders back. Take a deep breath. Give yourself permission to start 
 
 Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-## Recommended Resources
-
 ## Sources
 
 - [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral)

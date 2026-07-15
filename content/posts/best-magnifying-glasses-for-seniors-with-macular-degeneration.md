@@ -124,8 +124,6 @@ Photo by [Ryo Ito](https://unsplash.com/@ryokyleito?utm_source=seniorstrength&ut
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Alex Gruber](https://unsplash.com/@alex_gruber?utm_source=seniorstrength&utm_medium=referral)

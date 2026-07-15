@@ -135,8 +135,6 @@ Start small, stay safe, and remember that every minute you spend on that wobbly 
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)

@@ -109,8 +109,6 @@ Living with arthritis takes real courage. Choosing to move your body despite dis
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)

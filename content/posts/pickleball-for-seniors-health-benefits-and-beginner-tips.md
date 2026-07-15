@@ -96,8 +96,6 @@ Take one small step this week. Look up your nearest court, sign up for a beginne
 
 Photo by [Jon Matthews](https://unsplash.com/@jkmatt?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-## Recommended Resources
-
 ## Sources
 
 - [Babak Eshaghian](https://unsplash.com/@babak22ir?utm_source=seniorstrength&utm_medium=referral)

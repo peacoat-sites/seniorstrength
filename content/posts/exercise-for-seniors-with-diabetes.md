@@ -112,8 +112,6 @@ Managing diabetes with exercise isn't complicated, but it does require more prec
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)

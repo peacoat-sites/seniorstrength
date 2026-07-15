@@ -120,8 +120,6 @@ Photo by [Mobio Marketing](https://unsplash.com/@mobio_be?utm_source=seniorstren
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Mobio Marketing](https://unsplash.com/@mobio_be?utm_source=seniorstrength&utm_medium=referral)

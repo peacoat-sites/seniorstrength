@@ -122,8 +122,6 @@ Photo by [Alex Ugolkov](https://unsplash.com/@asysin?utm_source=seniorstrength&u
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Supattra Khorasri](https://unsplash.com/@sup4114kho?utm_source=seniorstrength&utm_medium=referral)

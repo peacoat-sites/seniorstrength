@@ -120,8 +120,6 @@ Progress beats perfection every time. Every positive morning choice is a step to
 
 Photo by [nilufar nattaq](https://unsplash.com/@nillufar?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-## Recommended Resources
-
 ## Sources
 
 - [Tran Phu](https://unsplash.com/@phuhunter142?utm_source=seniorstrength&utm_medium=referral)

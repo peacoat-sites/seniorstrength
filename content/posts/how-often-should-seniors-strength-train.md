@@ -91,8 +91,6 @@ That last part sounds obvious. In practice, it's where almost everyone needs the
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto)

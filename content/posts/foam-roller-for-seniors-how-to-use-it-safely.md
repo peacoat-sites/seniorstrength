@@ -141,8 +141,6 @@ Photo by [Artem Polezhaev](https://unsplash.com/@esver?utm_source=seniorstrength
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Valentin Balan](https://unsplash.com/@valentinbalan?utm_source=seniorstrength&utm_medium=referral)

@@ -121,8 +121,6 @@ Photo by [Age Cymru](https://unsplash.com/@agecymru?utm_source=seniorstrength&ut
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Junior REIS](https://unsplash.com/@juniorreisfoto?utm_source=seniorstrength&utm_medium=referral)

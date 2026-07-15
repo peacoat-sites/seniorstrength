@@ -109,8 +109,6 @@ You've got this, and we're cheering you on every step of the way.
 
 Photo by [CDC](https://unsplash.com/@cdc?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-## Recommended Resources
-
 ## Sources
 
 - [Age Cymru](https://unsplash.com/@agecymru?utm_source=seniorstrength&utm_medium=referral)

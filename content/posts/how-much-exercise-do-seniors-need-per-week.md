@@ -103,8 +103,6 @@ The honest truth is that there's no single perfect number that applies to every 
 
 *This article is for general informational purposes only and does not constitute medical or fitness advice. Consult your physician or a licensed physical therapist before starting a new exercise program, especially if you have existing health conditions.*
 
-## Recommended Resources
-
 ## Sources
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)

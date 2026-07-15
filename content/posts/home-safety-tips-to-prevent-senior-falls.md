@@ -105,8 +105,6 @@ The home you've lived in for decades starts to feel like it doesn't need a secon
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [cottonbro studio](https://www.pexels.com/@cottonbro)

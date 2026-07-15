@@ -132,8 +132,6 @@ You've already taken the first step by learning more. Keep going. Your body will
 
 Photo by [Tamanna Rumee](https://unsplash.com/@tamanna_rumee?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-## Recommended Resources
-
 ## Sources
 
 - [SPACEDEZERT](https://unsplash.com/@spacedezert?utm_source=seniorstrength&utm_medium=referral)

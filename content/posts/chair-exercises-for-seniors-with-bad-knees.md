@@ -110,8 +110,6 @@ Start slow. Even 10 minutes a day, three days a week is a wonderful beginning. A
 
 You'll probably notice improvements in just 2-3 weeks: less stiffness in the morning, greater ease when getting up from a chair, and more confidence on your feet.
 
-## Recommended Resources
-
 ## Sources
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)

@@ -148,8 +148,6 @@ Photo by [Masjid MABA](https://unsplash.com/@masjidmaba?utm_source=seniorstrengt
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [John Broks](https://unsplash.com/@johnbroks?utm_source=seniorstrength&utm_medium=referral)

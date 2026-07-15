@@ -109,8 +109,6 @@ Start with two or three of these exercises. Master those before adding more. And
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Marcus Aurelius](https://www.pexels.com/@marcus-aurelius)

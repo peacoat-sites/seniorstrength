@@ -89,8 +89,6 @@ Some days the goal is just to move your body enough to keep it from seizing up. 
 
 *This article is for general informational purposes only and does not constitute medical or fitness advice. Consult your physician or a licensed physical therapist before starting a new exercise program, especially if you have existing health conditions.*
 
-## Recommended Resources
-
 ## Sources
 
 - [T Leish](https://www.pexels.com/@leish)

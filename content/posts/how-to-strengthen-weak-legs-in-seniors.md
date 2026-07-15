@@ -103,8 +103,6 @@ Starting is the hard part. Not physically. Mentally. Because when your legs feel
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [RDNE Stock project](https://www.pexels.com/@rdne)

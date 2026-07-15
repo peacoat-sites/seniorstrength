@@ -141,8 +141,6 @@ Start simple if you're not sure. A good quality weekly organizer with AM and PM 
 
 You've already taken the first step by reading this far. Now go give your medication routine the upgrade it deserves. Your future self will thank you.
 
-## Recommended Resources
-
 ## Sources
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)

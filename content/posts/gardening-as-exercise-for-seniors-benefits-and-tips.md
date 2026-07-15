@@ -97,8 +97,6 @@ Begin small, stay consistent, protect your body, and soak in the fresh air. Your
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)

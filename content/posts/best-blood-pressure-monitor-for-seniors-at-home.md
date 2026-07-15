@@ -151,8 +151,6 @@ Photo by [Age Cymru](https://unsplash.com/@agecymru?utm_source=seniorstrength&ut
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Age Cymru](https://unsplash.com/@agecymru?utm_source=seniorstrength&utm_medium=referral)

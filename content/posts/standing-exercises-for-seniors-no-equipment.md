@@ -121,8 +121,6 @@ Start with what you can do today, not the version you'd like to be able to do in
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov)

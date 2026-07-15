@@ -136,8 +136,6 @@ Photo by [Priscilla Du Preez 🇨🇦](https://unsplash.com/@priscilladupreez?ut
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Timothy Newman](https://unsplash.com/@newmanphotog?utm_source=seniorstrength&utm_medium=referral)

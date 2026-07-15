@@ -132,8 +132,6 @@ By week 12, many people are cleared by their surgeon to resume activities like g
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Centre for Ageing Better](https://unsplash.com/@ageing_better?utm_source=seniorstrength&utm_medium=referral)

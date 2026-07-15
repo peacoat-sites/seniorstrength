@@ -99,8 +99,6 @@ Frank, the retired electrician, eventually moved into standing yoga classes. Too
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov)
@@ -112,4 +110,3 @@ Frank, the retired electrician, eventually moved into standing yoga classes. Too
 
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

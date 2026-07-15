@@ -105,8 +105,6 @@ The home-based fitness program that actually works long-term isn't the one with 
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov)
@@ -120,4 +118,3 @@ The home-based fitness program that actually works long-term isn't the one with 
 
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

@@ -132,8 +132,6 @@ Finding the best pedometer for seniors is really about finding the one that fits
 
 Every step you take is an investment in your health, your independence, and your joy. You deserve a tool that makes that easier and more fun. Clip it on, strap it up, and get walking. Your best days are still ahead of you.
 
-## Recommended Resources
-
 ## Sources
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)

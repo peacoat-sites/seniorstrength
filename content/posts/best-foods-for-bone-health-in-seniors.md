@@ -98,8 +98,6 @@ What we do know clearly is that overall dietary pattern matters more than any on
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [T Leish](https://www.pexels.com/@leish)
@@ -113,4 +111,3 @@ What we do know clearly is that overall dietary pattern matters more than any on
 
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

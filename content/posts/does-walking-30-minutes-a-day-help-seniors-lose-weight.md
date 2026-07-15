@@ -136,8 +136,6 @@ Lace up those shoes, step outside, and start your journey. You've absolutely got
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)

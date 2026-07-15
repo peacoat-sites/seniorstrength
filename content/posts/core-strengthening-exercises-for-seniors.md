@@ -111,8 +111,6 @@ The real goal here isn't a stronger core for its own sake. It's the ability to s
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [MART PRODUCTION](https://www.pexels.com/@mart-production)

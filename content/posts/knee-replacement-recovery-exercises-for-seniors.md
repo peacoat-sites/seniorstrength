@@ -142,8 +142,6 @@ Recovery isn't a straight line. Bad days are normal. What matters is showing up 
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Win Min Aung](https://unsplash.com/@apertureblade?utm_source=seniorstrength&utm_medium=referral)

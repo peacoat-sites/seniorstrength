@@ -107,8 +107,6 @@ The shoulder that lets you reach overhead, the grip that keeps you steady on sta
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Wellness Gallery Catalyst Foundation](https://www.pexels.com/@wellness-gallery-catalyst-foundation-229759139)

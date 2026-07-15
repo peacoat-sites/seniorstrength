@@ -133,8 +133,6 @@ Thousands of older adults have significantly improved their balance in just a fe
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Age Cymru](https://unsplash.com/@agecymru?utm_source=seniorstrength&utm_medium=referral)

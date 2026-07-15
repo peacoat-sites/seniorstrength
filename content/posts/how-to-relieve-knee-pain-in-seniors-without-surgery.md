@@ -131,8 +131,6 @@ Photo by [Edagar Antoni Ann](https://unsplash.com/@xedgar94?utm_source=seniorstr
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Avesta](https://unsplash.com/@avesta1?utm_source=seniorstrength&utm_medium=referral)

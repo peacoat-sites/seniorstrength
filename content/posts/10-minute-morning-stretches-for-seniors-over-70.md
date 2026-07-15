@@ -125,8 +125,6 @@ Starting a new habit at any age takes courage. The fact that you're reading this
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)

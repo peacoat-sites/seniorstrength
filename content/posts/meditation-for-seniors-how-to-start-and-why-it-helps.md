@@ -115,8 +115,6 @@ Photo by [sk](https://unsplash.com/@rollelflex_graphy726?utm_source=seniorstreng
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Matteo Vistocco](https://unsplash.com/@mrsunflower94?utm_source=seniorstrength&utm_medium=referral)

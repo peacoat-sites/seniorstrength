@@ -141,8 +141,6 @@ The real magic here is how many exercises fit into just one or two bands. These 
 
 Even 15 to 20 minutes of band exercises three times a week produces meaningful improvements in strength, balance, and confidence within just a few weeks.
 
-## Recommended Resources
-
 ## Sources
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)

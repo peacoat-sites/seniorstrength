@@ -124,8 +124,6 @@ Be patient with yourself, celebrate small victories, and know that every session
 
 Photo by [Rollz International](https://unsplash.com/@rollzint?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-## Recommended Resources
-
 ## Sources
 
 - [Jack Lopez](https://unsplash.com/@jacklopezofficial?utm_source=seniorstrength&utm_medium=referral)

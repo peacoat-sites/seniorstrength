@@ -126,8 +126,6 @@ Starting a new exercise routine can feel like a big step. But resistance bands m
 
 Photo by [Customerbox](https://unsplash.com/@customerbox?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-## Recommended Resources
-
 ## Sources
 
 - [Customerbox](https://unsplash.com/@customerbox?utm_source=seniorstrength&utm_medium=referral)

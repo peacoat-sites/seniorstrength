@@ -97,8 +97,6 @@ The truth about dumbbell training for adults over 60 is that it's less complicat
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Alena Darmel](https://www.pexels.com/@a-darmel)

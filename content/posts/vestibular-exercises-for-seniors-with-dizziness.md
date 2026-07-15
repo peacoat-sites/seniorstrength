@@ -131,8 +131,6 @@ Photo by [Jessica Streser](https://unsplash.com/@rothaargebirge?utm_source=senio
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Mark Timberlake](https://unsplash.com/@mtimber71?utm_source=seniorstrength&utm_medium=referral)

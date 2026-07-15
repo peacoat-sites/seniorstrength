@@ -145,8 +145,6 @@ Self-compassion is part of a healthy diabetes management plan too. Progress, not
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Alexandra Tran](https://unsplash.com/@alexgoesglobal?utm_source=seniorstrength&utm_medium=referral)

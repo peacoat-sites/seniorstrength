@@ -122,8 +122,6 @@ The gap between "eating enough" and "eating enough to actually build muscle afte
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)

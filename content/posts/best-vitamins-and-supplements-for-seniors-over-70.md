@@ -125,8 +125,6 @@ You've already started by reading this. Talk to your doctor. Get blood work done
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)

@@ -108,8 +108,6 @@ Keep a simple journal noting your pain level each morning on a scale from one to
 
 Your feet have carried you through decades of life. Investing even a few minutes a day in their care is one of the kindest things you can do for your overall wellbeing.
 
-## Recommended Resources
-
 ## Sources
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)

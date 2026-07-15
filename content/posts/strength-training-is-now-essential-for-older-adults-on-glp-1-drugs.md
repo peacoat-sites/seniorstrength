@@ -79,10 +79,3 @@ A lighter body that is also a weaker body is not a straightforward win for long-
 *This article is for general informational purposes only and does not constitute medical or fitness advice. Consult your physician or a licensed physical therapist before starting a new exercise program, especially if you have existing health conditions.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-
