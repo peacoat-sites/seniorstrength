@@ -18,7 +18,7 @@ faqs:
    a: "Normal. Most people don't train. If you're training consistently (3+ months) and still below average, focus on form and progressive overload, strength gains take 6-12 weeks to show."
  - q: "Do these benchmarks change with age?"
    a: "Yes. Peak strength is late 20s to early 30s. After 40, decline is ~1-2% per year if untrained. But trained 70-year-olds often outlift untrained 40-year-olds."
-categories: ["Fitness", "Strength Training", "Health Data"]
+categories: ["lifestyle"]
 keywords: ["strength benchmarks by age", "how much should I be able to lift", "squat deadlift bench press standards"]
 lastmod: 2026-07-09
 ---

@@ -4,7 +4,7 @@ date: 2026-07-10T21:05:45.408281+00:00
 draft: false
 description: "Starting strength training at 65 is safe and effective. Learn the beginner exercises, rest needs, and weekly plans that build real muscle after 60."
 image: "/img/heroes/4587363.jpg"
-categories: ["Getting Started"]
+categories: ["General Fitness"]
 tags: ["start", "strength", "training"]
 author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"

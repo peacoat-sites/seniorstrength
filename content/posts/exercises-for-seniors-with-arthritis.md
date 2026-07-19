@@ -4,7 +4,7 @@ date: 2026-07-10T21:07:58.570577+00:00
 draft: false
 description: "Discover safe, effective exercises designed for seniors with arthritis. Reduce joint pain, improve mobility, and stay active with these simple movements."
 image: "/img/heroes/7938849.jpg"
-categories: ["Exercises for Conditions"]
+categories: ["Injury Prevention"]
 tags: ["exercises", "seniors", "with", "arthritis"]
 author: "James Cooper"
 author_slug: "james-cooper"
