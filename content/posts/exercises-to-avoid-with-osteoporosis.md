@@ -36,7 +36,7 @@ Your doctor may have told you to "be careful" and "[avoid falls](/home-safety-ti
 
 **Spinal flexion under load.** This is the big one. Sit-ups, crunches, the "hundred" in Pilates, toe touches with a rounded back, and any seated machine crunch at the gym. All of these put your thoracic and lumbar spine into flexion while adding load or momentum. If you have established osteoporosis, especially in the spine, these are the exercises I'd remove immediately.
 
-Yoga is wonderful for flexibility and stress reduction, but several common poses are flexion-heavy. Child's pose, seated forward fold, and certain twisting poses all involve significant spinal flexion or rotation under load. I've seen yoga instructors who are excellent at modifying these for people with bone density concerns, and I've seen instructors who had no idea this was even a consideration. Don't assume your instructor knows. Ask, and be specific about your diagnosis.
+Yoga is wonderful for flexibility and stress reduction, but several common poses are flexion-heavy. Child's pose, seated forward fold, and certain twisting poses all involve significant spinal flexion or rotation under load. Yoga instructors vary widely in their knowledge of bone density concerns and how to modify poses accordingly. Don't assume your instructor knows. Ask, and be specific about your diagnosis.
 
 **High-impact activities without appropriate preparation.** Running, jumping jacks, jump rope, plyometrics, and step aerobics classes with jump components all generate ground reaction forces that can be two to five times your body weight. This sounds counterintuitive because impact loading is actually good for bone density in healthy adults, and there's real evidence for it. The problem with osteoporosis is that the bone may not be in a condition to handle high, sudden loads safely, particularly if you've had previous fractures or if your T-score is significantly below -2.5. A 2022 systematic review in Osteoporosis International looked at this specifically and found that low-to-moderate impact loading (walking, low-step aerobics) generally benefits bone, while high-impact jumping in those with established osteoporosis carries meaningful fracture risk without proportional benefit.
 
@@ -80,7 +80,6 @@ Which brings me to the most important recommendation I can make: get a physical 
 
 - [水 金](https://www.pexels.com/@531194097)
 - on impact thresholds is still developing
-
 
 #### Is walking safe with osteoporosis?
 

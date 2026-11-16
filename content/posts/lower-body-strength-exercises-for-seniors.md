@@ -30,7 +30,7 @@ Most people assume the biggest threat to independence as you age is heart diseas
 
 That might sound dramatic, but hear me out. Lower body strength is the single most direct predictor of whether an older adult will live independently at 75, 80, or 85. Not cognitive scores. Not cardiovascular fitness (though that matters too). The muscles in your hips, thighs, and calves are what allow you to stand from a chair without using your arms, catch yourself when you stumble, climb stairs without gripping the railing like it owes you money. When those go, everything else follows faster than most people expect.
 
-I've been working with adults over 60 for more than fifteen years now, and I'll be honest: the standard advice out there on this topic ranges from mildly unhelpful to genuinely dangerous. "Do chair exercises." "Walk more." "Take a water aerobics class." Fine, but that's not a strength program. That's maintenance at best, and for someone who's already lost meaningful muscle mass, it's barely keeping pace with the decline.
+Standard advice on this topic often ranges from mildly unhelpful to genuinely dangerous. "Do chair exercises." "Walk more." "Take a water aerobics class." Fine, but that's not a strength program. That's maintenance at best, and for someone who's already lost meaningful muscle mass, it's barely keeping pace with the decline.
 
 What I want to do here is give you the real picture: which exercises actually build lower body strength in older adults, how to do them safely, and what the research actually says versus what gets repeated because it sounds reassuring.
 
@@ -41,7 +41,7 @@ What I want to do here is give you the real picture: which exercises actually bu
 | 60s | 1-2% per year | Journal of Gerontology |
 | 70+ | 2-4% per year | Journal of Gerontology |
 
-Here's something that surprised me when I first dug into the physiology: [muscle loss after 60](/how-seniors-can-regain-lost-muscle-mass/) isn't linear. It accelerates. The research on sarcopenia (age-related muscle loss) consistently shows that the rate of decline roughly doubles between your 60s and your 70s if you're not doing targeted resistance training. A landmark paper published in the *Journal of Gerontology* found that adults who were sedentary lost an average of 1-2% of lower body muscle mass per year in their 60s, jumping to 2-4% per year after 70.
+[Muscle loss after 60](/how-seniors-can-regain-lost-muscle-mass/) isn't linear. It accelerates. The research on sarcopenia (age-related muscle loss) consistently shows that the rate of decline roughly doubles between your 60s and your 70s if you're not doing targeted resistance training. A landmark paper published in the *Journal of Gerontology* found that adults who were sedentary lost an average of 1-2% of lower body muscle mass per year in their 60s, jumping to 2-4% per year after 70.
 
 The lower body takes the hardest hit for a few reasons. One, it's the furthest from your heart. Two, the [fast-twitch muscle fibers](/how-to-build-muscle-after-60/) responsible for power and quick reactions atrophy disproportionately with age. And three, most people reduce walking distances before they reduce arm activities, so the legs get less daily stimulation without anyone really noticing.
 
@@ -101,7 +101,7 @@ A reasonable starter session (30-35 minutes including warmup):
 
 After 4-6 weeks, add a third day or increase volume by adding a set to each exercise. The research is clear that older adults respond well to progressive overload, the gradual increase in challenge, just like younger adults. The timeline is a little longer and the increments should be smaller, but the principle is identical.
 
-One thing I've seen derail people is trying to progress too fast after feeling good for two weeks. Connective tissue (tendons, ligaments) adapts more slowly than muscle. You can build muscular strength faster than your tendons can catch up, which sets up overuse injury. Patience here isn't timidity; it's good physiology.
+Trying to progress too fast after feeling good for two weeks is common and problematic. Connective tissue (tendons, ligaments) adapts more slowly than muscle. You can build muscular strength faster than your tendons can catch up, which sets up overuse injury. Patience here isn't timidity; it's good physiology.
 
 ## What to Actually Worry About (And What's Overblown)
 
@@ -122,7 +122,6 @@ As of July 2026, the clinical consensus in physical therapy and geriatric medici
 - Cruz-Jentoft AJ, et al. "Sarcopenia: revised European consensus on definition and diagnosis." *Age and Ageing* (2019): current clinical definition and diagnostic criteria for sarcopenia.
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

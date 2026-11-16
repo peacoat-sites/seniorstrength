@@ -28,7 +28,7 @@ Balance isn't one skill. It's a team effort involving your muscles, inner ear, e
 
 After 60, muscle mass naturally decreases through a process called sarcopenia. Weaker legs and core muscles make staying steady harder. At the same time, the sensory signals your feet and joints send to your brain slow down.
 
-Here's the encouraging part: balance is a skill you can retrain at any age. Research shows that targeted [balance training reduces fall risk](/how-to-reduce-fall-risk-in-elderly-parents/) in older adults by up to 23 percent. A chair is all you need.
+Balance is a skill you can retrain at any age. Targeted [balance training reduces fall risk](/how-to-reduce-fall-risk-in-elderly-parents/) in older adults by up to 23 percent. A chair is all you need.
 
 ## Getting Started Safely With Chair-Supported Exercises
 
@@ -146,7 +146,6 @@ Start where you are. Go at your own pace. Trust the process. The steadiness and 
 - [Emre](https://unsplash.com/@reo?utm_source=seniorstrength&utm_medium=referral)
 - [Ahmet Kurt](https://unsplash.com/@ahmetkurt?utm_source=seniorstrength&utm_medium=referral)
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

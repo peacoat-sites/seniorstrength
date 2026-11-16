@@ -29,7 +29,7 @@ Most people I work with who are 70 or older come in carrying one of two things: 
 
 It's not too late. Not even close.
 
-Research published in the Journal of Strength and Conditioning Research has consistently shown that adults in their 70s and 80s can increase muscle strength by 25 to 30 percent over 12 weeks of progressive resistance training. I've seen that play out in real life more times than I can count. One of my clients, Dorothy, was 74 when she started with me after a minor fall in her kitchen. She hadn't done structured exercise in decades. After six months of twice-weekly sessions, she could get up off the floor unassisted, carry her own groceries, and her bone density scan showed measurable improvement. That's not extraordinary. That's what this kind of training actually does.
+Research published in the Journal of Strength and Conditioning Research has consistently shown that adults in their 70s and 80s can increase muscle strength by 25 to 30 percent over 12 weeks of progressive resistance training.
 
 ## Why Most "Senior Exercise" Programs Sell You Short
 
@@ -98,7 +98,7 @@ You might have heard this term and assumed it was for 25-year-old gym enthusiast
 
 Here's what I tell people: if you can complete all your sets and reps with good form and the last few reps don't feel hard, it's time to add a small amount of weight or an extra set. If you're still sore three or four days after a session, you went too hard and need to pull back. Muscle soreness the day after or two days after is normal. Soreness or joint pain that lingers past 72 hours is a signal.
 
-One of my clients, Robert, 71, was frustrated three weeks into his program because he felt like he wasn't making progress fast enough. He'd added weight twice in three weeks and felt like that was slow. I pulled up his intake form from day one and showed him his starting numbers. He'd gone from a 15-pound goblet squat to a 30-pound goblet squat in 21 days. He laughed. "I forgot where I started," he said. Write your numbers down. It matters more than you think.
+It's easy to lose sight of progress in the early weeks. Writing down your starting numbers and checking them regularly helps you see gains that don't feel obvious day-to-day.
 
 ## The Balance Component You Shouldn't Skip
 
@@ -115,7 +115,6 @@ As of July 2026, the National Institute on Aging recommends that adults over 65 
 - American College of Sports Medicine Position Stand on Exercise and Physical Activity for Older Adults: Evidence-based recommendations updated periodically; most recent major revision 2023
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

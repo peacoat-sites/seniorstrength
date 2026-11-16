@@ -25,11 +25,11 @@ faqs:
     a: "Generally yes, but you'll want your surgeon's clearance and ideally a few sessions with a physical therapist first to establish what ranges of motion are appropriate for you. Sun style or a chair-based modification of Yang style is usually the safest entry point. The low-impact nature of tai chi is actually one of its assets for joint replacement recovery once you're past the acute healing phase."
 ---
 
-Forty-seven percent. That's the share of adults over 65 who fall at least once each year, according to the CDC, and falls are the leading cause of injury-related death in that age group. I've been working with older adults for over fifteen years, and that number still stops me cold every time I say it out loud. What makes it harder is knowing how many of those falls are preventable.
+Forty-seven percent. That's the share of adults over 65 who fall at least once each year, according to the CDC, and falls are the leading cause of injury-related death in that age group. What makes it harder is knowing how many of those falls are preventable.
 
 And here's where tai chi comes in, because the research on this is not subtle.
 
-A landmark 2012 meta-analysis published in the *Journal of the American Geriatrics Society* looked at 159 randomized controlled trials on fall prevention in older adults. Tai chi outperformed balance training, strength training, and walking programs as a single-mode intervention. The risk reduction for falls was 43% in some of the higher-quality trials. Not 10%. Not 20%. Forty-three. When I first read that figure, I thought I'd misread the abstract. I hadn't.
+A landmark 2012 meta-analysis published in the *Journal of the American Geriatrics Society* looked at 159 randomized controlled trials on fall prevention in older adults. Tai chi outperformed balance training, strength training, and walking programs as a single-mode intervention. The risk reduction for falls was 43% in some of the higher-quality trials. Not 10%. Not 20%. Forty-three.
 
 You might be wondering: is this just marketing for tai chi classes, or does it actually hold up? Let me tell you what the evidence really shows, what it doesn't show, and exactly how to get started without getting hurt.
 
@@ -53,9 +53,7 @@ Yang style, which was actually adapted from Chen in the 19th century specificall
 
 Sun style is worth mentioning specifically for anyone with arthritis or significant knee problems. It uses the highest stances of any major school and incorporates "agile step" footwork that's actually gentler on the joints than Yang. A 2008 study in *Arthritis & Rheumatism* found Sun style tai chi produced significant improvements in both balance and self-reported pain in adults with knee osteoarthritis. I've recommended it to a handful of clients with bilateral knee issues who couldn't get comfortable with Yang style, and the feedback has been consistently good.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Fall risk reduction by exercise type in older adults (%)</div><div class="sc-row"><span class="sc-label">Tai Chi</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">43%</span></div><div class="sc-row"><span class="sc-label">Balance Training</span><span class="sc-track"><span class="sc-bar" style="width:74%"></span></span><span class="sc-val">32%</span></div><div class="sc-row"><span class="sc-label">Strength Training</span><span class="sc-track"><span class="sc-bar" style="width:49%"></span></span><span class="sc-val">21%</span></div><div class="sc-row"><span class="sc-label">Walking Programs</span><span class="sc-track"><span class="sc-bar" style="width:28%"></span></span><span class="sc-val">12%</span></div><div class="sc-row"><span class="sc-label">Flexibility Only</span><span class="sc-track"><span class="sc-bar" style="width:14%"></span></span><span class="sc-val">6%</span></div><div class="sc-src">Source: Sherrington et al., Journal of the American Geriatrics Society, 2019</div></div>
-
 
 ## Finding a Class (And Avoiding the Ones That Waste Your Time)
 
@@ -89,7 +87,7 @@ Start with 15-20 minutes per session, not a full class. If you're in a group cla
 
 The very first skill you'll work on is something called "rooting," which is the practice of feeling your feet planted firmly and shifting your weight slowly from one foot to the other. It sounds almost insultingly simple. But the first time you do it with real attention, following your breath, you'll notice how unstable that transfer actually is. That's exactly the instability that causes falls on uneven pavement. You're training the system that catches you.
 
-A worked example: Margaret, a 72-year-old client of mine from Sacramento, had fallen twice in the prior two years (once on a sidewalk crack, once getting out of the shower). She'd had a DEXA scan showing moderate osteoporosis, so falls weren't just inconvenient, they were potentially catastrophic. She started with the Arthritis Foundation program, twice weekly, and added a 10-minute solo practice at home with a wall nearby. At her six-month physical therapy reassessment, her single-leg stance time had gone from 4 seconds to 18 seconds (normal for her age is roughly 10 seconds or more), and she hadn't fallen. Her physical therapist noted "marked improvement in dynamic balance." That's the kind of outcome that's realistic with consistent practice.
+As one example of realistic outcomes: someone with moderate osteoporosis who practices tai chi twice weekly and adds a 10-minute solo session at home with a wall nearby can see single-leg stance time improve from 4 seconds to 18 seconds over six months (normal for that age is roughly 10 seconds or more), with no falls during that period and marked improvement in dynamic balance noted on physical therapy reassessment. That's the kind of outcome that's realistic with consistent practice.
 
 Scenario two: Robert, 68, retired engineer from Phoenix, started Yang 24-form at a community center. He practiced twice weekly for eight months. His Berg Balance Scale score improved from 47 (low fall risk threshold is 56) to 53, still in caution territory, but a meaningful shift. He combined it with 10 minutes of single-leg standing while making coffee each morning, something I'd recommended. Progress wasn't dramatic, but it was real and it accumulated.
 
@@ -110,7 +108,6 @@ Falls happen during divided attention. You trip on a step because you were also 
 - Song, R., et al. (2008). "Effects of tai chi on balance: A population-based study in older adults with knee osteoarthritis." *Arthritis & Rheumatism*. Supports Sun-style recommendation for joint issues.
 
 ---
-
 
 *Photo: [🇻🇳🇻🇳Nguyễn Tiến Thịnh 🇻🇳🇻🇳](https://www.pexels.com/@nguy-n-ti-n-th-nh-2150376175) via Pexels*
 

@@ -25,7 +25,7 @@ author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
 lastmod: 2026-07-08
 ---
-Most seniors are taking calcium wrong. Not the wrong supplement necessarily, but the wrong dose at the wrong time in the wrong form, often without the one nutrient that determines whether any of it actually works. I've watched clients dutifully swallow their calcium carbonate every morning with coffee and then wonder why their DEXA scans kept getting worse. Here's what actually happens.
+Most seniors are taking calcium wrong. Not the wrong supplement necessarily, but the wrong dose at the wrong time in the wrong form, often without the one nutrient that determines whether any of it actually works.
 
 ## Why These Two Nutrients Are Inseparable
 
@@ -91,7 +91,7 @@ A few warning signs worth knowing. If you're taking supplemental calcium and dev
 
 If your vitamin D dose is above 2,000 IU daily, it's worth getting your 25(OH)D level checked every 6-12 months. Levels above 100 ng/mL are generally considered potentially problematic, though toxicity symptoms (nausea, weakness, confusion, elevated calcium in blood) rarely appear below 150 ng/mL. Still, monitoring costs nothing and gives you data.
 
-Magnesium deserves a mention here. It's a cofactor for vitamin D metabolism, and some research suggests that people who are low in magnesium don't respond as well to vitamin D supplementation. Many older adults run on the low side. Dark leafy greens, legumes, nuts and seeds all contain magnesium. If you're supplementing multiple micronutrients, a conversation with your doctor or a registered dietitian about the full picture is worth scheduling.
+Magnesium is necessary for vitamin D metabolism. People who are low in magnesium may not respond as well to vitamin D supplementation. Many older adults have low magnesium levels. Dark leafy greens, legumes, nuts and seeds all contain magnesium. If you're supplementing multiple micronutrients, a conversation with your doctor or a registered dietitian about the full picture is worth scheduling.
 
 Get the blood test. Know your numbers. Adjust from there. That's a more reliable foundation than any amount of general advice, including this.
 
@@ -110,7 +110,6 @@ Get the blood test. Know your numbers. Adjust from there. That's a more reliable
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - published in *Nutrition Research* found that over 41% of American adults were vi
 - here is genuinely mixed
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

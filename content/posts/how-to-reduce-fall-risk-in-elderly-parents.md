@@ -26,7 +26,7 @@ If you've watched a parent grip the wall for balance or shuffle carefully across
 
 A fall at 70 isn't like a fall at 30. A single one can mean a hip fracture, a head injury, a long hospital stay that fundamentally changes someone's life.
 
-But here's what people miss: even a fall that doesn't cause serious injury often leaves lasting psychological damage. The fear of falling again leads to less movement, weaker muscles, and paradoxically, a much higher chance of falling in the future. It's a spiral.
+Even a fall that doesn't cause serious injury often leaves lasting psychological damage. Fear of falling again can lead to less movement, weaker muscles, and a higher chance of future falls.
 
 After age 60, your body changes in ways that make falls especially risky:
 
@@ -81,7 +81,7 @@ You don't need a major renovation. Just walk through with fresh eyes and think a
 
 Exercise is the most powerful tool you have to reduce fall risk in elderly adults. It's never too late to start, and even gentle, consistent movement rebuilds the strength and balance that prevent falls.
 
-Research shows that programs focusing on balance training and lower-body strengthening can reduce falls by up to 30%. The real trick is finding exercises that feel safe and enjoyable enough that your parent will actually do them.
+Programs focusing on balance training and lower-body strengthening can reduce falls by up to 30%. Finding exercises that feel safe and enjoyable makes it more likely your parent will stick with them.
 
 **Beginner-friendly exercises for fall prevention:**
 
@@ -148,7 +148,6 @@ A simple emergency alert system also helps. Medical alert devices that detect fa
 - [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral)
 - [Samuel Lopez Cruz](https://unsplash.com/@fotogugu?utm_source=seniorstrength&utm_medium=referral)
 - [Eduardo Cano Photo Co.](https://unsplash.com/@eduardocanophotoco?utm_source=seniorstrength&utm_medium=referral)
-
 
 Reducing fall risk in your elderly parent is one of the most loving things you can do, and it doesn't have to feel overwhelming. Start with one or two changes. Celebrate each small improvement. Build from there.
 

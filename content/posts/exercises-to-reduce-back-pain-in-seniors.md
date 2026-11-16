@@ -38,7 +38,7 @@ That sounds like a small distinction. It isn't.
 
 The instinct to stop moving when your back hurts makes complete sense. Pain is the body's way of saying something is wrong, and rest feels protective. But here's the problem: after about 48 to 72 hours, rest stops helping and starts making things worse. Muscles weaken, joints stiffen, and the supporting structures around the spine lose the little activation they had left. Research published in the Annals of Internal Medicine has consistently shown that bed rest for non-specific low back pain produces worse outcomes than staying gently active.
 
-I've seen this play out too many times. Someone hurts their back on a Tuesday, spends the rest of the week on the couch, and then on Sunday wonders why they can barely stand up straight.
+A common pattern after a back injury is resting for several days, then noticing significantly reduced mobility and flexibility by week's end.
 
 For older adults specifically, there's a compounding factor: sarcopenia, the natural age-related loss of muscle mass. After 60, the deep muscles that stabilize the lumbar spine, the multifidus, the transverse abdominis, the quadratus lumborum, are already working harder to do their job. Take away what little active support they provide through inactivity, and the passive structures (discs, ligaments, joints) pick up a load they weren't designed to handle alone.
 
@@ -119,7 +119,6 @@ I'd also strongly encourage working with a physical therapist at least a few tim
 
 ---
 
-
 ---
 
 You don't need to do all of this at once. Pick two or three exercises from this list, do them consistently for two weeks, and notice what changes. Most people are surprised by how much difference the basics make when done correctly and regularly. The back you have at 70 can genuinely function better than the one you had at 65, if you give it the right inputs. That's not optimism. That's just what I've watched happen, over and over again.
@@ -139,7 +138,6 @@ You don't need to do all of this at once. Pick two or three exercises from this 
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - published in the Annals of Internal Medicine has consistently shown that bed res
 - backs it up
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

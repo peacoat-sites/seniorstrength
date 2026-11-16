@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Most people don't realize how fast leg strength actually declines after 60. Research published in the Journal of Gerontology puts the number at roughly 1-2% of muscle mass lost per year after age 50, and that rate accelerates. By the time someone's struggling to get up from a chair without using their arms, they've usually been losing ground quietly for years.
 
-If you're reading this, you might be wondering whether you've waited too long. You haven't. I've worked with people in their late 80s who made real, measurable gains in leg strength. The timeline is longer and the approach needs to be smarter, but the body's capacity to adapt doesn't just switch off.
+If you're reading this, you might be wondering whether you've waited too long. You haven't. People in their late 80s can make real, measurable gains in leg strength. The timeline is longer and the approach needs to be smarter, but the body's capacity to adapt doesn't just switch off.
 
 Here's what I tell people when they first sit down with me: weak legs in older adults are almost never just a muscle problem. They're a combination of muscle loss, reduced neural firing efficiency, tighter hip flexors, and in many cases, months or years of unconsciously moving less to avoid the fear of falling. All of that compounds. Which means the solution isn't just "do more squats." It means addressing the full picture systematically.
 
@@ -110,7 +110,6 @@ Starting is the hard part. Not physically. Mentally. Because when your legs feel
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - published in the Journal of Gerontology puts the number at roughly 1-2% of muscl
 - behind balance training in older adults is some of the most consistent in the fi
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

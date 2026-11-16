@@ -29,11 +29,9 @@ Most people assume flexibility is the first thing to go after 65, and that once 
 
 What changed my mind was watching a 71-year-old client named Barbara do a full seated forward fold, fingers past her toes, after six months of consistent work. She'd come to me with the kind of hip stiffness that made getting out of a car look like a negotiation. The research backs up what I saw with her: flexibility responds to training at any age, though it responds differently than it did at 35, and that difference matters a lot if you want to avoid getting hurt while trying to get more mobile.
 
-I'll be honest, I've seen more people over 65 injure themselves chasing flexibility than I've seen injure themselves from being stiff. The way we talk about stretching for [older adults](/benefits-of-exercise-for-older-adults/) is often badly incomplete.
-
+Flexibility work carries real injury risk for older adults, particularly when it's pursued too aggressively or at the wrong time. The way we talk about stretching for [older adults](/benefits-of-exercise-for-older-adults/) is often badly incomplete.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Flexibility is trainable past 65, but the approach must shift: longer holds (30-60 seconds), lower intensity, higher frequency</li><li style="margin:5px 0">Static stretching is most effective after muscles are warm, not first thing in the morning on a cold body</li><li style="margin:5px 0">Balance and flexibility are interdependent, improving one tends to improve the other</li><li style="margin:5px 0">Consistency beats intensity; 10 minutes daily outperforms an hour on the weekend</li><li style="margin:5px 0">Joint hypermobility is a real risk in older adults, not just stiffness, more range isn't always better</li></ul></div>
-
 
 ## Why Flexibility Changes After 65 (and What's Actually Happening)
 
@@ -45,7 +43,7 @@ The nervous system piece gets underappreciated. Older adults tend to have a lowe
 
 ## The Morning Trap
 
-I thought for years that the ideal time to stretch was first thing in the morning. I was wrong, and I made this mistake with clients early in my career. I'd see someone come in at 7 a.m. after barely being vertical for 20 minutes, put them into a hamstring stretch, and wonder why they felt so tight.
+A common mistake is stretching first thing in the morning, when muscles are stiff from inactivity and more prone to injury.
 
 Interstitial fluid in the spinal discs is higher in the morning. Core structures are literally more compressed and less mobile before your body has had time to move around. Connective tissue is cooler and stiffer. The risk of small tears or overstretching is measurably higher.
 
@@ -68,7 +66,7 @@ Here's a practical comparison of the most common flexibility approaches, and how
 | Foam rolling (myofascial) | 60-90 seconds per area | Low | Tissue prep before stretching | Foam roller (~$25-$40) |
 | Ballistic stretching (bouncing) | N/A | High | Not recommended for this group | No |
 
-The one I want to flag is PNF, which stands for proprioceptive neuromuscular facilitation. It sounds technical, but the basic version is simple: you contract a muscle against resistance for about six seconds, then immediately stretch it. The nervous system "resets" the stretch reflex, allowing a deeper range of motion. I've seen this produce faster flexibility improvements than static stretching alone, and there's solid evidence behind it. The research is mixed on exactly how much better it is compared to prolonged static holds, but in my experience it works particularly well for hip flexors and hamstrings in people who've plateaued.
+The one I want to flag is PNF, which stands for proprioceptive neuromuscular facilitation. It sounds technical, but the basic version is simple: you contract a muscle against resistance for about six seconds, then immediately stretch it. The nervous system "resets" the stretch reflex, allowing a deeper range of motion. PNF often produces faster flexibility improvements than static stretching alone. The research is mixed on exactly how much better it is compared to prolonged static holds, but in my experience it works particularly well for hip flexors and hamstrings in people who've plateaued.
 
 The catch with PNF is that it requires honest effort during the contraction phase, and if someone has high blood pressure or cardiovascular concerns, they should check with their doctor first. The Valsalva response (holding your breath during exertion) is a real risk.
 
@@ -81,8 +79,6 @@ Tight hip flexors tilt the pelvis forward, shifting your center of gravity. Tigh
 Falls are the leading cause of injury-related death in adults over 65 in the U.S., according to the CDC's current data (as of July 2026, that statistic hasn't budged despite years of awareness campaigns). The link between poor flexibility and fall risk is direct enough that I'd argue flexibility work should be framed as fall prevention, not just "staying limber."
 
 A few specific spots to prioritize, in rough order of fall-risk impact: hip flexors, ankle dorsiflexion (the ability to pull your foot up toward your shin), thoracic spine rotation, and hip external rotators. These aren't glamorous, but they're what matter.
-
-**A worked example:** A reader named Carl, 68, contacted me after his physical therapist identified severe ankle dorsiflexion restriction following a minor fall. He couldn't get his knee past his toes when doing a standing calf stretch. We worked on daily calf stretches (60 seconds each side, twice daily) plus single-leg balance work. At his six-week reassessment, his dorsiflexion had improved by roughly 12 degrees and his PT cleared him for walking on uneven terrain again.
 
 ## Building a Realistic Routine
 
@@ -98,9 +94,7 @@ Chair yoga and pool stretching deserve a special mention for people with signifi
 
 **Another worked example:** Margaret, 74, had tried and quit floor-based yoga three times due to knee pain getting down and up. Switched her to a 40-minute chair yoga routine from a YouTube channel called "Chair Yoga World." At eight weeks, her self-reported hip mobility had improved enough that she was getting in and out of her car without holding the door for support. Small victory. Real one.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Flexibility improvement by weekly session frequency (older adults, 12-week avg)</div><div class="sc-row"><span class="sc-label">1x per week</span><span class="sc-track"><span class="sc-bar" style="width:26%"></span></span><span class="sc-val">8 % range-</span></div><div class="sc-row"><span class="sc-label">3x per week</span><span class="sc-track"><span class="sc-bar" style="width:55%"></span></span><span class="sc-val">17 % range-</span></div><div class="sc-row"><span class="sc-label">5x per week</span><span class="sc-track"><span class="sc-bar" style="width:77%"></span></span><span class="sc-val">24 % range-</span></div><div class="sc-row"><span class="sc-label">Daily</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">31 % range-</span></div><div class="sc-src">Source: AJPM&amp;R 2021 meta-analysis</div></div>
-
 
 ## Sources
 
@@ -111,7 +105,6 @@ Chair yoga and pool stretching deserve a special mention for people with signifi
 - [National Institute on Aging]: General guidance on flexibility and balance training recommendations for older adults
 
 ---
-
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
 

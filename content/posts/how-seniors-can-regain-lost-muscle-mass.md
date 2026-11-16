@@ -30,7 +30,7 @@ Most people don't realize they've already lost a significant amount of muscle by
 
 Not because they've been sedentary or careless, but because sarcopenia, the age-related loss of skeletal muscle, is quiet. It happens at roughly 1-3% per year after age 60, and it doesn't announce itself with pain or obvious stiffness. It announces itself when you can't get out of a low chair without pushing off the armrests, or when a flight of stairs that used to be nothing suddenly requires a handrail and some willpower.
 
-I've seen this pattern hundreds of times. Someone comes in convinced they just need to "stretch more" or that they're "just getting older." And they're not wrong that aging is involved, but what they're missing is that muscle loss isn't a sentence. It's a process you can actually reverse, at any age.
+A common pattern: someone convinced they just need to "stretch more" or that they're "just getting older." And they're not wrong that aging is involved, but what they're missing is that muscle loss isn't a sentence. It's a process you can actually reverse, at any age.
 
 That last part is what most people don't realize, and it's the part that matters most.
 
@@ -44,7 +44,7 @@ That last part is what most people don't realize, and it's the part that matters
 | 65+ years | Varies | Measurable gains | Progressive resistance training; meta-analysis, *British Journal of Sports Medicine*, 2019 |
 | Case example: 71 years | 14 weeks | Grip +22%, chair-stand +62.5% | Resistance training + protein optimization |
 
-Here's the thing that changed my thinking on this years ago: I used to believe, like a lot of people in fitness, that after a certain age the window for meaningful muscle rebuilding was mostly closed. Then I read a 1994 study out of Tufts University by Maria Fiatarone and colleagues, published in the *New England Journal of Medicine*, that showed nursing home residents aged 72 to 98 increased their leg muscle strength by an average of 113% after just 10 weeks of [resistance training](/safe-weight-lifting-for-seniors-guide/). Some of them had been using walkers. Some improved enough to walk without one.
+Many people in fitness once believed that after a certain age the window for meaningful muscle rebuilding was mostly closed. A 1994 study out of Tufts University by Maria Fiatarone and colleagues, published in the *New England Journal of Medicine*, showed nursing home residents aged 72 to 98 increased their leg muscle strength by an average of 113% after just 10 weeks of [resistance training](/safe-weight-lifting-for-seniors-guide/). Some of them had been using walkers. Some improved enough to walk without one.
 
 That study rearranged my thinking completely.
 
@@ -60,13 +60,11 @@ Protein first, because this is where I see the biggest gap.
 
 The current dietary guidelines for protein, 0.8 grams per kilogram of body weight per day, were set as a minimum to prevent deficiency. Not to build muscle. Not even to maintain it effectively in older adults. Research from Stuart Phillips' lab at McMaster University suggests that adults over 65 likely need closer to 1.2 to 1.6 grams per kilogram per day to support muscle protein synthesis, especially when training. For a 165-pound person, that's a difference between about 60 grams and 110-120 grams of protein daily. That's substantial.
 
-And timing matters more than most people expect. Muscle protein synthesis is maximally stimulated by a dose of roughly 30-40 grams of high-quality protein per meal, according to work published in the *Journal of the American Geriatrics Society*. Spreading your protein across three meals rather than backloading it at dinner is genuinely important. I've had clients who were technically hitting their protein numbers for the day but eating almost none of it at breakfast and lunch. Once they redistributed those same grams more evenly, they started recovering from sessions better within three weeks.
+Timing matters more than most people expect. Muscle protein synthesis is maximally stimulated by roughly 30-40 grams of high-quality protein per meal, according to work published in the *Journal of the American Geriatrics Society*. Spreading protein across three meals rather than backloading it at dinner produces better recovery than consuming most of it in one sitting.
 
 Now, resistance training. Not walking, not yoga (though both have real value for other reasons). Actual resistance training: weights, resistance bands, bodyweight exercises with progressive difficulty, or machines. Specifically compound movements that work multiple large muscle groups: squats, rows, step-ups, hip hinges, chest presses. These recruit more muscle fiber, trigger more anabolic hormone response, and give you a bigger return on the time you put in.
 
 Here's where I'd push back on some conventional senior fitness advice: starting with very light resistance and staying there for months is not "building a foundation." It's just moving. You need to reach something close to muscular fatigue within the last 2-3 reps of a set. If you're finishing 12 reps and feel like you could do 20 more, the weight isn't doing anything for muscle building.
-
-A worked example from my own practice:
 
 **Margaret, 71, retired teacher from Portland, Oregon, came in after her doctor flagged low grip strength and poor balance scores.** She'd been doing chair yoga three times a week for a year with no measurable change in strength. → We shifted to twice-weekly resistance sessions (goblet squats, seated cable rows, step-ups with a 4-inch riser, assisted hip hinges) with protein targets set at 1.3g/kg/day, front-loaded toward breakfast. → After 14 weeks, her grip strength improved 22%, her chair-stand test went from 8 reps in 30 seconds to 13, and she reported the stairs in her house felt "like a different building."
 
@@ -80,7 +78,7 @@ Hormonal changes, particularly the decline in testosterone (in men and women), e
 
 But the reflex conclusion, that therefore seniors can't build muscle the same way, misses something important. The relative response to training stimulus is still significant. Your ceiling may be lower than at 35, but the floor has dropped a lot too, which means the available range is still meaningful. And resistance training itself, done consistently, raises testosterone and growth hormone levels modestly but measurably, particularly high-intensity compound movements.
 
-Should you talk to your doctor about hormone levels if you're struggling? Yes. Genuinely. If your testosterone is clinically low and you're working hard with good nutrition and still not responding, that's a medical conversation worth having. But I've seen too many people decide the hormone situation makes effort pointless before they've actually tried a real training program for 12 consistent weeks. Most of the time, the program was the problem, not the hormones.
+Should you talk to your doctor about hormone levels if you're struggling? Yes. Genuinely. If your testosterone is clinically low and you're working hard with good nutrition and still not responding, that's a medical conversation worth having. Many people decide the hormone situation makes effort pointless before they've actually tried a real training program for 12 consistent weeks. Most of the time, the program was the problem, not the hormones.
 
 ---
 
@@ -88,7 +86,7 @@ Should you talk to your doctor about hormone levels if you're struggling? Yes. G
 
 Muscle isn't built in the gym. It's built in the 48-72 hours after you train, when your body repairs the micro-damage caused by resistance exercise. And as of 2026, the research on sleep's role in that recovery is pretty unambiguous: less than 7 hours per night meaningfully impairs muscle protein synthesis, regardless of how well you trained or ate.
 
-For older adults, sleep quality often deteriorates for reasons that have nothing to do with effort: sleep apnea (which is underdiagnosed in people over 60, particularly women), pain, medication side effects, and circadian rhythm shifts. If you're training hard, eating enough protein, and still not progressing, ask your doctor about a sleep study before you change your workout program. I've seen two clients in the last year alone who had been grinding away with mediocre results, got diagnosed with moderate sleep apnea, started CPAP therapy, and reported dramatically better energy and faster recovery within six to eight weeks.
+For older adults, sleep quality often deteriorates for reasons that have nothing to do with effort: sleep apnea (which is underdiagnosed in people over 60, particularly women), pain, medication side effects, and circadian rhythm shifts. If you're training hard, eating enough protein, and still not progressing, ask your doctor about a sleep study before you change your workout program. Sleep apnea diagnosis and CPAP therapy can produce noticeably better energy and faster recovery within six to eight weeks.
 
 Another worked example here:
 
@@ -127,7 +125,6 @@ A third example worth including:
 - Strandberg, E. et al. (2019): Meta-analysis published in *British Journal of Sports Medicine* confirming resistance training produces measurable muscle hypertrophy in adults over 60, with effect sizes comparable to younger populations.
 
 ---
-
 
 *Photo: [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto) via Pexels*
 

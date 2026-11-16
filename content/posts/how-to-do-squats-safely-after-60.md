@@ -27,13 +27,11 @@ faqs:
 
 Nearly half of all fall-related deaths in the United States involve [adults over](/how-exercise-fights-inflammaging-in-adults-over-60/) 65, and the CDC reports that falls are the leading cause of both fatal and nonfatal injuries in that age group. Here's the part that gets me every time I cite that number: a significant portion of those falls are directly linked to weak quadriceps and poor lower-body stability. In other words, the muscle group that squats train most directly is the exact muscle group standing between your patients and a trip to the ER.
 
-I've worked with hundreds of adults in their 60s, 70s, and 80s, and the question I hear constantly is some version of "aren't squats bad for my knees at my age?" I want to answer that clearly: no. The research doesn't support that fear. A 2021 review published in the *British Journal of Sports Medicine* found that progressive [resistance training](/what-the-new-acsm-resistance-training-guidelines-mean-after-60/), including squat-pattern movements, actually reduces knee pain in older adults with osteoarthritis rather than worsening it. What does cause problems is doing squats wrong, or jumping to a depth and load your body isn't ready for. That's a very different thing from squats themselves being dangerous.
+A common question from older adults is whether squats are bad for the knees at their age. I want to answer that clearly: no. The research doesn't support that fear. A 2021 review published in the *British Journal of Sports Medicine* found that progressive [resistance training](/what-the-new-acsm-resistance-training-guidelines-mean-after-60/), including squat-pattern movements, actually reduces knee pain in older adults with osteoarthritis rather than worsening it. What does cause problems is doing squats wrong, or jumping to a depth and load your body isn't ready for. That's a very different thing from squats themselves being dangerous.
 
 Let me walk you through what [actually works](/how-to-sleep-better-as-a-senior-what-actually-works/), because there's a lot of bad advice floating around online, and some of it is genuinely risky.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Squat-pattern training reduces fall risk by strengthening quads and glutes, the primary fall-prevention muscles.</li><li style="margin:5px 0">Chair squats and wall squats are the safest entry points for most adults over 60 with no prior training.</li><li style="margin:5px 0">Depth doesn't matter early on; going only 20-30 degrees of knee bend is enough to build strength safely.</li><li style="margin:5px 0">Knee pain during squats is usually a form problem (heels rising, knees caving), not a reason to stop entirely.</li><li style="margin:5px 0">Most older adults see measurable strength gains within 6-8 weeks of consistent twice-weekly squat training.</li></ul></div>
-
 
 ## Why Your Knees Are (Probably) Not the Problem
 
@@ -59,7 +57,7 @@ Here's how to do it correctly, step by step:
 
 Start with 2 sets of 8 reps, twice a week. Once that feels easy (usually 2 to 3 weeks in), add a third set. After 4 to 6 weeks, try doing the same movement without the chair as a target, going only to the depth where you'd just barely touch it.
 
-A reader named Dorothy, 71, from Tucson, emailed me last spring after trying this protocol. She'd had both knees replaced in 2022 and was told by well-meaning friends to "be careful" and "avoid deep squats forever." After 8 weeks of chair squats progressing to bodyweight squats to a low box, she went from struggling to get off her couch without using her arms to completing 3 sets of 12 unassisted, no arm push-off. Her physical therapist, who monitored her progress, noted a 22% improvement on her 30-second chair stand test, a standard clinical measure of lower body strength.
+For example, someone recovering from bilateral knee replacement who was advised to avoid deep squats might start with chair squats, progress to bodyweight squats, then to a low box. Over 8 weeks, this kind of progression can improve lower body strength measurably on standard clinical tests like the 30-second chair stand.
 
 ## Comparing Your Squat Options
 
@@ -74,9 +72,7 @@ Not all squat variations are equal in terms of joint stress and difficulty. This
 | TRX/suspension squat | Low-moderate | Moderate | Balance issues, fear of falling | TRX straps available at most YMCAs |
 | Barbell back squat | High | High | Advanced only, with professional coaching | Not appropriate without prior training history |
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Knee joint load by squat variation (% bodyweight)</div><div class="sc-row"><span class="sc-label">Chair squat</span><span class="sc-track"><span class="sc-bar" style="width:42%"></span></span><span class="sc-val">55 % BW</span></div><div class="sc-row"><span class="sc-label">Wall squat</span><span class="sc-track"><span class="sc-bar" style="width:37%"></span></span><span class="sc-val">48 % BW</span></div><div class="sc-row"><span class="sc-label">Goblet squat</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">78 % BW</span></div><div class="sc-row"><span class="sc-label">Box squat</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">65 % BW</span></div><div class="sc-row"><span class="sc-label">Barbell back squat</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">130 % BW</span></div><div class="sc-src">Source: Escamilla et al., Journal of Biomechanics, 2001</div></div>
-
 
 The Escamilla et al. data from *Journal of Biomechanics* is the most cited biomechanical breakdown of squat loading I'm aware of, and what it shows is striking: a standard barbell squat puts compressive force on the knee at roughly 130% of bodyweight. A chair squat sits around 55%. That gap matters a lot if you're working around arthritis or a previous replacement.
 
@@ -86,7 +82,7 @@ This is where I'll be direct, because I've watched well-meaning YouTube tutorial
 
 The biggest one: people try to keep their torso completely upright, like they're doing a split squat on a competition stage. That cue works for young lifters with excellent ankle mobility. For most adults over 60, it causes the heels to rise, the knees to shoot forward past the toes, and the joint stress to spike. A slight forward lean, maybe 30 to 45 degrees from vertical, is not only fine, it's preferable.
 
-Second mistake: holding your breath. I've seen blood pressure spikes that scared me in the gym when clients performed the Valsalva maneuver (breath-holding under effort) without knowing what they were doing. Breathe out on the way up. That's all you need to remember.
+Second mistake: holding your breath. Breath-holding under effort (the Valsalva maneuver) can cause blood pressure spikes. Breathe out on the way up. That's all you need to remember.
 
 Third: going too wide or too narrow. Hip-width stance, toes slightly out. Most people do well with toes at roughly the 11 o'clock and 1 o'clock positions on a clock face. This accommodates normal hip anatomy and lets the knees track over the second toe naturally.
 
@@ -119,7 +115,6 @@ As of August 2026, the American College of Sports Medicine recommends that adult
 - Straight, C.R. et al. (2020): "Effects of resistance training on lower extremity muscle power in middle-aged and older adults," *Age and Ageing* (tempo training and injury rate comparison)
 
 ---
-
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 

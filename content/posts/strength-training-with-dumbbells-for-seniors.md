@@ -69,7 +69,7 @@ Here's a sustainable starting framework for most adults over 60 who are new or r
 
 Two sessions per week, at least 48 hours apart. Each session covers the full body. Three to four exercises per session, three sets each, 10 to 15 reps per set. Rest 60 to 90 seconds between sets. Total time: 30 to 45 minutes. Resist the urge to add more in the first two months.
 
-The limiting factor early on isn't muscle capacity, it's connective tissue (tendons and ligaments), which adapts more slowly than muscle and is where most overuse injuries happen. I've watched people blow past sensible starting volumes because they felt great and wanted to do more, and then spend six weeks nursing a shoulder or knee. Going slow in month one is not wasted time.
+The limiting factor early on isn't muscle capacity, it's connective tissue (tendons and ligaments), which adapts more slowly than muscle and is where most overuse injuries happen. People who exceed sensible starting volumes risk spending weeks nursing a shoulder or knee injury. Going slow in month one is not wasted time.
 
 After eight to twelve weeks, you can add a third weekly session or introduce a split where you train upper body and lower body on separate days. By that point you'll have enough body awareness to read your own fatigue signals, which matters more than any generic progression table.
 
@@ -103,7 +103,6 @@ The truth about dumbbell training for adults over 60 is that it's less complicat
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - in the *Journal of Cachexia
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

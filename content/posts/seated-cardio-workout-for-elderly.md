@@ -39,7 +39,7 @@ What seated exercise does change is the risk profile. Removing the balance deman
 
 The research supports this. A 2020 review published in the *Journal of Aging and Physical Activity* looked at [chair-based exercise programs](/chair-exercises-for-seniors/) across multiple studies and found meaningful improvements in cardiovascular endurance, leg strength, and self-reported quality of life in adults over 65. These weren't gentle stretching programs. They were structured, progressively challenging workouts done entirely from a seated position.
 
-I'll also say this plainly: seated cardio isn't just for people who "can't do" standing exercise. Plenty of my clients who are fully capable of walking on a treadmill choose to mix in seated work because it lets them train longer, recover faster, and put intensity where they want it without loading their joints in ways that accumulate into injury. It's a tool. A good one.
+I'll also say this plainly: seated cardio isn't just for people who "can't do" standing exercise. Many people who are fully capable of standing exercise choose to mix in seated work because it lets them train longer, recover faster, and put intensity where they want it without loading their joints in ways that accumulate into injury. It's a tool. A good one.
 
 ---
 
@@ -66,7 +66,7 @@ Skip the seated pedal machines marketed heavily toward seniors, the kind you see
 
 ## A Real Seated Cardio Workout, From Start to Finish
 
-Here's what a solid 25-minute session actually looks like. This is a template I've used with clients ranging from their late 60s to their early 90s. The goal is to get your heart rate into a moderate effort zone, for most people over 65 that means something around 50-70% of your estimated max heart rate, but more practically, it means you can speak in short sentences but not hold a comfortable conversation.
+A solid 25-minute session typically follows this structure. The goal is to get your heart rate into a moderate effort zone, for most people over 65 that means something around 50-70% of your estimated max heart rate, but more practically, it means you can speak in short sentences but not hold a comfortable conversation.
 
 **Warm-up: 5 minutes**
 
@@ -96,7 +96,7 @@ Here's what I tell people after the first few weeks: the workout that challenges
 
 Progression in seated cardio can happen four ways: you move faster, you add resistance (bands, light weights), you extend the duration, or you reduce your rest between movements. You don't need to do all four at once. Pick one variable, add it gradually, and give your body two to three weeks to adapt before changing something else.
 
-What I've seen go wrong is people add intensity too fast because they feel good and want to push. Then something gets strained, they take two weeks off, and they're back to square one. Patience here isn't timidity. It's how you actually make consistent gains over months and years rather than sprinting into an injury.
+A common mistake is adding intensity too fast because you feel good and want to push. Then something gets strained, they take two weeks off, and they're back to square one. Patience here isn't timidity. It's how you actually make consistent gains over months and years rather than sprinting into an injury.
 
 A heart rate monitor helps enormously with this. Even a basic one. The Apple Watch Series 3, which you can find refurbished for around $80 to $100, has good enough heart rate tracking for this purpose. A Fitbit Inspire 3 runs about $100 new and is simpler to use. You're not looking for precision. You're looking for an honest external signal about whether you're working hard enough, and whether your recovery is trending in the right direction over time.
 
@@ -108,7 +108,6 @@ A heart rate monitor helps enormously with this. Even a basic one. The Apple Wat
 
 - [RDNE Stock project](https://www.pexels.com/@rdne)
 - supports this
-
 
 Stop immediately and rest if you feel chest pain, unusual shortness of breath, dizziness, or heart palpitations. That's not being overly cautious. That's basic safety that applies to every form of exercise.
 

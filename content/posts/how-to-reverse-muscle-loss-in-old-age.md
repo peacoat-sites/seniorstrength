@@ -31,9 +31,7 @@ Six months later, Gerald was doing assisted pull-ups.
 
 I tell his story not to promise you the same result, because [muscle loss](/how-to-prevent-muscle-loss-with-age/) is complicated and everyone's starting point is different, but because Gerald's case perfectly illustrates the two most damaging myths about sarcopenia, which is the clinical term for age-related muscle loss: that it's inevitable, and that reversing it requires something extreme.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Adults lose roughly 3-8% of muscle mass per decade after 30, accelerating sharply after 60, but this is not irreversible.</li><li style="margin:5px 0">Resistance training 2-3 times per week produces measurable strength gains in adults over 60 within 8-12 weeks.</li><li style="margin:5px 0">Protein needs actually increase with age; most older adults should target 1.2-1.6g per kg of body weight daily.</li><li style="margin:5px 0">Muscle protein synthesis drops with age but responds strongly to leucine-rich protein (eggs, Greek yogurt, salmon) consumed within 2 hours post-exercise.</li><li style="margin:5px 0">Consistency over six months, not intensity, predicts outcomes in older adults.</li></ul></div>
-
 
 ## What's Actually Happening in Your Muscles
 
@@ -41,7 +39,7 @@ Here's something most people don't realize: you're not just [losing muscle](/glp
 
 After roughly age 60, the body becomes progressively less efficient at something called muscle protein synthesis, the process by which dietary protein gets converted into new muscle tissue. A 2019 study in the *Journal of Physiology* measured this directly and found that older adults needed roughly 40% more protein per meal to stimulate the same anabolic response as younger adults. That's a significant gap, and most standard nutrition advice doesn't account for it. Your doctor might tell you to "eat more protein," but "more" is doing a lot of work in that sentence.
 
-The second thing happening is motor unit dropout. Muscle fibers, particularly the fast-twitch Type II fibers responsible for power and quick reaction, lose their nerve connections over time. These are the fibers that catch you when you stumble. Their loss is what makes falls so dangerous after 65. The good news is that progressive resistance exercise, even started late in life, can partially reinnervate these fibers. I've seen this personally with clients in their 70s who measurably improved their reaction time on balance boards within 12 weeks of starting a structured program.
+The second thing happening is motor unit dropout. Muscle fibers, particularly the fast-twitch Type II fibers responsible for power and quick reaction, lose their nerve connections over time. These are the fibers that catch you when you stumble. Their loss is what makes falls so dangerous after 65. The good news is that progressive resistance exercise, even started late in life, can partially reinnervate these fibers.
 
 ## Why Generic Exercise Advice Gets This Wrong
 
@@ -49,7 +47,7 @@ The second thing happening is motor unit dropout. Muscle fibers, particularly th
 
 I spent two years as a PT assistant in a senior wellness center where we used to print handouts listing "activities like walking, gardening, and swimming" as sarcopenia prevention strategies. I cringe at those now. Not because those activities don't have value, they absolutely do, but because they don't create the mechanical tension in muscle fibers required to actually reverse sarcopenia. Walking is aerobic conditioning. It will not rebuild the quadriceps of someone who's lost significant mass. The distinction matters enormously, and the research has been consistent on this point for at least the last decade.
 
-What works is progressive resistance training. That means lifting weights, using resistance bands, doing bodyweight exercises against gravity, or using weight machines, and doing it in a way that progressively overloads the muscle. The "progressive" part is where most people drop the ball. I've watched clients use the same pink 3-pound dumbbells for two years and wonder why nothing's changing. If the weight isn't challenging you in the 8-15 rep range, your muscles have no reason to adapt.
+What works is progressive resistance training. That means lifting weights, using resistance bands, doing bodyweight exercises against gravity, or using weight machines, and doing it in a way that progressively overloads the muscle. The "progressive" part is where most people drop the ball. If the weight isn't challenging you in the 8-15 rep range, your muscles have no reason to adapt.
 
 A practical starting framework for someone returning to strength training after 60:
 
@@ -110,7 +108,6 @@ One thing I haven't addressed: hormone changes. Testosterone and estrogen both s
 - **Stokes T et al. (2018)**: "Recent perspectives regarding the role of dietary protein for the promotion of muscle hypertrophy with resistance exercise training." *Nutrients*, 10(2):180. Used for protein intake recommendation ranges.
 
 ---
-
 
 *Photo: [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto) via Pexels*
 

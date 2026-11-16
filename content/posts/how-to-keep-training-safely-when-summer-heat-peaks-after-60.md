@@ -20,9 +20,7 @@ August 2026 is shaping up to be one of those summers that reminds everyone how s
 
 Here's what most people don't realize: this isn't just about discomfort. The American Geriatrics Society reports that more than 600 Americans die every summer from heat-related illness, and older adults are disproportionately represented in that number. Not because they're frail. Because their physiology has genuinely changed.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Stay out of outdoor heat between 10 a.m. and 4 p.m.; train before 10 a.m. or after 6 p.m.</li><li style="margin:5px 0">Drink water on a schedule, not when you feel thirsty ,  thirst signals are blunted after 60.</li><li style="margin:5px 0">Check your medications: diuretics, beta-blockers, and antihistamines impair heat regulation.</li><li style="margin:5px 0">Pool workouts and air-conditioned treadmill sessions preserve fitness gains with zero heat risk.</li><li style="margin:5px 0">Heat exhaustion escalates faster in adults over 65 ,  proactive timing beats reactive recovery.</li></ul></div>
-
 
 ## Why Your Body Handles Heat Differently Now
 
@@ -34,7 +32,7 @@ If you take any of these, please talk to your doctor before your next outdoor wo
 
 ## The Timing Problem Most Active Seniors Get Wrong
 
-I've seen really fit, disciplined people get into trouble in August because they kept their usual schedule without adjusting for the season. They'd been walking at 8 a.m. all spring just fine. But by mid-July the heat index at 8 a.m. is already climbing past 80 degrees, and by late August the window of safe outdoor activity has shrunk considerably.
+Many people get into trouble in August by keeping their usual schedule without adjusting for the season. A morning walk that felt fine in spring becomes risky as heat and humidity intensify. By mid-July the heat index at 8 a.m. is already climbing past 80 degrees, and by late August the window of safe outdoor activity has shrunk considerably.
 
 [Senior fitness](/how-to-start-a-senior-fitness-program/) experts writing for the Alliance for Aging Research in July 2026 were direct about this: heat exhaustion and dehydration escalate faster in adults over 65, and the strategy has to be proactive, not reactive. That means building the timing change into your routine before you feel like you need it, not after you've had a close call.
 
@@ -70,7 +68,7 @@ The goal isn't to find the perfect workout. The goal is to keep showing up consi
 
 Know the warning signs before you need them. Heat exhaustion symptoms include heavy sweating, weakness, cold or pale skin, a fast but weak pulse, nausea, and muscle cramps. Heat stroke, which is the medical emergency, involves a body temperature above 103 degrees Fahrenheit, hot and dry skin, rapid strong pulse, and possible confusion. If you or someone near you shows those signs, call 911 and start cooling immediately.
 
-I've worked with clients who felt fine and then didn't. The shift can be faster than people expect, especially in August humidity. If something feels off during a workout, stop. Get into shade or air conditioning. Drink cool water. Rest. You will not lose your fitness gains by cutting one workout short. You can lose a lot more than that by pushing through a warning sign.
+Heat illness can develop faster than people expect, especially in August humidity. If something feels off during a workout, stop. Get into shade or air conditioning. Drink cool water. Rest. You will not lose your fitness gains by cutting one workout short. You can lose a lot more than that by pushing through a warning sign.
 
 August heat is not the enemy of your fitness routine. It's just a condition that requires a smarter approach, a schedule adjustment, and a closer look at your medications. Make those changes now, before the peak of the heat forces you to.
 

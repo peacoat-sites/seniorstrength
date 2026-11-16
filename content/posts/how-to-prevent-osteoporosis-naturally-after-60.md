@@ -120,7 +120,7 @@ Beyond calcium and Vitamin D, a few other supplements have solid research suppor
 
 **Magnesium glycinate or citrate** absorbs well and supports hundreds of enzymatic reactions involved in bone metabolism. Many older adults are mildly deficient. Aim for 320-420 mg per day from food and supplements combined.
 
-**Collagen peptides** are gaining attention in bone research. Collagen makes up about 30% of bone structure. Preliminary studies suggest collagen supplements may improve bone density and reduce joint discomfort when paired with calcium and Vitamin D.
+**Collagen peptides** are gaining attention in bone research. Collagen makes up about 30% of bone structure. Collagen supplements paired with calcium and Vitamin D may help support bone density and reduce joint discomfort.
 
 **Strontium** (the non-radioactive form: strontium ranelate or citrate) has been extensively studied in Europe for osteoporosis. It appears to slow bone breakdown and stimulate new formation. Talk to your doctor before considering this.
 
@@ -133,7 +133,6 @@ Beyond calcium and Vitamin D, a few other supplements have solid research suppor
 - [Centre for Ageing Better](https://unsplash.com/@ageing_better?utm_source=seniorstrength&utm_medium=referral)
 - [Pauline Loroy](https://unsplash.com/@paulinel?utm_source=seniorstrength&utm_medium=referral)
 - consistently shows that smokers have lower bone density and higher fracture risk
-
 
 Taking steps to prevent osteoporosis naturally after 60 might feel overwhelming at first. But remember: every positive change you make today is an investment in your future mobility and independence. You don't need to overhaul your life overnight.
 

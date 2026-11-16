@@ -17,7 +17,7 @@ lastmod: 2026-07-08
 
 If you've picked up a paddle in the last couple of years, you're in good company. [Pickleball participation has exploded](/pickleball-is-surging-among-seniors-so-are-the-injuries/) across the country, and for adults over 60, the appeal makes complete sense: it's social, it's genuinely fun, and it gets you moving in ways that sitting at home absolutely doesn't. But if you've been hearing more about injuries lately, or maybe felt a tweak in your ankle after a hard lateral step, you're not imagining it. Orthopedic clinics are flagging a real and rising trend this summer, and it's worth understanding what's actually going on before you assume the solution is simply playing less.
 
-Spoiler: it usually isn't. The better answer is building the body that pickleball demands.
+The better answer is building the body that pickleball demands.
 
 ## Why This Summer Feels Different on the Court
 
@@ -63,7 +63,7 @@ A proper warm-up at this stage of life isn't about flexibility, it's about tissu
 
 Cool-downs matter on the back end too. Gentle calf stretching after play, when the tissue is warm, is one of the simplest things you can do for long-term Achilles health.
 
-Pickleball is genuinely good for you. The social engagement, the cardiovascular benefit, the coordination demands, all of it adds up to something worth protecting. The players I've seen stay on the court into their 70s and beyond aren't the ones who play less. They're the ones who take what happens between matches as seriously as the matches themselves.
+Pickleball is genuinely good for you. The social engagement, the cardiovascular benefit, the coordination demands, all of it adds up to something worth protecting. Players who stay on the court into their 70s and beyond tend to take what happens between matches as seriously as the matches themselves.
 
 ## Sources
 

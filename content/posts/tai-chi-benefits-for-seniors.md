@@ -66,7 +66,7 @@ Here's a realistic cost breakdown, because "it's affordable" tells you nothing:
 | DVD / streaming programs | $10-$40 one-time or ~$10-$15/month | Dr. Paul Lam's "Tai Chi for Arthritis" is the most clinically validated |
 | Community park groups (informal) | Free | Quality varies wildly; ask about instructor background |
 
-Dr. Paul Lam's "Tai Chi for Arthritis" program specifically is worth naming. It was developed with the Arthritis Foundation, is used in clinical trials, and has instructor training with actual certification requirements. If you can't find a local class, that's a reasonable starting point. I've seen people progress meaningfully with just the DVDs, though you lose the corrections a live instructor would catch.
+Dr. Paul Lam's "Tai Chi for Arthritis" program specifically is worth naming. It was developed with the Arthritis Foundation, is used in clinical trials, and has instructor training with actual certification requirements. If you can't find a local class, that's a reasonable starting point. The DVDs can work on their own, though you lose the corrections a live instructor would catch.
 
 Most studies showing significant benefits use 60-minute sessions, 3 times per week, over a minimum of 12 weeks. That's your baseline target. You'll feel some improvement earlier, but the meaningful balance adaptations take 8 to 12 weeks of consistent practice. Think of it like learning a language: the first two weeks feel like you're bad at it, and then something clicks.
 

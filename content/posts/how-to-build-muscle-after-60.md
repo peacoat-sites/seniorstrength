@@ -51,7 +51,7 @@ The general population guideline of 0.8 grams of protein per kilogram of bodywei
 
 What surprised me was learning about anabolic resistance, the phenomenon where older muscle tissue doesn't respond as readily to small protein doses as younger muscle does. Younger adults can trigger meaningful muscle protein synthesis with about 20 grams of protein in one sitting. Older adults appear to need closer to 35-40 grams per meal to get the same signal. This isn't speculation anymore. Research from Dr. Stuart Phillips' lab at McMaster University has been pretty consistent on this point over the last decade.
 
-What this means practically: spreading protein across three or four meals rather than eating very little at breakfast and lunch and then loading up at dinner. The distribution matters. I've had clients who were already eating adequate total protein but front-loading it differently and seeing much better results from that single change.
+Spread protein across three or four meals rather than eating very little at breakfast and lunch and then loading up at dinner. The distribution matters. Even people eating adequate total protein often see better results when they redistribute it more evenly.
 
 On the question of supplements: protein powder is not magic, but it's genuinely useful as a tool when whole food intake is difficult. Whey protein has the most evidence behind it for muscle protein synthesis. Leucine content, specifically, appears to be the key trigger, and whey is high in leucine. If you're dairy-free, a blend of pea and rice protein is a reasonable alternative. I wouldn't spend more than you need to. A 5-pound bag of Optimum Nutrition Gold Standard Whey typically runs around $55-65 and does the job. Skip the $120 "advanced senior formula" products unless there's something genuinely different in the label, which there usually isn't.
 
@@ -71,7 +71,7 @@ Pick 5-6 movements that cover the major patterns: a squat variation, a hip hinge
 
 For rep ranges, the research here is actually reassuring. Moderate weights done for higher reps (say, 3 sets of 12-15 with a weight that genuinely challenges the last few reps) build muscle just as well as heavier weights in the lower rep ranges, and with less joint stress. This matters enormously when people have existing knee, shoulder, or hip issues, which, honestly, most clients over 60 do. Working to within 2-3 reps of failure on each set seems to be the key variable, not how heavy the weight is in absolute terms.
 
-One thing I feel strongly about: machine-based exercises are not inferior for older adults. I've seen trainers sneer at machines as if only free weights count. Machines reduce the stability demand, which means more force goes through the target muscle, and they keep you in a controlled path that's easier to load progressively and harder to do dangerously wrong. For someone starting out, or returning after a gap, machines are not a compromise. They're often the smarter choice.
+Machine-based exercises are not inferior for older adults. Machines reduce the stability demand, which means more force goes through the target muscle, and they keep you in a controlled path that's easier to load progressively and harder to do dangerously wrong. For someone starting out, or returning after a gap, machines are often the smarter choice.
 
 ## Balance and Bone: The Reasons Strength Training Matters Beyond the Mirror
 
@@ -93,12 +93,11 @@ Balance is a separate quality from strength but they're related. Unilateral exer
 - here is actually reassuring
 - in the British Journal of Sports Medicine looked at resistance training's effect
 
-
 Medications matter here and I don't see this discussed enough in fitness circles. Several common medications can affect training outcomes in older adults. Statins (cholesterol-lowering drugs like atorvastatin or simvastatin) are associated with muscle pain and weakness in some people, and if you're experiencing unusual soreness or fatigue during training, it's worth raising with your doctor. Beta-blockers will limit your maximum heart rate, which affects how you gauge cardiovascular effort. Corticosteroids affect muscle protein metabolism. None of this means you can't train. It means you should know about it.
 
 Sleep is another overlooked factor. Growth hormone release, which plays a role in muscle repair and synthesis, happens predominantly during deep sleep. Older adults often sleep less deeply and for fewer hours. Chronic sleep deprivation measurably impairs muscle protein synthesis. There's no supplement that fixes this.
 
-And the psychological piece is real. A lot of clients over 60 come in with years of being told their bodies are fragile. That belief is often more limiting than any physical constraint. Rebuilding confidence in what the body can do, loading gradually and successfully, that process matters. I've seen it change people's lives in ways that are hard to quantify.
+The psychological piece matters. Many people over 60 have internalized years of messaging that their bodies are fragile. That belief is often more limiting than any physical constraint. Rebuilding confidence in what the body can do through gradual, successful loading can be transformative.
 
 The honest truth is that most of what holds older adults back from building real muscle isn't biological. It's the accumulated weight of bad advice, excessive caution, and the soft bigotry of low expectations. Your muscles respond to challenge at 65 or 72 in more similar ways to your 35-year-old self than almost anyone will tell you. The adaptations take a little longer. The recovery needs more respect. But the capacity is there.
 

@@ -37,7 +37,7 @@ When you're submerged to your chest, your body bears roughly 25 to 35 percent of
 
 Water also provides resistance proportional to effort. Push your arm slowly through the water and you feel a gentle tug. Push it fast and you're working significantly harder. That's called hydrostatic drag, and it makes water a built-in progressive resistance system. You don't need to change weights. You change speed. Excellent news if the idea of managing dumbbells or resistance bands feels like one more complicated thing to figure out.
 
-Then there's buoyancy's effect on balance training. One of the biggest barriers to [balance work for older adults](/exercises-for-seniors-with-limited-mobility/) is fear. Fear of falling during the exercise itself. In the water, that fear dissolves, sometimes literally on day one. I've worked with clients who hadn't practiced single-leg standing in years because they were terrified of tipping. In chest-deep water, they could do it without hesitation. And that neurological work, training your body to manage weight shifts and correct itself mid-movement, transfers to your daily life on dry land.
+Then there's buoyancy's effect on balance training. One of the biggest barriers to [balance work for older adults](/exercises-for-seniors-with-limited-mobility/) is fear. Fear of falling during the exercise itself. In the water, that fear dissolves, sometimes literally on day one. Many people avoid single-leg standing because they fear tipping, but chest-deep water allows for this practice without that anxiety. And that neurological work, training your body to manage weight shifts and correct itself mid-movement, transfers to your daily life on dry land.
 
 ## The Core Exercises Worth Your Time
 
@@ -50,7 +50,7 @@ Don't underestimate this one. Walking forward and backward in chest-deep water f
 Grip a foam noodle across your chest, lean forward, and kick from your hips with straight-ish knees. This is outstanding for glute activation and hip extension, two areas that weaken with age and sitting and directly affect your ability to walk without shuffling. It also gets your heart rate up without any impact.
 
 **Leg Swings (Forward, Back, and Side)**
-Stand near the pool wall with one hand lightly touching for reference only, not gripping for dear life. Swing one leg forward and back in a controlled pendulum motion, then switch to side-to-side. Do 15 repetitions in each direction per leg. This builds hip abductor and adductor strength, which is critical for lateral stability and fall prevention. I've seen this single exercise make a noticeable difference in how clients walk within six weeks.
+Stand near the pool wall with one hand lightly touching for reference only, not gripping for dear life. Swing one leg forward and back in a controlled pendulum motion, then switch to side-to-side. Do 15 repetitions in each direction per leg. This builds hip abductor and adductor strength, which is critical for lateral stability and fall prevention.
 
 **Wall Push-Offs with Squat**
 Stand with your back about two feet from the pool wall. Lower into a squat, then push off the wall and take two or three steps forward. The resistance of moving through water on the way back builds leg power, and the squat itself targets quads and glutes in a low-impact way. This is more demanding than it looks, so start with 8 repetitions and build from there.
@@ -95,7 +95,7 @@ Foam noodles are provided by most pools and are genuinely useful for support and
 
 What you can skip, at least at the start: expensive hydrotherapy belts for deep water running unless your physical therapist has specifically directed you toward deep water work. For most beginners, standing-depth work delivers more than enough benefit without the added complexity.
 
-If you've spent years dreading exercise or avoiding it because of pain, fear, or frustration with advice that doesn't account for what your body actually is right now, the pool might genuinely change that experience for you. I've watched people in their 70s and 80s rediscover what it feels like to move without bracing for impact. That's not a small thing. Start with one session, go easy, and see how your body responds. The water has a way of surprising people, and in this case, the surprise is usually a good one.
+For those who've spent years avoiding exercise because of pain, fear, or frustration, water-based movement can feel different. Many people find they can move without bracing for impact in the pool. Start with one session, go easy, and see how your body responds.
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
@@ -106,7 +106,6 @@ If you've spent years dreading exercise or avoiding it because of pain, fear, or
 - [cottonbro studio](https://www.pexels.com/@cottonbro)
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

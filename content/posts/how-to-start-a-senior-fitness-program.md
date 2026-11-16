@@ -25,7 +25,7 @@ author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
 lastmod: 2026-07-08
 ---
-Most people start their senior fitness program the exact same wrong way. They do too much, too fast, get hurt or exhausted by week two, and then quietly decide that exercise "just isn't for them anymore." I've watched this happen repeatedly, and honestly, the fitness industry deserves a lot of the blame for it.
+Most people start their senior fitness program the exact same wrong way. They do too much, too fast, get hurt or exhausted by week two, and then quietly decide that exercise "just isn't for them anymore." This pattern is common, and the fitness industry deserves much of the blame for it.
 
 Here's what I mean. The standard advice you'll find plastered across health websites goes something like: "Start with 150 minutes of moderate aerobic activity per week, plus two days of strength training." That's the CDC guideline. It's not wrong, exactly, but handing that target to someone who hasn't exercised regularly in five or ten years is like handing someone car keys when they haven't driven since the Reagan administration. The goal is fine. The onramp is missing.
 
@@ -41,7 +41,7 @@ The PAR-Q+ (Physical Activity Readiness Questionnaire for Everyone) is a free, s
 
 Beta-blockers artificially suppress heart rate, making heart-rate-based intensity guidelines unreliable. Diuretics affect hydration in ways that amplify fatigue. Certain blood pressure medications cause orthostatic hypotension, meaning if you stand up quickly after floor exercises, you might get dizzy and fall. These aren't rare edge cases. Tens of millions of older adults take these daily.
 
-Beyond the physician visit, get a functional movement screen if you can access one. Many physical therapy clinics offer a single assessment visit for around $75-150. A physical therapist can identify asymmetries, range-of-motion restrictions, or old injury compensations that would otherwise quietly worsen under a new training load. I've seen people spend $40 a month on a gym membership for a year, making an existing hip imbalance progressively worse, when one $100 session at the start would have redirected their whole approach.
+Beyond the physician visit, get a functional movement screen if you can access one. Many physical therapy clinics offer a single assessment visit for around $75-150. A physical therapist can identify asymmetries, range-of-motion restrictions, or old injury compensations that would otherwise quietly worsen under a new training load. Without a baseline assessment, people can spend months on a gym membership while inadvertently worsening an existing imbalance, when one $100 session at the start could have redirected their entire approach.
 
 ## What "Starting" Actually Looks Like (The Real Timeline)
 
@@ -104,7 +104,6 @@ Start smaller than makes sense. Stay more consistent than feels necessary. Let t
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - on older adult exercise adherence
 - support for fall prevention in adults over 65 than almost anything else in the e
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

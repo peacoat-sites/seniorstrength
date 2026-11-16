@@ -52,11 +52,11 @@ Many YMCAs and senior centers offer it free or reduced-cost with membership. It'
 
 ## The Footwear Problem Nobody Talks About
 
-I've spent years watching people do all the right exercises and then undo their progress the moment they put on the wrong shoes. Here's my position: thick, cushioned soles that were designed for walking on a treadmill are actively bad for proprioception. They muffle the sensory signals your feet are trying to send to your brain. You want a shoe with a thin, firm sole and a wide toe box for everyday balance training. Brands like Altra, Lems, or New Balance Minimus are all reasonable options, though they vary in how minimal they are.
+A common mistake is doing all the right exercises and then undoing that progress by wearing the wrong shoes. Thick, cushioned soles designed for treadmill walking are actively bad for proprioception. They muffle the sensory signals your feet are trying to send to your brain. You want a shoe with a thin, firm sole and a wide toe box for everyday balance training. Brands like Altra, Lems, or New Balance Minimus are all reasonable options, though they vary in how minimal they are.
 
 Going barefoot on carpet or grass, if your foot health allows it, is genuinely good practice. Physical therapists use this all the time. If you have peripheral neuropathy, plantar fasciitis, or other foot conditions, talk to a podiatrist before changing your footwear dramatically. This isn't an area to experiment recklessly.
 
-And please, if you're still wearing backless slippers around the house, that's the first thing to change. I've seen more near-falls caused by slippers than by any single exercise deficit.
+And please, if you're still wearing backless slippers around the house, that's the first thing to change. Backless slippers are a common cause of falls and near-falls.
 
 ## How Fast Can You Actually Expect Progress?
 
@@ -72,7 +72,6 @@ Sustained improvement, the kind that actually changes your fall risk long-term, 
 - in the journal *Age and Ageing* found that older adults have significantly slowe
 - isn't mixed on this
 - base for Tai Chi in fall prevention is significantly stronger and more specific
-
 
 #### How do I know if my balance is bad enough to see a doctor before starting exercises?
 

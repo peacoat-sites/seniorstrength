@@ -88,7 +88,7 @@ Some exercises that show up regularly in senior fitness content have a poor risk
 
 **Full sit-ups and crunches** are largely unnecessary. They flex the lumbar spine under load, which is exactly what you don't want if you have any disc history. The dead bug and glute bridge train core stability far more effectively and with far less spinal stress.
 
-**Deep lunges with a long stride** demand substantial hip flexor length and knee tracking control. Many older adults simply aren't there yet. A short-stride, shallower lunge is fine. The exaggerated version seen in online videos is asking for trouble. I've had clients reaggravate old knee injuries trying to match what someone half their age was demonstrating on screen.
+**Deep lunges with a long stride** demand substantial hip flexor length and knee tracking control. Many older adults simply aren't there yet. A short-stride, shallower lunge is fine. The exaggerated version seen in online videos is asking for trouble. Trying to match the exaggerated form seen in online videos can reaggravate old knee injuries.
 
 **Any balance exercise done away from a support surface** before you've built baseline balance is not brave. It's premature. Use a wall or counter. Reduce support gradually as your balance improves. There's no prize for falling.
 
@@ -111,7 +111,6 @@ The exercises here aren't glamorous. They don't require a gym, a trainer on spee
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - published in journals like *Medicine & Science in Sports & Exercise* consistentl
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

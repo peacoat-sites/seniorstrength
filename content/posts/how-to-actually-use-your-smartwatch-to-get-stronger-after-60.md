@@ -30,7 +30,7 @@ ACSM lead author Dr. Cayla R. McAvoy put it plainly: the key question now is "te
 
 Here's what stopped me when I read it. A June 2026 study from Penn State College of Medicine, published in PLOS One, found that just four minutes of daily resistance training significantly improved strength, one-legged stand time, and chair-stand speed in adults 65 and older, over a 12-week period. Four minutes. Not four sets of four minutes. Four minutes total.
 
-That's worth sitting with for a second, because I've watched so many people in their 60s and 70s abandon strength training entirely because they couldn't commit to the hour-long programs they thought were required. The chair-stand speed and one-legged balance metrics from that Penn State study are exactly the kind of functional outcomes a modern smartwatch can help you track indirectly through gait analysis, activity consistency, and recovery patterns over time.
+A common mistake is abandoning strength training because of the belief that hour-long programs are required. The chair-stand speed and one-legged balance metrics from that Penn State study are exactly the kind of functional outcomes a modern smartwatch can help you track indirectly through gait analysis, activity consistency, and recovery patterns over time.
 
 What that research tells us practically: you don't need to do everything. You need to do something, repeatedly, and then actually look at what's happening to your body in response.
 
@@ -59,7 +59,7 @@ Prices vary by retailer and configuration. Always check current listings before 
 
 More than 70% of wearable users report using device data to inform their exercise or recovery strategies, according to the ACSM. That sounds great until you read the caveat: the ACSM also warns that rapid device innovation "often outpaces validation," meaning the features roll out faster than the science behind them is confirmed. This is especially true for blood pressure trend monitoring, which is not the same as a clinical blood pressure reading, and should not replace one.
 
-I've seen people in their late 60s make training decisions based on wearable data that wasn't calibrated correctly or that they were misreading. One man was convinced his heart rate was dangerously high during strength training because his watch was picking up movement artifacts. He nearly quit lifting altogether.
+Wearable data can mislead if it isn't calibrated correctly or if you're misreading it. For example, movement artifacts during strength training can create false heart rate spikes that might prompt someone to stop lifting unnecessarily.
 
 The practical takeaway: use your watch as a pattern-spotter, not a diagnostician. It's excellent at telling you "something changed this week" or "your sleep has been worse since you started that new program." It is not a substitute for talking to your doctor or working with a physical therapist who understands how to read these signals in context. If you're seeing anything that concerns you, especially in the ECG or heart rate data, bring that to a clinician. The data is most valuable when a knowledgeable person helps you interpret it.
 

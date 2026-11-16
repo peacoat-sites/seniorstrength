@@ -26,7 +26,7 @@ A review published in PMC in June 2026 specifically examined the risk of what re
 
 ## Why the Activity Drop Is So Dangerous at This Stage
 
-The ENDO 2026 activity data bothered me most when I first read it. The obvious assumption, and one I held for a while, is that people on GLP-1 drugs feel better as they lose weight and naturally move more. Less joint pain, more energy, more momentum. The wearable data from those 753 patients said the opposite happened.
+The ENDO 2026 activity data challenges a common assumption about GLP-1 drugs: that people feel better as they lose weight and naturally move more. Less joint pain, more energy, more momentum. The wearable data from those 753 patients said the opposite happened.
 
 There are explanations for this. GLP-1 drugs slow gastric emptying and reduce appetite dramatically, which means people eat far less. Eating less means less fuel for physical activity, and some patients report fatigue, nausea, and general low energy, especially early on. The body is in a significant caloric deficit. It conserves. Movement goes down.
 

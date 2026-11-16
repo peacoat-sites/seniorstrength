@@ -27,13 +27,11 @@ faqs:
 
 Seventy percent of adults over 65 who fall and fracture a hip will never fully regain their previous level of independence. That number stopped me cold the first time I read it in a 2022 report from the CDC. Not because falls are inevitable, but because the single most effective thing we know of to prevent them, building muscle and bone strength through [resistance training](/what-the-new-acsm-resistance-training-guidelines-mean-after-60/), is also the thing most people over 70 are told to avoid.
 
-I've been working with older adults in clinical and gym settings for over fifteen years. And I'll say it plainly: the fear around [weight lifting](/safe-weight-lifting-for-seniors-guide/) after 70 is doing real harm. Not the lifting. The fear.
+The fear around [weight lifting](/safe-weight-lifting-for-seniors-guide/) after 70 is doing real harm. Not the lifting. The fear.
 
 You might be wondering whether your body is simply too old for that kind of stress. Whether your joints can handle it. Whether you're going to hurt yourself more than help yourself. Those are completely reasonable things to wonder, and I want to walk through all of it honestly, because the answer isn't a flat "yes, go lift heavy." It's more nuanced than that, and more encouraging.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Adults over 70 can safely lift weights; research shows strength gains of 25–30% are achievable in 12 weeks.</li><li style="margin:5px 0">Muscle loss (sarcopenia) accelerates after 70, making resistance training more important, not less.</li><li style="margin:5px 0">Start with 2 sessions per week, 8–12 reps per set, using a weight you can control through full range of motion.</li><li style="margin:5px 0">Medical clearance matters most if you have osteoporosis, recent surgery, uncontrolled hypertension, or heart disease.</li><li style="margin:5px 0">Balance and fall risk improve measurably with consistent resistance training, often within 6–8 weeks.</li></ul></div>
-
 
 ## What the Research Actually Shows
 
@@ -41,11 +39,9 @@ Here's what changed my thinking early in my career: I assumed [older adults](/oz
 
 More recently, a 2019 meta-analysis in *Sports Medicine* reviewed 49 randomized controlled trials on resistance training in adults over 60 and found consistent, meaningful improvements in muscle mass, strength, and functional performance regardless of baseline fitness. The researchers noted that training age (how long you've been lifting) matters far less past 60 than people assume. Your muscles respond to progressive overload at 72 the same basic way they do at 42, just a bit more slowly.
 
-What genuinely changes after 70 is recovery time. You need 48 to 72 hours between sessions working the same muscle groups, compared to 24 to 48 hours for younger adults. I've seen people get into trouble not because they lifted too hard, but because they lifted Monday, Wednesday, and Friday with no understanding of recovery, felt worse each week, and concluded that lifting "wasn't for them."
-
+What genuinely changes after 70 is recovery time. You need 48 to 72 hours between sessions working the same muscle groups, compared to 24 to 48 hours for younger adults. A common problem is lifting Monday, Wednesday, and Friday with no recovery time between sessions working the same muscles, which leads to feeling worse each week and mistakenly concluding that lifting isn't suitable.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Strength gain % in adults 70+ by training duration</div><div class="sc-row"><span class="sc-label">4 weeks</span><span class="sc-track"><span class="sc-bar" style="width:34%"></span></span><span class="sc-val">12%</span></div><div class="sc-row"><span class="sc-label">8 weeks</span><span class="sc-track"><span class="sc-bar" style="width:63%"></span></span><span class="sc-val">22%</span></div><div class="sc-row"><span class="sc-label">12 weeks</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">28%</span></div><div class="sc-row"><span class="sc-label">20 weeks</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">35%</span></div><div class="sc-src">Source: Sports Medicine meta-analysis, 2019</div></div>
-
 
 ## The Real Risks (and Which Ones Actually Apply to You)
 
@@ -60,7 +56,7 @@ The conditions that genuinely warrant modified (not eliminated) training include
 - Osteoporosis: avoid spinal flexion under load (no good-mornings, careful with sit-ups), focus on hip and leg strength, use machines over free weights initially
 - Rheumatoid arthritis: train on low-inflammation days, prioritize range of motion, shorter sets are fine
 - Diabetes: monitor blood glucose before and after sessions; resistance training significantly improves insulin sensitivity, which is a good thing, but you need to be aware of the timing
-- Post-joint replacement: most people can return to resistance training 3 to 6 months post-op with clearance; I've worked with hip replacement patients doing leg press at 8 months with zero issues
+- Post-joint replacement: most people can return to resistance training 3 to 6 months post-op with clearance from their surgeon
 
 ## What "Safe" Actually Looks Like Week One
 
@@ -106,7 +102,6 @@ That gap isn't laziness. It's misinformation, access, and fear.
 - National Health Interview Survey (NHIS): Physical activity prevalence data for U.S. adults by age group, ongoing surveillance.
 
 ---
-
 
 *Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
 

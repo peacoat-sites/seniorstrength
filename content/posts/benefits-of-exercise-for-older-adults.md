@@ -29,7 +29,7 @@ Three years ago, a woman named Carol walked into the community center where I ru
 
 By the time Carol showed up, she was struggling to get up from her couch without using both armrests, and she'd stopped going to her granddaughter's soccer games because the bleachers were too hard to climb. She wasn't sick. She was just deconditioned. And she'd been told, implicitly, that slowing down was the safe choice.
 
-I've seen this pattern more times than I can count. The "take it easy" advice, given casually and without context, does real harm.
+The "take it easy" advice, given casually and without context, does real harm.
 
 ---
 
@@ -60,7 +60,7 @@ Falls are the leading cause of injury-related death in adults over 65 in the Uni
 
 Balance declines because we stop practicing it. If you've spent 30 years sitting at a desk and riding elevators, your proprioceptive system, the network of sensory inputs that tells your brain where your body is in space, has gotten lazy. It can be retrained. That's the part most fitness content forgets to mention.
 
-I've seen people in their 80s dramatically reduce their fall risk through targeted balance work over 12 weeks. Not marathon training. Exercises like single-leg stands, heel-to-toe walking, and side-stepping with resistance bands. The research backs this up. A 2019 Cochrane Review, which pooled results from 108 trials, found that [balance and functional exercises](/functional-fitness-exercises-for-seniors/) reduced fall rate in older adults by 24%.
+Targeted balance work over 12 weeks can dramatically reduce fall risk in people in their 80s. Not marathon training. Exercises like single-leg stands, heel-to-toe walking, and side-stepping with resistance bands. The research backs this up. A 2019 Cochrane Review, which pooled results from 108 trials, found that [balance and functional exercises](/functional-fitness-exercises-for-seniors/) reduced fall rate in older adults by 24%.
 
 Tai chi keeps coming up in this research and honestly, it deserves its reputation. A 2020 study in *JAMA Internal Medicine* found that tai chi reduced fall incidence better than a stretching program and comparably to a multimodal exercise program. It's low-impact, it's social, and classes at most community centers run around $8 to $15 per session. Worth knowing.
 
@@ -99,7 +99,6 @@ That's usually how it works.
 - published in the *Journal of Physiology* in 2018 found that lifelong recreationa
 - in *Osteoporosis International* covering over 10
 - backs this up
-
 
 The most common mistake I see older adults make isn't doing too little. It's doing too much too fast, usually in January, after some kind of motivational moment, then getting hurt and quitting.
 

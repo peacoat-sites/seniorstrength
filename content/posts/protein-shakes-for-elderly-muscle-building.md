@@ -31,13 +31,11 @@ That's not a scare tactic. That's the actual rate. A landmark paper published in
 
 You might be wondering whether protein shakes can actually do anything meaningful about this, or whether they're just expensive flavored powder sold to people who are worried. That's a fair question, and I want to give you a real answer, not a sales pitch.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Adults over 60 need roughly 1.2–1.6g of protein per kg of bodyweight daily, significantly more than standard guidelines suggest.</li><li style="margin:5px 0">Timing matters: consuming 25–40g of protein within 2 hours post-exercise meaningfully improves muscle protein synthesis in older adults.</li><li style="margin:5px 0">Whey protein outperforms plant-based options for muscle building in older adults due to its leucine content and digestibility.</li><li style="margin:5px 0">Most seniors are undereating protein by 30–40%, making supplementation genuinely useful, not just a marketing gimmick.</li><li style="margin:5px 0">Kidney concerns from high protein intake are largely overstated for people without pre-existing kidney disease, per current nephrology research.</li></ul></div>
-
 
 ## Why Your Protein Needs Actually Change With Age
 
-Here's what I got wrong for the first few years of my practice: I was telling clients in their 60s to aim for 0.8 grams of protein per kilogram of bodyweight per day, because that's what the official Recommended Dietary Allowance says. That number is wrong for [older adults](/morning-stretches-for-older-adults/). It's the minimum to prevent deficiency, not the amount needed to maintain or build muscle.
+The official Recommended Dietary Allowance of 0.8 grams of protein per kilogram of bodyweight per day is often applied to older adults, but this approach misses an important distinction. This number is the minimum to prevent deficiency, not the amount needed to maintain or build muscle in [older adults](/morning-stretches-for-older-adults/).
 
 The research has shifted decisively on this. A 2017 study in the *American Journal of Clinical Nutrition* (Bauer et al.) and subsequent work from the PROT-AGE Study Group recommend 1.2 to 1.6 grams per kilogram [per day](/how-much-protein-do-seniors-need-per-day/) for healthy older adults, and up to 2.0 grams per kilogram for those dealing with illness or recovering from surgery. For a 160-pound (73 kg) person, that's roughly 88 to 117 grams of protein daily, sometimes more.
 
@@ -51,7 +49,7 @@ I want to be clear about something: protein shakes don't build muscle by themsel
 
 That said, shakes are genuinely useful tools for a few specific reasons.
 
-Older adults often experience what researchers call "early satiety," meaning you feel full faster. A 30-gram protein shake takes about two minutes to drink. Getting that same protein from food might require eating 5 ounces of chicken breast, which is a real challenge if your appetite is smaller than it used to be. Several of my clients over 70 have told me they simply can't eat enough solid food to hit their protein targets, and for them, a shake isn't optional. It's the only practical path.
+Older adults often experience early satiety, meaning feeling full faster. A 30-gram protein shake takes about two minutes to drink, while getting the same protein from food might require eating 5 ounces of chicken breast. For those with a smaller appetite, meeting protein targets through solid food alone can be difficult, making protein shakes a practical option.
 
 The timing piece also matters more than most people realize. A 2021 meta-analysis in *Nutrients* confirmed that consuming protein within two hours of resistance exercise significantly improves muscle protein synthesis in adults over 65, more so than spreading protein intake randomly throughout the day. A shake immediately after your strength workout is one of the easiest ways to nail that window.
 
@@ -70,11 +68,9 @@ Not all protein powders are equal for older adults, and the differences actually
 
 Leucine is the amino acid that actually flips the "build muscle" switch in your cells. The threshold for triggering muscle protein synthesis is roughly 2.5 to 3 grams of leucine per serving, according to research from Stuart Phillips' lab at McMaster University. Whey hits that threshold easily at a standard 25-gram serving. Pea protein, which is increasingly popular, requires a larger serving (around 35–40 grams) to match the same leucine dose. It can get you there, but you need to be deliberate about it.
 
-Collagen protein deserves a specific callout because it's heavily marketed right now, and the marketing is misleading. Collagen is great for skin and possibly joint tissue. It lacks sufficient essential amino acids to meaningfully build muscle. I've had readers email me frustrated that they've been taking collagen protein for months and not seeing results. That's why.
-
+Collagen protein is heavily marketed right now, often with claims that overstate its benefits. Collagen supports skin and possibly joint tissue, but it lacks sufficient essential amino acids to meaningfully build muscle. This is an important distinction when choosing a protein source for strength goals.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Leucine Content by Protein Type (% of total protein)</div><div class="sc-row"><span class="sc-label">Whey Isolate</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">11%</span></div><div class="sc-row"><span class="sc-label">Whey Concentrate</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">10%</span></div><div class="sc-row"><span class="sc-label">Casein</span><span class="sc-track"><span class="sc-bar" style="width:82%"></span></span><span class="sc-val">9%</span></div><div class="sc-row"><span class="sc-label">Soy</span><span class="sc-track"><span class="sc-bar" style="width:68%"></span></span><span class="sc-val">7.5%</span></div><div class="sc-row"><span class="sc-label">Pea</span><span class="sc-track"><span class="sc-bar" style="width:64%"></span></span><span class="sc-val">7%</span></div><div class="sc-row"><span class="sc-label">Collagen</span><span class="sc-track"><span class="sc-bar" style="width:14%"></span></span><span class="sc-val">1.5%</span></div><div class="sc-src">Source: Phillips et al., McMaster University; van Loon lab data</div></div>
-
 
 ## How Much, When, and the Practical Details Nobody Mentions
 
@@ -88,15 +84,13 @@ Mixing whey into hot liquids (like oatmeal or soup) can cause it to clump badly.
 
 Some people over 65 experience GI discomfort from whey concentrate, particularly if they have any lactose sensitivity. The fix is usually switching to whey isolate (most of the lactose is removed during processing) or a high-quality pea-rice blend. Orgain Organic Protein is a decent plant-based option around $1.30 per serving; for whey, Momentous Essential Whey Protein and Thorne Whey Protein are both third-party tested, which matters if you're taking other medications and want to be careful about what's in your supplements.
 
-Worked examples from real scenarios I've seen:
-
 - A 72-year-old woman, 135 lbs (61 kg), doing twice-weekly resistance training, struggling to eat more than 50g protein daily from food alone. Target: 75–98g/day. Action: added one serving of whey isolate post-workout plus one casein shake before bed. Result: hit protein targets on training days consistently, and reported noticeably less muscle soreness within six weeks. Grip strength measured at her physical therapy appointments improved by roughly 18% over four months.
 
 - A 68-year-old man post-knee replacement, restricted to upper-body exercise only during recovery. Action: maintained 1.5g/kg protein intake through food plus one daily whey shake specifically to limit muscle loss during rehab. Result: his physical therapist noted his strength recovery timeline was faster than average for his age group, and he retained significantly more quad tone than expected given six weeks of leg disuse.
 
 ## The Kidney Question (Let's Actually Answer It)
 
-You're probably thinking: "I've heard high protein damages your kidneys." This is the single most common concern I hear, and it's worth addressing directly instead of brushing past it.
+A common concern is whether high protein intake damages your kidneys. This question deserves a direct answer.
 
 For people with existing chronic kidney disease, yes, high protein intake can accelerate decline, and those individuals should absolutely discuss protein intake with their nephrologist before changing anything. That's a real and important exception.
 
@@ -113,7 +107,6 @@ I don't have strong data on very long-term intakes (10+ years) at the higher end
 - Trommelen J, et al. (2021): Meta-analysis of protein timing and muscle protein synthesis in older adults. *Nutrients*, 13(8).
 
 ---
-
 
 *Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
 

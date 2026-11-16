@@ -27,7 +27,7 @@ faqs:
 
 Most people assume unsteadiness is just something that creeps in with age. You feel a little wobbly on the stairs, grab the handrail more than you used to, maybe catch yourself leaning against the kitchen counter while reaching into a cabinet. And somewhere along the way, someone probably told you to "be careful." As if being careful is a plan.
 
-It's not. And that advice, well-meaning as it is, actually makes things worse. When you start moving more cautiously, shortening your stride, shuffling instead of stepping, you're training your body to be more fearful, not more stable. I've watched this happen dozens of times in clients, and I've had to gently undo a lot of "be careful" instincts before we could start doing real work.
+It's not. And that advice, well-meaning as it is, actually makes things worse. When you start moving more cautiously, shortening your stride, shuffling instead of stepping, you're training your body to be more fearful, not more stable. Moving more cautiously can actually train the body to be more fearful, not more stable, undoing the very stability you're after.
 
 Here's what's actually going on, and more importantly, what you can do about it.
 
@@ -41,9 +41,9 @@ What most people don't realize is that muscle weakness, specifically in the hip 
 
 ## The Actual Mechanics of Unsteady Walking
 
-When I first started working with older adults, I assumed most of the unsteadiness was coming from the hips. I was partially right, but I kept missing ankles. The first time a physical therapist colleague of mine pointed to a client's stiff ankle dorsiflexion as the primary culprit, I felt a little embarrassed I hadn't caught it sooner.
+Unsteadiness often comes from the hips, but stiff ankle dorsiflexion is frequently overlooked as a primary culprit and is worth checking.
 
-Here's the thing: when your ankles can't flex properly, your body compensates by widening your stance, shortening your stride, and leaning slightly forward. That forward lean shifts your center of gravity ahead of your base of support, which is exactly how people fall. And it feels like general unsteadiness, not like an ankle problem, so most people never connect the two.
+When your ankles can't flex properly, your body compensates by widening your stance, shortening your stride, and leaning slightly forward. That forward lean shifts your center of gravity ahead of your base of support, which is exactly how people fall. And it feels like general unsteadiness, not like an ankle problem, so most people never connect the two.
 
 A simple self-test: Stand barefoot facing a wall, toes about 4 inches from the baseboard. Try to touch your knee to the wall without your heel lifting. If you can't do it, your ankle mobility is restricted, and that's contributing to how you walk more than you probably know.
 
@@ -73,7 +73,7 @@ I want to be honest that this list won't fix everything for everyone. If you hav
 
 People ask me all the time whether they should get a cane, a walking pole, or some kind of balance aid. My honest answer: it depends, and any PT or physician worth listening to will say the same thing.
 
-A cane used correctly can reduce the load on a weak hip and genuinely improve stability. A cane used as a crutch, leaned on heavily with a shortened stride, can actually accelerate weakness by offloading the muscles you need to strengthen. I've seen both outcomes in the same year, in clients with similar starting points.
+A cane used correctly can reduce the load on a weak hip and genuinely improve stability. A cane used as a crutch, leaned on heavily with a shortened stride, can actually accelerate weakness by offloading the muscles you need to strengthen.
 
 Nordic walking poles (two poles, used like cross-country ski poles) are interesting because the research on them is more promising than most people expect. A 2022 study in *Gait & Posture* found that Nordic walking significantly improved walking speed and reduced postural sway in adults over 65, with effect sizes comparable to some supervised exercise programs. They also engage the upper body and core in ways a standard cane doesn't. Leki makes a solid adjustable set for around $70-$90 that holds up well.
 
@@ -87,7 +87,7 @@ Here's a rough breakdown of options and what they're actually suited for:
 | Rollator walker | Significant frailty, fear of falling | $80-$200 | Can cause forward lean if too far ahead |
 | Hiking poles (single) | Outdoor walking on varied terrain | $30-$80 each | Less clinical support, more trail use |
 
-None of these is a permanent sentence. One client I worked with, a retired schoolteacher in her mid-70s named Carol, came to me relying on a quad cane after a fall in her driveway. After five months of targeted strengthening work, she was walking unaided on flat ground and using a single Nordic pole only for outdoor walks on uneven terrain. That's not unusual if someone puts in consistent effort.
+None of these is a permanent sentence. Five months of consistent targeted strengthening work can be enough for someone relying on a quad cane after a fall to progress to walking unaided on flat ground and using a single pole only for uneven terrain. That's not unusual if someone puts in consistent effort.
 
 ## What Your Doctor May Not Have Mentioned
 
@@ -95,7 +95,7 @@ The medication angle is worth a direct conversation with whoever manages your pr
 
 Vitamin D deficiency also shows up in this conversation more than people expect. A meta-analysis in the *British Medical Journal* found that supplementing Vitamin D in deficient older adults reduced fall risk by about 22%. The threshold for deficiency is generally under 20 ng/mL on a serum 25(OH)D test. It's a routine blood test. If it's been more than a year since you had one, it's worth asking for.
 
-I don't have good numbers on the contribution of footwear to falls specifically, but I'll tell you from watching hundreds of people walk in their home shoes that unsupportive slip-ons and worn-down soles are everywhere in this population, and they matter. A shoe with a firm heel counter, a slight taper, and no more than a half-inch heel-to-toe drop will serve you better than most "comfort" footwear marketed to seniors. The New Balance 928v3 (around $130) gets recommended by podiatrists a lot, and in my experience that reputation is earned.
+Unsupportive slip-ons and worn-down soles are common and can affect stability. A shoe with a firm heel counter, a slight taper, and no more than a half-inch heel-to-toe drop will serve you better than most "comfort" footwear marketed to seniors. The New Balance 928v3 (around $130) gets recommended by podiatrists a lot, and in my experience that reputation is earned.
 
 ## Tracking Progress (Because It's Real)
 
@@ -120,7 +120,6 @@ None of these are dramatic stories. They're just consistent effort paying off, w
 - Centers for Disease Control and Prevention (CDC) STEADI Program: Evidence-based fall prevention resources and Timed Up and Go test protocol
 
 ---
-
 
 *Photo: [Efrem  Efre](https://www.pexels.com/@efrem-efre-2786187) via Pexels*
 

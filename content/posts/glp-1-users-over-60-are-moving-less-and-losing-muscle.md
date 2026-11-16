@@ -30,7 +30,7 @@ Muscle loss isn't abstract. It shows up in the things that determine whether som
 
 Functional strength measures like grip strength and the timed chair rise test, a standard clinical measure of lower-body strength and balance, can worsen by 5 to 10 percent in GLP-1 users who aren't doing resistance training. That's not a rounding error. A meaningful drop in chair-rise performance correlates directly with elevated fall risk, reduced walking speed, and loss of independence in daily tasks.
 
-I've worked with clients in their late 60s who were thrilled about their GLP-1 weight loss at the six-month mark, only to notice at month eight that getting up from the floor had become genuinely difficult. The scale was moving the right direction. The body was moving less well. The two things were connected, and nobody had warned them.
+GLP-1 medications can produce rapid weight loss, but the scale moving in the right direction doesn't guarantee the body moves as well. Some people notice decreased strength or mobility a few months in, a connection worth monitoring.
 
 This is the gap in current prescribing practice that the ENDO 2026 findings are now forcing into the open.
 

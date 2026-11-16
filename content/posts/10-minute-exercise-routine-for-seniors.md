@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most people don't realize that ten minutes is enough. Not ten minutes as a warm-up. Ten minutes as the whole workout. I know that sounds like I'm trying to sell you something, but stay with me, because this is one of those cases where the conventional wisdom ("more is always better") actually works against older adults, especially those who are just getting back to movement after a long break.
 
-I've seen it happen dozens of times in my work: someone commits to a 45-minute routine, sticks with it for three days, gets sore or exhausted or just overwhelmed, and quits entirely. Then they feel guilty. Then they do nothing for another six months. That cycle does far more damage than a "short" workout ever could.
+A common pattern: someone commits to a 45-minute routine, sticks with it for three days, gets sore or exhausted or just overwhelmed, and quits entirely. Then guilt sets in, followed by months of inactivity. That cycle does far more damage than a "short" workout ever could.
 
 A well-designed ten-minute routine done five or six days a week will beat a 40-minute routine done twice a week. That's not motivational fluff. A 2019 study published in the *British Journal of Sports Medicine* found that frequency of movement mattered more than duration for functional outcomes in adults over 65. Consistency is the variable that actually moves the needle.
 
@@ -105,7 +105,6 @@ You don't need equipment. Squeeze a rolled-up hand towel as hard as you can for 
 - National Institute on Aging (NIA), Exercise and Physical Activity Guide: Evidence-based recommendations for older adult mobility and strength training.
 
 ---
-
 
 *Photo: [Centre for Ageing Better](https://www.pexels.com/@centre-for-ageing-better-55954677) via Pexels*
 

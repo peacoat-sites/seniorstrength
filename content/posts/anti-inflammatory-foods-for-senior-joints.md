@@ -50,7 +50,7 @@ A 2017 study published in *Nutrients* tracked older adults with knee osteoarthri
 
 **Fatty fish.** Not fish in general. Fatty fish. Salmon, mackerel, sardines, herring. These contain EPA and DHA, the long-chain omega-3s that the body can directly use to dial back inflammatory prostaglandin production. Your body can technically convert the ALA in flaxseed to EPA and DHA, but it does so at roughly 5-10% efficiency. Flaxseed is fine. It's not the same thing. If you can eat two to three servings of fatty fish per week, that's the real lever.
 
-Canned sardines in olive oil are, genuinely, one of the best deals in the grocery store for joint health. About $2.50 a tin, high protein, high omega-3, and the soft bones are a calcium bonus. I've recommended them to clients for years and the pushback is always about taste, rarely about results once people actually try them regularly.
+Canned sardines in olive oil are, genuinely, one of the best deals in the grocery store for joint health. About $2.50 a tin, high protein, high omega-3, and the soft bones are a calcium bonus. The main objection to sardines is usually taste rather than results once eaten regularly.
 
 **Extra virgin olive oil.** Real extra virgin, not the blended stuff labeled "light olive oil" or "pure olive oil." Those are refined and stripped of most polyphenols. EVOO contains oleocanthal, a compound that inhibits the same enzymes (COX-1 and COX-2) that ibuprofen targets. The effect at a typical dietary dose isn't equivalent to a 400mg ibuprofen, but that's not the right comparison. This isn't a drug you take when you're in pain. It's a background anti-inflammatory you're using consistently, every day, instead of refined seed oils.
 
@@ -68,7 +68,7 @@ Dietary patterns don't work in one direction only. If you're adding fatty fish a
 
 Refined seed oils, specifically soybean, corn, cottonseed, and sunflower oil, are extremely high in omega-6 fatty acids. Omega-6 isn't inherently bad. The problem is ratio. When your [omega-6 to omega-3 intake](/best-diet-for-senior-fitness-and-energy/) is 20:1 (close to the average American diet), you're running a strongly pro-inflammatory metabolic environment. Shift toward olive oil, use butter for high-heat cooking, and you move that ratio meaningfully.
 
-Ultra-processed foods. This category matters more than any single ingredient. Products that combine refined flour, added sugars, industrial seed oils, and synthetic additives consistently associate with elevated inflammatory markers in large cohort studies. That's not one mechanism, it's several working together. Reducing your intake of packaged snacks, fast food, and sweetened drinks is, frankly, more impactful for joint inflammation than adding any single "superfood."
+Ultra-processed foods. This category matters more than any single ingredient. Products that combine refined flour, added sugars, industrial seed oils, and synthetic additives consistently associate with elevated inflammatory markers. Multiple mechanisms are at work. Reducing your intake of packaged snacks, fast food, and sweetened drinks is, frankly, more impactful for joint inflammation than adding any single "superfood."
 
 Added sugar in high doses promotes the formation of advanced glycation end-products (AGEs), compounds that stiffen collagen and cartilage over time. This is one of the more underappreciated mechanisms connecting diet to joint deterioration in older adults. You don't need to eliminate sugar. Reducing it is what matters.
 
@@ -84,7 +84,7 @@ One thing I consistently see clients overlook: protein intake. Older adults freq
 
 ## Supplements: where they fit and where they don't
 
-You can't supplement your way out of a poor diet. That's not a cliche, it's just true. But for a few specific nutrients, supplements fill a real gap.
+You can't supplement your way out of a poor diet. But for a few specific nutrients, supplements fill a real gap.
 
 Fish oil. If you're not eating fatty fish twice a week, a quality fish oil supplement is reasonable. Look for at least 1,000mg combined EPA+DHA per dose, and check for third-party testing (NSF Certified or IFOS certified). Rancid fish oil is a real issue with cheaper brands, and it's worse than not taking it.
 
@@ -93,7 +93,6 @@ Vitamin D. Most older adults are deficient, particularly in northern latitudes, 
 Collagen peptides have a growing evidence base. A 2019 randomized trial in the *British Journal of Nutrition* found supplementation reduced joint pain in athletes. The evidence in older non-athletes is less robust, but the mechanism is reasonable (providing glycine and proline to support cartilage maintenance). It's unlikely to hurt and may help. Not my first recommendation, but not dismissible.
 
 ---
-
 
 *Photo: [Vanessa Loring](https://www.pexels.com/@vanessa-loring) via Pexels*
 
@@ -110,7 +109,6 @@ Collagen peptides have a growing evidence base. A 2019 randomized trial in the *
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - superfood. Added
 - looks like in older adults specifically
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

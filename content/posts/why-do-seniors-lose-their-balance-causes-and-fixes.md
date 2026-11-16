@@ -96,7 +96,7 @@ Medical causes are one thing. But everyday habits chip away at your stability in
 
 ## Practical Fixes That Really Work
 
-The most important thing to know is this: balance can be improved at any age. Research shows that targeted exercise is the single most effective way to reduce fall risk. But it's not the only answer.
+Balance can be improved at any age. Targeted exercise is the single most effective way to reduce fall risk, though other approaches also help.
 
 ### Balance and Strength Training Exercises
 
@@ -105,7 +105,7 @@ Simple exercises done consistently retrain your nervous system and strengthen th
  * **Single-leg stand:** Hold a countertop and stand on one foot for 10 to 30 seconds.
  * **[Heel-to-toe walking](/heel-to-toe-walking-the-best-balance-exercise-for-seniors/):** Walk in a straight line placing one foot directly in front of the other.
  * **Sit-to-stand exercises:** Rising from a chair without using your hands builds leg and hip strength.
- * **Tai Chi:** Multiple studies show [Tai Chi reduces falls](/fall-prevention-exercises-for-elderly-at-home/) by up to 45 percent in older adults.
+ * **Tai Chi:** [Tai Chi reduces falls](/fall-prevention-exercises-for-elderly-at-home/) by up to 45 percent in older adults.
 
 Aim for at least two to three balance-focused sessions per week. Even 10 minutes a day leads to meaningful improvement over time.
 
@@ -140,7 +140,6 @@ Thousands of older adults have significantly improved their balance in just a fe
 - [Diana Light](https://unsplash.com/@dreamcatchlight?utm_source=seniorstrength&utm_medium=referral)
 - [TSquared Lab](https://unsplash.com/@tsquaredlab?utm_source=seniorstrength&utm_medium=referral)
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

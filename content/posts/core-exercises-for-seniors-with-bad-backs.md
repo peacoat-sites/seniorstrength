@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most people with a bad back have been told, at some point, to "strengthen your core." What they're rarely told is which exercises are actually safe for them, and which ones are quietly making things worse. I've seen this play out dozens of times: someone comes in after months of doing crunches and sit-ups on a doctor's recommendation, and their back pain has gotten measurably worse. Not because they were lazy or doing them wrong. Because crunches are genuinely a bad choice for most adults over 60 with existing back problems, full stop.
+Most people with a bad back have been told, at some point, to "strengthen your core." What they're rarely told is which exercises are actually safe for them, and which ones are quietly making things worse. Many people report that months of crunches and sit-ups recommended by a doctor have worsened their back pain. Crunches are generally a poor choice for most adults over 60 with existing back problems, regardless of effort or form.
 
 Let me save you some time and some pain.
 
@@ -98,7 +98,6 @@ If you don't have a specific diagnosis and your doctor has cleared you for gener
 
 ---
 
-
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
 ---
@@ -113,7 +112,6 @@ If you don't have a specific diagnosis and your doctor has cleared you for gener
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - backs that up
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

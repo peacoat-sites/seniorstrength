@@ -25,15 +25,13 @@ faqs:
     a: "That's usually femoroacetabular impingement (FAI) or just a tight anterior capsule. Reduce your range of motion until the pinch disappears, and avoid deep hip flexion (past 90 degrees). If the pinching is consistent across multiple exercises, get it evaluated before continuing. Pushing through that sensation is one of the fastest ways to create a real problem."
 ---
 
-Forty percent of [adults over](/how-exercise-fights-inflammaging-in-adults-over-60/) 65 who fall and fracture a hip never return to independent living. Not "some." Not "many." Forty percent, according to data from the American Academy of Orthopaedic Surgeons. I've worked with enough post-hip-fracture patients in outpatient rehab to tell you that number feels right, and that most of those falls were not random bad luck. They were the slow, grinding result of hip flexors that had gotten so tight they shortened a person's stride, combined with hip abductors too weak to catch a stumble. The frustrating part is that the underlying mobility loss is almost entirely preventable with the right work, started early enough.
+Forty percent of [adults over](/how-exercise-fights-inflammaging-in-adults-over-60/) 65 who fall and fracture a hip never return to independent living. Not "some." Not "many." Forty percent, according to data from the American Academy of Orthopaedic Surgeons. Most of those falls were not random bad luck. They were the slow, grinding result of hip flexors that had gotten so tight they shortened a person's stride, combined with hip abductors too weak to catch a stumble. The frustrating part is that the underlying mobility loss is almost entirely preventable with the right work, started early enough.
 
 What most articles on "hip mobility for seniors" get wrong is that they either give you a gentle chair yoga sequence that won't actually change your range of motion, or they hand you aggressive yoga poses designed for a 30-year-old with no degenerative changes. Both are useless for different reasons. What [actually works](/how-to-sleep-better-as-a-senior-what-actually-works/) sits in the middle: progressive, load-bearing or actively resisted movement that respects real joint anatomy, including the reality that most adults over 60 have some degree of hip osteoarthritis (the CDC estimates roughly 13.5% of adults 60 and older have symptomatic hip OA, and radiographic changes are far more common than that).
 
 Here's what I've learned actually moves the needle.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Hip flexor tightness, not just weakness, is the leading biomechanical contributor to falls in adults over 60.</li><li style="margin:5px 0">20-30 minutes of targeted hip mobility work 3-4 days/week produces measurable range-of-motion gains within 6-8 weeks.</li><li style="margin:5px 0">Chair-based modifications make every exercise here accessible even with moderate arthritis or balance limitations.</li><li style="margin:5px 0">Active stretching (you move the muscle) outperforms passive stretching (someone holds you there) for older adults by a significant margin.</li><li style="margin:5px 0">Combining strengthening with mobility work protects joints better than flexibility work alone.</li></ul></div>
-
 
 ## Why Your Hips Lock Up (and Why It Matters More Than You Think)
 
@@ -81,9 +79,7 @@ A resistance band around both ankles makes this significantly harder. Start with
 
 ## What the Research Says About Timing and Frequency
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Hip ROM improvement by weekly training frequency (degrees)</div><div class="sc-row"><span class="sc-label">1x/week</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">3 °</span></div><div class="sc-row"><span class="sc-label">2x/week</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">7 °</span></div><div class="sc-row"><span class="sc-label">3x/week</span><span class="sc-track"><span class="sc-bar" style="width:86%"></span></span><span class="sc-val">12 °</span></div><div class="sc-row"><span class="sc-label">4x/week</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">14 °</span></div><div class="sc-row"><span class="sc-label">5x/week</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">14 °</span></div><div class="sc-src">Source: Journal of Aging and Physical Activity, 2022 meta-analysis</div></div>
-
 
 The chart above reflects findings from a 2022 meta-analysis in the Journal of Aging and Physical Activity that aggregated data from 14 randomized controlled trials on hip mobility training in adults 60 and older. The plateau at 4-5 sessions per week is real and consistent: past 3-4 days, you're not buying much additional range of motion, and you're increasing recovery demand on aging tissue. Three solid sessions per week is the sweet spot for most people.
 
@@ -131,7 +127,6 @@ Scenario 3: A physical therapy clinic integrating a structured hip mobility prog
 - National Strength and Conditioning Association (NSCA), 2021 Position Statement: Resistance training guidelines for older adult populations.
 
 ---
-
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
 

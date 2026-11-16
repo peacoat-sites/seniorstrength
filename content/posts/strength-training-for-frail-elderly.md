@@ -27,13 +27,11 @@ faqs:
 
 Forty percent of [adults over](/how-exercise-fights-inflammaging-in-adults-over-60/) 80 fall every year, and the single strongest predictor of who gets back up, who stays independent, and who ends up in a care facility isn't balance programs or medication management. It's muscle mass. That one fact, pulled from a 2022 analysis in *The Journals of Gerontology*, changed how I approach every client who walks through my door leaning on a walker.
 
-You might be wondering if it's too late. Whether someone who's 78, or 85, or 91, and who hasn't lifted anything heavier than a grocery bag in years, can actually build meaningful strength. I want to answer that honestly, because I've seen the research and I've sat across from the people the research describes.
+You might be wondering if it's too late. Whether someone who's 78, or 85, or 91, and who hasn't lifted anything heavier than a grocery bag in years, can actually build meaningful strength.
 
 The answer is yes. With important caveats.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Muscle can be rebuilt at any age: studies show 10-12% strength gains in frail adults over 80 after just 8 weeks of progressive resistance training.</li><li style="margin:5px 0">Start with bodyweight or 1-2 lb resistance and progress slowly; jumping ahead is the #1 cause of injury and dropout.</li><li style="margin:5px 0">Chair-based exercises are clinically valid, not a compromise ,  they reduce fall risk while building the foundation for standing work.</li><li style="margin:5px 0">Protein intake matters as much as the exercise itself: 1.2-1.6 g per kg of body weight daily is the current evidence-backed target.</li><li style="margin:5px 0">A supervised program beats a solo one, but even 2 sessions per week produces measurable results.</li></ul></div>
-
 
 ## What "Frail" Actually Means (And Why the Word Matters)
 
@@ -51,9 +49,7 @@ A landmark 1994 study by Maria Fiatarone Singh and colleagues at Tufts Universit
 
 More recently, a 2021 systematic review in *Age and Ageing* covering 33 trials found that resistance training in adults classified as frail produced significant improvements in gait speed, chair-stand performance, and self-reported quality of life, with a low rate of adverse events when programs were properly supervised.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Strength gain % after 10-week programs by age group</div><div class="sc-row"><span class="sc-label">Ages 65-70</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">28%</span></div><div class="sc-row"><span class="sc-label">Ages 71-79</span><span class="sc-track"><span class="sc-bar" style="width:68%"></span></span><span class="sc-val">19%</span></div><div class="sc-row"><span class="sc-label">Ages 80-87</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">14%</span></div><div class="sc-row"><span class="sc-label">Ages 88+</span><span class="sc-track"><span class="sc-bar" style="width:39%"></span></span><span class="sc-val">11%</span></div><div class="sc-src">Source: Fiatarone Singh et al. / Age and Ageing 2021 meta-analysis</div></div>
-
 
 That downward slope is real. Gains are smaller at 88 than at 68. But 11% strength improvement in a person who's at fall risk is clinically meaningful. That might be the difference between catching themselves on a counter and hitting the floor.
 
@@ -71,7 +67,7 @@ Here's a practical starting framework, based on what actually works in supervise
 
 **Weeks 5-8:** If the person is tolerating the above without excess soreness (mild muscle fatigue the day after is normal; sharp pain is not), increase resistance by the smallest available increment. TheraBand resistance bands in yellow and red are my go-to for this phase, around $10-$14 for a set. Ankle weights in 1-lb increments, like the SPRI brand available at most sporting goods stores for about $12-$18 a pair, work well for lower body work.
 
-One thing you'll notice that no article mentions: when someone is genuinely deconditioned, the first week often produces disproportionate soreness, even from movements that look trivially easy. Warn your person about this. I've had clients quit after day three because nobody told them that their legs would feel stiff after seated leg lifts. Set the expectation, and they stay.
+When someone is genuinely deconditioned, the first week often produces disproportionate soreness, even from movements that look trivially easy. Warn your person about this. For example, someone doing seated leg lifts might experience leg stiffness that feels surprising relative to the effort. Setting this expectation upfront helps people stick with the program.
 
 ## The Protein Problem
 
@@ -95,13 +91,13 @@ For those without restrictions, practical tactics include Greek yogurt (around 1
 
 ## What Supervision Actually Buys You
 
-A reader named Margaret from Tucson emailed me last spring after her 81-year-old mother fell for the second time. She'd been doing a YouTube exercise video for seniors and wanted to know if that was enough. My honest answer: maybe, for some people. For a genuinely frail older adult, probably not.
+YouTube exercise videos for seniors can help some people, but for a genuinely frail older adult, they're probably not enough on their own.
 
 Supervision catches two things that videos can't: form errors that accumulate into injury, and the gradual progression that matches the individual's actual adaptation. A physical therapist (PT) who specializes in geriatrics will typically run an initial evaluation for $150-$250, with follow-up sessions around $80-$150 each depending on location and insurance coverage. Medicare Part B covers PT when it's medically necessary, which frailty-related deconditioning often qualifies as, though the prior authorization requirements can be frustrating (your PT's office should handle this, but ask explicitly).
 
 A certified personal trainer with a specialty in senior fitness (look for NASM-CES, ACE Senior Fitness Specialist, or ACSM credentials) is a less expensive alternative, typically $50-$90 per session. Not a replacement for PT when there are active injury or post-surgical concerns, but a strong option for supervised progressive programming.
 
-Two sessions per week with a professional, supplemented by one or two independent sessions, is the model that tends to produce the best adherence in my experience. Three or more supervised sessions per week is often logistically impossible and can feel overwhelming.
+Two sessions per week with a professional, supplemented by one or two independent sessions, tends to produce good adherence. Three or more supervised sessions per week is often logistically impossible and can feel overwhelming.
 
 ## Sources
 
@@ -112,7 +108,6 @@ Two sessions per week with a professional, supplemented by one or two independen
 - CDC Older Adult Falls Data (2026): Current national fall statistics and hospitalization rates. Available at cdc.gov/falls.
 
 ---
-
 
 *Photo: [Jessy Mesme](https://www.pexels.com/@jessy-mesme-372778102) via Pexels*
 

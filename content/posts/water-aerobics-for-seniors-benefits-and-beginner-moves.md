@@ -48,7 +48,7 @@ Studies in the _Journal of Aging and Physical Activity_ found that older adults 
 
 ## What to Expect in a Beginner Water Aerobics Class
 
-You might picture wild splashing and complicated choreography. The reality is much gentler. Most beginner classes happen in the shallow end, where water's around chest height, so you never need to submerge your face or know how to swim.
+You might picture wild splashing and complicated choreography. Water aerobics is much gentler than it might seem. Most beginner classes happen in the shallow end, where water's around chest height, so you never need to submerge your face or know how to swim.
 
 A typical 45 to 60-minute class follows a simple pattern: warm-up with easy walking and arm movements, main workout with guided exercises, cool-down with stretching. An instructor leads from the pool deck, calling out movements and offering modifications for different fitness levels.
 
@@ -114,7 +114,6 @@ Photo by [Jonathan Marchant](https://unsplash.com/@cool_guy_jon?utm_source=senio
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - shows regular aquatic exercise improves several key areas of senior health
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -27,7 +27,7 @@ faqs:
 
 Seventy percent of fall-related deaths in the U.S. occur in [adults over](/how-exercise-fights-inflammaging-in-adults-over-60/) 65, and weak core muscles are one of the most consistent contributors. That number stopped me cold the first time I read it in a CDC injury report, because I had spent years watching patients chase cardio goals while their stability went quietly to pieces.
 
-Pilates doesn't get the attention it deserves for [older adults](/fitness-programs-for-older-adults-just-hit-their-highest-acsm-ranking-/). People hear "Pilates" and picture young women in lululemon contorting themselves on a Reformer machine. What most people don't realize is that the foundational principles, breath, spinal alignment, controlled movement, and slow load progression, are almost perfectly matched to what happens to the body after 60. I've seen more functional improvement in my older clients from a consistent beginner Pilates practice than from almost anything else, including programs far more expensive and elaborate.
+Pilates doesn't get the attention it deserves for [older adults](/fitness-programs-for-older-adults-just-hit-their-highest-acsm-ranking-/). People hear "Pilates" and picture young women in lululemon contorting themselves on a Reformer machine. What most people don't realize is that the foundational principles, breath, spinal alignment, controlled movement, and slow load progression, are almost perfectly matched to what happens to the body after 60. A consistent beginner Pilates practice often produces functional improvements that rival far more expensive and elaborate programs.
 
 If you've been told "just do some [chair yoga](/chair-yoga-for-seniors-beginners/)" and found it unsatisfying, or if you tried a group fitness class and felt lost or left behind, this is for you.
 
@@ -41,7 +41,7 @@ What's interesting, and slightly counterintuitive, is that the benefit didn't co
 
 A separate 2021 Cochrane review on exercise interventions for fall prevention in older adults found that programs combining balance and functional exercises reduced falls by about 23% on average. Pilates, when done correctly, delivers both in the same session.
 
-I'd be honest with you: the research on Pilates specifically (versus broader exercise categories) is still developing. Most studies use small samples. But the mechanistic case is solid, and I've seen it hold up clinically with my own eyes.
+I'd be honest with you: the research on Pilates specifically (versus broader exercise categories) is still developing. Most studies use small samples. The mechanistic case is solid.
 
 ## Where Most Beginners Go Wrong
 
@@ -95,11 +95,11 @@ Ask before you enroll: "Do you have training in Pilates for osteoporosis?" If th
 
 Twenty minutes, two or three times a week. That's the starting target, and it's enough.
 
-I've watched people commit to six days a week in week one and be completely burned out or mildly injured by week three. With older adults especially, connective tissue adaptation takes longer than muscular adaptation, meaning your muscles might feel capable before your joints and tendons are ready for the load. Three sessions weekly with 48 hours of recovery between them is not the lazy option. It's the physiologically correct one.
+Many people commit to six days a week in week one and experience burnout or mild injury by week three. With older adults especially, connective tissue adaptation takes longer than muscular adaptation, meaning your muscles might feel capable before your joints and tendons are ready for the load. Three sessions weekly with 48 hours of recovery between them is not the lazy option. It's the physiologically correct one.
 
 A sample week for a true beginner might look like: Monday, 20-minute mat session (pelvic tilts, supine leg slides, clam shells, seated spine twist). Wednesday, same structure, add one new movement. Friday, repeat with both new movements plus a five-minute standing balance sequence.
 
-By week six, most people I've worked with are doing 30-35 minute sessions without realizing it, because the movements have become familiar enough to string together fluidly. That's when the real improvements in balance start to show up in daily life: stepping off a curb without bracing, getting up from a low chair without pushing off the armrests, carrying groceries without that slight hip hike.
+By week six, most people are doing 30-35 minute sessions without realizing it, because the movements have become familiar enough to string together fluidly. That's when the real improvements in balance start to show up in daily life: stepping off a curb without bracing, getting up from a low chair without pushing off the armrests, carrying groceries without that slight hip hike.
 
 Scenario: A 66-year-old retired teacher, two months into a twice-weekly online Pilates subscription at $22/month, reported to me that she stopped using her handrail on her home staircase for the first time in three years. Not a dramatic transformation. Just a quiet, significant one.
 

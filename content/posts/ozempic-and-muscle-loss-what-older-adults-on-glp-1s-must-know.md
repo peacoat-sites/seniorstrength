@@ -16,7 +16,7 @@ lastmod: 2026-07-07
 ---
 A patient I'll call Margaret, 68, came to see me six months after starting Wegovy. She'd lost 22 pounds, her blood pressure was down, and her doctor was thrilled. But she could barely get up from a chair without using her arms, and she'd fallen twice on her morning walks. The scale said she was winning. Her body said something else was happening.
 
-Margaret's situation isn't rare anymore. Millions of older adults are now taking GLP-1 receptor agonists like semaglutide, and the weight loss results can be genuinely impressive. But a surge of clinical data from 2025 and 2026 is making it harder to ignore a serious downside: these drugs can strip away muscle, and for adults over 65, that loss can tip someone from independence into frailty faster than almost anything else I've seen in my career.
+Margaret's situation isn't rare anymore. Millions of older adults are now taking GLP-1 receptor agonists like semaglutide, and the weight loss results can be genuinely impressive. But a surge of clinical data from 2025 and 2026 is making it harder to ignore a serious downside: these drugs can strip away muscle, and for adults over 65, that loss can tip someone from independence into frailty faster than most other factors.
 
 ## The Muscle Loss Problem Is Bigger Than Most Patients Are Being Told
 
@@ -43,7 +43,7 @@ Separately, Rice University and The Methodist Hospital Research Institute launch
 
 If you or someone you care about is over 65 and taking a GLP-1 medication, the standard of care is evolving quickly. In 2026, leading providers are increasingly recommending what's now being called a muscle-preserving protocol, and it has four main components.
 
-The first is resistance training. Not casual walking. Not yoga alone. Actual [progressive resistance work](/strength-training-is-now-essential-for-older-adults-on-glp-1-drugs/), meaning exercises that challenge your muscles enough to stimulate adaptation. I've seen too many older adults told to "stay active" without any specifics, and that guidance simply isn't adequate here.
+The first is resistance training. Not casual walking. Not yoga alone. Actual [progressive resistance work](/strength-training-is-now-essential-for-older-adults-on-glp-1-drugs/), meaning exercises that challenge your muscles enough to stimulate adaptation. Vague advice to "stay active" without specifics isn't adequate here.
 
 The second is protein intake, specifically 1.2 to 1.6 grams per kilogram of body weight daily. For a 160-pound person, that's roughly 87 to 116 grams of protein per day. GLP-1 medications suppress appetite significantly, which is part of how they work, but that same appetite suppression can make it very easy to undereat protein without realizing it. This is where working with a [registered dietitian](/on-ozempic-over-60-here-is-how-to-protect-your-muscle/), not just general nutrition advice from the internet, becomes genuinely important.
 
@@ -53,7 +53,7 @@ The fourth is the conversation itself. Providers who are prescribing these medic
 
 ## The Resistance Training Piece Deserves More Specificity
 
-I want to spend a moment here because "do resistance training" is advice that's easy to dismiss or to do ineffectively. What I've seen work for adults in their 60s, 70s, and beyond on GLP-1 medications is a program that hits the major muscle groups two to three times per week, focuses on movements that mirror daily function (standing up, carrying, stepping), and progresses gradually over time.
+I want to spend a moment here because "do resistance training" is advice that's easy to dismiss or to do ineffectively. For adults in their 60s, 70s, and beyond on GLP-1 medications, an effective program hits the major muscle groups two to three times per week, focuses on movements that mirror daily function (standing up, carrying, stepping), and progresses gradually over time.
 
 The key word is progressive. If you're doing the same light band exercises you started with three months ago, your muscles have adapted and you're no longer challenging them enough to build or maintain mass. That progression doesn't have to mean heavy barbells. It can mean moving from a chair-assisted squat to a full squat, or adding a second set, or slowing the tempo of each repetition. But it has to keep advancing.
 

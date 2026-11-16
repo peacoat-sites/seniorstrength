@@ -81,7 +81,7 @@ Photo by [Mobio Marketing](https://unsplash.com/@mobio_be?utm_source=seniorstren
 
 One of the most underrated tools for exercise motivation for seniors is other people. Exercising with a friend, partner, or group dramatically increases accountability and makes the experience far more enjoyable.
 
-Studies show that older adults who exercise with others are significantly more likely to stick with their programs long-term. Social connection taps into our deep human need for belonging and community.
+Older adults who exercise with others tend to stick with their programs long-term. Exercising with others meets the need for belonging and community.
 
 Ways to bring social energy into your fitness life:
 
@@ -128,7 +128,6 @@ Photo by [Age Cymru](https://unsplash.com/@agecymru?utm_source=seniorstrength&ut
 - [Mobio Marketing](https://unsplash.com/@mobio_be?utm_source=seniorstrength&utm_medium=referral)
 - [Age Cymru](https://unsplash.com/@agecymru?utm_source=seniorstrength&utm_medium=referral)
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

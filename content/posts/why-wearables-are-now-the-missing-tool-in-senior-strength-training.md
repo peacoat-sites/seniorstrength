@@ -20,15 +20,13 @@ The American College of Sports Medicine dropped its 2026 Worldwide Fitness Trend
 
 The timing matters. The ACSM report points out that the baby boomer generation includes 73 million Americans, all of whom will be over 65 by 2030. Meanwhile, a February 2026 University at Buffalo study, the largest of its kind, found that for women over 60, every 7-kilogram increase in [grip strength](/grip-strength-exercises-for-older-adults/) was associated with a 12% lower mortality rate. Strength isn't vanity for this population. It's survival arithmetic.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">ACSM ranked Wearable Technology #1 and Fitness Programs for Older Adults #2 in its 2026 trends report.</li><li style="margin:5px 0">Women over 60 see a 12% lower mortality rate for every 7 kg increase in grip strength (University at Buffalo, 2026).</li><li style="margin:5px 0">Over 70% of wearable users already use device data to guide exercise or recovery decisions.</li><li style="margin:5px 0">Adults 65+ now visit gyms more frequently than any other age group, per 2023 IHRSA data.</li><li style="margin:5px 0">Programs labeled "functional" or "active aging" consistently outperform those marketed as "senior fitness" in participation.</li></ul></div>
-
 
 ## The Real Problem With Generic Wearable Advice for Older Adults
 
 Most wearable guidance online is written for people in their 30s training for a half marathon. Heart rate zones, VO2 max estimates, recovery scores, they're calibrated by default toward younger, higher-output athletes. What most people don't realize is that the physiological markers that matter most for someone over 60 doing strength work are genuinely different. Resting heart rate variability tends to be lower in older adults. Recovery windows after resistance training are longer. The cost of overtraining isn't just a bad workout the next day. It can mean a fall, a strain, or a setback that takes months to undo.
 
-I've seen clients in their late 60s push through every yellow-flag warning their device gave them because they felt fine in the moment. That's not toughness. That's a mismatch between the tool and the user. The good news is that the ACSM's 2026 report specifically notes that exercise professionals can use wearable metrics to tailor intensity, assess readiness, and reduce overtraining risk. The data is there. It just needs the right interpretation.
+Some people push through every yellow-flag warning their device gives because they feel fine in the moment. That's often a mismatch between the tool and the user. The good news is that the ACSM's 2026 report specifically notes that exercise professionals can use wearable metrics to tailor intensity, assess readiness, and reduce overtraining risk. The data is there. It just needs the right interpretation.
 
 ## What Wearables Can Actually Track That Matters for Strength Training
 
@@ -48,7 +46,7 @@ Grip strength deserves its own mention here. The University at Buffalo study fro
 
 If you've searched for fitness classes lately and found yourself seeing "functional movement," "active aging," or "low-intensity strength" instead of "senior fitness," that's deliberate. A 2024 industry report cited in the ACSM survey found that programs using those labels consistently attract more participants than programs explicitly called "senior fitness." That might sound like marketing fluff, but it reflects something real: older adults don't want to be sorted into a corner. They want to train. They just want to train smart.
 
-Wearables fit that identity shift perfectly. Wearing a Garmin or an Apple Watch or a WHOOP band signals that you're an athlete monitoring your performance. Not a patient managing decline. That psychological dimension is not trivial. I've watched clients become more consistent with training simply because the device gave them something to respond to, a number, a trend, a goal met. Engagement matters. If a $200 device keeps someone lifting twice a week for two years, it's one of the better investments they'll make for their health.
+Wearing a Garmin, an Apple Watch, or a WHOOP band can shift how you see yourself. It signals that you're monitoring your performance as an athlete, not managing decline. That psychological dimension matters. Wearables give users something to respond to: a number, a trend, a goal met. Engagement matters. If a $200 device keeps someone lifting twice a week for two years, it's one of the better investments they'll make for their health.
 
 ## How to Actually Use the Data (Without Becoming a Data Obsessive)
 

@@ -40,7 +40,7 @@ But the how matters enormously. Because I've also seen people make their balance
 
 Your body maintains balance through three systems working together: your vision, your vestibular system (the inner ear), and your proprioception, which is the sense your muscles and joints have of where your body is in space. After about age 60, all three start to change. Vision sharpens less quickly in low light. The vestibular system becomes less sensitive. And proprioception, honestly, takes the biggest hit, especially if you've been sedentary for a while.
 
-I thought for years that the inner ear was the main culprit in most older adult falls. It made intuitive sense. But when I started working closely with a physical therapist colleague who specialized in vestibular rehab, she pointed me toward the proprioception research, and it genuinely shifted how I approach this work. Weakness in the ankles and hips, combined with reduced sensation in the feet, accounts for a much larger share of falls than most people realize.
+A common assumption is that the inner ear causes most older adult falls, but proprioception research points to a different pattern. Weakness in the ankles and hips, combined with reduced sensation in the feet, accounts for a much larger share of falls than most people realize.
 
 That matters because it changes what you train. Vestibular issues need a different intervention than proprioceptive ones. If your doctor has never asked which situations make you feel most unsteady (turning quickly? walking in the dark? stepping off a curb?), that's worth raising.
 
@@ -50,11 +50,9 @@ One more thing: medications. This doesn't get said loudly enough. As of July 202
 
 ## The Exercises That Actually Move the Needle
 
-Let me skip the generic list and tell you what I've seen work reliably, and what the evidence backs.
-
 **Single-leg stance.** Sounds boring. It's not. Stand near a counter or wall, lift one foot just an inch off the floor, and hold for up to 30 seconds. That's it. Research published in the *Journal of Physical Therapy Science* found that older adults who practiced single-leg stance for 12 weeks showed significant improvements in functional balance scores on the Berg Balance Scale. Start with holding for 5-10 seconds and build from there. When that feels manageable, try closing your eyes for 2-3 seconds at a time. The difference in difficulty is immediately humbling.
 
-**Tandem walking.** Walk heel-to-toe along a straight line (a piece of tape on the floor works well) for about 20 feet. This one looks easy until you actually try it. I've watched people with no apparent mobility issues immediately grab for a wall when they attempt it. That's information, not failure.
+**Tandem walking.** Walk heel-to-toe along a straight line (a piece of tape on the floor works well) for about 20 feet. It looks easy until you try it. Many people with no apparent mobility issues grab for a wall on first attempt, which is useful feedback about balance control.
 
 **Sit-to-stand without hands.** From a standard chair height, stand up without pushing off with your hands. Then sit back down slowly, taking at least 3-4 seconds on the way down. That slow lowering phase is where the real work happens, the eccentric muscle control that your body loses first and needs most. Do 8-10 repetitions. If you need to use your hands right now, use them, and just work toward needing them less over time.
 
@@ -105,7 +103,6 @@ And please: don't start any new exercise program without at least a conversation
 - Maki BE, McIlroy WE. *The role of limb movements in maintaining upright stance: The "change-in-support" strategy.* Physical Therapy (1997): Classic research on how older adults compensate for balance perturbations differently than younger adults.
 
 ---
-
 
 *Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
 

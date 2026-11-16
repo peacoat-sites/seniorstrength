@@ -31,9 +31,7 @@ What changed my mind was watching a 71-year-old client named Rosemary hold a wal
 
 I'll be honest: the research on isometrics for older adults is genuinely exciting right now, and I don't say that about much. A 2022 meta-analysis published in the British Journal of Sports Medicine looked at the effect of different exercise types on blood pressure and found that isometric training outperformed aerobic exercise, [resistance training](/what-the-new-acsm-resistance-training-guidelines-mean-after-60/), and high-intensity interval training for reducing resting systolic blood pressure. The effect size wasn't trivial either. That's a big deal for a population where hypertension affects roughly 70% of adults over 65, according to the CDC. And that's before you even get into the strength and balance benefits, which are considerable.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Isometric exercises match or beat aerobic exercise for lowering resting blood pressure in adults over 60.</li><li style="margin:5px 0">No joint movement means dramatically lower injury risk, making them safe during arthritis flares or post-surgery recovery.</li><li style="margin:5px 0">Just 4 sessions per week, each under 15 minutes, produces measurable strength and balance improvements within 6-8 weeks.</li><li style="margin:5px 0">You can do the most effective isometric exercises with zero equipment, zero floor work, and zero gym membership.</li><li style="margin:5px 0">Holding at 50-70% of max effort (not max effort) is the sweet spot for seniors, grinding to failure causes more harm than benefit.</li></ul></div>
-
 
 ## What's Actually Happening In Your Muscles
 
@@ -53,11 +51,11 @@ There are hundreds of isometric variations, but if you're over 60 and you want r
 
 **Standing glute squeeze.** Literally just standing upright, squeezing your glutes hard as if you're trying to crack a walnut, and holding for 10-15 seconds. Laughably simple, genuinely effective for hip stability, and you can do it in the grocery store checkout line with no one knowing.
 
-**Dead bug hold (modified).** This one requires lying on your back, so it's not for everyone. But for those who can get down and up safely: knees bent to 90 degrees, lower back pressed into the floor, arms reaching toward the ceiling. Hold that position without letting the back arch away from the floor. This is the core isometric that reduces fall risk more than almost anything else I've seen, because it trains the exact stabilization pattern your body uses when you catch yourself stumbling.
+**Dead bug hold (modified).** This one requires lying on your back, so it's not for everyone. But for those who can get down and up safely: knees bent to 90 degrees, lower back pressed into the floor, arms reaching toward the ceiling. Hold that position without letting the back arch away from the floor. This core isometric reduces fall risk more than almost any other core exercise because it trains the exact stabilization pattern your body uses when you catch yourself stumbling.
 
 ## A Realistic Look at Time and Results
 
-Here's a rough timeline based on what I've seen consistently over the years:
+Here's a rough timeline:
 
 | Timeframe | What Typically Changes |
 |---|---|
@@ -86,7 +84,6 @@ The caveat (and this one matters): if you're already hypertensive and not well-c
 - Berg Balance Scale clinical reference data: Published normative values and minimal detectable change thresholds for fall risk assessment in older adults.
 
 ---
-
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 

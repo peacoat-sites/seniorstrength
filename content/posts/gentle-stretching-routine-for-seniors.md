@@ -113,7 +113,7 @@ The mindset part connects here too. People who approach stretching as something 
 
 ---
 
-Flexibility isn't something you either have or don't have. It's a physical quality you can genuinely improve at any age, with the right approach and enough patience. I've watched clients in their 70s make real gains in hip mobility, shoulder range, and overall ease of movement. It doesn't require an hour a day or any special equipment. It requires showing up regularly, staying honest about what your body is telling you, and resisting the urge to rush. Start with the routine above, give it six weeks, and I think you'll surprise yourself.
+Flexibility isn't something you either have or don't have. It's a physical quality you can genuinely improve at any age, with the right approach and enough patience. People in their 70s can make real gains in hip mobility, shoulder range, and overall ease of movement. It doesn't require an hour a day or any special equipment. It requires showing up regularly, staying honest about what your body is telling you, and resisting the urge to rush. Start with the routine above, give it six weeks, and you'll likely surprise yourself.
 
 ---
 
@@ -126,7 +126,6 @@ Flexibility isn't something you either have or don't have. It's a physical quali
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - is genuinely encouraging
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

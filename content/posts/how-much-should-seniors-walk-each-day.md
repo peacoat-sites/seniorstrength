@@ -24,17 +24,17 @@ Here's what the actual numbers say.
 
 A landmark study published in JAMA Internal Medicine tracked over 16,000 older women and found that mortality risk dropped significantly as daily step counts rose, but the benefits essentially plateaued around 7,500 steps per day. Not 10,000. The sweet spot for older adults appears to be somewhere between 6,000 and 8,000 steps, depending on your baseline fitness and health conditions.
 
-More recently, a 2023 analysis in the European Journal of Preventive Cardiology pooled data from 17 studies covering more than 226,000 participants and found that even 3,967 steps per day was enough to begin reducing all-cause mortality risk. Every additional 1,000 steps reduced that risk by approximately 15%. What surprised me was the shape of that curve: the gains are steepest at the low end. Going from 2,000 to 4,000 steps matters more than going from 8,000 to 10,000.
+More recently, a 2023 analysis in the European Journal of Preventive Cardiology pooled data from 17 studies covering more than 226,000 participants and found that even 3,967 steps per day was enough to begin reducing all-cause mortality risk. Every additional 1,000 steps reduced that risk by approximately 15%. The gains are steepest at the low end. Going from 2,000 to 4,000 steps matters more than going from 8,000 to 10,000.
 
 The World Health Organization currently recommends that adults 65 and older get at least 150 minutes of moderate-intensity aerobic activity per week. Brisk walking counts. That works out to roughly 22 minutes per day, which for most people translates to somewhere around 2,500 to 3,500 steps. That's the floor, not the goal.
 
-I'll be honest: I thought that sounded too easy when I first started paying attention to it. But then I actually mapped it against the clients I'd seen struggle. A 72-year-old woman recovering from a knee replacement isn't going to hit 8,000 steps in week three of rehab. Telling her the target is 10,000 isn't motivating. It's discouraging.
+For someone recovering from knee replacement surgery, hitting 8,000 steps in week three of rehab may not be realistic. A target of 10,000 steps in early recovery can feel discouraging rather than motivating.
 
 ## What "Steps" Actually Measures (and Doesn't)
 
 Steps are a useful proxy, but they don't capture intensity. Ten minutes of flat sidewalk strolling is not the same as ten minutes walking uphill, and your body knows the difference even if your step counter doesn't. Research from the University of Massachusetts Amherst, using cadence tracking, found that walking at 100 steps per minute or faster corresponds to moderate intensity for most adults. That's a pace where you can still talk but you're working a little.
 
-For my clients who use fitness trackers, I always ask them to check cadence, not just total steps. It changes the picture completely. I had one client, a 68-year-old retired teacher from Tucson, who was proud of his 9,000 daily steps. When we looked at his cadence data, nearly all of it was under 70 steps per minute, which is essentially a slow amble. He adjusted his pace for just 20 minutes of each walk, and three months later his resting heart rate had dropped 8 points. Same step count. Better result.
+If you use a fitness tracker, check cadence alongside total steps. Someone with 9,000 daily steps walked entirely at under 70 steps per minute (a slow amble) could see cardiovascular gains by increasing pace for just 20 minutes of the walk, without raising total step count.
 
 Step counters also miss swimming, cycling, and strength training entirely. If you're doing two days of resistance training per week, which I'd argue is more important for fall prevention than walking mileage, those sessions don't show up in your daily step total at all.
 
@@ -50,7 +50,7 @@ This is where I see the most confusion. "How many steps should I walk?" is actua
 | Very active / athletic | 8,000 to 10,000+ | Beneficial if you're conditioned for it |
 | Post-surgical / cardiac rehab | As prescribed | Always defer to your care team here |
 
-That "as prescribed" row matters more than it looks. I've watched well-meaning relatives push a post-hip-replacement parent to "get more steps in" when their orthopedist had given them a specific protocol. More steps is not always better. This is genuinely a situation where a conversation with your doctor or physical therapist about your specific starting point is worth more than any general recommendation.
+Following your prescribed protocol after hip replacement matters. Well-meaning encouragement to "get more steps in" can conflict with your orthopedist's specific guidance. More steps is not always better. A conversation with your doctor or physical therapist about your specific starting point is worth more than any general recommendation.
 
 ## Building Up Without Breaking Down
 
@@ -68,9 +68,9 @@ I'll be honest, this section gets almost no attention in mainstream fitness writ
 
 Walking on grass or packed dirt is meaningfully different from walking on concrete. The impact forces on concrete are harder on joints over time, and for older adults with osteoarthritis or any history of stress fractures, surface matters. A treadmill at a 1% incline is widely considered the closest match to outdoor flat-ground walking in terms of energy expenditure, and it removes the curb-hopping and uneven pavement variables that contribute to falls.
 
-Speaking of falls: the CDC reports that falls are the leading cause of injury-related death among adults 65 and older, with over 36,000 deaths annually as of recent data. Walking is one of the best ways to reduce fall risk by improving balance and leg strength, but only if you're walking in conditions that don't themselves create fall hazards. Wet pavement, loose gravel, and distracted walking (looking at your phone) are real risks. One of my clients, a 74-year-old in Phoenix, stopped her evening walks during summer because of heat. Smart call. Heat-related illness is underappreciated as a risk for older walkers.
+The CDC reports that falls are the leading cause of injury-related death among adults 65 and older, with over 36,000 deaths annually. Walking reduces fall risk by improving balance and leg strength, but only in safe conditions. Wet pavement, loose gravel, and distracted walking (looking at your phone) create real hazards. Extreme heat is also underappreciated as a risk for older walkers; adjusting walking times during hot months can be the safer choice.
 
-Timing is the research here is genuinely mixed. Some studies suggest morning walks produce better glycemic control for people with type 2 diabetes. Others find no significant difference by time of day for general cardiovascular outcomes. My practical take: the best time to walk is the time you'll actually do it consistently.
+Research on walking timing is mixed. Some studies suggest morning walks produce better glycemic control for people with type 2 diabetes, while others find no significant difference by time of day for general cardiovascular outcomes. The best time to walk is the time you'll actually do it consistently.
 
 ## Sources
 

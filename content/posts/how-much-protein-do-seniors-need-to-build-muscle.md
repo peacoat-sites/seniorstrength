@@ -58,7 +58,7 @@ You might be wondering whether eating that much protein is safe for your kidneys
 
 This is where most guides leave you stranded. They tell you the number you need, then wave vaguely at chicken breasts and protein shakes. What actually works requires a bit more structure.
 
-The single most useful shift I've seen in my clients is distributing protein across meals instead of backloading it at dinner. Most people eat a small breakfast, a light lunch, and then a large dinner with most of their protein. That's almost exactly backwards for muscle protein synthesis. Research from Dr. Douglas Paddon-Jones at the University of Texas Medical Branch, who studies muscle metabolism in older adults, has consistently shown that spreading protein intake across three or four meals, with at least 25 to 40 grams at each sitting, produces meaningfully better muscle-building outcomes than eating the same total amount concentrated in one or two meals.
+Distributing protein across meals instead of backloading it at dinner produces better results than eating the same total amount concentrated in one or two meals. Many people eat a small breakfast, a light lunch, and then a large dinner with most of their protein. That's almost exactly backwards for muscle protein synthesis. Research from Dr. Douglas Paddon-Jones at the University of Texas Medical Branch, who studies muscle metabolism in older adults, has consistently shown that spreading protein intake across three or four meals, with at least 25 to 40 grams at each sitting, produces meaningfully better muscle-building outcomes than eating the same total amount concentrated in one or two meals.
 
 So what does 30 to 40 grams of protein actually look like at breakfast? Here are a few realistic options:
 
@@ -108,7 +108,6 @@ If you're working out in the morning, that means breakfast isn't just breakfast.
 
 ---
 
-
 ---
 
 Eating more protein at 65 or 70 isn't about following some aggressive bodybuilder protocol. It's about compensating for real, measurable changes in how your body uses what you give it. The goal is to stay strong, stay independent, and keep doing the things that matter to you. The protein target is just one part of that, but it's a part a lot of people are unknowingly getting wrong. Fixing it is usually one of the most impactful single changes I see people make.
@@ -128,7 +127,6 @@ Eating more protein at 65 or 70 isn't about following some aggressive bodybuilde
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - Older adults need more dietary protein than younger people to stimulate the same muscle protein synthesis response. The threshold is higher, and ignoring that means leaving real muscle-building potential on the table. This
 - The fear of protein-induced kidney damage in healthy older adults is not well-supported by current evidence and may actually lead people to undereat protein, which has its own serious health consequences. That
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

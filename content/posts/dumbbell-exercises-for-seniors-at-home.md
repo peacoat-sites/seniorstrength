@@ -63,7 +63,7 @@ I want to be selective here, because too many "senior dumbbell" articles list 20
 
 **Dumbbell Row.** Place one knee and one hand on a bench or sturdy chair for support. Hold a dumbbell in your free hand and pull it toward your hip, elbow skimming close to your body. Lower with control. This builds upper back strength, which directly counteracts the [forward-rounding posture (kyphosis)](/core-exercises-for-seniors-with-bad-backs/) that becomes increasingly common after 60. Pulling movements are chronically underrepresented in most people's home routines.
 
-**Farmer's Carry.** Pick up a dumbbell in each hand and walk. That's it. Walk across your living room, turn around, walk back. This exercise has almost no learning curve, and what surprised me when I started programming it more consistently was the impact it had on grip strength, core stability, and gait quality all at once. Grip strength, by the way, is one of the strongest predictors of all-cause mortality in older adults, per research published in *The Lancet*. It sounds alarmist, but the data is genuinely consistent on this point.
+**Farmer's Carry.** Pick up a dumbbell in each hand and walk. That's it. Walk across your living room, turn around, walk back. This exercise has almost no learning curve and works grip strength, core stability, and gait quality all at once. Grip strength, by the way, is one of the strongest predictors of all-cause mortality in older adults, per research published in *The Lancet*. It sounds alarmist, but the data is genuinely consistent on this point.
 
 **Lateral Raise (Light).** Standing or seated, hold a light dumbbell in each hand at your sides. Raise both arms out to the side until shoulder height, then lower slowly. The "slowly" part is where most people rush and where the benefit lives. Control the descent over 3 to 4 seconds. This exercise specifically targets the deltoids and the small stabilizing muscles of the shoulder complex that keep your shoulder joint healthy long-term. Don't go heavy. 5 to 8 pounds is appropriate for most people starting out, even if you feel strong.
 
@@ -73,7 +73,7 @@ I want to be selective here, because too many "senior dumbbell" articles list 20
 
 Here's what separates training from exercise. Exercise is just movement. Training means you're applying a stimulus that's slightly harder over time, so your body has a reason to adapt.
 
-I've watched well-meaning people do the same 10-pound curls for two years and wonder why nothing changes. The body is efficient. Once it adapts to a load, it stops changing.
+The body is efficient. Once it adapts to a load, it stops changing, so repeating the same weight and reps for months won't produce gains.
 
 Progressive overload for older adults doesn't have to mean adding weight every single week. That's actually too aggressive for most people over 60. Better approaches: add one rep per session, slow the lowering phase by a second, reduce rest time between sets, or simply improve your form and range of motion before adding any weight at all. All of these count as progression. You don't need heavier dumbbells every month to keep getting stronger.
 
@@ -89,7 +89,7 @@ I'll be honest: safety conversations in senior fitness tend to veer into condesc
 
 Control matters more than load. A weight you can lift but can't lower slowly is too heavy. The lowering phase (eccentric) is where a lot of the strength-building stimulus comes from, and where a lot of injuries happen when people rush it.
 
-Shoes matter more than most people realize. Thick, cushioned running shoes are actually problematic for strength training because they reduce the proprioceptive feedback you get from the floor. A flat, firm-soled shoe (or bare feet if your floors are safe) gives you a more stable base for squatting and pressing. This surprised me the first time a physical therapist colleague pointed it out, and I've seen it make a real difference since.
+Shoes matter more than most people realize. Thick, cushioned running shoes are actually problematic for strength training because they reduce the proprioceptive feedback you get from the floor. A flat, firm-soled shoe (or bare feet if your floors are safe) gives you a more stable base for squatting and pressing.
 
 The research on rest is mixed in terms of exact timing, but a general guideline of 60 to 90 seconds between sets works well for most older adults. Some people do better with 2 minutes, especially when managing blood pressure. Don't rush it.
 
@@ -106,7 +106,6 @@ If you have osteoporosis, spinal stenosis, or recent joint replacement surgery, 
 - Reid et al., *Archives of Internal Medicine* (2008): Randomized trial showing progressive resistance training reduced fall risk and improved functional mobility in community-dwelling older adults.
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

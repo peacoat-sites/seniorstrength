@@ -30,7 +30,7 @@ Every week, someone comes to me after getting hurt doing an exercise their docto
 
 Joint protection during exercise isn't complicated, but it's also not what most people think it is. It's not about avoiding exercise. It's not about wrapping yourself in braces and moving at half speed. And it's definitely not about the "senior fitness" class at your gym where everyone does chair yoga for 45 minutes and calls it a workout. (I love chair yoga. It just shouldn't be the whole story.)
 
-What I've seen, after years of working with adults in their 60s, 70s, and 80s, is that the people who protect their joints best are the ones who understand a few specific principles deeply, rather than a long list of rules shallowly. So let's do that.
+The people who protect their joints best understand a few specific principles deeply, rather than a long list of rules shallowly. So let's do that.
 
 ---
 
@@ -46,7 +46,7 @@ This is why "just strengthen the muscles around your joints" is useful but incom
 
 ## The Warmup Problem Nobody Talks About
 
-I made this mistake myself when I first started training older clients. I'd give them five minutes of easy walking on a treadmill as a warmup and move on. Felt like plenty. Felt like what I'd seen other trainers do. It wasn't enough, and I had a client pay for it.
+A common mistake is giving five minutes of easy walking on a treadmill as a warmup and moving on. It often isn't enough to prepare joints for exercise.
 
 Warm joints move better because synovial fluid, the lubricant inside your joint capsule, gets distributed more evenly with movement. Cold joints are stiffer, more prone to micro-damage under load. But the type of warmup matters as much as the duration.
 
@@ -114,7 +114,6 @@ Resistance bands are also worth keeping around. Inexpensive, versatile, and exce
 - American Physical Therapy Association (APTA): Resources on proprioception, joint health, and exercise prescription for older adults (apta.org).
 
 ---
-
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 

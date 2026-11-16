@@ -111,7 +111,7 @@ For the strength exercises, slowing down the lowering phase, what trainers call 
 
 ---
 
-Start with what you can do today, not the version you'd like to be able to do in six months. The person who does three modest exercises consistently will get more benefit than the person who attempts a full routine twice and quits. I've watched that play out too many times to count.
+Start with what you can do today, not the version you'd like to be able to do in six months. The person who does three modest exercises consistently will get more benefit than the person who attempts a full routine twice and quits. Consistency with modest exercise beats sporadic attempts at ambitious routines.
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
@@ -128,7 +128,6 @@ Start with what you can do today, not the version you'd like to be able to do in
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - standing is better. When
 - in *PLOS ONE* found that the ability to sit and stand from the floor without usi
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -25,7 +25,7 @@ faqs:
    a: "Used correctly, both can reduce fall risk significantly, and neither creates dependency in the way people fear. The bigger risk is avoiding a mobility aid out of pride and falling as a result. A physical therapist can assess which device (if any) is appropriate and, critically, make sure the person knows how to use it correctly. Many people use canes at the wrong height, which actually increases instability."
 lastmod: 2026-07-08
 ---
-Every 11 seconds, an older adult is treated in an emergency room for a fall-related injury. I've watched that statistic play out in real lives, and it never gets easier. What does get easier, though, is knowing what actually prevents falls versus what just makes people feel like they're doing something.
+Every 11 seconds, an older adult is treated in an emergency room for a fall-related injury. Knowing what actually prevents falls, versus what just makes people feel like they're doing something, can help focus prevention efforts where they matter most.
 
 Here's the honest truth: most fall prevention advice focuses almost entirely on the home environment. Move the rugs, install grab bars, get better lighting. That stuff matters. But it's only half the picture, and relying on it alone leaves a lot of people vulnerable. The research on this is pretty clear. Physical conditioning, balance training, and medication awareness contribute just as much as any home modification. Sometimes more.
 
@@ -56,7 +56,7 @@ Stairs deserve a longer conversation. Both handrails. Not one. Both. And they sh
 
 Here's what I tell people when they're surprised by a fall: your body gave you warning signs. Muscle strength, reaction time, and balance don't disappear overnight. They erode gradually, and usually quietly, until something happens.
 
-The good news is they respond to training at any age. I've worked with people in their late 70s and 80s who genuinely improved their balance scores and leg strength over 12 to 16 weeks of consistent exercise. Not dramatically, not miraculously, but meaningfully enough to matter.
+The good news is older adults respond to training at any age. Balance and leg strength can improve meaningfully over 12 to 16 weeks of consistent exercise.
 
 Balance training is the single most evidence-supported intervention for fall prevention in older adults. Not walking more. Not general stretching. Actual balance work, which means [exercises that challenge your stability](/how-to-protect-joints-during-exercise-seniors/) in a controlled way. Start here:
 
@@ -68,7 +68,7 @@ Balance training is the single most evidence-supported intervention for fall pre
 
 Leg strength and balance work together. I wouldn't focus on one without the other. Resistance training two days per week, using body weight, resistance bands (the Theraband CLX is what I most often recommend), or light weights, builds the muscle mass that older adults lose steadily every decade without deliberate effort.
 
-You might be wondering whether a fall prevention class is worth it. Honestly, yes. Programs like Tai Chi for Arthritis and the Otago Exercise Programme have strong evidence behind them and are available through many local senior centers, YMCAs, and hospital outpatient programs. The A Matter of Balance program is offered in most states and is often free or very low cost. These programs work partly because of the exercises themselves and partly because they get people doing them consistently, which solo home workouts often don't achieve.
+You might be wondering whether a fall prevention class is worth it. Yes. Programs like Tai Chi for Arthritis and the Otago Exercise Programme have strong evidence behind them and are available through many local senior centers, YMCAs, and hospital outpatient programs. The A Matter of Balance program is offered in most states and is often free or very low cost. These programs work partly because of the exercises themselves and partly because they get people doing them consistently, which solo home workouts often don't achieve.
 
 ## Medications Are a Bigger Culprit Than Most People Realize
 
@@ -82,7 +82,7 @@ Orthostatic hypotension is worth knowing about by name. It's the blood pressure 
 
 ## Footwear: The Thing People Always Underestimate
 
-I've seen people do everything right and still fall because of their shoes. Or worse, their socks.
+Footwear, including socks, can affect fall risk even when other prevention measures are in place.
 
 Slippery socks on hardwood or tile are a genuine hazard. Bare feet are actually safer than socks on slick surfaces for most people, because you get better tactile feedback from the floor. If someone wants to wear socks around the house, grip socks (the kind physical therapy clinics hand out, or brands like Tavi Noir and Bombas make them) are a worthwhile small investment.
 
@@ -95,7 +95,6 @@ Good shoes have arch support, a low and wide heel, a thin and firm sole, and a s
 - [Jsme MILA](https://www.pexels.com/@jsme-mila-523821574)
 - on this is pretty clear
 
-
 You might be wondering what an eye exam has to do with falling. More than most people expect.
 
 Uncorrected vision changes affect depth perception and the ability to detect changes in floor surface and lighting. An annual eye exam is part of fall prevention, full stop. If someone's been wearing the same prescription glasses for three or four years, that's a place to start.
@@ -104,7 +103,7 @@ Bifocals and progressive lenses, while excellent for general vision, can distort
 
 ---
 
-The real shift in thinking I'd encourage is this: fall prevention isn't a checklist you complete once and forget. It's an ongoing habit of looking at your environment, your body, and your medications with honest eyes. Small changes made consistently, and adjusted as life changes, are what make the difference. The people I've seen avoid serious falls weren't necessarily the healthiest or the youngest. They were the ones paying attention.
+Fall prevention isn't a checklist you complete once and forget. It's an ongoing habit of looking at your environment, your body, and your medications with honest eyes. Small changes made consistently, and adjusted as life changes, are what make the difference.
 
 *Photo: [Jsme MILA](https://www.pexels.com/@jsme-mila-523821574) via Pexels*
 

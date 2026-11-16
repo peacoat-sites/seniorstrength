@@ -29,11 +29,9 @@ Falls are the leading cause of injury-related death in [adults over](/how-exerci
 
 Here's what most of that coverage misses: the question isn't whether ankle weights are safe in general. It's whether they're appropriate for *you*, doing *your* specific movements, at *your* current fitness level. That distinction matters enormously.
 
-I've worked with adults in their 60s, 70s, and 80s long enough to know that the same 2-pound cuff that helps one client build hip flexor strength during a supervised leg raise can send another straight to an orthopedic surgeon. The difference isn't the weight. It's almost always mechanics, context, and what that person was doing before they added resistance.
-
+The same 2-pound cuff that builds hip flexor strength during a supervised leg raise for one person can cause problems for another. The difference comes down to mechanics, context, and what someone was doing before adding resistance.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Ankle weights under 3 lbs are generally safe for seated or supine exercises in adults over 60 with intact balance.</li><li style="margin:5px 0">Walking with ankle weights increases fall risk by altering gait mechanics; most physical therapists advise against it.</li><li style="margin:5px 0">A 2021 JAMA Network Open study found resistance training reduces fall incidence by up to 34% in older adults, but loading matters.</li><li style="margin:5px 0">Ankle weights are most appropriate for bed or floor exercises; standing use requires careful screening first.</li><li style="margin:5px 0">Anyone with osteoporosis, hip replacement history, or balance impairment should get clearance before adding ankle weights.</li></ul></div>
-
 
 ## What the Research Actually Says
 
@@ -55,9 +53,7 @@ Where I'd tell you to skip the ankle weight entirely: walking, any exercise that
 
 ## The Weight Question
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Recommended max ankle weight by exercise type (lbs)</div><div class="sc-row"><span class="sc-label">Supine leg raises</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">3 lbs</span></div><div class="sc-row"><span class="sc-label">Seated knee extensions</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">2 lbs</span></div><div class="sc-row"><span class="sc-label">Standing hip abduction</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">1 lbs</span></div><div class="sc-row"><span class="sc-label">Walking</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">0 lbs</span></div><div class="sc-row"><span class="sc-label">Stair use</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">0 lbs</span></div><div class="sc-src">Source: ACSM Guidelines for Exercise Testing and Prescription, 11th ed.</div></div>
-
 
 Most guidelines, including those from the American College of Sports Medicine, suggest starting at 0.5 to 1 pound for beginners and never exceeding 3 pounds for ankle-weight exercises in older adults without professional supervision. That upper limit surprises people who've seen the 10-pound cuffs marketed on Amazon for about $18-25. Those are targeted at younger athletes doing specific training. For seniors doing unsupervised home exercise, 1-2 lbs is the practical ceiling for most applications.
 
@@ -102,7 +98,6 @@ If anything feels unstable, take the weight off. That's not failure; that's corr
 - Liao CD, et al. (2023): Geriatrics & Gerontology International trial on seated ankle-weight resistance training outcomes in adults aged 68-79.
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

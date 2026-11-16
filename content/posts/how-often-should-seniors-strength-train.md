@@ -35,9 +35,9 @@ This is the part most trainers who work primarily with younger clients get wrong
 
 Muscle protein synthesis, the process by which your body actually builds and repairs muscle tissue after a strength session, slows down with age. A 35-year-old might recover meaningfully from a hard leg session in 36 to 48 hours. Research published in the *Journal of Physiology* showed this window extends significantly in older adults, sometimes stretching to 72 hours or more depending on training intensity and individual health factors. That's not a weakness. It's just biology, and it's worth building your schedule around.
 
-What this means practically: training the same muscle groups on back-to-back days is usually a bad idea for most people in this age group, particularly early in a program. I've watched well-meaning clients push through a Monday-Tuesday-Wednesday full-body routine because someone told them more is more, and they end up sore, demoralized, or nursing a shoulder they didn't need to hurt.
+What this means practically: training the same muscle groups on back-to-back days is usually a bad idea for most people in this age group, particularly early in a program. Training the same muscle groups on consecutive days often leaves people sore, demoralized, or with preventable injuries like shoulder strain.
 
-The sweet spot I've seen work consistently is two to three full-body sessions per week, spaced out across the week. Monday, Wednesday, Friday is almost cliché at this point, but there's a reason it's lasted. The spacing matters more than the number.
+Two to three full-body sessions per week, spaced out across the week, works well for most older adults. Monday, Wednesday, Friday is almost cliché at this point, but there's a reason it's lasted. The spacing matters more than the number.
 
 Three days per week seems to be a meaningful step up from two for most people who are already adapted to training, meaning they've been consistent for at least eight to twelve weeks. A 2019 meta-analysis in *Sports Medicine* found that for older adults, three days per week of resistance training produced meaningfully better outcomes in muscle strength and functional performance compared to two days, without a significant increase in injury rates when sessions were properly spaced. That's the research I'd lean on if someone asks me to justify recommending three days. But I'd also tell you: that conclusion doesn't hold if the sessions are too long, too intense, or if the person isn't sleeping well, eating enough protein, or managing a health condition that affects recovery.
 
@@ -59,7 +59,7 @@ For someone who's been training consistently for a few months and is handling re
 
 Here's what I think gets skipped in most of these discussions: [balance training and mobility work](/safe-weight-lifting-for-seniors-guide/) don't count as "rest" in the way people assume, but they also don't count as strength training. You can do balance work or gentle mobility sessions on your off days without compromising recovery from strength work. In fact, a 20-minute balance and stretching session on a Wednesday between your Monday and Friday strength days probably improves your outcomes overall. The research on this in older adults is genuinely encouraging, particularly around fall risk reduction.
 
-One thing I'd push back on: the idea that "light days" of strength training, meaning very low load, high rep work, are truly restorative. I've seen this recommendation float around, and the evidence that it speeds recovery or reduces soreness is thin. If you need a light day, a walk and some hip mobility work will serve you better than a half-effort session with two-pound dumbbells.
+One thing I'd push back on: the idea that "light days" of strength training, meaning very low load, high rep work, are truly restorative. The evidence that very light strength training speeds recovery or reduces soreness is limited. If you need a light day, a walk and some hip mobility work will serve you better than a half-effort session with two-pound dumbbells.
 
 ## The Signals Your Body Actually Sends
 
@@ -67,7 +67,7 @@ Here's something that took me an embarrassingly long time to communicate clearly
 
 Delayed onset muscle soreness, that familiar ache that peaks around 24 to 48 hours after a new or challenging session, is generally fine to train through at moderate intensity. It's uncomfortable but not a red flag. Fatigue that feels deeper than soreness, a general heaviness, disrupted sleep, a noticeable drop in how well you're moving, that's your body asking for more time. For older adults especially, this kind of systemic fatigue is a real sign that frequency or volume needs to come down.
 
-Joint pain is a different category entirely. Aching muscles after a hard squat session is normal. Knee pain during or after squats is not something to train through without figuring out what's causing it. I've seen too many people in their 60s and 70s push through joint pain because they heard "no pain no gain" and apply it to tissue that can't absorb that philosophy. Please don't do this.
+Joint pain is a different category entirely. Aching muscles after a hard squat session is normal. Knee pain during or after squats is not something to train through without figuring out what's causing it. Joint tissue doesn't respond well to "no pain, no gain" thinking the way muscle does. Please don't do this.
 
 A practical self-check I give clients: before each session, rate how you feel on a simple 1-to-10 scale (10 being great). If you're regularly coming in at a 4 or below, something about your frequency, volume, or recovery outside the gym needs attention.
 
@@ -98,7 +98,6 @@ That last part sounds obvious. In practice, it's where almost everyone needs the
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - [Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)
 - for maintaining and building muscle mass in adults over 60
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

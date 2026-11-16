@@ -58,7 +58,7 @@ Progressive overload at home looks like this: you start with a bodyweight squat,
 
 The four movement patterns worth training, in priority order: hip hinge (deadlift variations), squat pattern, pushing (wall push-ups progressing to incline, then floor), and pulling (resistance bands anchored to a door handle are your best friend here). Every other exercise is secondary. A 60-year-old who can hinge well, squat below parallel with load, do ten real push-ups, and row a band with full scapular retraction is far stronger than average and far less likely to fall, get injured, or need help with daily tasks.
 
-Two days a week of resistance training produces real results. Three is better. More than four, for most people over 60, starts competing with recovery. I've seen more overtraining injuries in enthusiastic beginners than in people who started conservatively, and overtraining injuries at 68 take considerably longer to resolve than they do at 35.
+Two days a week of resistance training produces real results. Three is better. More than four, for most people over 60, starts competing with recovery. Overtraining injuries are common in enthusiastic beginners, and they take considerably longer to resolve at 68 than at 35.
 
 ## Balance Work That's Actually Hard Enough to Help
 
@@ -92,7 +92,6 @@ Ankle mobility is consistently overlooked and consistently implicated in falls. 
 
 ---
 
-
 ---
 
 The home-based fitness program that actually works long-term isn't the one with the most variety or the most sophisticated equipment. It's the one you can repeat consistently, progress over time, and still be doing a year from now. Simple, hard enough to matter, and built around the movements your daily life actually demands.
@@ -112,7 +111,6 @@ The home-based fitness program that actually works long-term isn't the one with 
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - here is unambiguous
 - from over 55
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -16,7 +16,7 @@ affiliate_disclosure: true
 
 If you're over 60 and you've been vaguely meaning to "do more strength training," this summer just gave you something better than motivation. It gave you a number.
 
-A landmark study published June 2, 2026 in the British Journal of Sports Medicine followed 147,374 adults across three long-running cohorts for up to 30 years, making it one of the largest and longest resistance-training mortality analyses ever conducted. The lead researcher, Edward Giovannucci of Harvard T.H. Chan School of Public Health, and his team weren't just looking at whether strength training helps. They were looking for exactly how much. And they found it. Right now, this research is moving through fitness communities, physical therapy clinics, and senior centers faster than almost anything I've seen in years, and for good reason.
+A landmark study published June 2, 2026 in the British Journal of Sports Medicine followed 147,374 adults across three long-running cohorts for up to 30 years, making it one of the largest and longest resistance-training mortality analyses ever conducted. The lead researcher, Edward Giovannucci of Harvard T.H. Chan School of Public Health, and his team weren't just looking at whether strength training helps. They were looking for exactly how much. And they found it. The findings have generated significant attention in fitness communities, physical therapy clinics, and senior centers.
 
 ## What the Numbers Actually Mean
 

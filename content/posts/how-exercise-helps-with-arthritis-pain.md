@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most people come to me after they've already stopped moving. Not because they wanted to, but because someone, somewhere, told them that pain meant they should rest. And honestly? That advice made sense on the surface. It just happens to be one of the most counterproductive things a person with arthritis can do.
 
-I've worked with adults over 60 for more than a decade, and the pattern I see most is this: joint pain starts, activity drops, stiffness gets worse, pain increases, activity drops further. It's a cycle that feeds itself, and breaking it can feel almost impossible from the inside. So if you're sitting here wondering whether exercise could actually help or whether you'd just be grinding down cartilage that's already struggling, you're in exactly the right place to get a straight answer.
+A common pattern with joint pain: it starts, activity drops, stiffness worsens, pain increases, and activity drops further. It's a self-reinforcing cycle, and breaking it can feel almost impossible. So if you're sitting here wondering whether exercise could actually help or whether you'd just be grinding down cartilage that's already struggling, you're in exactly the right place to get a straight answer.
 
 The straight answer is: yes, exercise helps. Significantly. But the *how* matters enormously.
 
@@ -68,7 +68,7 @@ Flexibility and mobility work daily or near-daily. This doesn't need to be elabo
 
 ## The Pain Paradox: How to Tell Good Pain from Bad Pain
 
-This is the piece of information I wish someone had given my clients years earlier. Most people with arthritis experience some pain during exercise, and that's actually okay within a specific window. The fear that any pain means damage is what keeps people sedentary.
+Most people with arthritis experience some pain during exercise, and that's actually okay within a specific window. The fear that any pain means damage is what keeps people sedentary.
 
 Here's what I tell people: a mild ache during exercise, at a level you'd call a 2 or 3 out of 10, is generally acceptable. If it fades within an hour of finishing, you're likely fine. If pain spikes above a 4 or 5 during activity, or if it persists more than two hours after you stop, that's a signal to dial back. Not quit. Dial back.
 
@@ -102,10 +102,9 @@ The goal is to return to your program as soon as the flare settles, which for mo
 
 ---
 
-
 ---
 
-The thing I want you to hold onto is this: your joints are not too far gone for movement to help. I've seen people in their 80s, with X-rays that looked genuinely alarming, find meaningful relief through a carefully built exercise habit. It takes patience, and it takes starting where you actually are rather than where you wish you were. But the alternative, a body that moves less and hurts more, isn't a resting state. It's a direction.
+The thing I want you to hold onto is this: your joints are not too far gone for movement to help. People in their 80s with significant arthritis changes on imaging can find meaningful relief through a carefully built exercise habit. It takes patience, and it takes starting where you actually are rather than where you wish you were. But the alternative, a body that moves less and hurts more, isn't a resting state. It's a direction.
 
 You get to choose a different one.
 

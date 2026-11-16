@@ -40,7 +40,7 @@ So I went looking for the actual reasons. And what I found is that the story mos
 | Visual | Eyes | Variable | Depth perception and low-light vision |
 | Proprioceptive | Muscle, tendon, and joint sensors | Variable | Spatial awareness without visual input |
 
-Here's what surprised me when I first started digging into the physiology: balance isn't a single thing your body does. It's the product of three separate input systems working simultaneously, all feeding into your brain, which then coordinates a response. Lose significant function in any one of them and you're working with a handicap. Lose function in two, and falls become a genuine daily risk.
+Balance isn't a single thing your body does. It's the product of three separate input systems working simultaneously, all feeding into your brain, which then coordinates a response. Lose significant function in any one of them and you're working with a handicap. Lose function in two, and falls become a genuine daily risk.
 
 The three systems are your vestibular system (the inner ear, which detects movement and head position), your visual system (your eyes), and your proprioceptive system (sensors throughout your muscles, tendons, and joints that tell your brain where your body is in space without you having to look).
 
@@ -72,7 +72,7 @@ As of July 2026, the average American over 65 takes somewhere between four and f
 
 The categories to know: benzodiazepines (Xanax, Valium, Ativan), sleep aids, first-generation antihistamines like diphenhydramine (Benadryl), antihypertensives (especially if the dose causes blood pressure to drop when standing), and antidepressants, particularly tricyclics. These medications can cause sedation, slow reaction time, impair vestibular function, or create orthostatic hypotension, the dizzy drop you feel when you stand up too fast.
 
-Polypharmacy-related falls are one of the most preventable categories of falls in older adults, and they're systematically underdiscussed. I've had clients come to me after a fall where the real culprit was a medication combination their three different prescribing doctors didn't know the others had added. That coordination failure is common.
+Polypharmacy-related falls are one of the most preventable categories of falls in older adults, and they're systematically underdiscussed. Medication-related falls often occur when multiple prescribing doctors aren't aware of what the others have added, creating dangerous drug interactions.
 
 If balance is a concern for you or someone you care about, a medication review with a pharmacist or physician specifically focused on fall risk is worth asking for explicitly. The American Geriatrics Society maintains something called the Beers Criteria, a list of medications considered high-risk for older adults, and it's publicly available. Look it up.
 
@@ -106,7 +106,7 @@ Single-leg standing, done consistently, is cheap, requires no equipment, and has
 
 A concrete example: Dorothy, 77 years old, came to me after her doctor flagged her on a fall-risk screening. She had no recent falls but showed worrying patterns on a Berg Balance Scale assessment. We added 10 minutes of daily single-leg standing practice plus two weekly tai chi classes. After 12 weeks, her Berg Balance Score improved by 9 points (from 43 to 52 out of 56), moving her from moderate fall risk to low fall risk by standard clinical thresholds.
 
-The overrated intervention? Grip rails and grab bars installed without any accompanying balance training. They're not harmful, and for someone already at high fall risk in the home, they're sensible. But I've seen families spend $800 on home modifications while skipping the balance training that would have done ten times more functional good. The bars are a safety net; they don't address the underlying problem.
+The overrated intervention? Grip rails and grab bars installed without any accompanying balance training. They're not harmful, and for someone already at high fall risk in the home, they're sensible. Families sometimes invest heavily in home modifications while skipping balance training, which typically offers greater functional improvement. The bars are a safety net; they don't address the underlying problem.
 
 ---
 
@@ -119,7 +119,6 @@ The overrated intervention? Grip rails and grab bars installed without any accom
 - Vestibular Disorders Association (VeDA): Clinical overview of age-related vestibular changes and their contribution to balance impairment.
 
 ---
-
 
 *Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
 

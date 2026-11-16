@@ -26,7 +26,7 @@ You want to stay strong and active, but the gym feels intimidating, and your joi
 
 Resistance bands work by creating tension your muscles have to push or pull against. Unlike dumbbells or barbells, the resistance increases gradually as you stretch the band, meaning there's no sudden jolt of weight that can strain a joint.
 
-This makes them ideal for older adults dealing with arthritis, osteoporosis, or recovering from an injury. Studies show that regular resistance training [improves balance, reduces fall risk](/tai-chi-for-seniors-best-beginner-routines-for-balance/), and helps manage blood sugar and blood pressure.
+This makes them ideal for older adults dealing with arthritis, osteoporosis, or recovering from an injury. Regular resistance training [improves balance, reduces fall risk](/tai-chi-for-seniors-best-beginner-routines-for-balance/), and helps manage blood sugar and blood pressure.
 
 Here's what makes resistance bands stand out for seniors:
 
@@ -132,7 +132,6 @@ Photo by [Customerbox](https://unsplash.com/@customerbox?utm_source=seniorstreng
 - [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

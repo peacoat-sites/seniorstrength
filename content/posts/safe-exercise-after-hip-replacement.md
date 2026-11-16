@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Every week, someone sits across from me and says some version of the same thing: "My surgeon cleared me at twelve weeks, so I figured I could just... get back to normal." They're not wrong to feel hopeful. But "cleared" and "ready for full activity" are two very different things, and that gap is where most post-hip-replacement setbacks happen.
 
-I've seen patients who sailed through surgery, did their six weeks of standard PT, and then quietly lost everything they'd gained because nobody told them what comes next. I've also seen 72-year-olds who came in with a walker and left six months later doing step aerobics. The difference, almost every time, isn't the surgery. It's what they did in the months after the formal rehab ended.
+Many people sail through surgery and complete six weeks of standard PT, then lose their gains because they don't know what comes next. The difference between those who regress and those who continue improving usually isn't the surgery itself. It's what they did in the months after the formal rehab ended.
 
 So let's talk about that.
 
@@ -71,7 +71,7 @@ This is the phase that gets ignored most often, and it's probably the most impor
 
 The hip replacement itself doesn't wear out from activity. What causes long-term implant problems is poor biomechanics: people who walk with a persistent Trendelenburg gait (the hip dropping on the non-stance side), who carry uneven load because their [glute medius never fully recovered](/how-to-protect-joints-during-exercise-seniors/), who rely on momentum rather than muscle to get up from chairs. These patterns stress both the implant and the joints above and below it.
 
-The muscles to focus on during this phase, specifically, are the glute medius, the glute maximus, and the hip flexors. The glute medius, that flat fan-shaped muscle on the side of the hip, is almost always severely weakened after hip replacement. It's the primary stabilizer of the pelvis during walking. If it's weak, your whole lower body compensates. I've seen patients with chronic knee pain in the non-operated leg that resolved completely once the glute medius on the surgical side got strong again.
+The muscles to focus on during this phase, specifically, are the glute medius, the glute maximus, and the hip flexors. The glute medius, that flat fan-shaped muscle on the side of the hip, is almost always severely weakened after hip replacement. It's the primary stabilizer of the pelvis during walking. If it's weak, your whole lower body compensates. Chronic knee pain in the non-operated leg often resolves once the glute medius on the surgical side gets strong again.
 
 Exercises that work well here: side-lying hip abduction (done slowly, with the pelvis stable), standing hip abduction with a light resistance band, mini squats progressing to sit-to-stand repetitions, step-ups onto a four-inch step progressing to an eight-inch step, and [single-leg balance work](/home-safety-tips-to-prevent-senior-falls/). For balance work specifically, start at a counter, hold lightly, and work toward fingertip contact, then no hands, then eyes closed. The eyes-closed piece is where most people are surprised by how much work they still have to do even months after surgery.
 
@@ -105,13 +105,11 @@ If you've never done formal strength training and don't know where to start, a t
 - is less definitive: pickleball (this is the hot-button question I get constantly
 - in the Journal of Arthroplasty following patients for two years post-surgery fou
 
-
 A certain amount of achiness after exercise is normal, especially in the early months. The benchmark I give patients: if discomfort during activity is above a 3 out of 10, scale back. If you're sore the next morning but it resolves within a few hours, that's typically fine. If soreness persists beyond 24 hours, you did too much.
 
 Red flags that warrant a call to your surgeon, not a wait-and-see approach: sudden increase in pain at the hip joint itself (not muscle soreness, but deep joint pain), clicking or clunking that wasn't there before, any sensation that the joint feels unstable or like it might give way, swelling or heat around the incision site, or any pop followed by increased pain. Dislocation after hip replacement is relatively rare but does happen, and it requires immediate medical attention. Don't convince yourself it's nothing if something feels genuinely wrong in the joint.
 
 ---
-
 
 ---
 

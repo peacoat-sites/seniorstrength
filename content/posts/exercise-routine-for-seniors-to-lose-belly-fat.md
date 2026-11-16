@@ -27,7 +27,7 @@ faqs:
 
 [Belly fat](/how-to-lose-belly-fat-after-60-safely/) in your 60s and 70s doesn't behave the way it did when you were 40. I wish someone had told me that clearly before I spent months watching clients grind through endless crunches and wonder why nothing was changing. The fat sitting around your midsection at this stage of life is largely visceral fat, the deep kind wrapped around your organs, and it responds to a very different set of signals than the subcutaneous fat of your younger years. The good news is it does respond. The frustrating news is that the approach most people try first is almost exactly wrong.
 
-Here's what I've seen consistently in 15-plus years working with adults over 60: the people who make real progress on belly fat aren't the ones doing the most ab work. They're the ones who figured out that [strength training](/strength-training-is-now-essential-for-older-adults-on-glp-1-drugs/), not cardio marathons, is the engine that changes their body composition over time. That's not a trendy opinion. A 2017 study in the journal *Obesity* followed over 10,500 men across 12 years and found that those who added strength training to their routine gained significantly less abdominal fat than those who did equivalent amounts of aerobic exercise. The researchers measured visceral fat specifically. The difference was real.
+People who make real progress on belly fat often aren't the ones doing the most ab work. They're the ones who figured out that [strength training](/strength-training-is-now-essential-for-older-adults-on-glp-1-drugs/), not cardio marathons, is the engine that changes their body composition over time. That's not a trendy opinion. A 2017 study in the journal *Obesity* followed over 10,500 men across 12 years and found that those who added strength training to their routine gained significantly less abdominal fat than those who did equivalent amounts of aerobic exercise. The researchers measured visceral fat specifically. The difference was real.
 
 Before we get into the actual routine, one more thing worth knowing: no exercise plan targets belly fat directly. Spot reduction is a myth, and it's been thoroughly debunked. What you can do is create the metabolic and hormonal conditions where your body preferentially sheds visceral fat, and that's exactly what the approach below is designed to do.
 
@@ -47,7 +47,7 @@ Three components. That's it. [Resistance training](/what-the-new-acsm-resistance
 
 Focus on compound movements. Squats (bodyweight or goblet squat with a light kettlebell), seated rows with a resistance band, step-ups onto a low step, wall push-ups or incline push-ups, and a hip hinge like a Romanian deadlift with light dumbbells. These exercises recruit large muscle groups simultaneously, which matters because more muscle mass means a higher resting metabolic rate.
 
-A few things only someone who's actually coached this population would tell you: start your squats by squatting *to* a chair, not all the way down. Sit gently, then stand. This is called a box squat, and it removes the fear of falling that kills form in older beginners. Also, use tempo. Slow the lowering phase to a 3-second count. That's not a warmup drill, that's the actual workout. Research from McMaster University has shown that slow-tempo resistance work with lighter loads produces comparable muscle gains to heavier lifting in older adults, which means you don't need to go heavy to get results.
+Start squats by squatting *to* a chair, not all the way down. Sit gently, then stand. This is called a box squat, and it removes the fear of falling that kills form in older beginners. Also, use tempo. Slow the lowering phase to a 3-second count. That's not a warmup drill, that's the actual workout. Research from McMaster University has shown that slow-tempo resistance work with lighter loads produces comparable muscle gains to heavier lifting in older adults, which means you don't need to go heavy to get results.
 
 **Days 2, 4, 6: Walking, 20-30 minutes**
 
@@ -55,7 +55,7 @@ Not a long slow walk first thing in the morning, though that's not harmful. A sh
 
 **Once or twice a week: Gentle intervals**
 
-If your doctor has cleared you for moderate exertion, try this: during one of your walks, alternate 1 minute of brisk effort (you can talk, but wouldn't want to sing) with 2 minutes of easy pace. Do this for 15-20 minutes. That 1:2 interval structure is easier on joints than traditional HIIT while still producing meaningful metabolic effects. A reader emailed me last spring after 12 weeks of this approach saying her waist had dropped almost two inches with no dietary changes. That's not a guarantee, but it's not unusual either.
+If your doctor has cleared you for moderate exertion, try this: during one of your walks, alternate 1 minute of brisk effort (you can talk, but wouldn't want to sing) with 2 minutes of easy pace. Do this for 15-20 minutes. That 1:2 interval structure is easier on joints than traditional HIIT while still producing meaningful metabolic effects. That's not a guarantee, but it's not unusual either.
 
 ## What to Expect, Week by Week
 
@@ -77,7 +77,7 @@ Here's a comparison of how different eating approaches stack up for a 165-pound 
 | High-protein plan (tracked) | 110-130g | Most effective; needs some meal planning |
 | Protein supplement added (e.g., whey or pea protein shake) | +20-25g per shake | Useful gap-filler, not a replacement |
 
-I thought for a long time that protein supplements were mostly for gym bros in their 30s. I was wrong. A plain whey protein or pea protein powder (brands like Momentous, Optimum Nutrition Gold Standard, or NOW Sports all run $30-50 for a month's supply) can be the most practical way for older adults to close the protein gap without overhauling their whole diet.
+Protein supplements are often overlooked by older adults, but they're practical and valuable at any age. A plain whey protein or pea protein powder (brands like Momentous, Optimum Nutrition Gold Standard, or NOW Sports all run $30-50 for a month's supply) can be the most practical way for older adults to close the protein gap without overhauling their whole diet.
 
 ## A Few Worked Examples
 

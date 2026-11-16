@@ -79,7 +79,7 @@ These are the most well-researched options:
 
 * **Fish oil (omega-3s)**, one of the most studied supplements for reducing joint inflammation, particularly helpful for rheumatoid arthritis
 * **Glucosamine and chondroitin**, may help slow cartilage breakdown and reduce pain in osteoarthritis
-* **Boswellia (Indian frankincense)**, clinical studies show it can reduce knee pain and swelling significantly
+* **Boswellia (Indian frankincense)**, may reduce knee pain and swelling
 * **Vitamin D**, many seniors are deficient, and low vitamin D levels are linked to increased joint pain and inflammation
 * **Magnesium**, plays a role in reducing inflammatory markers and supporting muscle relaxation around joints
 
@@ -116,7 +116,6 @@ Photo by [CDC](https://unsplash.com/@cdc?utm_source=seniorstrength&utm_medium=re
 - [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral)
 - [CDC](https://unsplash.com/@cdc?utm_source=seniorstrength&utm_medium=referral)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

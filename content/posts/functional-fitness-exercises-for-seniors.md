@@ -42,7 +42,7 @@ I'll be honest: I spent years defaulting to low-impact recommendations for clien
 
 The problem is that "low impact" got conflated with "low load," and low-load training for older adults is often a disservice. Research published in the *Journal of Strength and Conditioning Research* has consistently shown that progressive resistance training at moderate to high intensity produces significantly better outcomes for muscle mass retention in adults over 60 than light resistance work. The key word there is *progressive*. The load has to increase over time, or you're just going through the motions.
 
-What surprised me was how many of my clients, once they understood this, actually felt relieved. They weren't fragile. They were undertrained.
+Once people understand this, many feel relieved. They weren't fragile. They were undertrained.
 
 The caveat: low impact on the joints is genuinely important if someone has significant osteoarthritis, recent joint replacement, or balance deficits severe enough that a fall risk is real. Those are real considerations. But "older adult" by itself isn't a reason to keep the weights light forever.
 
@@ -120,7 +120,6 @@ I'm not saying that's a universal story. But I see this pattern constantly, and 
 - Liu CJ & Latham NK: Cochrane Review on progressive resistance strength training for improving physical function in older adults, foundational evidence for loading parameters in senior populations.
 
 ---
-
 
 *Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
 

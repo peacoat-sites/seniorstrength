@@ -33,7 +33,7 @@ Here's what I've actually seen: adults in their 70s and 80s building genuine car
 
 Let me be clear about what "low impact" actually means. It means at least one foot stays in contact with the ground at all times, or your body weight is supported, like in water or on a bike. It does not mean easy. It does not mean slow. And it definitely doesn't mean ineffective.
 
-What surprised me when I started looking carefully at the research is how well-matched low impact exercise is to the specific physiology of aging. After 60, joint cartilage is thinner. Recovery time between hard efforts is longer. The connective tissue around knees, hips, and ankles is less forgiving of repeated high-force landings. Running and jumping create ground reaction forces of two to three times your body weight with every stride. Low impact options keep those forces manageable without sacrificing cardiovascular stimulus.
+Low impact exercise is well-matched to the specific physiology of aging. After 60, joint cartilage is thinner. Recovery time between hard efforts is longer. The connective tissue around knees, hips, and ankles is less forgiving of repeated high-force landings. Running and jumping create ground reaction forces of two to three times your body weight with every stride. Low impact options keep those forces manageable without sacrificing cardiovascular stimulus.
 
 Your heart doesn't care whether you're running or walking briskly or pedaling. It responds to the demand placed on it. The goal is to elevate your heart rate into a productive zone (roughly 50 to 75 percent of your maximum) for a sustained period, and low impact activities do that just as effectively as high impact ones for most older adults.
 
@@ -60,13 +60,13 @@ Not all low impact cardio is interchangeable. Each option has a different profil
 
 **Elliptical training** mimics the movement pattern of running without the impact. Research from the American Council on Exercise found that elliptical exercise produces cardiovascular responses nearly identical to treadmill running at the same effort level. It's a strong option if you want running-style exercise without the joint consequences.
 
-**Dance-based exercise**, including programs like Zumba Gold, line dancing, or ballroom, adds something most cardio options don't: social engagement, music-driven motivation, and complex footwork that genuinely challenges balance. I've seen clients who dragged their feet to the pool do a complete 180 once they found a dance class they loved. Sustainability is a real fitness variable.
+**Dance-based exercise**, including programs like Zumba Gold, line dancing, or ballroom, adds something most cardio options don't: social engagement, music-driven motivation, and complex footwork that genuinely challenges balance. Sustainability is a real fitness variable.
 
 **[Chair-based cardio](/chair-exercises-for-seniors/)** deserves mention because it's often dismissed as "too easy." Done with intensity, seated cardio with vigorous arm movements and seated marching can elevate heart rate into useful training zones, especially for those with severe mobility limitations or fall risk. It's not ideal for everyone, but for the right person it opens a door that was otherwise closed.
 
 ## How Hard Should You Actually Be Working?
 
-This is where I'll be honest: most seniors I've worked with are either going too easy or have no idea what zone they're actually training in.
+Many seniors either go too easy or have no idea what zone they're actually training in.
 
 The simplest tool is the Rate of Perceived Exertion (RPE) scale from 1 to 10. For low impact cardio with cardiovascular goals, you want to be working at a 5 to 7 out of 10:
 
@@ -100,7 +100,7 @@ After four weeks, reassess. Most people at this point are ready to progress to f
 
 **Doing only cardio.** Low impact cardio is powerful, but it doesn't fully address muscle loss (sarcopenia), which accelerates significantly after 65. Two sessions of resistance training per week alongside your cardio work produces dramatically better outcomes than cardio alone. Balance training, too, is non-negotiable for fall prevention.
 
-**Ignoring footwear.** I've watched clients grind through knee pain for months, then get fitted properly for supportive shoes and have the problem largely resolve. Cushioning, arch support, and a proper fit matter enormously for walking and elliptical work specifically.
+**Ignoring footwear.** Proper shoe fitting can resolve knee pain that develops from unsuitable footwear. Cushioning, arch support, and a proper fit matter enormously for walking and elliptical work specifically.
 
 **Assuming consistency means never missing a day.** Rest and recovery are training. Missing a session when you're fatigued or unwell and coming back stronger is smarter than pushing through and setting yourself back for two weeks.
 
@@ -121,7 +121,6 @@ The real story about low impact cardio for seniors isn't about limitations. It's
 - the American Council on Exercise
 - is how well-matched low impact exercise is to the specific physiology of aging
 - here is mixed and ongoing
-
 
 **Question: Is low impact cardio as effective as high impact cardio?**
 

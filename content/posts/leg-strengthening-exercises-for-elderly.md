@@ -65,13 +65,13 @@ The wall squat gets underrated because it looks static and unimpressive. Park yo
 
 ## What You Should Know About Progression (Because Staying at the Same Level Does Nothing)
 
-Here's the thing that's missing from most senior fitness guidance: the principle of progressive overload still applies to you. Your muscles don't stop responding to increased challenge because you turned 65. They respond to stimulus the same way they always did. The stimulus just needs to be appropriate to where you are.
+Progressive overload still applies to older adults. Your muscles don't stop responding to increased challenge because you turned 65. They respond to stimulus the same way they always did. The stimulus just needs to be appropriate to where you are.
 
 Progression doesn't have to mean adding weight every week. It can mean adding one rep to each set. Slowing the lowering phase down from 2 seconds to 4 seconds. Removing a hand from the support you've been using. Reducing the height of your chair stand by one inch. Adding a second set to a movement you've been doing for one. Pick one change at a time.
 
 Your nervous system adapts faster than your tendons and ligaments, which means strength can appear to jump quickly at first while the connective tissue is still catching up. That's normal. It's also why "how do I feel the next day" is actually useful information, not something to ignore.
 
-Mild muscle soreness 24-48 hours after a new exercise is normal and benign. Sharp pain during an exercise, or pain that locates itself in a joint rather than a muscle, is not. Stop, note exactly where and when, and check with a physical therapist or your doctor before continuing. I've seen people push through knee pain that turned out to be a meniscus issue, and that's how a manageable condition becomes a surgical one.
+Mild muscle soreness 24-48 hours after a new exercise is normal and benign. Sharp pain during an exercise, or pain that locates itself in a joint rather than a muscle, is not. Stop, note exactly where and when, and check with a physical therapist or your doctor before continuing. Pushing through joint pain can turn a manageable condition into a surgical one.
 
 ---
 
@@ -97,7 +97,6 @@ If you're already doing leg strengthening exercises, try performing your calf ra
 - in the *British Journal of Sports Medicine* tracking over 1
 - knee pain during leg exercises
 - I mentioned earlier found that inability to hold a 10-second one-leg balance at
-
 
 You don't need a gym membership to build meaningful leg strength. You need a sturdy chair, a wall, and a stair. That's it.
 

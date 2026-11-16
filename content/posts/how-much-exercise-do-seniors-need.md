@@ -25,15 +25,13 @@ faqs:
     a: "For light-to-moderate walking if you have no known heart conditions, it's generally considered safe to start without formal clearance. For structured strength training, or if you have cardiovascular disease, recent surgery, or uncontrolled blood pressure, a physician check-in first is genuinely worth the extra step, not just legal boilerplate."
 ---
 
-Most people assume the answer involves five days a week of sweating it out, or they've heard "30 minutes a day" so many times it's become background noise. I'll be honest: when I started looking seriously at the actual research on exercise volume for [adults over](/how-exercise-fights-inflammaging-in-adults-over-60/) 60, I was surprised by how much of the popular advice either undershoots what's possible or overshoots what's safe for someone just getting started. The real picture is messier, more interesting, and ultimately more encouraging than the tidy soundbites you see on health websites.
+Most people assume the answer involves five days a week of sweating it out, or they've heard "30 minutes a day" so many times it's become background noise. The actual research on exercise volume for [adults over](/how-exercise-fights-inflammaging-in-adults-over-60/) 60 reveals that much popular advice either undershoots what's possible or overshoots what's safe for someone just getting started.
 
 Let me tell you what I actually found.
 
 The short version is this: yes, there are official guidelines, and they're a reasonable starting point. But the *type* of exercise matters as much as the amount, the research on [strength training](/the-weekly-strength-training-sweet-spot-that-cuts-mortality-risk/) for older adults has exploded in the last decade with findings that would genuinely surprise most general practitioners, and "how much" turns out to be a question with a very different answer depending on whether you're 62 and fit or 78 and recovering from a hip replacement.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Adults 65+ need at least 150 minutes of moderate aerobic activity per week, per CDC guidelines.</li><li style="margin:5px 0">Strength training at least 2 days per week is non-negotiable for preserving muscle mass after 60.</li><li style="margin:5px 0">Balance exercises (like single-leg stands) dramatically reduce fall risk and are often completely skipped.</li><li style="margin:5px 0">Starting with 10-minute sessions is clinically valid, you don't need to hit 30 minutes right away.</li><li style="margin:5px 0">More is not always better: recovery time increases with age, and overtraining injuries are common in motivated beginners.</li></ul></div>
-
 
 ## What the Guidelines Actually Say (And What They Leave Out)
 
@@ -47,11 +45,11 @@ What surprised me was how consistently the research shows that *any* increase fr
 
 ## The Four Types You Actually Need
 
-Here's where I see the biggest gap between what's recommended and what most older adults actually do. The guidelines describe four distinct categories of exercise, and the vast majority of people I've worked with focus almost entirely on one (usually walking) and ignore the other three.
+There's a significant gap between what's recommended and what most older adults actually do. The guidelines describe four distinct categories of exercise, and the vast majority of people I've worked with focus almost entirely on one (usually walking) and ignore the other three.
 
 **Aerobic exercise** is the one everyone knows. Walking, swimming, cycling, dancing. The 150-minute weekly target lives here. Moderate intensity means you can talk but not sing. Vigorous means you can say a few words but you're working hard.
 
-**Strength training** is the one most people skip, which is a genuine problem. After 60, adults lose roughly 1 to 2 percent of muscle mass per year without resistance training (a process called sarcopenia). Losing muscle isn't just a cosmetic issue: it directly affects your ability to get up from a chair, carry groceries, and recover from illness. I worked with a client, James, a 71-year-old retired engineer from Tucson, who had been walking 4 miles a day for three years but couldn't do a single sit-to-stand without pushing off the armrests. His cardiovascular fitness was fine. His leg strength was that of someone a decade older. Two days a week of basic resistance work, bodyweight squats, resistance band rows, step-ups onto a 6-inch platform, changed that completely inside 12 weeks.
+**Strength training** is the one most people skip, which is a genuine problem. After 60, adults lose roughly 1 to 2 percent of muscle mass per year without resistance training (a process called sarcopenia). Losing muscle isn't just a cosmetic issue: it directly affects your ability to get up from a chair, carry groceries, and recover from illness. Two days a week of basic resistance work, such as bodyweight squats, resistance band rows, and step-ups, can help address these losses.
 
 **Balance training** is the one that could literally save your life. Falls are the leading cause of injury-related death among adults over 65 in the U.S. The research on simple balance exercises is remarkably consistent: things like single-leg stands, tandem walking (heel-to-toe in a line), and tai chi reduce fall risk by 20 to 30 percent in most trials. These take 10 minutes. They require no equipment. They're almost universally neglected.
 
@@ -77,7 +75,7 @@ If this looks like too much to start, cut everything in half. Seriously. Ten-min
 
 ## The Strength Training Question Most People Get Wrong
 
-I thought for years that older adults needed to stay in the high-rep, low-weight range to stay safe. That's what I was taught early in my training. What changed my mind was getting more serious about the actual literature on muscle physiology, specifically a body of work coming out of researchers like Dr. Stuart Phillips at McMaster University.
+A common assumption is that older adults need to stay in the high-rep, low-weight range to stay safe, but research on muscle physiology from investigators like Dr. Stuart Phillips at McMaster University tells a different story.
 
 The evidence is pretty clear now: moderate-to-heavy resistance training, done with proper form, is safe for healthy older adults and produces substantially better strength gains than the "light weights, lots of reps" approach that well-meaning trainers have been pushing for decades. You don't need to be competitive powerlifting at 72. But working in the 8 to 12 rep range at a weight that genuinely challenges you in the last two or three reps is more effective than doing 20 reps with a band that offers almost no resistance.
 
@@ -91,9 +89,7 @@ For osteoporosis specifically: high-impact activities like jogging and stair cli
 
 Arthritis is a different case. One of the most persistent myths I run into is that people with arthritis should avoid exercise to protect their joints. The evidence runs the other direction. Low-impact strength training and aerobic activity reduce joint pain and stiffness in most forms of osteoarthritis. The key is avoiding high-impact loading during flares, not avoiding movement altogether.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Weekly aerobic minutes recommended by fitness level</div><div class="sc-row"><span class="sc-label">Sedentary (start here)</span><span class="sc-track"><span class="sc-bar" style="width:20%"></span></span><span class="sc-val">60 minutes</span></div><div class="sc-row"><span class="sc-label">Low active</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">120 minutes</span></div><div class="sc-row"><span class="sc-label">Moderate baseline</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">150 minutes</span></div><div class="sc-row"><span class="sc-label">Active, no conditions</span><span class="sc-track"><span class="sc-bar" style="width:70%"></span></span><span class="sc-val">210 minutes</span></div><div class="sc-row"><span class="sc-label">Highly active</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">300 minutes</span></div><div class="sc-src">Source: HHS Physical Activity Guidelines, 2nd edition</div></div>
-
 
 ## Sources
 
@@ -104,7 +100,6 @@ Arthritis is a different case. One of the most persistent myths I run into is th
 - Liu CJ and Latham NK, "Progressive resistance strength training for improving physical function in older adults," *Cochrane Database of Systematic Reviews* (2009): Systematic review supporting moderate-to-heavy resistance training in older adults.
 
 ---
-
 
 *Photo: [Cara Denison](https://www.pexels.com/@cara-denison-886614634) via Pexels*
 

@@ -61,7 +61,7 @@ One more thing on protein: the source matters less than people argue about onlin
 
 You've probably heard the pitch for low-carb eating. Maybe you tried it. Maybe it worked for a while.
 
-Here's my honest take: very low carbohydrate diets can work for weight management in older adults, but I've watched them wreck energy levels and tank workout performance in people who are actually trying to stay active. If you're sedentary, maybe the math works out differently. But if you're exercising consistently, cutting carbs too aggressively is often why people feel like they're running on fumes by the third set of squats.
+Very low carbohydrate diets can work for weight management in older adults, but they often reduce energy levels and workout performance in people who exercise consistently. If you're sedentary, maybe the math works out differently. But if you're exercising consistently, cutting carbs too aggressively is often why people feel like they're running on fumes by the third set of squats.
 
 Carbohydrates are still your body's preferred fuel for moderate-to-high intensity work. Period. The question isn't whether to eat them. It's which ones, and when.
 
@@ -105,10 +105,9 @@ The goal, for most active older adults I work with, is to eat enough of the righ
 
 ---
 
-
 ---
 
-You don't need a perfect diet. You need a better one, applied consistently. Start with protein and water, because those two alone move the needle faster than almost anything else I've seen. Everything else can come in layers.
+You don't need a perfect diet. You need a better one, applied consistently. Start with protein and water, because those two alone tend to move the needle faster than almost anything else. Everything else can come in layers.
 
 *Photo: [Mike Jones](https://www.pexels.com/@mike-jones) via Pexels*
 
@@ -125,7 +124,6 @@ You don't need a perfect diet. You need a better one, applied consistently. Star
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - published in the *Journal of Nutrition
 - as meaningful for microbiome diversity
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

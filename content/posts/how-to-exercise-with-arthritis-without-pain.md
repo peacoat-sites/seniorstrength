@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most exercise advice for arthritis is built around one bad idea: that movement causing any discomfort should stop immediately. That instinct makes sense until you understand that the joint stiffness, aching, and weakness arthritis causes are made significantly worse by inactivity, not better. Resting your way through arthritis is, in most cases, the thing that accelerates it.
 
-Let me be direct about what I've seen in fifteen years working with adults over 60: the people who stay most functional into their 70s and 80s are the ones who kept moving, carefully and consistently, even when it wasn't comfortable. Not pain-free, necessarily. Comfortable-adjacent. There's a difference, and learning to tell them apart is probably the most important skill this article can give you.
+Adults who stay most functional into their 70s and 80s tend to be those who kept moving, carefully and consistently, even when it wasn't comfortable. Not pain-free, necessarily. Comfortable-adjacent. There's a difference, and learning to tell them apart is probably the most important skill this article can give you.
 
 ---
 
@@ -42,7 +42,7 @@ The second type is warning pain: sharp, stabbing, or burning sensations, pain th
 
 A useful rule I give clients: the "two-hour rule" from the American College of Rheumatology. If pain is noticeably worse two hours after exercise than it was before, you did too much. Next session, dial it back by 30 to 40 percent. If pain returns to baseline within two hours, you're in a fine range.
 
-I thought this was too simplistic when I first encountered it. Then I watched it consistently work for dozens of clients who'd been paralyzed trying to assess pain in the moment.
+Many people initially find this too simplistic, yet learning to distinguish discomfort from pain is one of the most practical skills for staying consistent with exercise.
 
 ---
 
@@ -72,7 +72,7 @@ Worked example: A 68-year-old reader, Carol from Phoenix, started with body-weig
 
 ## The Warm-Up Is Not Optional
 
-I've watched people skip warm-ups their entire lives with no consequence. With arthritis, that changes. Cold synovial fluid in an arthritic joint doesn't lubricate as well, and the cartilage is already compromised. Five minutes of light movement before anything more demanding isn't just a nice idea; it's the difference between a productive session and a flare.
+People without arthritis may skip warm-ups without consequence. With arthritis, that changes. Cold synovial fluid in an arthritic joint doesn't lubricate as well, and the cartilage is already compromised. Five minutes of light movement before anything more demanding isn't just a nice idea; it's the difference between a productive session and a flare.
 
 My standard recommendation for arthritic joints:
 
@@ -112,7 +112,7 @@ Worked example: Margaret, 66, had been resting completely during each knee flare
 
 ## A Note on Equipment and Cost
 
-As of July 2026, you don't need an expensive gym membership or a stack of equipment. The most productive arthritis exercise setup I've seen is a sturdy chair, a set of light-to-moderate resistance bands (TheraBand's Yellow/Red/Green set runs about $20 to $25 and covers most people through months of progression), and either pool access or a recumbent bike.
+You don't need an expensive gym membership or a stack of equipment. A sturdy chair, a set of light-to-moderate resistance bands (TheraBand's Yellow/Red/Green set runs about $20 to $25 and covers most people through months of progression), and either pool access or a recumbent bike are effective for arthritis exercise.
 
 A foam roller can help with myofascial tension in the muscles around arthritic joints, though the evidence for direct arthritis symptom relief is thin. I use one myself for hip flexor work and find it helpful, but I wouldn't call it a priority purchase.
 
@@ -129,7 +129,6 @@ What's genuinely not worth the money: most "arthritis-specific" supplements clai
 - Rooks, D.S. et al. (2006): "Effect of preoperative exercise on measures of functional status in men and women undergoing total hip and knee arthroplasty," *Arthritis & Rheumatism.* Underscores the functional value of resistance training even in severe osteoarthritis.
 
 ---
-
 
 *Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
 

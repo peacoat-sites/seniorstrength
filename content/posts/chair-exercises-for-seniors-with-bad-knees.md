@@ -28,7 +28,7 @@ You don't need to stand, squat, or lunge to get a great workout. A sturdy chair 
 
 Knee pain in your 60s, 70s, and 80s is incredibly common. It's often caused by osteoarthritis (the wearing down of cartilage in the joint), old injuries, or simply years of use. The discomfort is real, and it's completely understandable if it makes you hesitant to exercise.
 
-Here's the thing though: gentle movement is actually one of the best things you can do for arthritic knees. When you exercise, you strengthen the muscles around the joint, which takes pressure off the knee itself. You also improve circulation and reduce stiffness over time.
+Gentle movement is one of the best things you can do for arthritic knees. When you exercise, you strengthen the muscles around the joint, which takes pressure off the knee itself. You also improve circulation and reduce stiffness over time.
 
 The key is choosing the right exercises, ones that work your body without grinding or stressing your knee joints. That's exactly where chair-based workouts shine.
 
@@ -114,7 +114,6 @@ You'll probably notice improvements in just 2-3 weeks: less stiffness in the mor
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -25,21 +25,19 @@ faqs:
     a: "Walking is genuinely valuable, especially for cardiovascular health and mood. But it doesn't do enough for muscle mass or bone density on its own. After about age 60, we lose roughly 1-2% of muscle mass per year without resistance training to counteract it. That loss affects balance, metabolic health, and your ability to do everyday tasks. Walking plus two days a week of basic resistance training is a much stronger combination than either alone."
 ---
 
-Most of the injuries I've seen in my career didn't happen [during exercise](/how-to-protect-joints-during-exercise-seniors/). They happened because of it. Specifically, because someone came back to movement after a long break, felt okay on day one, felt great on day two, and pushed hard on day three. Then they were on the couch for six weeks. I've watched that pattern repeat itself so many times that I now have a whole speech I give at the first appointment. The gist of it: your enthusiasm is an asset, but your body needs time to catch up to it.
+Many injuries don't happen [during exercise](/how-to-protect-joints-during-exercise-seniors/) itself, but because of how people return to movement. A common pattern: someone takes a long break, feels okay on day one, feels great on day two, pushes hard on day three, and then ends up sidelined for weeks. Your enthusiasm is an asset, but your body needs time to catch up to it.
 
 If you're reading this, you might be wondering where the line is between pushing yourself enough to make progress and pushing so hard you set yourself back. That's the right question. And here's what I tell people: there's no single answer, but there are principles that hold up across thousands of clients and decades of research. The goal of this article is to walk you through those principles in plain language, without the kind of hand-wringing caution that treats every older adult like they're made of glass.
 
 You're not fragile. But you are operating with a body that responds differently to stress than it did at 35. That distinction matters a lot.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Warm up for at least 8-10 minutes before any workout, cold muscles tear more easily and recover slower after 60.</li><li style="margin:5px 0">Progress slowly: add no more than 10% volume or intensity per week to avoid overuse injuries.</li><li style="margin:5px 0">Balance training reduces fall-related injury risk by up to 37% according to a 2019 Cochrane review.</li><li style="margin:5px 0">Pain during exercise is a stop sign, not a suggestion, distinguish it from normal muscle fatigue.</li><li style="margin:5px 0">Most senior exercise injuries are preventable and happen in the first 4-6 weeks of a new routine.</li></ul></div>
-
 
 ## The Warm-Up Is Not Optional
 
 I'll be honest: for years, I underestimated how much the warm-up mattered for [older adults](/strength-training-is-now-essential-for-older-adults-on-glp-1-drugs/) specifically. I thought five minutes of light walking was sufficient for anyone. I was wrong. Here's what changed my mind.
 
-A client, Margaret, a 68-year-old retired teacher from Tucson, came in after tearing a calf muscle during a [water aerobics](/water-aerobics-for-seniors-benefits-and-beginner-moves/) class. She wasn't doing anything aggressive. She just pushed off the pool wall at the start of class before her muscles had time to adjust to the water temperature and the activity. Her instructor had jumped straight into the routine. That injury kept her out of the pool for eleven weeks.
+For example, a calf muscle tear can happen during a [water aerobics](/water-aerobics-for-seniors-benefits-and-beginner-moves/) class if you push off the pool wall before your muscles have time to adjust to the water temperature and activity, especially if the instructor jumps straight into the routine. Such an injury can sideline you for eleven weeks or more.
 
 The physiology here is straightforward. As we age, muscle tissue loses some of its elasticity. Tendons become less pliable. The synovial fluid in your joints takes longer to distribute evenly when you start moving. A proper warm-up addresses all three of those things. Eight to ten minutes of gentle, progressive movement isn't just ritual. It's preparation on a cellular level.
 
@@ -53,7 +51,7 @@ The 10% rule is a rough but useful guideline. Don't increase the total volume or
 
 This isn't overly conservative. A 2018 review in the British Journal of Sports Medicine found that rapid load increases were among the strongest predictors of soft tissue injury in adults across all age groups. After 60, the recovery window between stimulus and adaptation is simply longer. Bone density, collagen synthesis, muscle protein synthesis all slow down. That's not a reason to stop. It's a reason to pace yourself sensibly.
 
-One worked example from my practice: a 71-year-old retired firefighter named Gerald started a resistance training program after being sedentary for four years. We started with two sets of ten repetitions on eight exercises, twice a week, at very light resistance.
+A sensible starting point for someone returning to resistance training after four years of inactivity: two sets of ten repetitions on eight exercises, twice a week, at very light resistance.
 
 Gerald: started with 2x/week, 2 sets, light resistance → progressed 10% per week for 12 weeks → reached 3x/week, 3 sets, moderate resistance with zero injuries. He'd tried jumping back in on his own six months earlier and strained his rotator cuff within three weeks.
 
@@ -115,7 +113,6 @@ One small thing only people who've actually used resistance bands regularly know
 - Fragala MS, et al. (2019): "Resistance Training for Older Adults," Journal of Strength and Conditioning Research, comprehensive evidence review on programming parameters, safety, and outcomes for adults 60+.
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

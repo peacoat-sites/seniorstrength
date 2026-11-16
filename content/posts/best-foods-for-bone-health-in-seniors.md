@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most people think the window for building bone density closes sometime in your 30s, and after that you're just trying to slow the losses. I believed that too, for a long time. What surprised me, after spending the better part of a year reading the research on skeletal health in older adults and talking to the clients I work with every week, is how much that picture is incomplete. You can't rebuild bone the way a 25-year-old can. That's true. But the degree to which nutrition influences bone turnover well into your 70s and 80s is genuinely underappreciated, even by people who think they're already on top of it.
+Most people think the window for building bone density closes sometime in your 30s, and after that you're just trying to slow the losses. The research on skeletal health in older adults suggests that picture is incomplete. You can't rebuild bone the way a 25-year-old can. That's true. But the degree to which nutrition influences bone turnover well into your 70s and 80s is genuinely underappreciated, even by people who think they're already on top of it.
 
 I'll be honest: a lot of what gets published about "bone health foods" is a pretty short list. Dairy, salmon, maybe some leafy greens. That's not wrong, but it leaves out some of the most interesting pieces of the story.
 
@@ -89,7 +89,6 @@ What we do know clearly is that overall dietary pattern matters more than any on
 
 ---
 
-
 *Photo: [T Leish](https://www.pexels.com/@leish) via Pexels*
 
 ---
@@ -105,7 +104,6 @@ What we do know clearly is that overall dietary pattern matters more than any on
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - on skeletal health in older adults and talking to the clients I work with every
 - on K2 specifically is still developing
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

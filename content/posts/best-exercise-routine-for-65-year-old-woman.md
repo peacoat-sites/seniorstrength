@@ -25,12 +25,11 @@ author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
 lastmod: 2026-07-08
 ---
-Three things I've watched derail more women over 65 than almost anything else: doing too much too soon, following routines designed for 35-year-olds, and skipping strength training because someone told them cardio was "safer." All three are mistakes. The last one is genuinely dangerous.
+Three common mistakes undermine fitness for women over 65: doing too much too soon, following routines designed for 35-year-olds, and skipping strength training because cardio was presented as "safer." All three are mistakes. The last one is genuinely dangerous.
 
-Here's what I've seen work, after years of training women in their 60s, 70s, and 80s: a short, consistent routine built around four physical qualities that matter more than anything else at this stage of life. Strength. Balance. Mobility. Cardiovascular health, in that order of priority. Not because cardio doesn't matter, but because losing muscle and losing balance are what actually put women in the hospital.
+A short, consistent routine built around four physical qualities matters most at this stage of life. Strength. Balance. Mobility. Cardiovascular health, in that order of priority. Not because cardio doesn't matter, but because losing muscle and losing balance are what actually put women in the hospital.
 
 Let's get specific.
-
 
 <div class="value-module">
   <div class="vm-head">Weekly Training Load Guidelines by Goal</div>
@@ -49,7 +48,7 @@ Here's what most people don't know: sarcopenia (age-related muscle loss) doesn't
 
 The research is pretty clear on this: [progressive resistance training](/functional-fitness-exercises-for-seniors/) is the most effective way to preserve muscle and bone density in older women. A 2022 review in the *Journal of Strength and Conditioning Research* looked at 30-plus studies and found that twice-weekly strength training with progressive load consistently improved lean mass, functional strength, and fall risk in women over 60. "Progressive" is the key word. You have to gradually increase the challenge over time, not just repeat the same light workout forever.
 
-I've had clients come to me after years of water aerobics three times a week, genuinely baffled about why they still can't get up from the floor. Cardiovascular fitness and muscular strength are different systems. You need to train both.
+Some women who've done water aerobics for years find they still can't get up from the floor. Cardiovascular fitness and muscular strength are different systems. You need to train both.
 
 ## The Four-Day Framework That Actually Works
 
@@ -106,7 +105,7 @@ Exercise for women with knee arthritis, hip replacements, osteoporosis, or other
 
 If you have osteoporosis, high-impact activities like jumping and certain spinal flexion exercises (crunches, toe touches) can increase fracture risk. That doesn't mean no exercise. It means bone-loading through walking, stair climbing, and weight-bearing strength work becomes even more important, while a few specific movements need modification or avoidance.
 
-If you have knee arthritis, squats might start as partial squats, or get replaced temporarily with leg press on a machine where the load distributes more easily. I've seen women convinced they "can't do legs" who, after working with a physical therapist to modify their approach, were doing full goblet squats within four months.
+If you have knee arthritis, squats might start as partial squats, or get replaced temporarily with leg press on a machine where the load distributes more easily. Working with a physical therapist to modify leg exercises can make a significant difference. For example, someone who initially believed they couldn't do leg work might progress to full goblet squats within a few months.
 
 The point is: consult your doctor or a physical therapist if you have a specific diagnosis. Not to get permission. To get information you can actually use.
 
@@ -119,7 +118,6 @@ The point is: consult your doctor or a physical therapist if you have a specific
 - in *JAMA Internal Medicine* found that tai chi reduced fall rates by 21% in olde
 - in the *British Journal of Sports Medicine* found that 150 minutes of moderate a
 
-
 The most common pattern I see: a 65-year-old woman decides to get serious, does five days of intense exercise in week one, is exhausted and sore by day six, and quietly stops. This isn't a willpower problem. It's a planning problem.
 
 Start with two days of strength work for the first three weeks. That's it. Add the balance day in week four. Add the longer cardio session in week six or seven. This is slower than it sounds but dramatically more sustainable.
@@ -128,7 +126,7 @@ Track your weights. Write them down on paper, in a notes app, wherever. It sound
 
 Soreness is normal. Pain in a joint is not. Learn the difference between delayed onset muscle soreness (a dull ache in the muscle belly that peaks 24-48 hours after exercise and fades) and something that needs attention.
 
-The window where building strength is easiest, where injury risk from training is manageable, and where the gains have the most time to compound: that's right now. Not ten years ago, not "someday when things slow down." A 65-year-old woman who spends the next two years building a consistent strength and balance practice will be in a completely different physical situation at 70 than one who doesn't. I've watched it happen too many times to think otherwise.
+Right now is when building strength is easiest, when injury risk from training is manageable, and when gains have the most time to compound. Not ten years ago, not "someday when things slow down." A 65-year-old woman who spends the next two years building a consistent strength and balance practice will be in a completely different physical situation at 70 than one who doesn't.
 
 *Dana Hargrove is a certified personal trainer and physical therapist assistant specializing in strength and balance training for adults over 60.*
 

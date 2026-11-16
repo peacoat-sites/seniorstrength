@@ -63,7 +63,7 @@ For overhead work, a **seated dumbbell press** with a limited range of motion is
 
 Four small muscles wrap around your shoulder joint and keep the ball seated correctly in the socket. They don't produce big movements you can see in a mirror. They don't make you sore the next day. But when they're weak or damaged, everything else hurts.
 
-I've had clients who'd been managing chronic shoulder pain for years who improved significantly after six weeks of consistent [rotator cuff work](/safe-weight-lifting-for-seniors-guide/). That's not a guarantee for everyone, the research on this is genuinely mixed depending on the underlying pathology, but for age-related shoulder instability and mild impingement, targeted strengthening often outperforms passive treatments.
+Consistent [rotator cuff work](/safe-weight-lifting-for-seniors-guide/) over six weeks can improve shoulder pain, particularly for age-related shoulder instability and mild impingement. Results vary depending on the underlying cause of pain, but for age-related shoulder instability and mild impingement, targeted strengthening often works better than passive treatments.
 
 Two exercises are worth prioritizing:
 
@@ -114,7 +114,6 @@ The shoulder that lets you reach overhead, the grip that keeps you steady on sta
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - in the *British Medical Journal* found that grip strength alone predicted mortal
 - on this is genuinely mixed depending on the underlying pathology
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

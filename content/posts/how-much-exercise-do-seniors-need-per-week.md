@@ -99,7 +99,7 @@ Arthritis is the condition I hear most often used as a reason to avoid exercise 
 
 The key phrase in all of this is "appropriate exercise." Please talk to your doctor before starting a new program, especially if you have any of the conditions I've mentioned. A brief conversation can save you from weeks of setback.
 
-The honest truth is that there's no single perfect number that applies to every person reading this. One hundred fifty minutes is a well-supported target, but your version of that might look very different from your neighbor's. What matters most is that you're moving consistently, that your program includes all three elements (aerobic, strength, and balance work), and that you're building gradually rather than trying to close a decade-long gap in three weeks. If you're not sure where to start, a certified fitness professional who specializes in older adults, or a referral from your doctor to a physical therapist, can be worth more than any article. Including this one.
+There's no single perfect number that applies to everyone. One hundred fifty minutes is a well-supported target, but your version of that might look very different from your neighbor's. What matters most is moving consistently, including all three elements (aerobic, strength, and balance work), and building gradually. If you're not sure where to start, a certified fitness professional who specializes in older adults, or a referral from your doctor to a physical therapist, can be worth more than any article. Including this one.
 
 *This article is for general informational purposes only and does not constitute medical or fitness advice. Consult your physician or a licensed physical therapist before starting a new exercise program, especially if you have existing health conditions.*
 
@@ -110,7 +110,6 @@ The honest truth is that there's no single perfect number that applies to every 
 - behind this comes from the Physical Activity Guidelines for Americans
 - in public health
 - consistently shows that appropriate exercise reduces arthritis pain over time by
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

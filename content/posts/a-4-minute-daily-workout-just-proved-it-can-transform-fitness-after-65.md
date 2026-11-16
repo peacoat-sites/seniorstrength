@@ -39,7 +39,7 @@ Here's the part that I think deserves more attention than it's getting. The part
 
 A companion survey published in *PLOS One* in August 2025 helps explain why. When researchers asked older adults which they'd prefer, a daily five-minute program or a traditional 45-minute, three-days-a-week program, 68.4% chose the shorter daily format. That's 2.2 times as many people drawn to brevity over volume. The perceived time burden of longer workouts isn't just an inconvenience. It's a genuine barrier that keeps people from starting at all.
 
-I've seen this play out in my own work with older clients. The ones who stick with exercise long-term are almost never the ones who commit to ambitious hourlong programs in January. They're the ones who find something small enough that skipping it feels like more effort than doing it. Four minutes clears that bar for a lot of people.
+People who stick with exercise long-term are almost never the ones who commit to ambitious hourlong programs in January. They're the ones who find something small enough that skipping it feels like more effort than doing it. Four minutes clears that bar for a lot of people.
 
 ## What These Exercises Are Actually Doing
 

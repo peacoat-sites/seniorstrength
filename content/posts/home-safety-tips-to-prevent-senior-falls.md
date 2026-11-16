@@ -87,7 +87,7 @@ Because sometimes it does, even when you've done everything right.
 
 If you fall and aren't sure whether you've injured something, don't rush to get up. Lie still for a moment. Take stock. If you feel pain in a hip, wrist, or spine, don't try to move that area. Call for help.
 
-A medical alert device is genuinely worth having if you live alone. The two I've seen clients use with the fewest complaints are the Apple Watch Series 9 (fall detection is built in, assuming you have the watch anyway) and the Bay Alarm Medical SOS Watch, which is dedicated to this purpose and runs about $30-$40 a month including monitoring. The latter has better battery life and a simpler interface if you're not a tech person.
+A medical alert device is genuinely worth having if you live alone. Two popular options are the Apple Watch Series 9 (fall detection is built in, assuming you have the watch anyway) and the Bay Alarm Medical SOS Watch, which is dedicated to this purpose and runs about $30-$40 a month including monitoring. The latter has better battery life and a simpler interface if you're not a tech person.
 
 If you fall and aren't injured, getting up correctly matters. Roll to your side, push yourself to hands and knees, crawl to a sturdy piece of furniture, and use it to bring yourself up slowly. Don't try to sit straight up from lying on your back. That's harder on your spine and increases the chance of falling again getting up too fast.
 
@@ -112,7 +112,6 @@ The home you've lived in for decades starts to feel like it doesn't need a secon
 - [Kidde 10-Year Smoke & CO Detector (4-Pack)](https://www.amazon.com/dp/B0DDWDDGDS/?tag=contentportfo-20)
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -87,7 +87,6 @@ Recovery also means not training the same muscle groups two days in a row. If yo
 - suggests the upper end of that range for older adults
 - on "concurrent training
 
-
 Don't drop it. Cardiovascular fitness matters for heart health, metabolic function, mood, and longevity, none of which are small things. But if you're doing seven days a week of moderate to vigorous cardio and zero resistance training, your muscle preservation strategy has a significant gap.
 
 The research on "concurrent training," doing both cardio and strength in the same program, shows you can do both without one undermining the other, as long as you're getting adequate protein and recovery. A reasonable structure for most people is two to three resistance training sessions per week and two to four cardio sessions, depending on your goals and how your body responds. They don't need to be on separate days, though some people prefer that.
@@ -96,7 +95,7 @@ If you're doing water aerobics or a group fitness class you love, I'm not tellin
 
 ---
 
-Starting where you are is the only option any of us ever have. The biology is working against you a little, yes. But it's not immovable. The people I've seen make the most meaningful progress aren't the ones who had some athletic advantage to begin with. They're the ones who showed up consistently, ate more protein than felt comfortable at first, and trusted that the body responds to demand at any age.
+Starting where you are is the only option any of us ever have. The biology is working against you a little, yes. But it's not immovable. People who make meaningful progress tend to have one thing in common: they show up consistently, eat enough protein even when it feels like a lot at first, and trust that the body responds to demand at any age.
 
 It does.
 

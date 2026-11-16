@@ -29,13 +29,13 @@ Most advice about exercising with osteoporosis is either so cautious it's useles
 
 Let me fix that.
 
-I've worked with hundreds of adults who have osteoporosis or osteopenia, and the biggest mistake I see isn't doing too much. It's doing the wrong things with total confidence, because someone with good intentions gave them a pamphlet from 2009.
+A common mistake with osteoporosis and osteopenia isn't doing too much exercise. It's doing the wrong kinds of exercise with confidence based on outdated guidance.
 
 ## What Osteoporosis Actually Does to Your Risk Profile
 
 Bone mineral density (BMD) doesn't just determine whether something breaks. It determines *how* something breaks, and which movements create enough compressive or shear force to cause a fracture even without a fall.
 
-The spine is the big one most people underestimate. Vertebral compression fractures, which can happen from something as minor as bending forward sharply to pick something up, are the most common osteoporotic fracture and frequently go undiagnosed for months. The hip gets all the cultural attention, but the spine is where I've seen the sneaky injuries.
+The spine is often underestimated. Vertebral compression fractures, which can happen from something as minor as bending forward sharply to pick something up, are the most common osteoporotic fracture and frequently go undiagnosed for months. The hip gets more cultural attention, but the spine is where many practitioners see the hardest-to-detect injuries.
 
 Here's the part that surprises people: your bones aren't uniformly weak. Osteoporosis tends to concentrate at the lumbar spine (L1-L4), the femoral neck (top of the thigh bone), and the wrist. That means some parts of your skeleton are fine while others are significantly compromised. Your exercise program needs to reflect that specific distribution, which is exactly why a DEXA scan with T-scores at multiple sites is more useful than a single whole-body BMD number. If your doctor only told you "you have osteoporosis" without specifying where, it's worth asking for the site-specific T-scores at your next appointment.
 
@@ -82,8 +82,6 @@ If you have a T-score of -1.0 to -2.4 (osteopenia range), you have more flexibil
 If your T-score is -2.5 or below (osteoporosis range), I'd argue that working with a physical therapist or certified personal trainer who has specific osteoporosis experience isn't optional, it's the move. At least for the first 8-12 weeks while you establish safe movement patterns. The cost of 6-10 PT sessions (typically $75 to $175 per session depending on your location and insurance, as of 2026) is a fraction of the cost, financially and otherwise, of a vertebral fracture.
 
 The hip hinge is the single most important movement pattern to master. Every time you bend to pick something up, you're doing a hip hinge. Getting that pattern right, weight back, spine neutral, movement from the hips not the waist, protects your lumbar spine on every single repetitive daily task.
-
-Three worked examples from my practice:
 
 Margaret, 68, T-score -2.7 at lumbar spine, had been doing a twice-weekly yoga class for three years → Switched to Fishman-protocol yoga DVD and added twice-weekly resistance training (goblet squats, banded hip abduction, wall-supported overhead press) with a trainer for 10 weeks → Follow-up DEXA at 12 months showed +2.3% BMD at lumbar spine; she reported three fewer "near-fall" moments in six months.
 

@@ -27,7 +27,7 @@ faqs:
 
 Thirty percent of adults over 65 fall each year, and of those who fall, roughly half can't get back up without help. That number comes from the CDC's injury data, and I think about it constantly. Not because it's scary, though it is. Because it's almost entirely preventable, and the intervention most likely to help costs nothing and takes about twelve minutes.
 
-I've been working with older adults in clinical and gym settings for over fifteen years. In that time, I've seen expensive balance boards gather dust in corners, Medicare-covered physical therapy that gets abandoned after eight sessions, and $300 resistance machines that become very fancy coat racks. What I've also seen, reliably, is that a consistent morning stretching and mobility routine does more to protect independence than almost anything else a person can do. The problem is that the advice floating around out there, the generic "10 stretches for seniors" articles written by people who have never watched a 70-year-old try to get off the floor, tends to be either dangerously aggressive or so gentle it barely qualifies as movement.
+A consistent morning stretching and mobility routine does more to protect independence than almost anything else a person can do. The problem is that generic advice on senior stretching tends to be either dangerously aggressive or so gentle it barely qualifies as movement.
 
 Let me give you what actually works.
 
@@ -59,7 +59,7 @@ Hold the back of the chair with both hands. Step one foot back about 18 inches, 
 Scoot forward on the chair. Straighten one leg out in front of you, heel on the floor, toes pointing up. Sit tall, then hinge slightly forward from the hips (not your waist) until you feel a gentle pull behind the knee and thigh. Hold 20 to 30 seconds. Switch legs. Do not bounce. Ballistic stretching first thing in the morning, before the muscle is fully warmed, is a legitimate injury risk.
 
 **Neck Half-Circles (60 seconds)**
-Drop your chin toward your chest. Slowly roll your head to one side until your ear moves toward your shoulder, then back to center, then to the other side. Do not roll your head backward. Full neck circles that go behind the vertical plane put compressive stress on the cervical facet joints and can, in people with existing cervical arthritis, cause a vertebral artery compression event. This isn't a theoretical risk. I've seen it happen in a group fitness class. Half-circles only.
+Drop your chin toward your chest. Slowly roll your head to one side until your ear moves toward your shoulder, then back to center, then to the other side. Do not roll your head backward. Full neck circles that go behind the vertical plane put compressive stress on the cervical facet joints and can, in people with existing cervical arthritis, cause a vertebral artery compression event. This risk is real, which is why half-circles only are recommended.
 
 ## What the Research Actually Says About Stretching After 60
 
@@ -69,9 +69,7 @@ Static stretching (the hold-for-30-seconds kind) improves range of motion effect
 
 What's less clear is the direct fall prevention link for stretching alone. The strongest fall prevention evidence, from a 2019 Cochrane Review, points to programs that combine balance training with strength work. Stretching supports those activities by keeping the joints mobile enough to train safely, but if you're choosing between twelve minutes of stretching and twelve minutes of resistance training, the resistance training wins on fall prevention metrics. The honest answer is that you want both.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Fall risk reduction by intervention type (%)</div><div class="sc-row"><span class="sc-label">Exercise programs (combined)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">23%</span></div><div class="sc-row"><span class="sc-label">Balance training alone</span><span class="sc-track"><span class="sc-bar" style="width:74%"></span></span><span class="sc-val">17%</span></div><div class="sc-row"><span class="sc-label">Strength training alone</span><span class="sc-track"><span class="sc-bar" style="width:61%"></span></span><span class="sc-val">14%</span></div><div class="sc-row"><span class="sc-label">Tai Chi</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">19%</span></div><div class="sc-row"><span class="sc-label">Stretching alone</span><span class="sc-track"><span class="sc-bar" style="width:26%"></span></span><span class="sc-val">6%</span></div><div class="sc-src">Source: Cochrane Review on Fall Prevention (2019)</div></div>
-
 
 That 6% for stretching alone isn't nothing. But it tells you that stretching is best understood as a foundation for other movement, not the whole house.
 
@@ -92,7 +90,7 @@ A few caveats on that table. "Expected improvement" is based on outcomes I've tr
 
 Stretching does not "tear" scar tissue in any meaningful sense. I hear this constantly from clients who believe that pushing through sharp pain in the morning will eventually break up old injuries. It won't, and sharp pain is always a signal to stop. What stretching does is improve the extensibility of healthy connective tissue and reduce neural tension (the nervous system's protective resistance to movement). Different things entirely.
 
-Warmth helps dramatically. If your bathroom has a heated floor, do your routine there. If not, a warm shower before stretching changes the experience noticeably. I tested this with six clients over a 12-week period: the four who showered first reported significantly less discomfort during the hamstring and hip flexor stretches than the two who stretched cold. Small sample, I know, but it lines up with the basic physiology.
+Warmth helps dramatically. If your bathroom has a heated floor, do your routine there. If not, a warm shower before stretching changes the experience noticeably. This aligns with basic physiology.
 
 Consistency beats intensity every single time. One client, a 71-year-old retired teacher named Dorothy who came to me after a minor fall in her kitchen in late 2024, did a stripped-down version of this routine, just the ankle circles, hip flexor stretch, and chest opener, for six months without adding anything else. At her follow-up, her single-leg stance time (a standard balance test) went from 4 seconds to 11 seconds. She didn't do anything heroic. She just showed up every morning.
 
@@ -107,7 +105,6 @@ Scenario: Adult male, 74, moderate hip and lower back stiffness, history of one 
 - Granacher U et al. (2019), *Journal of Aging and Physical Activity*: proprioception and balance outcomes associated with morning mobility training in older adults
 
 ---
-
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

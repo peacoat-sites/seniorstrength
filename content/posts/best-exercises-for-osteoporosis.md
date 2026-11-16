@@ -31,7 +31,6 @@ I'll be honest: when I first started working with clients who had osteoporosis d
 
 So let me give you the real picture.
 
-
 <div class="value-module">
  <div class="vm-head">Exercise Selection by Fracture Risk</div>
  <div class="vm-body">
@@ -65,7 +64,7 @@ Let me get specific, because generic advice isn't useful here.
 
 **Squats.** Not the knee-buckling, heels-off-the-floor version you sometimes see people grinding through. Box squats to a chair are a great starting point. They teach proper depth, give you a safety target, and remove the fear of falling backward. Once you're confident, move to goblet squats with a dumbbell or kettlebell held at the chest. The loading goes through your hips and spine in a way that's highly beneficial for bone density at those exact sites.
 
-**Rows.** Upper back weakness is almost universal in older adults, and it contributes directly to the forward-flexed posture that increases thoracic fracture risk. Seated cable rows, dumbbell rows, or even resistance band rows done from a seated position all work well. I've seen clients go from a pronounced dowager's hump posture to noticeably more upright just from consistent rowing work over six months. Not a guarantee for everyone, but it's real.
+**Rows.** Upper back weakness is almost universal in older adults, and it contributes directly to the forward-flexed posture that increases thoracic fracture risk. Seated cable rows, dumbbell rows, or even resistance band rows done from a seated position all work well. Consistent rowing work can improve upper back posture over months, though results vary.
 
 **Step-ups.** Underrated. A simple step-up onto a sturdy box or stair, holding dumbbells, loads the hip unilaterally in a way that mimics the mechanics of a real-world stumble and recovery. It also builds single-leg stability, which is one of the strongest predictors of fall prevention.
 
@@ -75,7 +74,7 @@ What I'd caution against: spinal flexion exercises under load, like full sit-ups
 
 ## Balance Training: The Part Everyone Underestimates
 
-I've seen programs that nail the bone-loading piece and completely ignore this, which is a mistake.
+Programs that focus only on bone-loading and skip back strengthening miss an important piece of fracture prevention.
 
 Fractures don't happen because your bones are weak in isolation. They happen because you fall, and then the impact exceeds what your bone can absorb. Reducing fall risk might actually be more immediately protective than any bone density change you're going to get from a six-month exercise program. Bone remodeling takes time. Balance can improve faster.
 
@@ -92,7 +91,6 @@ Tai chi deserves a mention here. I was skeptical of it for years, to be honest. 
 - here is pretty consistent on that point
 - in the Journal of Bone and Mineral Research looked at postmenopausal women doing
 - on jumping is actually more interesting than most people realize
-
 
 This is where I'll push back a little against some of the blanket "low-impact only" advice that gets handed to everyone with an osteoporosis diagnosis.
 

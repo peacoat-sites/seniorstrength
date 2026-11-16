@@ -16,7 +16,7 @@ affiliate_disclosure: true
 
 Something is happening on courts across the country right now, and it deserves more attention than it's getting. Pickleball participation exploded by 158.6% between 2020 and 2022, and the sport hasn't slowed down since. The majority of players, roughly 75% of regular participants, are adults 55 and older. That's a genuinely wonderful thing. The social connection, the light cardio, the competitive engagement, the sense of community at 7am on a Tuesday, it's exactly the kind of active lifestyle we want older adults living. But here's what's not making the cheerful press releases: emergency rooms are filling up at almost exactly the same rate the sport is growing. Approximately 19,000 pickleball-related injuries land people in U.S. emergency departments every year, and sports medicine professionals in mid-2026 are starting to say, loudly, that the fun is outpacing the preparation.
 
-I'll be honest, when I first started looking into this, I expected to find mostly overuse injuries. Sore elbows, tweaked shoulders, that kind of thing. What surprised me was how dominant falls are as an injury mechanism, and how serious the consequences get for older players specifically.
+While overuse injuries like sore elbows and tweaked shoulders do occur, falls are actually the dominant injury mechanism for older players, and the consequences tend to be more serious.
 
 ## Falls Are the Real Story Here
 

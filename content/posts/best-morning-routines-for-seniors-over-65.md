@@ -52,7 +52,7 @@ You don't need a gym. You don't need to be intense. Here's what actually works:
 
   * **Chair yoga:** Gentle stretches done sitting or holding a chair, zero strain on joints.
   * **Morning walk:** 15 to 20 minutes outside hits your cardiovascular system and your mood at the same time with that sunlight hit.
-  * **Tai chi:** Studies show this slow, flowing practice cuts fall risk in older adults noticeably.
+  * **Tai chi:** This slow, flowing practice can help reduce fall risk in older adults.
   * **Resistance band exercises:** Light resistance work keeps your muscle mass from the natural decline that comes with aging.
   * **Balance exercises:** Single-leg stands near a counter. Takes minutes. Prevents dangerous falls.
 
@@ -127,7 +127,6 @@ Photo by [nilufar nattaq](https://unsplash.com/@nillufar?utm_source=seniorstreng
 - [Frederick Shaw](https://unsplash.com/@dropfastcollective?utm_source=seniorstrength&utm_medium=referral)
 - [daejeung Kim](https://unsplash.com/@kim_dae_jeung?utm_source=seniorstrength&utm_medium=referral)
 - [nilufar nattaq](https://unsplash.com/@nillufar?utm_source=seniorstrength&utm_medium=referral)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

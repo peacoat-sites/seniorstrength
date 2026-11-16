@@ -31,15 +31,13 @@ Let me fix that.
 
 Chair aerobics done right is one of the most effective cardiovascular training tools available to [older adults](/morning-stretches-for-older-adults/), and I mean that without any asterisks. A 2021 study published in the *Journal of Aging and Physical Activity* found that twice-weekly seated aerobic exercise programs improved VO2 max by roughly 12% in adults over 65 after just eight weeks. That's not trivial. That's the difference between getting winded on a short walk and not.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Twice-weekly chair aerobics can improve cardiovascular capacity by ~12% in adults 65+ within 8 weeks.</li><li style="margin:5px 0">Seated doesn't mean easy: 20-30 minutes at moderate intensity (RPE 5-6 out of 10) drives real cardiovascular benefit.</li><li style="margin:5px 0">The most common injury in chair aerobics is shoulder impingement from overhead movements done wrong, not falls.</li><li style="margin:5px 0">A stable, armless chair on a non-slip surface is the single most important equipment choice you'll make.</li><li style="margin:5px 0">People with CHF, recent joint replacement, or uncontrolled hypertension should get specific clearance before starting.</li></ul></div>
-
 
 ## Why "Just Sit Down and Move" Advice Falls Short
 
 Here's what I got wrong for the first two years of teaching this: I treated the chair as purely a safety accommodation. Something you used when someone "couldn't" do standing exercise. That framing is backwards, and it costs people results.
 
-The chair is a tool for isolating effort. When your [lower body](/lower-body-strength-exercises-for-seniors/) isn't managing balance, your cardiovascular and muscular systems can work harder without the fear response that shuts down effort in deconditioned adults. I've had 78-year-old clients hit heart rates they hadn't seen in years, safely, in a seated class, because the chair removed the anxiety equation. Standing aerobics for someone who's had two falls in the past year means their nervous system is spending resources on fear management. Seated, that energy redirects to the workout.
+The chair is a tool for isolating effort. When your [lower body](/lower-body-strength-exercises-for-seniors/) isn't managing balance, your cardiovascular and muscular systems can work harder without the fear response that shuts down effort in deconditioned adults. Seated exercise can allow deconditioned adults to reach higher heart rates safely, because the chair removes the anxiety equation. Standing aerobics for someone who's had two falls in the past year means their nervous system is spending resources on fear management. Seated, that energy redirects to the workout.
 
 The caveat: if the chair becomes a crutch that permanently replaces standing movement, you're trading short-term gain for long-term loss. Good chair aerobics programs explicitly build toward more standing work over time, not away from it.
 
@@ -49,7 +47,7 @@ This sounds obvious until you watch someone try to do seated marching in an armc
 
 What you want: a sturdy, armless dining-style chair, seat height roughly 17-18 inches from the floor (so your hips sit level with or slightly above your knees), with four legs that don't swivel or roll. Non-slip feet are non-negotiable. Push the chair against a wall if there's any doubt about it sliding during vigorous upper-body movements.
 
-What you don't want: office chairs (they swivel), folding chairs with metal legs (they slide), recliners (obviously), or anything with wheels. I've seen a folding chair shoot backward on a hardwood floor during an enthusiastic arm-pump sequence. Nobody got seriously hurt, but that particular Tuesday is still memorable for the wrong reasons.
+What you don't want: office chairs (they swivel), folding chairs with metal legs (they slide), recliners (obviously), or anything with wheels. Folding chairs with metal legs can slide on hard floors during vigorous movement, creating a safety hazard.
 
 ## A Real Session Breakdown
 
@@ -108,7 +106,6 @@ SilverSneakers is currently the most accessible option for Medicare Advantage me
 - [National Institute on Aging, Exercise & Physical Activity Guide (nia.nih.gov)]: Evidence-based recommendations for aerobic and strength training in adults 65+.
 
 ---
-
 
 *Photo: [Wellness Gallery Catalyst Foundation](https://www.pexels.com/@wellness-gallery-catalyst-foundation-229759139) via Pexels*
 

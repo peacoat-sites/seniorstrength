@@ -20,9 +20,7 @@ You might be wondering whether your knees are just "too far gone" for exercise t
 
 That said, the wrong kind of movement can absolutely do damage. So let's talk about what [actually works](/how-to-sleep-better-as-a-senior-what-actually-works/), and more importantly, what you should stop doing right now.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Strengthening the quadriceps reduces knee joint load by up to 30% over time.</li><li style="margin:5px 0">Warm up at least 8-10 minutes before any lower-body workout, cold joints injure faster.</li><li style="margin:5px 0">High-impact exercises (running, jumping) can safely return after 6-8 weeks of targeted strength work.</li><li style="margin:5px 0">Knee sleeves (neoprene, $15-40) reduce perceived pain in most people; rigid braces require a provider recommendation.</li><li style="margin:5px 0">Pain above a 3/10 during exercise is your stop signal, not a sign to push through.</li></ul></div>
-
 
 ## What's Actually Hurting You (It's Probably Not Your Knee)
 
@@ -42,7 +40,7 @@ The movements I'd substitute immediately: wall sits (isometric loading, no movem
 
 ## Building a Knee-Safe Workout: What This Actually Looks Like
 
-Let's make this concrete. A reader named Carol from Phoenix emailed me after reading an earlier piece on joint health. She was 68, post-retirement, had a bilateral knee osteoarthritis diagnosis, and her orthopedic surgeon had told her to "stay active" without giving her a single specific instruction about what that meant.
+Let's make this concrete. Many people receive vague advice to "stay active" from their doctors without specific guidance on what that means, especially those managing osteoarthritis. This leaves them uncertain about which movements are safe and which might aggravate their condition.
 
 Carol started with this approach for eight weeks:
 
@@ -66,7 +64,7 @@ The market here is genuinely confusing, and some of it is expensive for no reaso
 | Rigid custom brace | $400-1,200+ | Post-surgical or severe instability | Requires prescription and professional fitting |
 | Kinesiology tape (KT Tape, etc.) | $12-18/roll | Mild support, psychological benefit | Mixed research; some people swear by it |
 
-Honestly, for most people doing general fitness exercise, a basic neoprene sleeve in the $20-35 range is where I'd start. The Bauerfeind GenuTrain (around $80-90 as of mid-2026) is the one I recommend most when people want something more structured without needing a prescription. The research on kinesiology tape is mixed enough that I can't recommend spending money on it before you've tried a sleeve.
+For most people doing general fitness exercise, a basic neoprene sleeve in the $20-35 range is where I'd start. The Bauerfeind GenuTrain (around $80-90 as of mid-2026) is the one I recommend most when people want something more structured without needing a prescription. The research on kinesiology tape is mixed enough that I can't recommend spending money on it before you've tried a sleeve.
 
 One important note: rigid braces and unloader braces should really be fitted with guidance from a physical therapist or orthotist. An improperly fitted OA brace can actually increase pain if it's applying pressure in the wrong places.
 

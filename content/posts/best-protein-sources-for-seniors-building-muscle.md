@@ -31,7 +31,7 @@ You're at the gym, third set of seated leg presses done, and the trainer hands y
 
 The standard Recommended Dietary Allowance for protein is 0.8 grams per kilogram of body weight per day. That number surprises almost everyone. It was set to prevent deficiency, not to optimize muscle building. For a 70-year-old trying to get stronger, it's genuinely inadequate.
 
-I've seen clients in their late 60s eating what they believed was "plenty of protein" because they'd hit the RDA. Chicken salads for lunch, Greek yogurt as a snack, call it good. They were still losing muscle. Why? After about age 60, your body becomes less efficient at converting dietary protein into muscle tissue. Researchers call this [anabolic resistance](/how-much-protein-do-seniors-need-to-build-muscle/). Your muscles simply don't respond to protein signals the way they did at 40.
+Many people in their late 60s eat what they believe is "plenty of protein" because they've hit the RDA, with chicken salads for lunch and Greek yogurt as a snack. Yet muscle loss can still occur. Why? After about age 60, your body becomes less efficient at converting dietary protein into muscle tissue. Researchers call this [anabolic resistance](/how-much-protein-do-seniors-need-to-build-muscle/). Your muscles simply don't respond to protein signals the way they did at 40.
 
 The practical fix: most sports nutrition researchers and geriatric dietitians now recommend somewhere between 1.2 and 1.6 grams of protein per kilogram of body weight daily for older adults doing strength training. For a 170-pound person, that's roughly 93 to 123 grams per day. That's a meaningful target, and which foods you use to hit it actually matters.
 
@@ -41,7 +41,7 @@ One more thing most people skip: distribution beats total intake. Spreading your
 
 Not all protein is created equal. What you're looking for is high leucine content, good digestibility, and overall amino acid completeness. Leucine is the ignition switch for muscle protein synthesis. You need roughly 2 to 3 grams per meal to flip it.
 
-**Eggs** belong at the top of this list. A whole egg contains about 6 grams of high-quality protein, and the yolk carries half of it along with vitamins D, B12, and choline, which supports brain and nerve function. I've worked with clients who avoided yolks for decades based on old cholesterol fears. Current evidence is far more nuanced on dietary cholesterol for healthy adults, but talk to your doctor before changing your egg intake if you have specific cardiovascular concerns.
+**Eggs** belong at the top of this list. A whole egg contains about 6 grams of high-quality protein, and the yolk carries half of it along with vitamins D, B12, and choline, which supports brain and nerve function. Many people have avoided yolks for decades based on old cholesterol fears. Current evidence is far more nuanced on dietary cholesterol for healthy adults, but talk to your doctor before changing your egg intake if you have specific cardiovascular concerns.
 
 **Lean beef and bison** are worth revisiting even if you've been told to cut back on red meat. A 4-ounce serving of 90% lean ground beef delivers around 22 grams of protein along with creatine, zinc, and heme iron, all nutrients that support muscle function and energy. The creatine alone matters. It's not just a supplement. It's a compound your muscles use for short-burst energy, and older adults tend to have lower natural levels of it.
 
@@ -127,7 +127,6 @@ The gap between "eating enough" and "eating enough to actually build muscle afte
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - on pre-sleep casein and muscle protein synthesis in older adults
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -44,7 +44,7 @@ This article is about training the whole thing, at home, without equipment you d
 
 ## Before You Start: The One Setup Detail Everyone Skips
 
-Clear your floor. Seriously. I can't count how many times I've watched someone do a perfectly good balance exercise, step back afterward, and catch a heel on a rug edge. If you're working in a kitchen, dining room, or bedroom, remove the throw rugs before you begin. Every single time. Non-negotiable.
+Clear your floor. Seriously. A common hazard during balance work is catching a heel on a rug edge when stepping back. If you're working in a kitchen, dining room, or bedroom, remove the throw rugs before you begin. Every single time. Non-negotiable.
 
 You'll also want a sturdy chair or kitchen counter nearby, not because you'll hold onto it throughout, but because it's there to catch you if you need it. A rolling office chair doesn't count. Anything that slides doesn't count.
 
@@ -133,7 +133,6 @@ It feels awkward and slightly ridiculous, and it will feel harder than the exerc
 - published in *Age and Ageing* found that gait-based training consistently outper
 - from the University of Sydney found that dual-task balance training reduced fall
 - in this area is still growing
-
 
 If you've already had a fall, if you have a diagnosed vestibular disorder like BPPV or Meniere's disease, if you have peripheral neuropathy, or if your balance got noticeably worse in a short period, these exercises are still likely helpful. But working with a physical therapist first is genuinely worth it. They can identify which part of the balance system is actually driving the problem, which makes everything more targeted and faster. A few PT sessions to get your bearings can save months of guessing.
 

@@ -100,7 +100,7 @@ Strength alone isn't enough. Tight muscles alter the mechanics of the knee and k
 
 Balance training deserves its own mention because it's often completely missing from knee rehab programs, despite being critically important. Single-leg stance work (standing on one foot for 10 to 30 seconds while holding a counter if needed) trains the small stabilizing muscles around the knee that don't respond to traditional strength exercises. Poor balance also significantly increases fall risk, and a fall with compromised knees is a serious situation.
 
-I've seen clients who did the strength work diligently but skipped the balance component hit a plateau. When they added it in, everything clicked.
+Strength work alone often hits a plateau without balance training. Adding balance work tends to unlock progress.
 
 ---
 
@@ -113,7 +113,6 @@ I've seen clients who did the strength work diligently but skipped the balance c
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - published in the journal *Arthritis & Rheumatology* has consistently shown that
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

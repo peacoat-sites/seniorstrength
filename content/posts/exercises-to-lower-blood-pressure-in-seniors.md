@@ -26,9 +26,9 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most people assume blood pressure medication is the main lever they can pull. And yes, sometimes it is. But here's what I've watched happen with my own clients, over and over: the right exercise program, done consistently, drops systolic blood pressure by 8 to 10 points. That's not a rounding error. That's close to what a first-line antihypertensive drug delivers, according to a 2021 meta-analysis published in the *British Journal of Sports Medicine* that pooled data from over 270 randomized trials.
+Most people assume blood pressure medication is the main lever they can pull. And yes, sometimes it is. A consistent exercise program drops systolic blood pressure by 8 to 10 points. That's not a rounding error. That's close to what a first-line antihypertensive drug delivers, according to a 2021 meta-analysis published in the *British Journal of Sports Medicine* that pooled data from over 270 randomized trials.
 
-You might be wondering if that applies to you specifically, at your age, with your particular history. That's a fair question. The research here does skew toward younger adults in some studies, and I won't pretend otherwise. But the evidence in adults 60 and older is genuinely strong, and I've seen it bear out in practice enough times that I feel confident saying: if you're not moving regularly and your blood pressure is elevated, exercise is almost certainly part of your answer.
+You might be wondering if that applies to you specifically, at your age, with your particular history. That's a fair question. The research does skew toward younger adults in some studies, but the evidence in adults 60 and older is strong. If you're not moving regularly and your blood pressure is elevated, exercise is almost certainly part of your answer.
 
 What I want to do here is tell you exactly what kinds of exercise work, why they work, and how to start safely without making the mistakes I've seen derail people in their first few weeks.
 
@@ -77,7 +77,7 @@ Weeks 3 to 4: Add one session of simple bodyweight resistance work (chair squats
 
 Month 2 onward: Build walking to 30 minutes, add a second resistance session, begin monitoring blood pressure at home at the same time each morning.
 
-A realistic example from my practice: Margaret, 68 years old, sedentary desk worker, came to me in early 2025 with a resting systolic of 148. She'd been told to "exercise more" by her doctor but had no idea where to start. We began with exactly the walking structure above, added a twice-weekly chair-based strength circuit at week three, and introduced wall sits (three 30-second holds, three times per week) at week five. By her 12-week check-in, her morning average was 138. She hadn't changed her medication. She hadn't changed her diet dramatically. Eight weeks of 150-minute walking plus isometric holds and basic resistance work produced a 10-point drop.
+For example, someone 68 years old and sedentary might begin with the walking structure above, add a twice-weekly chair-based strength circuit at week three, and introduce wall sits (three 30-second holds, three times per week) at week five. Eight weeks of 150-minute walking plus isometric holds and basic resistance work can produce a 10-point drop in resting systolic pressure without medication or diet changes.
 
 That's not a miracle. That's physiology.
 
@@ -103,7 +103,7 @@ The perfect exercise program that you do three times and abandon is useless. The
 
 As of July 2026, the research consensus is clear: dose and consistency predict outcomes far more than the specific modality. Which means walking, done reliably, beats any fancy protocol done sporadically.
 
-The clients I've seen get the best results aren't the ones who came in motivated and intense. They're the ones who attached exercise to something already in their lives. One client, a retired teacher, walks to a coffee shop three mornings a week. She's been doing it for two years now. Her systolic dropped from 152 to 136 in the first four months and has stayed there. She doesn't think of it as medicine. It just happens to be medicine.
+People who get the best results are often those who attach exercise to something already in their lives, such as a regular walk to a familiar destination several mornings a week. Done consistently over time, this kind of routine can produce meaningful and lasting reductions in systolic pressure.
 
 Worked example: Robert, 72, avid gardener, had been resistant to "formal exercise" for years. His doctor had been nudging him toward medication for borderline hypertension (consistently 145-150 systolic). We reframed things: he added 20-minute evening walks three times a week and started doing wall sits during commercial breaks watching the news (four sets of 45 seconds). At his six-month follow-up, his doctor noted his average was 139 and decided to hold off on medication. Robert told me he doesn't even think of the wall sits as exercise.
 
@@ -118,7 +118,6 @@ That framing matters more than people realize.
 - Centers for Disease Control and Prevention (CDC), High Blood Pressure Facts: Population data on hypertension prevalence in older adults, available at cdc.gov.
 
 ---
-
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 

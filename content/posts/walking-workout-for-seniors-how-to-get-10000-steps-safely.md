@@ -20,7 +20,7 @@ author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 lastmod: 2026-07-08
 ---
-You lace up your shoes, step outside, and wonder: _am I doing enough?_ Maybe your doctor mentioned getting more steps in, or you caught something on the news about 10,000 steps. But the idea of walking that much can feel overwhelming, especially if your knees ache, your energy tanks by afternoon, or you haven't been active in years. Here's the thing though: a walking workout for seniors doesn't have to be extreme. It just needs to be smart, steady, and built around _your_ body.
+You lace up your shoes, step outside, and wonder: _am I doing enough?_ Maybe your doctor mentioned getting more steps in, or you caught something on the news about 10,000 steps. But the idea of walking that much can feel overwhelming, especially if your knees ache, your energy tanks by afternoon, or you haven't been active in years. A walking workout for seniors doesn't have to be extreme. It just needs to be smart, steady, and built around _your_ body.
 
 ## Why 10,000 Steps? Understanding the Goal
 
@@ -127,7 +127,6 @@ Photo by [Mobio Marketing](https://unsplash.com/@mobio_be?utm_source=seniorstren
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - backs it up
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

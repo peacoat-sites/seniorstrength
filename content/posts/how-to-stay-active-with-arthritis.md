@@ -25,7 +25,7 @@ author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
 lastmod: 2026-07-08
 ---
-Sixty-three percent of adults over 65 with arthritis cut back on physical activity because of pain. I've worked with enough of them to know that's usually the wrong move, and it costs them more than the pain itself ever could.
+Sixty-three percent of adults over 65 with arthritis cut back on physical activity because of pain. Cutting back on activity usually makes things worse, and the long-term cost goes beyond the pain itself.
 
 I get it. When your knees ache on the stairs, "exercise" sounds like someone handing you a lit match and telling you to be careful. But the research here is settled: appropriate movement reduces arthritis pain over time. Inactivity makes joints stiffer, weakens the muscles protecting your cartilage, and accelerates the functional decline that turns a bad knee into a life-limiting one. The science isn't the problem. Figuring out what "appropriate" means for your specific joints, your specific day, and your specific flare-up status is where most people get lost.
 
@@ -39,7 +39,7 @@ I use a simple pain scale check during and after activity. A 2 or 3 out of 10 du
 
 The goal isn't to get through the workout despite the pain. It's to find the version of the workout that doesn't trigger that response, and then build from there. That might mean ten minutes instead of thirty. It might mean water instead of land. It might mean Tuesday is a rest day even though you felt fine Monday.
 
-Rheumatoid arthritis adds another layer because of flares. During an active flare, you're not trying to maintain your routine. Gentle range-of-motion movements, where you're moving a joint through its comfortable arc without loading it, are usually fine and actually help prevent the stiffness that sets in with bed rest. But pushing through a flare to hit your step count is a mistake I've seen backfire badly.
+Rheumatoid arthritis adds another layer because of flares. During an active flare, you're not trying to maintain your routine. Gentle range-of-motion movements, where you're moving a joint through its comfortable arc without loading it, are usually fine and actually help prevent the stiffness that sets in with bed rest. But pushing through a flare to hit your step count can backfire.
 
 ## What Actually Works: Movement Types That Earn Their Reputation
 
@@ -57,7 +57,7 @@ Walking is fine. It's not magic. For someone with significant hip or knee osteoa
 
 Here's what I'd actually prioritize:
 
-**Aquatic exercise** is probably the best-kept secret in arthritis management. Water reduces the load on joints by up to 90% depending on depth, while still providing enough resistance to build strength. Classes like Arthritis Foundation Aquatic Program, offered at most YMCAs and community pools, are designed specifically for this population. I've had clients in their 70s with bone-on-bone knee arthritis do things in the pool they couldn't touch on land. It's not a consolation prize. It's often genuinely better.
+**Aquatic exercise** is probably the best-kept secret in arthritis management. Water reduces the load on joints by up to 90% depending on depth, while still providing enough resistance to build strength. Classes like Arthritis Foundation Aquatic Program, offered at most YMCAs and community pools, are designed specifically for this population. People with severe knee arthritis often find they can move freely in the pool in ways that aren't possible on land.
 
 **Strength training**, done correctly, is non-negotiable. The muscles around a joint are its shock absorbers. Weak quads are one of the strongest predictors of knee pain progression. A 2019 study in *Arthritis Care and Research* found that progressive resistance training significantly reduced pain and improved function in adults with knee osteoarthritis. For most people over 60, that means starting with bodyweight or very light resistance and learning movement patterns before adding load. Machines like a leg press or a seated cable row are often more joint-friendly than free weights for beginners because they guide your range of motion.
 
@@ -85,9 +85,6 @@ The surface you exercise on matters too. Grass or a rubberized track beats concr
 - here is settled: appropriate movement reduces arthritis pain over time
 - in *Arthritis Care and Research* found that progressive resistance training sign
 
-
-I've watched people spend six months on waiting lists for a rheumatologist while their conditioning gets worse. That's frustrating, and the system's limits are real.
-
 If you're managing arthritis with a primary care physician, ask specifically for a physical therapy referral before you start any new exercise program. A good PT will assess your specific joint involvement, watch you move, and give you a baseline program tailored to what's actually compromised. That's worth infinitely more than a generic YouTube routine, even a good one.
 
 If PT isn't accessible right now (cost, waitlist, location), the Arthritis Foundation's free online resources and their Walk With Ease program are genuinely solid starting points developed with clinical input. Not the same as one-on-one care, but not nothing either.
@@ -96,7 +93,7 @@ Be specific with your doctor about what you want. "Can I exercise?" gets you a y
 
 ---
 
-The hardest thing about exercising with arthritis isn't the physical part. It's rebuilding trust with your own body after pain has made movement feel like a threat. That takes time and usually some professional guidance. But I've watched people in their 70s and 80s, people who came to me convinced their exercising days were behind them, get back to hiking, swimming, cycling, even light pickleball. Not by ignoring their arthritis. By figuring out how to work with it.
+The hardest thing about exercising with arthritis isn't the physical part. It's rebuilding trust with your own body after pain has made movement feel like a threat. That takes time and usually some professional guidance. People in their 70s and 80s who thought their exercising days were over have gotten back to hiking, swimming, cycling, and light pickleball. Not by ignoring their arthritis. By figuring out how to work with it.
 
 That's the version of "stay active" that actually holds up.
 

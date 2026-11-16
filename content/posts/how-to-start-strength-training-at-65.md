@@ -27,7 +27,7 @@ faqs:
 
 Thirty percent. That's how much muscle mass the average adult loses between age 30 and 70, according to research published in the *Journal of Cachexia, Sarcopenia and Muscle*. Not a gradual inconvenience. A structural crisis that reshapes how you move, how you balance, how fast you recover from illness, and frankly, how long you live. The good news, and this is the part most fitness coverage buries in paragraph nine: almost all of it is reversible. Not slowed. Reversed.
 
-I've worked with adults over 60 for more than fifteen years, and the single biggest mistake I see isn't choosing the wrong exercise. It's waiting. People arrive at my practice convinced that 65 is too late to start something "serious," that they've missed their window. They haven't. But the second-biggest mistake is starting the way a 28-year-old would start, and that one actually causes harm.
+The single biggest mistake isn't choosing the wrong exercise. It's waiting. A common misconception is that 65 is too late to start something "serious," that the window has closed. It hasn't. But the second-biggest mistake is starting the way a 28-year-old would start, and that one actually causes harm.
 
 Let me tell you what the data says, what I've watched work, and where popular advice goes badly wrong.
 
@@ -37,11 +37,9 @@ A 2023 meta-analysis in *JAMA Network Open* looked at 1.5 million participants a
 
 The American College of Sports Medicine (ACSM) currently recommends that older adults perform muscle-strengthening activities on two or more days per week. As of July 2026, that guidance hasn't changed in the current iteration, though the supporting evidence behind it has gotten substantially more specific about loading parameters for older populations. The ACSM used to be vague about intensity. Now they're not: they specifically recommend that older adults train at moderate to vigorous intensity, meaning you should be working hard enough that a full conversation becomes effortful.
 
-Here's a figure that changed how I program for clients: a landmark study from Tufts University showed that previously sedentary men and women in their 80s and 90s, nursing home residents, tripled their leg strength in just ten weeks of resistance training. Their walking speed increased 12%, and two participants no longer needed canes. I've thought about that study regularly for years. If a 90-year-old in a nursing home can triple leg strength in ten weeks, what can a healthy 65-year-old do with a proper program? The answer, in my experience, is remarkable.
-
+A landmark study from Tufts University showed that previously sedentary men and women in their 80s and 90s, nursing home residents, tripled their leg strength in just ten weeks of resistance training. Their walking speed increased 12%, and two participants no longer needed canes. If a 90-year-old in a nursing home can triple leg strength in ten weeks, a healthy 65-year-old with a proper program can achieve significant gains.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Muscle strength gain (%) in 10 weeks of resistance training by age group</div><div class="sc-row"><span class="sc-label">Ages 60-69</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">58%</span></div><div class="sc-row"><span class="sc-label">Ages 70-79</span><span class="sc-track"><span class="sc-bar" style="width:39%"></span></span><span class="sc-val">67%</span></div><div class="sc-row"><span class="sc-label">Ages 80-90</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">174%</span></div><div class="sc-src">Source: Fiatarone et al., Tufts University / NEJM</div></div>
-
 
 That chart is worth sitting with. The oldest group gained the most, percentage-wise. Part of that is the math of a lower baseline, yes. But part of it is that the aging neuromuscular system is more trainable than we assumed for a long time.
 
@@ -61,13 +59,13 @@ Most beginner programs are designed implicitly for people in their 20s or 30s. T
 
 Here's what I've found works, based on watching a lot of people start, quit, get hurt, or thrive:
 
-**Week 1-2: Movement assessment and baseline.** Before loading anything, you need to know what you're working with. Can you sit down to a chair and stand up without using your hands? Can you stand on one leg for ten seconds? Can you lower yourself slowly to the floor and get back up? These aren't trick questions. They're diagnostic. A reader named Carol, 68, from Tucson, emailed me after her first session with a trainer who skipped this step entirely and had her doing goblet squats at session one. She strained a hip flexor within two weeks. The baseline isn't busywork. It tells you where to start the load.
+**Week 1-2: Movement assessment and baseline.** Before loading anything, you need to know what you're working with. Can you sit down to a chair and stand up without using your hands? Can you stand on one leg for ten seconds? Can you lower yourself slowly to the floor and get back up? These aren't trick questions. They're diagnostic. For example, skipping the baseline and moving directly to loaded exercises like goblet squats can result in injury within weeks. The baseline isn't busywork. It tells you where to start the load.
 
 **Week 3-6: Bodyweight and light resistance, two days per week.** The foundational movements are squats (or a regression like a sit-to-stand), hinges (deadlift pattern, even with a light kettlebell or just a dowel), pushing (wall push-ups progressing to incline push-ups), pulling (resistance band rows), and single-leg balance work. Two days per week with at least 48 hours between sessions. The 48-hour rule isn't optional at this stage. Connective tissue repair in older adults genuinely takes longer.
 
 **Week 7-12: Progressive overload begins.** This is where most beginner guides lose the thread. "Progressive overload" sounds technical, but it just means you add challenge in small, consistent increments. That might be adding two pounds to a dumbbell. It might be doing one more rep. It might be slowing the tempo so the muscle is under tension longer. You don't need to go heavier every single week. But you do need to make the workout harder over time, or you'll plateau within two months and stay there.
 
-**Week 13 onward: Build the habit structure, not just the program.** The research on long-term exercise adherence in older adults is pretty clear: people who attach training to existing habits (right after morning coffee, immediately following a standing appointment) maintain it far better than people who treat it as a free-floating commitment. I started keeping a simple paper log myself when I was building a new training habit a few years back. Pen and paper, nothing fancy. It worked better than any app I'd tried.
+**Week 13 onward: Build the habit structure, not just the program.** The research on long-term exercise adherence in older adults is pretty clear: people who attach training to existing habits (right after morning coffee, immediately following a standing appointment) maintain it far better than people who treat it as a free-floating commitment. A simple paper log works better than most apps for building adherence.
 
 ## Equipment: What You Need, What You Don't
 
@@ -97,7 +95,7 @@ You can train perfectly and get a fraction of the results if protein intake is i
 
 The standard Recommended Dietary Allowance for protein is 0.8 grams per kilogram of body weight. For older adults engaged in resistance training, that number is wrong. Current evidence, including a 2022 position statement from the International Society of Sports Nutrition, recommends 1.2 to 1.6 grams per kilogram, with some researchers pushing toward 1.8 grams for those over 70. For a 165-pound (75 kg) person, that's a target of 90 to 120 grams of protein per day, not the 60 grams the standard RDA implies.
 
-I thought for years that the RDA was a reasonable target. I was wrong about that. The research shifted, and I shifted with it. The updated understanding is that older adults have reduced "anabolic sensitivity" to protein, meaning they need a larger dose to trigger the same muscle synthesis response that a 25-year-old gets from a smaller dose.
+The RDA was once considered a reasonable target for older adults, but research has shifted. The updated understanding is that older adults have reduced "anabolic sensitivity" to protein, meaning they need a larger dose to trigger the same muscle synthesis response that a 25-year-old gets from a smaller dose.
 
 Practical implication: at every meal, aim for 30 to 40 grams of protein. Greek yogurt, eggs, cottage cheese, chicken, fish, legumes paired with a complete protein source. If appetite is an issue (common in older adults), a plain whey or pea protein powder mixed into oatmeal or a smoothie is a perfectly legitimate strategy, not a shortcut.
 
@@ -118,7 +116,6 @@ A small group I ran at a community rec center in 2023: eight women, average age 
 - Fragala MS et al. (2022): "Resistance Training for Older Adults: Position Statement from the National Strength and Conditioning Association." *Journal of Strength and Conditioning Research*.
 
 ---
-
 
 *Photo: [Anna Shvets](https://www.pexels.com/@shvetsa) via Pexels*
 

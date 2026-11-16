@@ -63,7 +63,7 @@ Start with two sets of 10-12 reps per exercise. After two weeks, add a third set
 
 ## The Form Points That Actually Matter
 
-I've watched a lot of people new to lifting hurt themselves not because they lifted heavy but because nobody told them a few specific things. These are the ones I come back to most often.
+A common way people new to lifting get hurt isn't from lifting heavy but from missing a few specific pointers. These are the ones I come back to most often.
 
 **Brace before you move.** Before any lift, take a breath in and tighten your core like you're bracing for a punch. This is called intra-abdominal pressure, and it stabilizes your spine under load. Most lower back problems during lifting trace back to skipping this step.
 
@@ -122,7 +122,6 @@ The longer I do this work, the more convinced I am that the biggest obstacle for
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - is increasingly clear on: meaningful resistance training
 - suggests (around 1
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

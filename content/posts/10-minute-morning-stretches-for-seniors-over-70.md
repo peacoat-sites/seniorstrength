@@ -35,7 +35,7 @@ You wake up and immediately feel it: stiffness in your back, your hips, maybe yo
 
 Your muscles lose flexibility as you age. Your joints get stiffer, especially after eight hours lying still. It's completely normal, but you don't have to accept it as unchangeable.
 
-Gentle morning stretches warm up your muscles, get blood flowing, and tell your body it's time to move. Studies show regular stretching cuts fall risk, reduces daily aches, and honestly improves your mood before breakfast.
+Gentle morning stretches warm up your muscles, get blood flowing, and tell your body it's time to move. Regular stretching cuts fall risk, reduces daily aches, and improves your mood before breakfast.
 
 Think of it like warming up a car before driving on a cold morning. Your body simply functions better when it's been prepared.
 
@@ -129,7 +129,6 @@ Starting a new habit at any age takes courage. The fact that you're reading this
 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

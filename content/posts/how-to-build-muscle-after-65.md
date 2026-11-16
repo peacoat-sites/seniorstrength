@@ -45,7 +45,7 @@ Yes, the biology makes things harder. Testosterone and estrogen decline with age
 
 Progressive overload is the principle that your muscles must be consistently challenged with increasing demands over time in order to grow. It's the engine behind every successful strength program ever written. For younger athletes, this usually means adding weight to the bar every week or two. For adults over 65, the principle is identical but the application needs more nuance.
 
-I've seen too many people over 65 make one of two opposite mistakes. The first is using weight so light their muscles are never actually challenged. The second is jumping to heavy loads too quickly and getting hurt. Neither one gets you anywhere.
+People over 65 often make one of two opposite mistakes. The first is using weight so light their muscles are never actually challenged. The second is jumping to heavy loads too quickly and getting hurt. Neither one gets you anywhere.
 
 A more appropriate approach for most beginners in this age group:
 
@@ -66,7 +66,7 @@ A more appropriate approach for most beginners in this age group:
 | Grams per kg body weight | 0.8 g/kg | 1.2-1.6 g/kg | 82-109 g/day |
 | Daily total | ~54 g (150 lb example) | 82-109 g | Per research guidelines |
 
-This is where I've watched so many well-intentioned programs fall apart. People show up three times a week, work hard, and wonder why they're not seeing results. Often the answer is protein.
+Many well-intentioned programs fall apart here. People show up three times a week, work hard, and wonder why they're not seeing results. Often the answer is protein.
 
 The standard recommendation for sedentary adults is 0.8 grams of protein per kilogram of body weight per day. For a 150-pound person, that's about 54 grams. Research increasingly suggests that older adults who are resistance training need closer to 1.2 to 1.6 grams per kilogram per day to maximize muscle protein synthesis. For that same 150-pound person, that's 82 to 109 grams daily. That's a meaningful difference.
 
@@ -104,7 +104,7 @@ Practical recovery guidelines for this population:
 
 Allow 48 to 72 hours between resistance training sessions for the same muscle groups. A Monday-Wednesday-Friday or Tuesday-Thursday-Saturday schedule works well for most people.
 
-Sleep isn't optional. Growth hormone, which plays a significant role in muscle repair, is secreted primarily during deep sleep. Seven to nine hours of quality sleep per night isn't a luxury. It's part of your training program.
+Sleep isn't optional. Growth hormone is secreted primarily during deep sleep and is essential for muscle repair. Seven to nine hours of quality sleep per night isn't a luxury. It's part of your training program.
 
 Manage soreness intelligently. Some delayed onset muscle soreness (DOMS) after a new exercise or increased intensity is normal and expected. Sharp pain during exercise, joint pain, or soreness that doesn't meaningfully resolve within 72 hours are signals to back off and, if persistent, consult a physical therapist or physician.
 
@@ -122,7 +122,6 @@ Light movement on rest days, sometimes called active recovery, actually helps. A
 - increasingly suggests that older adults who are resistance training need closer
 - supports it
 
-
 Here's a straightforward starting framework. Before beginning any new exercise program, please get clearance from your physician, especially if you have cardiovascular conditions, osteoporosis, or recent joint replacements.
 
 **Weeks 1 to 2: Movement Foundations**
@@ -139,7 +138,7 @@ Compare your current performance to week one. Most people notice real improvemen
 
 ---
 
-Your body at 65, 70, or 75 isn't the body it was at 35. But it's still a body that responds to the right inputs, still builds new muscle tissue, still gets stronger. I've watched clients in their late 60s go from struggling with a flight of stairs to hiking trails they'd written off entirely. The biology supports it. The research supports it. What it takes is a program built on sound principles, enough protein, honest recovery, and the patience to let the process work. That's genuinely within reach for most people.
+Your body at 65, 70, or 75 isn't the body it was at 35. But it's still a body that responds to the right inputs, still builds new muscle tissue, still gets stronger. People in their late 60s can go from struggling with a flight of stairs to hiking trails they'd written off entirely. The biology supports it. The research supports it. What it takes is a program built on sound principles, enough protein, honest recovery, and the patience to let the process work. That's genuinely within reach for most people.
 
 ---
 

@@ -24,7 +24,7 @@ lastmod: 2026-07-07
 
 You're lying awake at 2 a.m. Your thoughts are racing through tomorrow's worries, yesterday's regrets, and a growing list of aches that seem louder at night. Sound familiar? You're not alone. Millions of older adults struggle with stress, sleep problems, and minds that simply refuse to slow down.
 
-Here's the thing: meditation for seniors is one of the simplest, most accessible tools available. You don't need special equipment, a fitness level, or any prior experience. Just a few quiet minutes a day can begin to shift how you feel, think, and sleep.
+Meditation for seniors is one of the simplest, most accessible tools available. You don't need special equipment, a fitness level, or any prior experience. Just a few quiet minutes a day can begin to shift how you feel, think, and sleep.
 
 ## What Exactly Is Meditation?
 

@@ -46,7 +46,6 @@ So let's get into what actually works.
 
 **"Seniors with bad knees should just rest and avoid exercise"**: Most people think joint pain is a signal to stop moving entirely. But research from the American College of Rheumatology shows that *appropriate* exercise actually reduces knee pain by up to 30% and slows cartilage degeneration. A 2023 study in *JAMA* found that seniors who performed low-impact strength training 2-3x weekly had better mobility and less pain than those who remained sedentary. The real risk? Inactivity itself, which leads to muscle atrophy, weight gain, and accelerated joint deterioration. The paradox: moving *less* makes knees worse, not better.
 
-
 When a doctor or trainer says "low impact," they mean exercises where at least one foot stays on the ground at all times, or where your body weight is partially supported by water, a machine, or a surface. The point is to reduce the compressive and shear forces moving through the knee joint during activity.
 
 For context: walking on flat ground puts roughly 1.5 times your body weight through each knee with every step. Running multiplies that to 3 to 4 times. Squatting deeply can push 7 to 8 times your body weight through the joint. For a healthy knee, those forces are manageable. For a knee with thinning cartilage, bone-on-bone contact, or post-surgical hardware, they can be a serious problem.
@@ -61,7 +60,7 @@ The goal isn't to avoid loading the knee. It's to load it intelligently.
 
 I want to be upfront: the research here is mixed when it comes to which specific exercise is "best." What's consistent is that multiple forms of low impact movement show benefit, and individual response varies considerably. The following options have the strongest combination of evidence, safety profile, and accessibility for people in their 60s, 70s, and beyond.
 
-**Water exercise and aquatic therapy** consistently come out on top. Pool-based movement reduces effective body weight by up to 75% when you're submerged to chest height, which means your knee can move through a reasonable range of motion without taking a beating. A 2016 Cochrane review found that aquatic exercise provided short-term improvements in pain and function for people with hip and knee osteoarthritis. What I've seen clinically matches that: clients who couldn't tolerate 10 minutes on a treadmill could do 30 minutes of [pool walking or water aerobics](/water-aerobics-exercises-for-seniors/) with minimal pain. If you have access to a community pool or YMCA, this is worth trying before almost anything else.
+**Water exercise and aquatic therapy** consistently come out on top. Pool-based movement reduces effective body weight by up to 75% when you're submerged to chest height, which means your knee can move through a reasonable range of motion without taking a beating. A 2016 Cochrane review found that aquatic exercise provided short-term improvements in pain and function for people with hip and knee osteoarthritis. Many people who struggle with treadmill walking find they can do 30 minutes of [pool walking or water aerobics](/water-aerobics-exercises-for-seniors/) with minimal pain. If you have access to a community pool or YMCA, this is worth trying before almost anything else.
 
 **Stationary cycling** is close behind, and it works through a simple mechanism. The circular pedaling motion keeps the knee moving through a limited, controlled arc and builds the quadriceps and hamstrings without significant joint compression. Seat height matters enormously: too low forces the knee into deep flexion and increases pressure; too high causes lateral rocking that stresses the iliotibial band. A good starting position is to set the seat so your knee has a slight bend (about 25 to 30 degrees) at the bottom of the pedal stroke. Keep resistance low at first. The goal is smooth rotation, not a leg-day workout that leaves you limping.
 
@@ -118,12 +117,11 @@ High-step stair climbing machines are another one to skip. The steep knee flexio
 - here is mixed when it comes to which specific exercise is "best
 - has consistently shown that quad weakness is both a predictor and a consequence
 
-
 Here's something the "gentle stretching only" crowd often gets wrong. Strength training, done correctly, is one of the most protective things an older adult with bad knees can do. The quadriceps specifically act as a shock absorber for the knee joint. Every pound of quad strength you build reduces joint load during walking. Research has consistently shown that quad weakness is both a predictor and a consequence of knee osteoarthritis progression.
 
 The evidence on progressive resistance training for older adults with knee pain is genuinely encouraging. A Cochrane review of 54 trials found that land-based exercise (which includes strength training) significantly reduced pain and improved physical function in knee osteoarthritis. The effect sizes are modest but real, and they accumulate over time.
 
-What surprises many of my clients is that they can start building meaningful strength without ever loading the knee in a painful position. The seated and supine exercises in the routine above are your on-ramp. Once those feel manageable, you can progress to standing work with support: chair-assisted shallow squats, step-ups to a low step, and terminal knee extensions with a resistance band. Always clear new exercises with your physical therapist or physician first, especially if you've had recent surgery or significant structural damage.
+It's possible to build meaningful strength without ever loading the knee in a painful position. The seated and supine exercises in the routine above are your on-ramp. Once those feel manageable, you can progress to standing work with support: chair-assisted shallow squats, step-ups to a low step, and terminal knee extensions with a resistance band. Always clear new exercises with your physical therapist or physician first, especially if you've had recent surgery or significant structural damage.
 
 ---
 

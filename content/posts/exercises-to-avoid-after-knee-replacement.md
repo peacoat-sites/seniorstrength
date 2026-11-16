@@ -58,13 +58,13 @@ Your physical therapist gives you a [protocol timed to tissue healing](/safe-exe
 
 **High-impact everything, full stop.** Running, jogging, jumping rope, plyometric circuits, high-impact aerobics, basketball, racquetball. The vertical ground reaction force during running hits roughly 2.5 times your body weight per step. For a 170-pound person, that's 425 pounds of force cycling through the implant with every stride. Repeatedly. The AAOS and most major orthopedic guidelines explicitly advise against running after TKR, not just during recovery, but permanently for most patients.
 
-You're probably thinking: "But I've seen people run after replacement." Yes, some do. The research on long-term outcomes for those patients is not reassuring. A 2019 study in the *Journal of Arthroplasty* followed runners who returned to jogging post-TKR and found meaningfully higher rates of implant revision compared to matched non-runners. That data point has stuck with me because the patients in that cohort largely felt fine right up until they didn't.
+You're probably thinking: "But I've seen people run after replacement." Yes, some do. The research on long-term outcomes for those patients is not reassuring. A 2019 study in the *Journal of Arthroplasty* followed runners who returned to jogging post-TKR and found meaningfully higher rates of implant revision compared to matched non-runners. The takeaway: patients in that study largely felt fine right up until they didn't.
 
 **Deep squats and full-range lunges.** This one surprises people. Squats are the go-to strength exercise, and the instinct to get back to them makes total sense. But a deep squat, below 90 degrees of knee flexion, puts the patellofemoral joint and the posterior aspect of the tibial insert under significant compressive stress. Early in recovery, when scar tissue is still remodeling, this can cause pain and swelling that derails progress. Later in recovery, repeated deep squatting accelerates wear on the back edge of that plastic spacer.
 
 Partial squats to about 90 degrees, done with control, are a different story. Those are usually on your approved list for good reason.
 
-**Leg press at full depth.** Same principle as deep squats. Physical therapy departments have leg press machines with range-of-motion stops for exactly this reason. At the gym? Most don't. I've watched clients load up a leg press, feel strong, and crank it all the way down because it "didn't hurt." The absence of pain is not a green light for full depth on a leg press after TKR.
+**Leg press at full depth.** Same principle as deep squats. Physical therapy departments have leg press machines with range-of-motion stops for exactly this reason. At the gym? Most don't. It's common to load up a leg press and crank it all the way down because it doesn't hurt. But the absence of pain is not a green light for full depth on a leg press after TKR.
 
 **Stair climbers and step mills.** These feel like responsible low-impact cardio. They're not. The step mill requires repetitive deep knee flexion under load, basically hundreds of mini-lunges per session. Many surgeons restrict stair climbers indefinitely post-TKR. If yours hasn't mentioned it, ask directly.
 
@@ -127,7 +127,6 @@ One more thing worth saying plainly: the guidance in this article reflects gener
 - Hospital for Special Surgery (HSS) Patient Education Resources: Activity and exercise guidance post-TKR, including sport-specific recommendations; current protocols verified 2026.
 
 ---
-
 
 *Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
 

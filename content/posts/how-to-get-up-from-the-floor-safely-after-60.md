@@ -81,7 +81,7 @@ The best long-term strategy is to keep a solid, stable chair accessible in any r
 
 If you genuinely cannot get up after a fall, and you're not injured in a way that makes movement dangerous, try this: crawl to the nearest sturdy piece of furniture and work through the sequence from there. Rooms that seem obstacle-heavy when you're standing are actually navigable when you're moving at floor level.
 
-If you can't get up and you're alone, use your phone. This is why I tell every client over 70 to have their phone on their person, not left on a counter. A medical alert device (something like a Life Alert or Apple Watch with fall detection) is worth every penny if you live alone. I've had clients who lay on the floor for six or more hours before someone found them. That's not a fall injury. That's a preventable catastrophe.
+If you can't get up and you're alone, use your phone. Keeping your phone on your person rather than left on a counter is important for this reason. A medical alert device (something like a Life Alert or Apple Watch with fall detection) is worth every penny if you live alone. That's not a fall injury. That's a preventable catastrophe.
 
 And if you've been on the floor for more than 15 minutes and can't get up, call 911. Not because you're dying, but because the muscle damage from prolonged floor contact (a condition called rhabdomyolysis) can cause serious kidney damage. This isn't common knowledge and most people wait far too long.
 
@@ -92,7 +92,6 @@ And if you've been on the floor for more than 15 minutes and can't get up, call 
 ## Sources
 
 - [Yan Krukau](https://www.pexels.com/@yankrukov)
-
 
 Here's where I'll lose some of you, but hear me out. Most fall prevention programs focus entirely on preventing the fall. Almost none of them teach you what to do while you're falling. This is backwards.
 

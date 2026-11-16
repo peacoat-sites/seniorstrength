@@ -16,7 +16,7 @@ affiliate_disclosure: true
 
 Arthritis affects roughly 58.5 million American adults, and a significant portion of them have been told, at some point, to "take it easy." I understand where that advice comes from. But after years of working with people in their 60s, 70s, and 80s, I can tell you that "taking it easy" is often the worst thing you can do for arthritic joints. Movement, done right, is medicine.
 
-You might be wondering whether exercise will make your pain worse. That fear is completely reasonable. And honestly, it kept me from pushing back on that conventional wisdom for longer than I should have. The turning point came when I started tracking outcomes more carefully with my clients and realized that the ones who moved consistently, even gently, reported less stiffness, better sleep, and fewer days where the pain stopped them from doing what they wanted. The ones who rested more? They often declined faster. A 2019 Cochrane systematic review of land-based exercise for osteoarthritis of the knee found that exercise reduced pain and improved physical function with effects comparable to some NSAID medications. Read that again. Comparable to medication.
+You might be wondering whether exercise will make your pain worse. That fear is completely reasonable. People who move consistently, even gently, often report less stiffness, better sleep, and fewer days where pain stops them from doing what they want. Those who rest more tend to decline faster. A 2019 Cochrane systematic review of land-based exercise for osteoarthritis of the knee found that exercise reduced pain and improved physical function with effects comparable to some NSAID medications. Read that again. Comparable to medication.
 
 That doesn't mean you should go sign up for a boot camp. There's a real difference between the right exercise and the wrong exercise for arthritic joints, and that difference matters enormously.
 
@@ -38,7 +38,7 @@ One thing people don't expect: warm water works better than cold. The temperatur
 
 **Chair-based and seated strength work** is the second thing I'd introduce. Not because you're fragile, but because it's smart to build a stable foundation before adding standing load. Seated leg raises, ankle pumps, and seated marching all activate the muscles around the hip and knee without putting significant weight through the joints. From there, wall squats (where your back is against the wall and you slide down only a few inches) are a great bridge to more functional movement.
 
-**Tai chi** has more research behind it than most people realize. A 2020 study published in *Annals of Internal Medicine* followed 204 adults with knee osteoarthritis and found that tai chi produced equivalent pain relief to physical therapy after 12 weeks. It's also been shown to improve balance significantly, which matters because falls are a leading cause of serious injury in adults over 65. I've seen clients who were skeptical walk into a beginner tai chi class and come back three months later moving better than they had in years.
+**Tai chi** has more research behind it than most people realize. A 2020 study published in *Annals of Internal Medicine* followed 204 adults with knee osteoarthritis and found that tai chi produced equivalent pain relief to physical therapy after 12 weeks. It's also been shown to improve balance significantly, which matters because falls are a leading cause of serious injury in adults over 65.
 
 **Walking** is good, with caveats. If your pain is well-controlled, walking on flat surfaces, with supportive footwear, is beneficial. Asphalt is softer than concrete. Trails with slight give are better than sidewalks. Uneven terrain, hills, and long distances are things to build toward, not start with. And if you're having a flare, skip the walk and do seated range-of-motion work instead. Pushing through a significant flare is one of the most common mistakes I see.
 
@@ -73,7 +73,7 @@ Here's a comparison of common exercise types that work well for arthritis, so yo
 | Cycling (stationary or outdoor) | Low to moderate | Knee and hip mobility | 3-4x/week | $25/month (gym) to $300+ (home bike) |
 | Yoga (gentle/chair yoga) | Low | Flexibility, spinal arthritis | 2-3x/week | Free (YouTube) to $60/month |
 
-A practical approach I've used with clients: start with two days per week of any activity on this list, keep sessions to 20 minutes, and stay below a 4 out of 10 on the pain scale. After two weeks of consistency, add a third day. After a month, assess honestly whether you're moving better, whether the morning stiffness is taking less time to ease up, whether you're climbing stairs with less hesitation.
+A practical starting point: two days per week of any activity on this list, sessions of 20 minutes, staying below a 4 out of 10 on the pain scale. After two weeks of consistency, add a third day. After a month, assess honestly whether you're moving better, whether the morning stiffness is taking less time to ease up, whether you're climbing stairs with less hesitation.
 
 Take Margaret, a 71-year-old I worked with who had bilateral knee osteoarthritis and had largely stopped moving because every attempt to "exercise" left her sore for days. We started with 15 minutes of chair exercises and two days of warm-water walking at a local YMCA. Twelve weeks in, she had reduced her resting pain from a 5 to a 2, dropped about 8 pounds (which takes significant compressive load off the knees), and was walking to her mailbox and back without thinking twice about it. Nothing dramatic. Just consistent, appropriate movement.
 
@@ -85,7 +85,7 @@ A flare happens. Inflammation spikes, pain goes up, everything feels harder. The
 
 Here's what actually works during a flare: switch to range-of-motion and gentle mobility work only. Seated ankle pumps, gentle wrist circles, neck rolls, lying knee-to-chest stretches. These maintain circulation and keep the joints moving without adding load or intensity. Five to ten minutes, twice a day, during the worst of it. When the flare settles, you haven't lost your baseline and you can ease back into your regular routine within a few days rather than weeks.
 
-Ice vs. heat is worth addressing because people get this wrong more often than not. During an active flare with swelling, ice (20 minutes on, 20 off) helps manage inflammation. For stiffness without active swelling, heat before exercise loosens things up. Many of my clients benefit from a warm shower or heating pad on stiff joints before their morning exercise session, which makes the first five minutes far less miserable.
+Ice vs. heat is worth addressing because people get this wrong more often than not. During an active flare with swelling, ice (20 minutes on, 20 off) helps manage inflammation. For stiffness without active swelling, heat before exercise loosens things up. A warm shower or heating pad on stiff joints before morning exercise can make the first few minutes easier to tolerate.
 
 ## Sources
 
@@ -113,7 +113,7 @@ Most people report less morning stiffness and modest pain improvement within fou
 
 #### Should I take pain medication before exercising to get through the workout?
 
-Honestly, I'd be careful with this. Taking pain medication before exercise can mask warning signals your body sends, which increases the risk of overdoing it and causing a worse flare afterward. If pain is so severe that you need medication just to exercise at all, that's a conversation to have with your doctor about whether your overall pain management plan needs adjustment.
+I'd be careful with this. Taking pain medication before exercise can mask warning signals your body sends, which increases the risk of overdoing it and causing a worse flare afterward. If pain is so severe that you need medication just to exercise at all, that's a conversation to have with your doctor about whether your overall pain management plan needs adjustment.
 
 #### Is swimming the best exercise for arthritis?
 

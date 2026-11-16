@@ -20,9 +20,7 @@ The sweet spot, it turns out, is 90 to 119 minutes of [strength training](/stren
 
 I'll be honest, the neurological disease finding stopped me in my tracks. A 27% reduction is a striking number, and the research here is still evolving in terms of *why* resistance training affects neurological mortality. But the signal is strong enough to take seriously.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">90–119 minutes of strength training weekly linked to 13% lower all-cause mortality risk</li><li style="margin:5px 0">Cardiovascular death risk dropped 19%; neurological disease death risk dropped 27%</li><li style="margin:5px 0">No extra mortality benefit was found above 120 minutes per week</li><li style="margin:5px 0">Combining resistance training with aerobic exercise amplified benefits</li><li style="margin:5px 0">Study participants averaged 54 years old, making findings directly relevant to adults 60+</li></ul></div>
-
 
 ## What These Numbers Actually Mean for Someone Over 60
 
@@ -34,13 +32,11 @@ The participants were, on average, 54 years old when they enrolled, meaning a si
 
 One of the findings that got less attention in the headlines is the combination effect. The mortality benefit was amplified when resistance training was paired with aerobic exercise. Not replaced by it. Paired with it. The Harvard data suggests a hybrid weekly routine, some strength work, some cardio, produces better outcomes than either alone.
 
-This lines up with what I've seen working with older adults over the years. The clients who do best aren't the ones obsessing over one type of exercise. They're the ones who lift twice a week, walk most days, and maybe do a water aerobics class on Fridays. The body responds to variety. Balance, bone density, cardiovascular efficiency, and muscle mass all have different demands, and no single modality fully covers all of them.
+In practice, older adults who do well with exercise aren't the ones obsessing over one type of activity. A typical effective routine might include lifting twice a week, walking most days, and perhaps a water aerobics class once a week. Variety in exercise produces better results. Balance, bone density, cardiovascular efficiency, and muscle mass all have different demands, and no single modality fully covers all of them.
 
 Here's a simple breakdown of what the research suggests in terms of protective effect by training dose:
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">All-cause mortality risk reduction by weekly strength training dose</div><div class="sc-row"><span class="sc-label">1–59 min/week</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">5%</span></div><div class="sc-row"><span class="sc-label">60–89 min/week</span><span class="sc-track"><span class="sc-bar" style="width:69%"></span></span><span class="sc-val">9%</span></div><div class="sc-row"><span class="sc-label">90–119 min/week</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">13%</span></div><div class="sc-row"><span class="sc-label">120+ min/week</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">13%</span></div><div class="sc-src">Source: Harvard / British Journal of Sports Medicine, June 2026</div></div>
-
 
 The plateau at 120 minutes is the part worth paying attention to. The 90 to 119 range gets you essentially the same protective effect as going longer, without the added recovery burden, which for adults over 60 is not a small consideration.
 

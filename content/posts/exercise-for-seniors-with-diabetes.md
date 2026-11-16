@@ -91,7 +91,7 @@ General exercise safety advice for seniors is widely available. The diabetes-spe
 
 ## Working With Your Healthcare Team: The Conversation Most People Skip
 
-I've seen clients spend months adjusting their exercise routine on their own, frustrated that results are inconsistent, when a single conversation with their endocrinologist or diabetes educator would have unlocked the whole thing. If you're on insulin or a medication that carries hypoglycemia risk, your care team can help you adjust timing, dosing, or both around your workouts. This isn't a sign of weakness or over-dependence. It's just competent management.
+Many people adjust their exercise routine on their own for months, frustrated by inconsistent results, when a conversation with an endocrinologist or diabetes educator could clarify the approach. If you're on insulin or a medication that carries hypoglycemia risk, your care team can help you adjust timing, dosing, or both around your workouts. This isn't a sign of weakness or over-dependence. It's just competent management.
 
 Specifically, ask about:
 
@@ -117,7 +117,6 @@ Managing diabetes with exercise isn't complicated, but it does require more prec
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - behind it is solid
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

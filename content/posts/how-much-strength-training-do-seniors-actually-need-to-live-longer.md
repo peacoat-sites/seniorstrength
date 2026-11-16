@@ -34,7 +34,7 @@ On June 2, 2026, a Harvard T.H. Chan School of Public Health study tracking 147,
 
 Let's be specific, because the specifics are what make this worth paying attention to.
 
-That 90 to 119 minute weekly range was associated with a 13% lower risk of all-cause mortality, a 19% lower risk of dying from cardiovascular disease, and a 27% lower risk of dying from neurological diseases, including dementia. That last number stops a lot of my clients cold. Most people think of strength training as something for their muscles and bones. They don't realize it also appears to have a measurable protective relationship with brain health.
+That 90 to 119 minute weekly range was associated with a 13% lower risk of all-cause mortality, a 19% lower risk of dying from cardiovascular disease, and a 27% lower risk of dying from neurological diseases, including dementia. Most people think of strength training as something for their muscles and bones. They don't realize it also appears to have a measurable protective relationship with brain health.
 
 The most powerful finding of all, though, was what happened when researchers combined high aerobic activity with 60 to 119 minutes of weekly strength training. That combination was linked to a 45% lower risk of death compared to people doing neither. Forty-five percent. That's not a marginal improvement in your health profile. That's a fundamentally different trajectory.
 
@@ -46,7 +46,7 @@ The Harvard study wasn't working alone. A separate analysis published in *JAMA N
 
 I want you to sit with that for a second. Even without hitting the cardio targets, functional strength alone was strongly predictive of survival.
 
-Grip strength and the ability to rise from a chair aren't glamorous metrics. They don't show up on anyone's fitness influencer feed. But I've spent years watching what actually predicts who stays independent and who doesn't, and these two things come up over and over again. Can you open a jar? Can you get off the floor? Can you rise from a chair without pushing off the armrests? These aren't trivial party tricks. They're proxies for whole-body neuromuscular function, and the JAMA data tells us they're connected to how long you live.
+Grip strength and the ability to rise from a chair aren't glamorous metrics. They don't show up on anyone's fitness influencer feed. These metrics consistently predict who maintains independence. Can you open a jar? Can you get off the floor? Can you rise from a chair without pushing off the armrests? These aren't trivial party tricks. They're proxies for whole-body neuromuscular function, and the JAMA data tells us they're connected to how long you live.
 
 If you're looking for simple targets to work toward, talk to your doctor or a physical therapist about baseline testing. Both grip strength and chair-stand speed can be measured easily and tracked over time.
 
@@ -64,11 +64,11 @@ This is not a how-to list, because your specific situation deserves a real asses
 
 Ninety minutes across a week is three 30-minute sessions, or six 15-minute sessions, or some other combination that fits your life. The research doesn't specify a single format. What matters is accumulation. Bodyweight exercises, resistance bands, light dumbbells, machines, water resistance classes, all of these count. The goal is progressive resistance, meaning over time, you're asking your muscles to do slightly more than they did before. That principle doesn't require a barbell.
 
-I've seen people in their 70s and 80s make genuinely significant strength gains starting from almost nothing. The body responds at any age. It just requires consistency, appropriate load, and enough recovery time. If you have joint issues, osteoporosis, recent surgery, or any cardiovascular concerns, please get clearance from your physician and ideally work with a physical therapist or certified trainer experienced with older adults before starting or significantly changing your routine. The research shows what's possible. A professional can help you find what's appropriate for your specific body.
+People in their 70s and 80s can make significant strength gains starting from almost nothing. The body responds at any age. It just requires consistency, appropriate load, and enough recovery time. If you have joint issues, osteoporosis, recent surgery, or any cardiovascular concerns, please get clearance from your physician and ideally work with a physical therapist or certified trainer experienced with older adults before starting or significantly changing your routine. The research shows what's possible. A professional can help you find what's appropriate for your specific body.
 
 ## The Frustration Is Real, But So Is the Path Forward
 
-I know how many of my clients have waded through contradictory advice over the years. Do yoga. No, lift heavy. Don't lift heavy, you'll hurt yourself. Walk 10,000 steps. Actually, steps don't matter as much as intensity. It's exhausting, and it makes people give up before they start.
+Contradictory fitness advice is common. Do yoga. No, lift heavy. Don't lift heavy, you'll hurt yourself. Walk 10,000 steps. Actually, steps don't matter as much as intensity. It's exhausting, and it makes people give up before they start.
 
 What this Harvard study offers, more than anything, is clarity. Not a magic number that works identically for every person, but a credible, data-backed range that's genuinely achievable. Fifteen minutes a day. Three sessions a week. Movements that build your ability to get off the floor, carry groceries, and live without help.
 

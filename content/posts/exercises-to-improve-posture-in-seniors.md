@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Most people assume bad posture in older adults is just gravity winning. I used to think that too. Then I spent a few months going deep on the actual biomechanics, reviewed a stack of research going back to a 2003 landmark study in the *Journal of Bone and Mineral Research* on spinal curvature and mortality risk, and started paying closer attention to what was actually happening with the clients I was seeing in their 60s, 70s, and 80s. What I found changed how I think about this almost completely.
 
-Here's the thing nobody tells you: most of the posture decline we associate with aging isn't inevitable. A significant portion of it is *disuse*. The muscles that hold you upright, specifically the deep cervical flexors in your neck, the thoracic extensors along your upper back, and your hip flexors and glutes, these muscles respond to training at any age. A 2017 study published in *Age and Ageing* found meaningful improvements in spinal alignment in adults over 65 after just eight weeks of targeted resistance and flexibility work. Eight weeks. That's not a long time.
+Most of the posture decline we associate with aging isn't inevitable. A significant portion of it is *disuse*. The muscles that hold you upright, specifically the deep cervical flexors in your neck, the thoracic extensors along your upper back, and your hip flexors and glutes, these muscles respond to training at any age. A 2017 study published in *Age and Ageing* found meaningful improvements in spinal alignment in adults over 65 after just eight weeks of targeted resistance and flexibility work. Eight weeks. That's not a long time.
 
 What surprised me was how wrong the standard advice usually is. Most "posture exercises" content aimed at seniors is either too vague ("stand up straight, do some stretches") or pulled directly from programs designed for 30-year-old office workers. The mechanics are different when you're older. Tissue elasticity changes. The risk profile for certain movements shifts. And the patterns that caused the problem in the first place, decades of specific habits and compensations, require a more specific response.
 
@@ -59,7 +59,7 @@ Underrated doesn't begin to cover it. Genuinely one of the highest-value, lowest
 
 Sit or stand tall. Without tilting your head up or down, gently draw your chin straight back, creating a "double chin." Hold for 3-5 seconds. Release. The motion is horizontal, not a nod. Think of it as sliding your head backward on a shelf.
 
-Do 10 reps, several times a day. You can do these while watching television. I've had clients who did them at every red light while driving. The frequency matters more than the intensity here.
+Do 10 reps, several times a day. You can do these while watching television. These exercises fit easily into daily routines, like doing them at every red light while driving. The frequency matters more than the intensity here.
 
 ### Thoracic Extension Over a Foam Roller
 
@@ -97,7 +97,7 @@ Here's where I'll be blunt. The research on exercise adherence in older adults i
 
 What actually helps: anchor these exercises to something you're already doing. Chin tucks while watching the morning news. Wall angels right after you brush your teeth. Foam roller work during your pre-bed wind-down. The exercises themselves take less than 20 minutes total. It's the forgetting that kills progress, not the effort.
 
-Posture work is slow, sometimes tedious, and the payoff isn't always obvious in the mirror right away. But the downstream effects, reduced neck and back pain, better breathing mechanics, lower fall risk, even improved confidence and mood, these show up consistently in people who stick with it. I've watched clients in their late 70s genuinely transform how they carry themselves over the course of a few months. It's not magic. It's just specific, consistent work in the right places.
+Posture work is slow, sometimes tedious, and the payoff isn't always obvious in the mirror right away. But the downstream effects, reduced neck and back pain, better breathing mechanics, lower fall risk, even improved confidence and mood, these show up consistently in people who stick with it. It's not magic. It's just specific, consistent work in the right places.
 
 Start with two or three of these exercises. Master those before adding more. And if you're not sure where your particular pattern of muscle weakness or tightness is worst, a single session with a physical therapist for a postural assessment is money well spent.
 
@@ -116,7 +116,6 @@ Start with two or three of these exercises. Master those before adding more. And
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - going back to a 2003 landmark study in the *Journal of Bone and Mineral Research
 - published in *Age and Ageing* found meaningful improvements in spinal alignment
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

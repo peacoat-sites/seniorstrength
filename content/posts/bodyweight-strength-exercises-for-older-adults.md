@@ -35,7 +35,7 @@ Muscle grows when it's placed under enough tension to trigger repair and adaptat
 
 For older adults specifically, bodyweight training has real advantages over dumbbells or machines. There's no equipment to purchase, store, or drop on your foot. The movements mirror daily life, so the strength you build transfers directly to getting up from a sofa, reaching overhead, or stepping up a curb. And because you're moving your own body through space, your nervous system and balance systems get trained alongside your muscles. A leg press machine can't do that.
 
-I've worked with clients in their 70s and 80s who assumed their window for building strength had closed. Within eight to twelve weeks of consistent bodyweight training, most of them were moving with noticeably more confidence. Not because we did anything extreme, but because we were consistent and progressive.
+Many people in their 70s and 80s assume their window for building strength has closed. Consistent bodyweight training over eight to twelve weeks can lead to noticeably more confident movement. The key isn't doing anything extreme, but rather staying consistent and gradually progressing.
 
 ## The Foundational Movements: What to Focus On
 
@@ -93,7 +93,7 @@ The good news: bodyweight exercise offers many ways to increase difficulty witho
 
 **Reduce your base of support.** Going from two feet to one foot, or from a wide stance to a narrow one, dramatically increases balance and muscular demands.
 
-**Change the leverage.** Push-ups progress from wall, to countertop, to table, to chair, and eventually to the floor. Each step increases how much of your bodyweight you're lifting.
+**Adjust the difficulty.** Push-ups progress from wall, to countertop, to table, to chair, and eventually to the floor. Each step increases how much of your bodyweight you're lifting.
 
 **Add pauses.** Pausing at the hardest point of a movement, halfway down in a squat, for instance, eliminates momentum and forces your muscles to work harder.
 
@@ -107,7 +107,6 @@ Revisit your routine every three to four weeks and introduce at least one of the
 
 - [Maksim Goncharenok](https://www.pexels.com/@maksgelatin)
 - consistently shows that strength training can reverse meaningful amounts of that
-
 
 Strength is built during recovery, not during exercise. This is true at every age, but it becomes more significant after 60 because recovery processes slow down. Muscles need adequate protein to rebuild. The American College of Sports Medicine recommends that older adults aim for 1.0 to 1.2 grams of protein per kilogram of body weight daily, and spreading protein intake across meals rather than concentrating it at dinner produces better muscle synthesis.
 

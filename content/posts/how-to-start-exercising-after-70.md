@@ -97,7 +97,6 @@ I want to be honest here: progress isn't always linear. Some weeks feel like reg
 - backs this up
 - from the National Institute on Aging
 
-
 A lot of people feel intimidated walking into a commercial gym at 70. Some gyms aren't set up to be welcoming or safe for older adults, and that's real. I don't want to brush past it.
 
 But if you do want to use a gym, specifically look for one with a dedicated senior programming track or that participates in Silver Sneakers. Many YMCAs are genuinely well-equipped for this, and their senior-specific classes tend to be staffed by instructors who understand older adult physiology. A few sessions with a certified personal trainer who has a specific credential in older adult fitness (look for the NASM Certified Senior Fitness Specialist or ACSM credential) can be worth every dollar, particularly in the first month.
@@ -108,7 +107,7 @@ What I'd steer most people away from: expensive in-home fitness equipment in the
 
 ---
 
-Starting at 70 is not starting too late. I've worked with people who began serious strength training at 74 and were climbing hiking trails two years later. The body adapts at every age. It just needs to be asked the right way, in the right amount, consistently enough that the adaptations have time to stick. Start easier than you think you need to, show up more often than feels necessary, and give it three months before you judge anything.
+Starting at 70 is not starting too late. The body adapts at every age. It just needs to be asked the right way, in the right amount, consistently enough that the adaptations have time to stick. Start easier than you think you need to, show up more often than feels necessary, and give it three months before you judge anything.
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

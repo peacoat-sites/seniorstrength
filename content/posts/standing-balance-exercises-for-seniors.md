@@ -29,7 +29,7 @@ Most people come to me after a fall, or after a close call, or after watching so
 
 It's not. I say that to almost everyone who sits down with me, and I mean it almost every time.
 
-Balance is trainable at any age. That's not just encouragement, it's physiology. A 2015 study in the British Journal of Sports Medicine followed adults in their 60s and 70s through a 12-week balance training program and found statistically significant improvements in both static and dynamic balance across the board. A 2019 paper in JAMA Internal Medicine confirmed that targeted [balance exercises](/standing-balance-exercises-seniors-can-do-holding-a-chair/) reduce fall risk by roughly 23% in community-dwelling older adults. These aren't people who started young. They started where you might be starting right now.
+Balance is trainable at any age. Research in the British Journal of Sports Medicine found statistically significant improvements in both static and dynamic balance in adults in their 60s and 70s after a 12-week balance training program. A 2019 paper in JAMA Internal Medicine confirmed that targeted [balance exercises](/standing-balance-exercises-seniors-can-do-holding-a-chair/) reduce fall risk by roughly 23% in community-dwelling older adults.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Balance training reduces fall risk by ~23% in older adults, per JAMA Internal Medicine research.</li><li style="margin:5px 0">Standing exercises outperform seated ones for real-world balance improvement.</li><li style="margin:5px 0">You can see measurable gains in 4-6 weeks with 3 sessions per week.</li><li style="margin:5px 0">A sturdy chair or countertop is all the equipment you genuinely need to start safely.</li><li style="margin:5px 0">Progression matters more than intensity, tiny increases week over week beat occasional hard sessions.</li></ul></div>
 
@@ -37,7 +37,7 @@ Balance is trainable at any age. That's not just encouragement, it's physiology.
 
 Here's what I tell people who ask about chair-based balance work: it has its place, especially early in recovery or with very [limited mobility](/bed-exercises-for-elderly-with-limited-mobility/), but it doesn't transfer the way standing work does. Your balance system learns in the context you train it. If you want to feel steadier walking to the kitchen at 2am, you have to train on your feet.
 
-The body's balance system pulls from three sources at once: your inner ear (vestibular), your vision, and the sensory receptors in your feet and ankles called proprioceptors. Proprioception is the one most people over 60 have quietly lost ground on, and it's also the one most directly trained by standing exercises. You actually feel this when you try standing on one foot with your eyes closed. Most of my clients are surprised by how hard that is the first time.
+The body's balance system pulls from three sources at once: your inner ear (vestibular), your vision, and the sensory receptors in your feet and ankles called proprioceptors. Proprioception is the one most people over 60 have quietly lost ground on, and it's also the one most directly trained by standing exercises. You actually feel this when you try standing on one foot with your eyes closed.
 
 I made the mistake for years of jumping clients straight into single-leg work before their ankles could handle it. The wobble would spike their anxiety, they'd grip the chair so hard their knuckles went white, and they'd leave feeling worse about themselves. Now I always start with tandem stance, feet staggered, heel to toe, before anything involving one foot off the ground. Takes longer. Works better.
 
@@ -66,9 +66,9 @@ Three things, in my experience.
 
 Frequency beats duration. Thirty minutes three times a week is dramatically better than 90 minutes once a week, for balance in particular. The nervous system consolidates these motor patterns during rest, so you need the repetition across days, not just across a single long session.
 
-Surface variety matters more than most guides acknowledge. Once you're stable on a flat floor, try standing on a folded yoga mat or a balance pad. (The AIREX Balance Pad is the one I've used in my practice for years, runs around $50 on Amazon and holds up forever.) The slightly unstable surface amplifies proprioceptive feedback without dramatically increasing fall risk, if you have your chair nearby.
+Surface variety matters more than most guides acknowledge. Once you're stable on a flat floor, try standing on a folded yoga mat or a balance pad. Balance pads like the AIREX Balance Pad (around $50) provide slightly unstable surfaces that amplify proprioceptive feedback without dramatically increasing fall risk if you have your chair nearby.
 
-Anxiety is a real obstacle, not just a mindset issue. When someone is frightened of falling, their muscles actually tense up in ways that reduce coordination. I've seen clients who were technically capable of single-leg stance but couldn't execute it because fear was overriding their motor output. If this sounds like you, starting with both hands on a counter rather than fingertips on a chair isn't failure. It's meeting your nervous system where it is.
+Anxiety is a real obstacle, not just a mindset issue. When someone is frightened of falling, their muscles actually tense up in ways that reduce coordination, sometimes preventing execution of movements that are otherwise physically possible. If this sounds like you, starting with both hands on a counter rather than fingertips on a chair isn't failure. It's meeting your nervous system where it is.
 
 ## Realistic Timelines and What to Expect
 
@@ -81,7 +81,7 @@ Here's a rough breakdown based on what I typically see working with adults in th
 | Post-rehab, rebuilding after fall | 4-6 weeks | 8-10 weeks | Work with PT alongside this program |
 | Active but wanting to improve | 1-2 weeks | 3-4 weeks | Vary eye position, add dual-task |
 
-One real-world example from my practice: a 71-year-old client named Margaret came to me six months after a hip replacement, still holding the wall when she walked down her hallway. After six weeks of three-sessions-per-week standing balance work (tandem stance to single-leg, plus daily heel raises) she completed a tandem walk test without needing the wall alongside her. Small number, huge life change.
+For example, someone six months post-hip replacement who needs wall support for hallway walks might progress through six weeks of regular standing balance work (tandem stance to single-leg, plus daily heel raises) to walk without that support, a significant functional gain.
 
 Another: a 68-year-old retired teacher, Robert, was taking amlodipine for blood pressure and didn't realize it was contributing to lightheadedness during balance work. Once we flagged it with his doctor and adjusted to morning sessions after medication timing shifted, he progressed from dependent on chair grip to eyes-closed single-leg stance within eight weeks.
 

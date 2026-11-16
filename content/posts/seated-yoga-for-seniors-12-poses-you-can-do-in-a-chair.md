@@ -26,7 +26,7 @@ Whether you're brand new to yoga or returning after years away, these 12 chair-b
 
 ## Why Chair Yoga Is Perfect for Older Adults
 
-Here's the thing: chair yoga isn't a watered-down version of "real" yoga. It's a smart adaptation that actually works better for most people over 60. Research consistently shows that regular yoga practice improves flexibility, reduces joint pain, lowers stress levels, and even supports better sleep.
+Chair yoga isn't a watered-down version of "real" yoga. It's a smart adaptation that actually works better for most people over 60. Research consistently shows that regular yoga practice improves flexibility, reduces joint pain, lowers stress levels, and even supports better sleep.
 
 For older adults, the chair provides stability and support, which dramatically reduces your risk of falling. It also makes yoga accessible if you're [managing arthritis, osteoporosis](/best-low-impact-exercises-for-seniors-with-arthritis/), or recovering from surgery or injury.
 

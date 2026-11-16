@@ -31,17 +31,15 @@ Here's what the research actually shows: regular aerobic exercise can lower rest
 
 The catch is that exercise can also temporarily spike blood pressure quite high, and doing the wrong type, or the right type done wrong, creates real risk. Knowing which moves to make and which to avoid is the whole game.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Aerobic exercise at moderate intensity (RPE 5-6 out of 10) lowers resting blood pressure by 5-8 mmHg on average.</li><li style="margin:5px 0">Blood pressure above 180/110 at rest means skip training that day and call your doctor.</li><li style="margin:5px 0">Isometric holds (like planks) and heavy Valsalva-maneuver lifting can spike BP dangerously, know the alternatives.</li><li style="margin:5px 0">A 10-minute warmup isn't optional with hypertension; skipping it is where most incidents happen.</li><li style="margin:5px 0">Check BP before and 10-15 minutes after exercise to learn your personal response pattern.</li></ul></div>
-
 
 ## What Your Blood Pressure Actually Does During Exercise
 
-Most people assume exercise is either safe or dangerous with hypertension. The reality is more granular.
+Most people assume exercise is either safe or dangerous with hypertension. The actual situation is more nuanced.
 
 During aerobic exercise, your systolic pressure rises (sometimes to 160-180 mmHg, which is normal and expected), while diastolic stays relatively stable or even drops slightly. That temporary spike is not the problem. The problem is when systolic climbs past 220 or diastolic past 100 during moderate effort, a condition called an exaggerated exercise blood pressure response. A 2018 study in *Hypertension* found that people with this response had significantly elevated cardiovascular risk even if their resting BP was controlled.
 
-The other pressure spike to know about is the Valsalva response. When you hold your breath and strain, the way many people do during heavy resistance training, blood pressure can spike to 300/200 mmHg or higher. I've watched this happen, and while healthy younger adults tolerate it, in someone over 60 with existing hypertension it's a very different situation.
+The other pressure spike to know about is the Valsalva response. When you hold your breath and strain during heavy resistance training, blood pressure can spike to 300/200 mmHg or higher. Healthy younger adults may tolerate this, but in someone over 60 with existing hypertension it poses greater risk.
 
 So the goal isn't avoiding blood pressure increases [during exercise](/how-to-protect-joints-during-exercise-seniors/). It's controlling the type, magnitude, and duration of those increases.
 
@@ -51,15 +49,13 @@ Not all exercise is created equal here, so let me rank them plainly.
 
 **Best: Moderate aerobic activity.** Walking, cycling, swimming, water aerobics, dancing. These produce the sustained BP-lowering adaptations shown in the research, and the temporary spikes are manageable. Aim for 150 minutes per week at moderate intensity. If you're using a heart rate monitor, that's roughly 50-70% of your max HR, or a rate of perceived exertion (RPE) of 5-6 out of 10 (the "I can still hold a conversation" test).
 
-**Good, with modifications: Resistance training.** This one surprises people. Strength training done correctly, meaning moderate loads, controlled breathing, no breath-holding, doesn't significantly elevate resting BP and actually improves metabolic factors that help manage hypertension long-term. The key is lighter loads (think 12-20 reps per set rather than 4-6) and exhaling on the exertion phase. When I first learned this, I pushed back on it. I'd been taught to think of weightlifting as risky for hypertensive clients across the board. But the evidence changed my mind: a 2016 meta-analysis in the *Journal of Human Hypertension* found that dynamic resistance training reduced resting systolic BP by about 1.8 mmHg and diastolic by 3.2 mmHg. Modest, but real.
+**Good, with modifications: Resistance training.** Strength training done correctly, meaning moderate loads, controlled breathing, and no breath-holding, doesn't significantly elevate resting BP and can improve metabolic factors that help manage hypertension long-term. The key is lighter loads (think 12-20 reps per set rather than 4-6) and exhaling on the exertion phase. A 2016 meta-analysis in the *Journal of Human Hypertension* found that dynamic resistance training reduced resting systolic BP by about 1.8 mmHg and diastolic by 3.2 mmHg. Modest, but real.
 
 **Avoid or modify: Isometric exercises.** This is the one most trainers don't flag clearly enough. Static holds, wall sits, planks held for extended periods, any exercise where you're contracting muscle without movement, produce disproportionate BP spikes compared to dynamic exercise. Counterintuitive, right? A plank feels easier than a squat. But the sustained muscular contraction compresses blood vessels and drives pressure up. I'm not saying never do a plank. I'm saying if you're going to hold one, keep it under 20 seconds per set and monitor how you feel.
 
 **Avoid: Very heavy maximal lifting.** One-rep maxes, competitive powerlifting-style training, and anything where the Valsalva maneuver is the default breathing pattern. This one's pretty straightforward.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average resting BP reduction by exercise type (mmHg systolic)</div><div class="sc-row"><span class="sc-label">Aerobic (moderate)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">7 mmHg</span></div><div class="sc-row"><span class="sc-label">Resistance training</span><span class="sc-track"><span class="sc-bar" style="width:29%"></span></span><span class="sc-val">2 mmHg</span></div><div class="sc-row"><span class="sc-label">Combined aerobic + resistance</span><span class="sc-track"><span class="sc-bar" style="width:86%"></span></span><span class="sc-val">6 mmHg</span></div><div class="sc-row"><span class="sc-label">Isometric (cautious protocol)</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">5 mmHg</span></div><div class="sc-src">Source: ACSM/AHA meta-analyses, current as of 2026</div></div>
-
 
 ## The Numbers That Should Stop You
 
@@ -107,7 +103,6 @@ Some calcium channel blockers can cause ankle swelling that worsens with heat an
 - Mayo Clinic: Blood pressure medications and exercise interactions reference guide. Practical drug-exercise interaction summaries.
 
 ---
-
 
 *Photo: [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto) via Pexels*
 

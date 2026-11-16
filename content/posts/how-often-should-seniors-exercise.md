@@ -54,7 +54,7 @@ Lumping all exercise into one category is the fastest way to get a useless answe
 
 **Resistance training** (weights, resistance bands, bodyweight): Two to three days a week, with at least 48 hours between sessions targeting the same muscle groups. This is non-negotiable if you care about maintaining independence. Muscle loss after 60 accelerates sharply, a process called sarcopenia. You can lose 3 to 5 percent of muscle mass per decade after 30, with the bleeding accelerating after 60. Resistance training is the single most effective countermeasure. Two days is the minimum. Three is the sweet spot for most people.
 
-**Balance training**: Daily, or close to it. Balance work is low-intensity, requires almost no recovery time, and the payoff in fall prevention is enormous. I've seen clients go from white-knuckling the grab bar to standing on one leg for 30 seconds in eight weeks, just by adding five minutes of balance exercises to their morning routine. Standing hip abductions, heel-to-toe walking, single-leg stance work. No equipment required.
+**Balance training**: Daily, or close to it. Balance work is low-intensity, requires almost no recovery time, and the payoff in fall prevention is enormous. Adding five minutes of balance exercises to a morning routine can yield noticeable improvements in stability within weeks. Standing hip abductions, heel-to-toe walking, single-leg stance work. No equipment required.
 
 **Flexibility and mobility work** (stretching, yoga, tai chi): Daily is ideal, though three to four times per week produces measurable improvement in joint range of motion. Hip flexor tightness and thoracic stiffness are two of the biggest contributors to fall risk and lower back pain in older adults. A daily ten-minute stretching routine addresses both and doubles as active recovery between harder training days.
 
@@ -96,7 +96,7 @@ Starting from a deconditioned baseline, your first priority isn't frequency. It'
 
 A smarter starting point for most deconditioned adults: one day of resistance training, two to three days of 20-minute walks, and daily balance work for the first two weeks. Let your connective tissue and joints catch up to your motivation. Add a second resistance day in week three if week two felt manageable, not just survivable. Patience here isn't weakness. It's just math: slow ramp-up versus injury setback isn't a close contest.
 
-I've worked with clients who started with chair-assisted squats three times a week and were doing goblet squats with a 25-pound kettlebell six months later. Not because they trained more frequently. Because they trained consistently, recovered properly, and added load progressively. Frequency matters less than the habit it represents.
+Starting with chair-assisted squats three times a week and progressing to goblet squats with a 25-pound kettlebell within six months is achievable. Not because of training more frequently. Because of training consistently, recovering properly, and adding load progressively. Frequency matters less than the habit it represents.
 
 ---
 
@@ -127,7 +127,6 @@ The right exercise frequency isn't a universal number. It's the intersection of 
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - [Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -66,11 +66,11 @@ Here's a small detail that makes a surprisingly big difference: where you walk m
 
 Concrete is hard and unforgiving. Asphalt is slightly better. A packed gravel trail or a rubberized track at a local recreation center is easier on your joints than any road surface. Grass is great for proprioception (your body's awareness of ground position), but uneven grass can be tricky if balance is a concern. Treadmills are fine for days when weather or safety is an issue, but they don't train your balance the same way outdoor terrain does, because the belt moves under you rather than you propelling yourself forward.
 
-In my experience, people with knee osteoarthritis do noticeably better on softer surfaces. I had one client, a 71-year-old retired teacher named Carol, who had been walking on her neighborhood sidewalks with persistent knee pain for years. We switched her to a local park trail, kept everything else the same, and within about three weeks she was reporting significantly less pain and more consistency. I don't have a randomized trial to prove it was purely the surface, but anecdotally, it's one of the first things I ask about.
+People with knee osteoarthritis often do noticeably better on softer surfaces like park trails rather than pavement. It's worth trying a surface change while keeping other variables the same to assess the difference it makes.
 
 ## Footwear: The Place Most People Underspend
 
-A $35 pair of sneakers from the big-box store is not a walking shoe. I know that sounds blunt, but I've seen the difference it makes, and I'll say it plainly.
+A $35 pair of sneakers from the big-box store is not a walking shoe.
 
 For adults over 60, I generally recommend stability or motion-control walking shoes. Not running shoes with heavy cushioning in the heel, which can actually reduce ground-feel and make balance slightly harder, but a walking-specific shoe with good arch support, a moderately firm midsole, and a slightly wider toe box. Brands worth looking at: New Balance (their 928 model runs around $110 and is consistently well-reviewed for older walkers), Brooks (Addiction Walker, around $130), or ASICS (Gel-Nimbuswalker line). You don't need to spend more than that. Above $150, you're mostly paying for design.
 

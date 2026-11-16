@@ -27,7 +27,7 @@ faqs:
 
 Most people are told the same three things about bone health after 60: drink your milk, take calcium, and don't fall. I spent years repeating some version of that myself before I started actually digging into the research. What I found was messier, more interesting, and honestly more hopeful than that tidy little checklist suggests.
 
-I'll be honest: I got curious about this after working with a client named Margaret, a 67-year-old retired librarian from Portland who'd been dutifully taking 1,200mg of calcium supplements every day for four years. Her follow-up DEXA scan still showed declining bone density in her lumbar spine. Her doctor was baffled. Her trainer (me, at the time) was embarrassed. Because I thought I'd been giving her the right advice.
+Taking 1,200mg of calcium supplements daily doesn't guarantee improved bone density. A person could follow this regimen for years and still see declining bone density on a DEXA scan, suggesting that calcium alone is only part of the picture.
 
 That experience sent me down a serious rabbit hole. And what surprised me was how much of the standard bone health guidance has quietly been revised by researchers, while the public-facing advice hasn't caught up.
 
@@ -39,7 +39,7 @@ What matters more is how your body uses calcium, which is where the real story g
 
 Vitamin D isn't just a "helper" nutrient. It's the gatekeeper. Without adequate D, you absorb somewhere between 10 and 15 percent of the calcium you consume. With sufficient levels, that rises to 30 to 40 percent. The National Osteoporosis Foundation currently recommends adults over 50 get 800 to 1,000 IU of vitamin D daily, but many clinicians working with older adults will tell you that's a floor, not a ceiling, and that testing your actual 25(OH)D blood level is far more informative than guessing.
 
-And then there's vitamin K2, which almost nobody talks about in mainstream fitness circles. K2 (specifically the MK-7 form) activates osteocalcin, a protein that helps bind calcium to bone matrix rather than letting it float around in your bloodstream or deposit in arterial walls. The Rotterdam Study, which followed over 4,800 Dutch adults, found that high dietary K2 intake was associated with a 57% lower risk of death from aortic calcification and significantly reduced vertebral fractures. A 57% reduction. That's not a footnote number, that's a headline. And yet I'd guess nine out of ten people over 60 have never heard of K2.
+And then there's vitamin K2, which almost nobody talks about in mainstream fitness circles. K2 (specifically the MK-7 form) activates osteocalcin, a protein that helps bind calcium to bone matrix rather than letting it float around in your bloodstream or deposit in arterial walls. The Rotterdam Study, which followed over 4,800 Dutch adults, found that high dietary K2 intake was associated with a 57% lower risk of death from aortic calcification and significantly reduced vertebral fractures. Despite this evidence, K2 remains relatively unknown.
 
 ## What Actually Stresses Bone (in the Right Way)
 
@@ -47,7 +47,7 @@ Bone is not passive tissue. It responds to mechanical load. When your muscles pu
 
 The type of loading matters enormously. Walking is good, full stop. But it's not a complete solution. Studies consistently show that higher-impact or higher-resistance activities produce meaningfully greater bone stimulus than steady-state walking alone. A well-designed 2022 study published in the Journal of Bone and Mineral Research found that postmenopausal women who did progressive resistance training twice a week for 12 months had measurably better femoral neck bone density than a matched group who did brisk walking.
 
-What surprises most of my clients is that the exercise doesn't have to be extreme. The key word in that study is "progressive." You have to keep increasing the challenge, even slightly, or bone stops adapting. This is the detail that gets glossed over in most group fitness classes, and it's why "chair yoga three times a week" probably isn't going to reverse bone loss, even though it's genuinely good for other reasons.
+The exercise doesn't have to be extreme. The key word in that study is "progressive." You have to keep increasing the challenge, even slightly, or bone stops adapting. This is why "chair yoga three times a week" probably won't reverse bone loss on its own, though it has other benefits.
 
 For bone-specific stimulus, the activities that consistently show up in the literature are:
 
@@ -57,13 +57,9 @@ Impact activity like brisk walking, light jogging if your joints tolerate it, pi
 
 Balance and proprioception work, which doesn't build bone directly but radically reduces fracture risk by preventing the falls that cause them. Single-leg stands, tandem walking, and Tai Chi have all shown meaningful fall-prevention data.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated % increase in hip bone density by exercise type (12-month studies)</div><div class="sc-row"><span class="sc-label">Resistance Training</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">2.1%</span></div><div class="sc-row"><span class="sc-label">Impact Aerobics</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">1.4%</span></div><div class="sc-row"><span class="sc-label">Brisk Walking</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">0.7%</span></div><div class="sc-row"><span class="sc-label">Yoga/Stretching Only</span><span class="sc-track"><span class="sc-bar" style="width:10%"></span></span><span class="sc-val">0.2%</span></div><div class="sc-src">Source: Journal of Bone and Mineral Research, 2022 meta-analysis</div></div>
 
-
 ## The Nutrients Almost No One Gets Right
-
-Let me put the main players side by side, because I've seen a lot of people spending money in the wrong places.
 
 | Nutrient | What it does for bone | Daily target (60+) | Best food sources | Supplement notes |
 |---|---|---|---|---|
@@ -112,7 +108,6 @@ As of July 2026, DEXA scans typically cost between $75 and $250 out of pocket at
 - Rizzoli R et al., Osteoporosis International (2018): Review of dietary protein and bone health in older adults; analysis of the evidence against the "acid load" hypothesis.
 
 ---
-
 
 *Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 

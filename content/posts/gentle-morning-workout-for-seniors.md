@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most articles about morning exercise for seniors show a 70-year-old doing yoga on a beach at sunrise. Beautiful photo. Useless guidance.
 
-What you actually need is something you can do in your living room, before coffee if necessary, that doesn't require getting down on the floor and wondering how you're going to get back up. I've worked with adults over 60 for more than a decade, and the gap between what fitness media prescribes and what real people can actually do safely at 7 AM is embarrassing.
+What you actually need is something you can do in your living room, before coffee if necessary, that doesn't require getting down on the floor and wondering how you're going to get back up. The gap between what fitness media prescribes and what older adults can actually do safely at 7 AM is significant.
 
 Let me close that gap.
 
@@ -36,7 +36,7 @@ Let me close that gap.
 
 ## Why Morning Specifically (and Why the Advice Gets This Wrong)
 
-Here's the thing most fitness content skips: older adults tend to be stiffest in the morning. Synovial fluid needs time and movement to redistribute through the joints. Muscles that haven't moved since 10 PM the night before aren't ready to be pushed. This isn't weakness or aging poorly. It's basic physiology, and it applies to everyone.
+Most fitness content skips an important fact: older adults tend to be stiffest in the morning. Synovial fluid needs time and movement to redistribute through the joints. Muscles that haven't moved since 10 PM the night before aren't ready to be pushed. This isn't weakness or aging poorly. It's basic physiology, and it applies to everyone.
 
 The mistake I see constantly is recommending the same workout intensity regardless of the time of day. A HIIT video labeled "senior-friendly" is not morning-appropriate just because it shows someone with gray hair doing it. A 2019 study published in the *British Journal of Sports Medicine* found that musculoskeletal injury risk is meaningfully higher in the first hour after waking, particularly for adults over 55, compared to mid-morning exercise at equivalent intensity. The joints need a warm-up phase that most programs skip entirely.
 
@@ -50,7 +50,7 @@ I'm going to give you a 20-to-25-minute routine. No floor work unless I flag it 
 
 **Start with 3-5 minutes of seated joint circles.** Sit on the edge of a firm chair (not a soft couch). Roll your ankles five times each direction, then your wrists, then your shoulders. Finish with slow neck rotations, ear toward shoulder rather than full circles, which can strain the cervical spine. This sounds almost insultingly simple. It isn't. You're literally warming the joints before loading them.
 
-**Seated marching: 2 minutes.** Still in the chair, alternate lifting each knee as high as comfortably possible. Arms swing opposite to the leg. This gets your heart rate gently rising and activates the hip flexors, which are almost universally tight in adults who spend time sitting. One of my clients, a retired school principal named Dorothy, told me she thought this was too easy to bother with. Three weeks in, she said climbing her porch stairs felt noticeably different.
+**Seated marching: 2 minutes.** Still in the chair, alternate lifting each knee as high as comfortably possible. Arms swing opposite to the leg. This gets your heart rate gently rising and activates the hip flexors, which are almost universally tight in adults who spend time sitting. For example, someone might skip this exercise thinking it's too basic, but after three weeks of consistent practice often notices that climbing stairs feels noticeably easier.
 
 **Chair-assisted standing: 10 repetitions.** Stand up from the chair slowly, pause fully upright, then sit back down with control. Do not plop. This is functionally a squat, and it might be the single most important exercise in this entire routine. Falls often happen during transitions, standing from a chair, stepping out of a car, getting off a toilet. Training these exact movements is specific and protective. Aim for control over speed.
 
@@ -104,7 +104,7 @@ Deep lunges. The range of motion required stresses the knee and hip in ways that
 
 Any exercise that requires lying on the floor unless you have a reliable way to get back up and it doesn't stress you out. The anxiety of being stuck on the floor is real, it affects breathing and effort, and it's not worth it for a morning routine. There are seated and standing alternatives for everything.
 
-Overly complex balance challenges marketed as beginner-friendly. Standing on a folded yoga mat or wobble board with no support when you're still building basic balance is a fall waiting to happen. I've seen this recommended in workout programs currently sold online (as of 2026), and it frustrates me every time.
+Overly complex balance challenges marketed as beginner-friendly. Standing on a folded yoga mat or wobble board with no support when you're still building basic balance is a fall waiting to happen.
 
 ---
 
@@ -117,7 +117,6 @@ Overly complex balance challenges marketed as beginner-friendly. Standing on a f
 - National Institute on Aging, "Exercise & Physical Activity" resource guide: Practical recommendations for older adults beginning or maintaining an exercise routine.
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

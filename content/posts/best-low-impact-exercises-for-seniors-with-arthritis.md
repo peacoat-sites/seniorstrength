@@ -24,7 +24,6 @@ You wake up in the morning, and before you even get out of bed, your knees and f
 
 Exercise might feel like the last thing you want to do when your joints are stiff and sore. But staying still often makes arthritis symptoms worse over time. The right kind of movement, gentle, steady, and smart, can be one of the best medicines available to you.
 
-
 <div class="value-module">
  <div class="vm-head">Exercise Selection by Joint & Severity</div>
  <div class="vm-body">
@@ -60,7 +59,7 @@ Start with whatever distance feels comfortable. Five or ten minutes is a great b
 
 ### 3. Tai Chi
 
-Tai chi involves slow, flowing movements combined with deep breathing. It looks almost like a slow-motion dance and it's remarkably effective for arthritis. Studies show tai chi reduces joint pain and stiffness, improves balance, and lowers your risk of falls.
+Tai chi involves slow, flowing movements combined with deep breathing. It looks almost like a slow-motion dance and it's remarkably effective for arthritis. Tai chi can reduce joint pain and stiffness, improve balance, and lower your risk of falls.
 
 Many senior centers and recreation programs offer beginner tai chi classes. Free instructional videos are available online too if you'd rather start at home. Even 15 minutes a day produces noticeable results within a few weeks.
 
@@ -114,7 +113,6 @@ Living with arthritis takes real courage. Choosing to move your body despite dis
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - consistently shows that gentle movement keeps joints lubricated and muscles stro
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

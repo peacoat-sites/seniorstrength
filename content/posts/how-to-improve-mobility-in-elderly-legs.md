@@ -38,7 +38,7 @@ Here's the version you've probably heard: muscles shorten with age, connective t
 
 That's not a muscle problem. It's a neurological adaptation. And it responds very differently to treatment.
 
-What surprised me when I first started reading deeper into this was how much of what we call "stiffness" in elderly legs is really the body being cautious, not broken. Sarcopenia (age-related muscle loss) is real and starts accelerating after 60. So does a reduction in proprioception, which is your body's ability to sense where its limbs are in space. When proprioception drops, the nervous system tightens things up further. It's a feedback loop that makes standard static stretching almost completely ineffective on its own.
+Much of what we call "stiffness" in elderly legs is really the body being cautious, not broken. Sarcopenia (age-related muscle loss) is real and starts accelerating after 60. So does a reduction in proprioception, which is your body's ability to sense where its limbs are in space. When proprioception drops, the nervous system tightens things up further. It's a feedback loop that makes standard static stretching almost completely ineffective on its own.
 
 So if you've been dutifully stretching your hamstrings for three months and nothing has changed, it's probably not because you're not trying hard enough.
 
@@ -52,7 +52,7 @@ I'll be honest: the research here is genuinely mixed when it comes to which spec
 
 The practical upside for older adults: CARs require no equipment, no floor work if that's a concern (they can be done standing or holding a chair), and they produce noticeable improvements in hip range of motion within two to three weeks of daily practice. Not months. Weeks. A client of mine, 74 years old and a retired nurse who'd developed a pretty severe lateral hip shift when walking, regained enough hip extension range in six weeks of daily CARs that her gait normalized almost entirely. That still gets me.
 
-**Strength training as a mobility tool.** This is the contrarian take I'll stand behind: for most older adults, strength training will do more for leg mobility than stretching will. People push back on this constantly, and I understand why. Lifting weights doesn't feel like it should make you more flexible. But when you load a muscle through its full range of motion, specifically in hip hinges, deep step-downs, and slow bodyweight squats with full depth, you're building both strength and mobility simultaneously. The research on resistance training and improved functional range of motion in adults over 65 is pretty consistent. A 2022 review published in the *Journal of Aging and Physical Activity* found that progressive resistance training produced greater improvements in functional mobility scores than stretching-only protocols in older adults. That finding aligns with what I've seen in practice.
+**Strength training as a mobility tool.** For most older adults, strength training will do more for leg mobility than stretching will. Lifting weights doesn't feel like it should make you more flexible. But when you load a muscle through its full range of motion, specifically in hip hinges, deep step-downs, and slow bodyweight squats with full depth, you're building both strength and mobility simultaneously. The research on resistance training and improved functional range of motion in adults over 65 is pretty consistent. A 2022 review published in the *Journal of Aging and Physical Activity* found that progressive resistance training produced greater improvements in functional mobility scores than stretching-only protocols in older adults.
 
 The key word is "progressive." Starting with a resistance band or just bodyweight, adding load or difficulty over time. Not the same 12 reps of the same thing forever.
 
@@ -91,23 +91,21 @@ Static stretching as a primary mobility tool. I'm not saying never stretch. I'm 
 - on resistance training and improved functional range of motion in adults over 65
 - suggests that meaningful improvements in functional mobility are achievable in 8
 
-
 If you're starting from scratch, or starting over, I'd suggest not trying to implement everything at once.
 
 Pick one thing. Hip CARs done standing while holding the back of a chair are the highest-value entry point. One set per leg, once daily, moving slowly and deliberately through whatever range you have. Five minutes total. Do that for two weeks before adding anything else.
 
 When you add a second element, make it a strength-based one: slow bodyweight squats to a chair (sit, stand, no momentum), with an emphasis on controlled descent. Three sets of 8-10, three times a week. That's a real program. Don't underestimate it.
 
-The research suggests that meaningful improvements in functional mobility are achievable in 8-12 weeks with consistent practice. I've seen it happen faster. I've also seen people give up in week three because they expected more. The expectation management piece matters as much as the programming.
+Meaningful improvements in functional mobility are achievable in 8-12 weeks with consistent practice. Many people give up in week three because they expected more. Expectation management matters as much as the programming itself.
 
 One last thing: if there is pain with any of these movements, that's a conversation for your doctor or a physical therapist before continuing. Mobility work and pain are different problems, and treating one as the other is how people get hurt.
 
 ---
 
-
 ---
 
-The hardest part of this isn't the exercises. It's accepting that the payoff is real but not immediate, and that consistency over weeks matters far more than any single session. I've watched 78-year-olds get back ranges of motion they'd given up on years ago. The biology allows for it. The nervous system is more adaptable than most people assume, well into old age. That part never stops surprising me.
+The hardest part isn't the exercises. It's accepting that the payoff is real but not immediate, and that consistency over weeks matters far more than any single session. The biology supports meaningful gains in range of motion well into old age. The nervous system remains more adaptable than most people assume.
 
 *Photo: [ROMAN ODINTSOV](https://www.pexels.com/@roman-odintsov) via Pexels*
 

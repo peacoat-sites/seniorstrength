@@ -28,7 +28,7 @@ You don't need special equipment or even much time. Fifteen minutes a day, done 
 
 Your muscles and ligaments naturally lose strength and elasticity as you age. The discs between your vertebrae get thinner, lose moisture, and become less cushioned. After 60, conditions like [osteoarthritis and spinal stenosis](/how-to-prevent-osteoporosis-naturally-after-60/) show up more frequently. Even mundane stuff, sitting too long, sleeping on a bad mattress, can trigger flare-ups.
 
-Here's the thing that most people get wrong: rest isn't the answer. Movement is. Gentle stretching keeps muscles loose, improves blood flow, and helps your spine stay stable and strong.
+A common misconception is that rest alone solves the problem. Movement is. Gentle stretching keeps muscles loose, improves blood flow, and helps your spine stay stable and strong.
 
 ## Important Safety Tips Before You Begin
 
@@ -144,7 +144,6 @@ You've already taken the hardest step by learning about stretching and back care
 - [Trọng Tín](https://unsplash.com/@nitgnort?utm_source=seniorstrength&utm_medium=referral)
 - [Christian Wiediger](https://unsplash.com/@christianw?utm_source=seniorstrength&utm_medium=referral)
 - [Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

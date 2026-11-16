@@ -25,7 +25,7 @@ author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 lastmod: 2026-07-08
 ---
-Every 11 seconds, an older adult ends up in an emergency room because of a fall. That statistic from the CDC hit me hard the first time I read it, and honestly, it still does. But here's what strikes me even more: most of those falls don't have to happen. Not through luck or constant vigilance or abandoning everything you enjoy doing. Through actual training. Specific, consistent, well-chosen training that rewires how your body responds when your foot lands somewhere unexpected.
+Every 11 seconds, an older adult ends up in an emergency room because of a fall. Most of those falls don't have to happen. Not through luck or constant vigilance or abandoning everything you enjoy doing. Through actual training. Specific, consistent, well-chosen training that rewires how your body responds when your foot lands somewhere unexpected.
 
 Maybe you're wondering if you're already too far gone. Maybe you had a close call recently and now you're scared it'll happen again. Maybe your doctor mentioned [balance training](/balance-training-for-fall-prevention-seniors/) and you nodded along without knowing what that actually looks like. Wherever you're starting from, you're in the right place. And you're definitely not too late.
 
@@ -42,7 +42,7 @@ Maybe you're wondering if you're already too far gone. Maybe you had a close cal
 
 Balance isn't one single thing. It's a three-way conversation between your eyes, your inner ear (your vestibular system), and proprioception, your body's sense of where it is in space. After 60, all three of these start talking slower. Your reaction time drops. The muscles in your ankles and hips, which are your first line of defense when you wobble, tend to weaken. Add inactivity into the mix, and that decline accelerates fast.
 
-People come to me frustrated, and here's what I tell them: this isn't a story about inevitable decline. It's a story about an undertrained system. Your balance system responds to challenge exactly the way your muscles respond to lifting something heavy. You push it appropriately, it adapts, it improves. I've watched clients in their 70s and 80s make real, measurable gains in stability over just 8 to 12 weeks of consistent work. The research consistently backs this up.
+The key isn't inevitable decline. It's that the balance system is undertrained. Your balance system responds to challenge exactly the way your muscles respond to lifting something heavy. You push it appropriately, it adapts, it improves. Consistent balance training over 8 to 12 weeks can produce measurable gains in stability.
 
 What most people don't realize is that balance training isn't just about standing on one foot. It's about training the right systems, in the right order, so your body has more options when something goes wrong.
 
@@ -94,9 +94,9 @@ I'd be doing you a disservice if I talked only about balance exercises without t
 
 Ankle strength is especially overlooked in fall prevention. Your ankle strategy is your body's first line of defense against small balance disturbances. Weak or slow ankles, and you skip straight to your hip strategy, which is harder, or worse, you fall.
 
-Simple strength exercises that also support balance: calf raises (stand behind a chair, rise up on your toes, lower slowly), sit-to-stand (as described above), and side-lying leg raises for hip muscles. Three times a week, two to three sets each. Not glamorous exercises, but in my experience, some of the most impactful things an older adult can do.
+Simple strength exercises that also support balance: calf raises (stand behind a chair, rise up on your toes, lower slowly), sit-to-stand (as described above), and side-lying leg raises for hip muscles. Three times a week, two to three sets each. They're among the most impactful things an older adult can do.
 
-Balance training has a return on investment that's almost unfair. A few minutes a day, a few days a week, done consistently over a couple months, can genuinely change your path forward. Not just your fall statistics, but your confidence walking into a crowded restaurant, your comfort on a hiking trail, your sense that your body still works with you. I've seen it happen many times over. The only thing separating the people who get there from the ones who don't is starting, then sticking with it. You've already done the first part.
+Balance training has a return on investment that's almost unfair. A few minutes a day, a few days a week, done consistently over a couple months, can genuinely change your path forward. Not just your fall statistics, but your confidence walking into a crowded restaurant, your comfort on a hiking trail, your sense that your body still works with you. The only thing separating success from stagnation is starting, then sticking with it.
 
 *This article is for general informational purposes only and does not constitute medical or fitness advice. Consult your physician or a licensed physical therapist before starting a new exercise program, especially if you have existing health conditions.*
 
@@ -106,7 +106,6 @@ Balance training has a return on investment that's almost unfair. A few minutes 
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - consistently backs this up
 - in the British Journal of Sports Medicine found that people unable to stand on o
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
