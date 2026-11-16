@@ -31,9 +31,7 @@ You might be wondering if there's actually a smarter way to approach this, or wh
 
 I've been working with [adults over](/how-exercise-fights-inflammaging-in-adults-over-60/) 60 for nearly 15 years, and I've watched people in their mid-70s go from shuffling 10 minutes around the block to walking 45-minute hilly routes. That doesn't happen by accident. It happens because they followed a plan that respected where they were starting from.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Start with just 10-15 minutes of walking per day and build no more than 10% per week to avoid overuse injuries.</li><li style="margin:5px 0">Pace matters more than distance: aim for "somewhat breathless but can still talk" as your intensity target.</li><li style="margin:5px 0">Three walking sessions per week beats seven inconsistent ones for sustainable strength and balance gains.</li><li style="margin:5px 0">Adding two short strength days per week amplifies walking benefits significantly, especially for fall prevention.</li><li style="margin:5px 0">Proper footwear (motion-control or stability shoes, $80-$130) is not optional, it changes your gait mechanics.</li></ul></div>
-
 
 ## Why Generic Walking Advice Often Backfires
 
@@ -104,10 +102,6 @@ A few markers worth tracking:
 
 Don't track steps obsessively. Tracking time and perceived effort tells you more, with less anxiety about hitting a number.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Timed-Up-and-Go improvement: walking-only vs. walking + strength training (16 weeks)</div><div class="sc-row"><span class="sc-label">Walking only (start)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">13.8 seconds</span></div><div class="sc-row"><span class="sc-label">Walking only (week 16)</span><span class="sc-track"><span class="sc-bar" style="width:86%"></span></span><span class="sc-val">11.9 seconds</span></div><div class="sc-row"><span class="sc-label">Walking + strength (start)</span><span class="sc-track"><span class="sc-bar" style="width:97%"></span></span><span class="sc-val">13.4 seconds</span></div><div class="sc-row"><span class="sc-label">Walking + strength (week 16)</span><span class="sc-track"><span class="sc-bar" style="width:68%"></span></span><span class="sc-val">9.4 seconds</span></div><div class="sc-src">Source: Robert Davis clinical observation, 2024-2025</div></div>
-
-
 ## Sources
 
 - [Lee IM et al. (2019), JAMA Internal Medicine]: Association of step volume and intensity with mortality in older women; mortality benefits plateaued around 7,500 steps/day.
@@ -117,7 +111,6 @@ Don't track steps obsessively. Tracking time and perceived effort tells you more
 - [Tudor-Locke C and Bassett DR (2004), Sports Medicine]: Original analysis of step-count categories and their relationship to health outcomes; foundation for questioning the 10,000-step myth.
 
 ---
-
 
 *Photo: [Robert So](https://www.pexels.com/@robertkso) via Pexels*
 

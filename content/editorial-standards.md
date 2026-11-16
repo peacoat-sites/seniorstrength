@@ -3,10 +3,10 @@ title: "Editorial Policy"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "How Senior Strength researches, writes, fact-checks, and maintains every article — our commitment to accuracy, source quality, and genuine usefulness."
+description: "How Senior Strength researches, writes, fact-checks, and maintains every article, our commitment to accuracy, source quality, and genuine usefulness."
 ---
 
-# Editorial Policy — Senior Strength
+# Editorial Policy, Senior Strength
 
 Senior Strength publishes research-backed guidance on strength training, balance, mobility, and fitness for adults over 60. Our mission is to help older adults build strength, prevent falls, and maintain independence through evidence-based exercise programming. We take this responsibility seriously because our readers are making real decisions about their bodies and health—decisions that can prevent injury, improve quality of life, and in some cases be the difference between independence and institutional care. This is why our editorial standards are uncompromising: we prioritize accuracy, transparency, and clinical soundness above all else.
 

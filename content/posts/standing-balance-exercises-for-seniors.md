@@ -31,9 +31,7 @@ It's not. I say that to almost everyone who sits down with me, and I mean it alm
 
 Balance is trainable at any age. That's not just encouragement, it's physiology. A 2015 study in the British Journal of Sports Medicine followed adults in their 60s and 70s through a 12-week balance training program and found statistically significant improvements in both static and dynamic balance across the board. A 2019 paper in JAMA Internal Medicine confirmed that targeted [balance exercises](/standing-balance-exercises-seniors-can-do-holding-a-chair/) reduce fall risk by roughly 23% in community-dwelling older adults. These aren't people who started young. They started where you might be starting right now.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Balance training reduces fall risk by ~23% in older adults, per JAMA Internal Medicine research.</li><li style="margin:5px 0">Standing exercises outperform seated ones for real-world balance improvement.</li><li style="margin:5px 0">You can see measurable gains in 4-6 weeks with 3 sessions per week.</li><li style="margin:5px 0">A sturdy chair or countertop is all the equipment you genuinely need to start safely.</li><li style="margin:5px 0">Progression matters more than intensity, tiny increases week over week beat occasional hard sessions.</li></ul></div>
-
 
 ## Why Standing Exercises Specifically
 
@@ -61,10 +59,6 @@ When you're consistently comfortable with tandem stance, try lifting one foot ju
 
 **Tandem walking (heel-to-toe)**
 Walk a straight line, placing one foot directly in front of the other. Five steps, turn slowly, five steps back. Use a wall alongside you for reassurance rather than active support. This is the one I use as a rough progress check with clients after four weeks.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Approx. weeks to reach each milestone (3x/week training)</div><div class="sc-row"><span class="sc-label">Tandem stance 30 sec</span><span class="sc-track"><span class="sc-bar" style="width:14%"></span></span><span class="sc-val">1 weeks</span></div><div class="sc-row"><span class="sc-label">Weight shifts, no grip</span><span class="sc-track"><span class="sc-bar" style="width:29%"></span></span><span class="sc-val">2 weeks</span></div><div class="sc-row"><span class="sc-label">Heel raises 15 reps</span><span class="sc-track"><span class="sc-bar" style="width:43%"></span></span><span class="sc-val">3 weeks</span></div><div class="sc-row"><span class="sc-label">Single-leg 15 sec</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">5 weeks</span></div><div class="sc-row"><span class="sc-label">Tandem walk 10 steps</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">7 weeks</span></div><div class="sc-src">Source: Linda Chen, clinical experience with 60+ adults</div></div>
-
 
 ## What Actually Determines Your Progress
 
@@ -100,7 +94,6 @@ Another: a 68-year-old retired teacher, Robert, was taking amlodipine for blood 
 - [National Institute on Aging Exercise Guide](https://www.nia.nih.gov/): Free balance and strength exercise resource specifically for older adults, with illustrated progressions.
 
 ---
-
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
 

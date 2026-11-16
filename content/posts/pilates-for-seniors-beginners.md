@@ -31,9 +31,7 @@ Pilates doesn't get the attention it deserves for [older adults](/fitness-progra
 
 If you've been told "just do some [chair yoga](/chair-yoga-for-seniors-beginners/)" and found it unsatisfying, or if you tried a group fitness class and felt lost or left behind, this is for you.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Pilates improves balance and fall risk in older adults, with one 2023 study showing a 37% reduction in fall incidence after 12 weeks.</li><li style="margin:5px 0">Beginners over 60 should start with mat-based work, not Reformer machines, 2-3 sessions per week at 20-30 minutes each.</li><li style="margin:5px 0">Many Medicare Advantage plans cover Pilates-based fitness programs as of 2026; check your specific plan before paying out-of-pocket.</li><li style="margin:5px 0">Floor work can be modified for those who can't get up and down easily; chair-based Pilates is a legitimate starting point, not a lesser option.</li><li style="margin:5px 0">Results in balance and core strength typically become noticeable within 6-8 weeks of consistent practice.</li></ul></div>
-
 
 ## What the Research Actually Shows
 
@@ -68,10 +66,6 @@ The Reformer is that sliding-platform machine you've probably seen in Pilates st
 Here's my honest take: you don't need it to start, and for most older beginners, mat work is actually more functional.
 
 The Reformer does offer some advantages. Spring resistance lets you work muscles through a longer range of motion with less compressive joint load, which can be helpful for people with significant arthritis. And it makes certain exercises safer for those who genuinely cannot get down to the floor. But the cost is real, and a lot of studios pitch Reformer classes as the "real" Pilates and mat work as the budget option. That framing annoys me, because it isn't accurate.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated monthly cost by Pilates format</div><div class="sc-row"><span class="sc-label">Studio Reformer (2x/week)</span><span class="sc-track"><span class="sc-bar" style="width:58%"></span></span><span class="sc-val">$280</span></div><div class="sc-row"><span class="sc-label">Studio Mat Class (2x/week)</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">$120</span></div><div class="sc-row"><span class="sc-label">Online Subscription (e.g. Pilatesanytime)</span><span class="sc-track"><span class="sc-bar" style="width:5%"></span></span><span class="sc-val">$22</span></div><div class="sc-row"><span class="sc-label">Private In-Home Instructor</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$480</span></div><div class="sc-row"><span class="sc-label">Senior Center / YMCA Program</span><span class="sc-track"><span class="sc-bar" style="width:9%"></span></span><span class="sc-val">$45</span></div><div class="sc-src">Source: Industry pricing survey, July 2026</div></div>
-
 
 The online subscription route, platforms like Pilatesanytime or MovewithNicole, has improved significantly. As of July 2026, Pilatesanytime has a dedicated "Mature Movers" category with instructors who actually understand osteoporosis precautions and have the cuing specificity that comes from working with older bodies. I can't vouch for every platform, but I've reviewed that one personally and it's legitimate.
 
@@ -118,7 +112,6 @@ Scenario: A 66-year-old retired teacher, two months into a twice-weekly online P
 - Beck, B.R. et al. (2020): "Exercise and fracture risk in individuals with osteoporosis," *Osteoporosis International*, Vol. 31, Issue 4.
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

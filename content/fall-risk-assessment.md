@@ -19,7 +19,7 @@ faqs:
     a: "Yes. Single-leg balance improves with consistent practice. Start by standing near a wall or counter for safety. Hold for as long as comfortable, rest, and repeat. Progress by closing your eyes or standing on a folded towel. Most people see noticeable improvement within 4 to 6 weeks of daily practice."
 ---
 
-Falls are the leading cause of injury-related hospital admissions among adults over 65. Yet fall risk is not a fixed trait — it reflects underlying factors like lower-body strength, balance control, and gait speed that can all be measured and improved with targeted exercise.
+Falls are the leading cause of injury-related hospital admissions among adults over 65. Yet fall risk is not a fixed trait, it reflects underlying factors like lower-body strength, balance control, and gait speed that can all be measured and improved with targeted exercise.
 
 The three tests in this assessment are drawn from clinically referenced tools used by physical therapists and geriatric fitness specialists. None of them require special equipment. You need a sturdy chair, a clear 10-foot walking path, a stopwatch (your phone works fine), and about 10 minutes of time. The results give you a snapshot of where your physical function stands today compared to age-matched norms.
 
@@ -27,7 +27,7 @@ The three tests in this assessment are drawn from clinically referenced tools us
 
 **The 30-Second Chair Stand Test** measures lower-body muscular strength and endurance, two factors strongly linked to fall prevention. Weak leg muscles make it harder to recover from a trip or shift in balance.
 
-**The Timed Up and Go (TUG)** captures the full cycle of standing, walking, turning, and sitting — exactly the kind of multi-step movement where fall risk is highest. A time above 13.5 seconds has been identified by the CDC as a red flag for community-dwelling older adults.
+**The Timed Up and Go (TUG)** captures the full cycle of standing, walking, turning, and sitting, exactly the kind of multi-step movement where fall risk is highest. A time above 13.5 seconds has been identified by the CDC as a red flag for community-dwelling older adults.
 
 **Single-Leg Balance** measures the stability of your postural control system. If you struggle to hold the position for even a few seconds, your body is working much harder than it should to stay upright during everyday activities.
 
@@ -37,9 +37,9 @@ Together, these three tests give you a picture of your functional mobility that 
 
 ### What to Do With Your Results
 
-If your scores are **above average** across the board, that is excellent news — your job is to maintain it. Aim for strength training twice a week, balance practice daily, and regular aerobic activity like walking or cycling.
+If your scores are **above average** across the board, that is excellent news, your job is to maintain it. Aim for strength training twice a week, balance practice daily, and regular aerobic activity like walking or cycling.
 
-If one or more scores fall in the **average or below-average range**, that is not a cause for alarm — it is a starting point. Many adults see meaningful improvements in chair stand counts and TUG times within 8 to 12 weeks of consistent exercise. Our guide to [balance exercises for seniors to prevent falls](/balance-exercises-for-seniors-to-prevent-falls/) outlines practical routines you can begin at home.
+If one or more scores fall in the **average or below-average range**, that is not a cause for alarm, it is a starting point. Many adults see meaningful improvements in chair stand counts and TUG times within 8 to 12 weeks of consistent exercise. Our guide to [balance exercises for seniors to prevent falls](/balance-exercises-for-seniors-to-prevent-falls/) outlines practical routines you can begin at home.
 
 If your TUG time is above 13.5 seconds, or your single-leg balance is very limited, please share these results with your primary care physician or ask for a referral to a physical therapist. A licensed PT can identify the specific weaknesses driving your scores and design a targeted program to address them.
 

@@ -73,10 +73,6 @@ Here's a practical breakdown of exercise categories and how they rank for both s
 | High-impact (jogging, jumping) | High | Low-Moderate | High (T-score < -2.5) | LIFTMOR protocol showed benefit; needs physician clearance |
 | Spinal flexion exercises (crunches, toe touches) | None | None | High | Avoid outright; no benefit justifies the risk |
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Relative bone benefit by exercise type</div><div class="sc-row"><span class="sc-label">Resistance training</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">9 score (1</span></div><div class="sc-row"><span class="sc-label">High-impact (supervised)</span><span class="sc-track"><span class="sc-bar" style="width:78%"></span></span><span class="sc-val">7 score (1</span></div><div class="sc-row"><span class="sc-label">Yoga (osteoporosis-modified)</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">4 score (1</span></div><div class="sc-row"><span class="sc-label">Walking</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">3 score (1</span></div><div class="sc-row"><span class="sc-label">Swimming/cycling</span><span class="sc-track"><span class="sc-bar" style="width:11%"></span></span><span class="sc-val">1 score (1</span></div><div class="sc-src">Source: Helen Santos, based on LIFTMOR trial and Cochrane Review data</div></div>
-
-
 ## How to Actually Build a Safe Routine
 
 Start with an honest assessment of where you are. Not where you think you should be, and not where you were at 50.
@@ -114,7 +110,6 @@ That conversation belongs with your doctor and potentially a registered dietitia
 - National Osteoporosis Foundation: *Clinician's Guide to Prevention and Treatment of Osteoporosis* (current as of 2026). Authoritative U.S. clinical reference.
 
 ---
-
 
 *Photo: [Patricia Bozan](https://www.pexels.com/@patricia-bozan-2151752743) via Pexels*
 

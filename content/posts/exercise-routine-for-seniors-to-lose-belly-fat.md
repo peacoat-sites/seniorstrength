@@ -31,9 +31,7 @@ Here's what I've seen consistently in 15-plus years working with adults over 60:
 
 Before we get into the actual routine, one more thing worth knowing: no exercise plan targets belly fat directly. Spot reduction is a myth, and it's been thoroughly debunked. What you can do is create the metabolic and hormonal conditions where your body preferentially sheds visceral fat, and that's exactly what the approach below is designed to do.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Strength training 2-3x per week reduces visceral fat more effectively than cardio alone in adults over 60.</li><li style="margin:5px 0">Spot reduction (targeting belly fat with crunches) is a myth; full-body approaches work.</li><li style="margin:5px 0">Short, brisk walks after meals measurably improve blood sugar regulation, which directly affects belly fat.</li><li style="margin:5px 0">Protein intake of roughly 1.2-1.6g per kg of body weight is critical for preserving muscle while losing fat.</li><li style="margin:5px 0">Most older adults see measurable waist reduction in 10-14 weeks when combining resistance training with consistent walking.</li></ul></div>
-
 
 ## Why Your Belly Fat Is Different Now
 
@@ -60,10 +58,6 @@ Not a long slow walk first thing in the morning, though that's not harmful. A sh
 If your doctor has cleared you for moderate exertion, try this: during one of your walks, alternate 1 minute of brisk effort (you can talk, but wouldn't want to sing) with 2 minutes of easy pace. Do this for 15-20 minutes. That 1:2 interval structure is easier on joints than traditional HIIT while still producing meaningful metabolic effects. A reader emailed me last spring after 12 weeks of this approach saying her waist had dropped almost two inches with no dietary changes. That's not a guarantee, but it's not unusual either.
 
 ## What to Expect, Week by Week
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated waist reduction by week (moderate effort)</div><div class="sc-row"><span class="sc-label">Week 4</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">0.3 inches l</span></div><div class="sc-row"><span class="sc-label">Week 8</span><span class="sc-track"><span class="sc-bar" style="width:31%"></span></span><span class="sc-val">0.8 inches l</span></div><div class="sc-row"><span class="sc-label">Week 12</span><span class="sc-track"><span class="sc-bar" style="width:58%"></span></span><span class="sc-val">1.5 inches l</span></div><div class="sc-row"><span class="sc-label">Week 16</span><span class="sc-track"><span class="sc-bar" style="width:81%"></span></span><span class="sc-val">2.1 inches l</span></div><div class="sc-row"><span class="sc-label">Week 20</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">2.6 inches l</span></div><div class="sc-src">Source: James Cooper, based on client outcomes 2019-2025</div></div>
-
 
 These numbers are based on my own client tracking over several years, not a controlled trial, so take them as directional rather than guaranteed. What I can say is that the people who fall below these numbers are almost always under-eating protein, not sleeping enough, or doing the cardio-only version of this plan.
 
@@ -102,7 +96,6 @@ A 65-year-old woman with mild osteoporosis started with bodyweight-only work, ch
 - Westcott WL (2012), *Current Sports Medicine Reports*: Resistance training is medicine; effects on physical function and body composition in older adults.
 
 ---
-
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
 
