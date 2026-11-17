@@ -72,11 +72,11 @@ The good news is simple. Resistance training and adequate protein aren't cutting
 
 ## Sources
 
-- [People taking GLP-1 weight loss drugs like Ozempic started moving less , ScienceDaily / ENDO 2026](https://www.sciencedaily.com/releases/2026/06/260614011841.htm) (June 14, 2026)
-- [Drug enhances muscle repair during GLP-1 weight-loss treatment , Stanford Medicine](https://med.stanford.edu/news/all-news/2026/06/muscle-glp-1.html) (June 2026)
-- [Weighing the risk of GLP-1 treatment in older adults: sarcopenic obesity , PMC / NCBI](https://pmc.ncbi.nlm.nih.gov/articles/PMC12391595/) (June 2026)
-- [Are GLP-1 weight-loss drugs safe for older adults? , AAMC](https://www.aamc.org/news/are-glp-1-weight-loss-drugs-safe-older-adults) (December 2025)
-- [Muscle Loss and GLP-1 Weight-Loss Drugs: 2026 Update , Affinity Whole Health](https://www.affinitywholehealth.com/blog/muscle-loss-and-glp-1-weight-loss-drugs-what-the-latest-clinical-trials-really-show-2026-update) (May 13, 2026)
+- [People taking GLP-1 weight loss drugs like Ozempic started moving less, ScienceDaily / ENDO 2026](https://www.sciencedaily.com/releases/2026/06/260614011841.htm) (June 14, 2026)
+- [Drug enhances muscle repair during GLP-1 weight-loss treatment, Stanford Medicine](https://med.stanford.edu/news/all-news/2026/06/muscle-glp-1.html) (June 2026)
+- [Weighing the risk of GLP-1 treatment in older adults: sarcopenic obesity, PMC / NCBI](https://pmc.ncbi.nlm.nih.gov/articles/PMC12391595/) (June 2026)
+- [Are GLP-1 weight-loss drugs safe for older adults?, AAMC](https://www.aamc.org/news/are-glp-1-weight-loss-drugs-safe-older-adults) (December 2025)
+- [Muscle Loss and GLP-1 Weight-Loss Drugs: 2026 Update, Affinity Whole Health](https://www.affinitywholehealth.com/blog/muscle-loss-and-glp-1-weight-loss-drugs-what-the-latest-clinical-trials-really-show-2026-update) (May 13, 2026)
 - [The Future of Fitness: ACSM Announces Top Trends for 2026](https://acsm.org/top-fitness-trends-2026/) (May 11, 2026)
 
 *Photo: [Jessy Mesme](https://www.pexels.com/@jessy-mesme-372778102) via Pexels*

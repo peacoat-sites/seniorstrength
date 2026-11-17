@@ -64,10 +64,10 @@ The honest answer to whether AI coaches can help seniors get stronger safely is:
 ## Sources
 
 - [Aging Stronger: New Class Helps Seniors Build Strength and Confidence with Training and AI (KWTX)](https://www.kwtx.com/2026/07/28/aging-stronger-new-class-helps-seniors-build-strength-confidence-with-training-ai/) (July 27, 2026)
-- [Your Next Fitness Coach Could Be AI ,  ConsumerAffairs](https://www.consumeraffairs.com/news/your-next-fitness-coach-could-be-aiand-it-might-fit-in-your-pocket-050826.html) (May 8, 2026)
-- [Delayed Molecular Aging in Exercise-Trained Human Muscle ,  Nature Aging](https://www.nature.com/articles/s43587-026-01150-x) (July 3, 2026)
-- [Evaluating Health Outcomes of AI-Based Fitness Wearables in Older Adults ,  ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT07207993) (June 2026)
-- [10 Fitness Trends in 2026 and Beyond ,  ACE Fitness](https://www.acefitness.org/resources/pros/expert-articles/9043/10-fitness-trends-in-2026-and-beyond/) (2026)
+- [Your Next Fitness Coach Could Be AI, ConsumerAffairs](https://www.consumeraffairs.com/news/your-next-fitness-coach-could-be-aiand-it-might-fit-in-your-pocket-050826.html) (May 8, 2026)
+- [Delayed Molecular Aging in Exercise-Trained Human Muscle, Nature Aging](https://www.nature.com/articles/s43587-026-01150-x) (July 3, 2026)
+- [Evaluating Health Outcomes of AI-Based Fitness Wearables in Older Adults, ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT07207993) (June 2026)
+- [10 Fitness Trends in 2026 and Beyond, ACE Fitness](https://www.acefitness.org/resources/pros/expert-articles/9043/10-fitness-trends-in-2026-and-beyond/) (2026)
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

@@ -77,8 +77,8 @@ Programs like Moos's Central Texas class point in the right direction: meet peop
 
 - [Aging Stronger: New Class Helps Seniors Build Strength and Confidence with Training and AI (KWTX)](https://www.kwtx.com/2026/07/28/aging-stronger-new-class-helps-seniors-build-strength-confidence-with-training-ai/) (published July 27, 2026)
 - ['Though helpful, still hesitant': TAM-based qualitative study on older adults' ambivalent acceptance of AI fitness coaches (NCBI/PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12754909/) (published 2026)
-- [Your Next Fitness Coach Could Be AI ,  And It Might Fit in Your Pocket (ConsumerAffairs)](https://www.consumeraffairs.com/news/your-next-fitness-coach-could-be-aiand-it-might-fit-in-your-pocket-050826.html) (published May 8, 2026)
-- [Wearables, Fitness for Older Adults Tipped as Top Fitness Trends for 2026 ,  ACSM Report (Athletech News)](https://athletechnews.com/wearables-fitness-for-older-adults-top-fitness-trends-2026-acsm/) (published January 6, 2026)
+- [Your Next Fitness Coach Could Be AI, And It Might Fit in Your Pocket (ConsumerAffairs)](https://www.consumeraffairs.com/news/your-next-fitness-coach-could-be-aiand-it-might-fit-in-your-pocket-050826.html) (published May 8, 2026)
+- [Wearables, Fitness for Older Adults Tipped as Top Fitness Trends for 2026, ACSM Report (Athletech News)](https://athletechnews.com/wearables-fitness-for-older-adults-top-fitness-trends-2026-acsm/) (published January 6, 2026)
 
 *Photo: [Anna Shvets](https://www.pexels.com/@shvetsa) via Pexels*
 

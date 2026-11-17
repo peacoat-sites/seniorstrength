@@ -77,12 +77,12 @@ If you're already wearing the watch, you're halfway there. The other half is act
 
 ## Sources
 
-- [Wearables, Fitness for Older Adults Top Fitness Trends 2026: ACSM ,  Athletech News](https://athletechnews.com/wearables-fitness-for-older-adults-top-fitness-trends-2026-acsm/) (January 2026)
-- [ACSM Fitness Trends ,  Official Page](https://acsm.org/education-resources/trending-topics-resources/acsm-fitness-trends/) (2026)
-- [Four Minutes of Daily Resistance Training Can Quadruple Fitness in Older Adults ,  Penn State Health News](https://pennstatehealthnews.org/2026/06/four-minutes-of-daily-resistance-training-can-quadruple-fitness-in-older-adults/) (June 2026)
-- [Best Fitness Trackers for Seniors with Fall Detection (July 2026) ,  Progressive Radio Network](https://progressiveradionetwork.com/best-fitness-tracker-for-seniors-with-fall-detection) (July 2026)
-- [Why Strength Training Is Essential for Healthy Aging ,  CU Anschutz](https://news.cuanschutz.edu/news-stories/why-strength-training-is-essential-for-healthy-aging) (July 2026)
-- [Top Fitness Trends 2026 ,  NASM](https://www.nasm.org/resource-center/blog/top-fitness-trends) (June 2026)
+- [Wearables, Fitness for Older Adults Top Fitness Trends 2026: ACSM, Athletech News](https://athletechnews.com/wearables-fitness-for-older-adults-top-fitness-trends-2026-acsm/) (January 2026)
+- [ACSM Fitness Trends, Official Page](https://acsm.org/education-resources/trending-topics-resources/acsm-fitness-trends/) (2026)
+- [Four Minutes of Daily Resistance Training Can Quadruple Fitness in Older Adults, Penn State Health News](https://pennstatehealthnews.org/2026/06/four-minutes-of-daily-resistance-training-can-quadruple-fitness-in-older-adults/) (June 2026)
+- [Best Fitness Trackers for Seniors with Fall Detection (July 2026), Progressive Radio Network](https://progressiveradionetwork.com/best-fitness-tracker-for-seniors-with-fall-detection) (July 2026)
+- [Why Strength Training Is Essential for Healthy Aging, CU Anschutz](https://news.cuanschutz.edu/news-stories/why-strength-training-is-essential-for-healthy-aging) (July 2026)
+- [Top Fitness Trends 2026, NASM](https://www.nasm.org/resource-center/blog/top-fitness-trends) (June 2026)
 
 *Photo: [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto) via Pexels*
 

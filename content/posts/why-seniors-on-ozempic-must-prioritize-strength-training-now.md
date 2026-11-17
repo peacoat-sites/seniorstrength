@@ -69,12 +69,12 @@ Please consult your physician, a registered dietitian, and a qualified fitness p
 
 ## Sources
 
-- [GLP-1 Users Walk 560 Fewer Steps Per Day, ENDO 2026 , Medical Daily](https://www.medicaldaily.com/glp1-ozempic-wegovy-physical-activity-decline-endo-2026-fitbit-study-475671) (June 17, 2026)
-- [Exercise Decreases Among People Taking GLP-1 Medication , Endocrine Society](https://www.endocrine.org/news-and-advocacy/news-room/2026/maharjan-press-release-endo-2026) (June 14, 2026)
-- [People Taking GLP-1 Drugs Started Moving Less , Science Daily](https://www.sciencedaily.com/releases/2026/06/260614011841.htm) (June 14, 2026)
-- [Combatting Muscle Loss in GLP-1 Patients Through Exercise , ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT07554417) (April 28, 2026)
-- [Weighing the Risk of GLP-1 Treatment in Older Adults: Sarcopenic Obesity , PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12391595/) (June 2026)
-- [Top Fitness Trends for 2026 , ACSM](https://acsm.org/top-fitness-trends-2026/) (May 11, 2026)
+- [GLP-1 Users Walk 560 Fewer Steps Per Day, ENDO 2026, Medical Daily](https://www.medicaldaily.com/glp1-ozempic-wegovy-physical-activity-decline-endo-2026-fitbit-study-475671) (June 17, 2026)
+- [Exercise Decreases Among People Taking GLP-1 Medication, Endocrine Society](https://www.endocrine.org/news-and-advocacy/news-room/2026/maharjan-press-release-endo-2026) (June 14, 2026)
+- [People Taking GLP-1 Drugs Started Moving Less, Science Daily](https://www.sciencedaily.com/releases/2026/06/260614011841.htm) (June 14, 2026)
+- [Combatting Muscle Loss in GLP-1 Patients Through Exercise, ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT07554417) (April 28, 2026)
+- [Weighing the Risk of GLP-1 Treatment in Older Adults: Sarcopenic Obesity, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12391595/) (June 2026)
+- [Top Fitness Trends for 2026, ACSM](https://acsm.org/top-fitness-trends-2026/) (May 11, 2026)
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

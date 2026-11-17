@@ -67,11 +67,11 @@ The study has arrived at an interesting moment. Older adults are the fastest-gro
 
 ## Sources
 
-- [Penn State Health News , Four minutes of daily resistance training can quadruple fitness in older adults](https://pennstatehealthnews.org/2026/06/four-minutes-of-daily-resistance-training-can-quadruple-fitness-in-older-adults/) (June 12, 2026)
-- [Penn State University Research News , Four-minute daily workout improves strength, balance in older adults](https://www.psu.edu/news/research/story/four-minutes-daily-resistance-training-can-quadruple-fitness-older-adults) (June 12, 2026)
-- [PLOS One , Brief daily functional strength training to improve functional performance in older adults (FAST-2 trial)](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0336748) (March 12, 2026)
-- [PLOS One , Interest in brief resistance training workouts among older US adults](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0329684) (August 2025)
-- [Medical Dialogues , Four minutes of daily resistance training can quadruple fitness in older adults](https://medicaldialogues.in/medicine/news/four-minutes-of-daily-resistance-training-can-quadruple-fitness-in-older-adults-suggests-study-172966) (June 16, 2026)
+- [Penn State Health News, Four minutes of daily resistance training can quadruple fitness in older adults](https://pennstatehealthnews.org/2026/06/four-minutes-of-daily-resistance-training-can-quadruple-fitness-in-older-adults/) (June 12, 2026)
+- [Penn State University Research News, Four-minute daily workout improves strength, balance in older adults](https://www.psu.edu/news/research/story/four-minutes-daily-resistance-training-can-quadruple-fitness-older-adults) (June 12, 2026)
+- [PLOS One, Brief daily functional strength training to improve functional performance in older adults (FAST-2 trial)](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0336748) (March 12, 2026)
+- [PLOS One, Interest in brief resistance training workouts among older US adults](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0329684) (August 2025)
+- [Medical Dialogues, Four minutes of daily resistance training can quadruple fitness in older adults](https://medicaldialogues.in/medicine/news/four-minutes-of-daily-resistance-training-can-quadruple-fitness-in-older-adults-suggests-study-172966) (June 16, 2026)
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

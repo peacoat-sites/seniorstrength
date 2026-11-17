@@ -69,10 +69,10 @@ The research has done its part. Two years of systematic reviews, meta-analyses, 
 ## Sources
 
 - [Evaluating the effectiveness of blood flow restriction training in older adults: An overview of systematic reviews](https://www.sciencedirect.com/science/article/pii/S266633762500109X) (May 2026)
-- [The effects of short-term blood flow restriction training on knee function and quality of life in older adults ,  Scientific Reports](https://www.nature.com/articles/s41598-026-41589-x) (2026)
-- [Blood flow restriction training: a new approach for preventing and treating sarcopenia in older adults ,  Frontiers in Physiology](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1616874/epub) (August 2025)
-- [Effect of different BFR training regimens combined with low-intensity training on muscle strength and cardiovascular safety in older adults ,  Frontiers in Physiology](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1587876/epub) (April 2025)
-- [Exploring Blood Flow Restriction Exercise Protocols for Elderly Populations: A Scoping Review ,  Journal of Clinical Medicine](https://doi.org/10.3390/jcm14124185) (June 2025)
+- [The effects of short-term blood flow restriction training on knee function and quality of life in older adults, Scientific Reports](https://www.nature.com/articles/s41598-026-41589-x) (2026)
+- [Blood flow restriction training: a new approach for preventing and treating sarcopenia in older adults, Frontiers in Physiology](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1616874/epub) (August 2025)
+- [Effect of different BFR training regimens combined with low-intensity training on muscle strength and cardiovascular safety in older adults, Frontiers in Physiology](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1587876/epub) (April 2025)
+- [Exploring Blood Flow Restriction Exercise Protocols for Elderly Populations: A Scoping Review, Journal of Clinical Medicine](https://doi.org/10.3390/jcm14124185) (June 2025)
 
 *Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
 

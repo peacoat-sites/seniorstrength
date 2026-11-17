@@ -67,7 +67,7 @@ The picture that's emerging in mid-2026 is one I find genuinely encouraging. The
 
 ## Sources
 
-- [ACSM: The Future of Fitness ,  Top Trends for 2026](https://acsm.org/top-fitness-trends-2026/) (July 2026)
+- [ACSM: The Future of Fitness, Top Trends for 2026](https://acsm.org/top-fitness-trends-2026/) (July 2026)
 - [2026 ACSM Worldwide Fitness Trends (ACSM's Health & Fitness Journal)](https://journals.lww.com/acsm-healthfitness/fulltext/2025/11000/2026_acsm_worldwide_fitness_trends__future.8.aspx) (November/December 2025, cited July 2026)
 - [12 Best Health Monitoring Devices for Elderly Adults (AR Home Care)](https://arhomecare.com/blog/12-best-wearable-technology-for-elderly-health-tracking-2025) (June 2026)
 - [Best Fitbit for Seniors in 2026 (SeniorSite)](https://seniorsite.org/resource/best-fitbit-for-seniors-in-2026-an-easy-guide-for-older-adults) (May 2026)

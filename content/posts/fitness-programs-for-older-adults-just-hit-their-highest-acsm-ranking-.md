@@ -76,7 +76,7 @@ The profession has made its call. Programs for older adults are no longer a spec
 
 ## Sources
 
-- [ACSM: The Future of Fitness ,  Top Trends for 2026](https://acsm.org/top-fitness-trends-2026/) (July 8, 2026)
+- [ACSM: The Future of Fitness, Top Trends for 2026](https://acsm.org/top-fitness-trends-2026/) (July 8, 2026)
 - [Penn State Health News: Four Minutes of Daily Resistance Training Can Quadruple Fitness in Older Adults](https://pennstatehealthnews.org/2026/06/four-minutes-of-daily-resistance-training-can-quadruple-fitness-in-older-adults/) (June 2026)
 - [University at Buffalo: Study Finds That for Women Over 60, Muscle Strength Matters](https://www.buffalo.edu/news/releases/2026/02/lamonte-jama-network-open-muscle-strength-mortality-risk.html) (February 18, 2026)
 - [NASM: Top Fitness Trends 2026](https://www.nasm.org/resource-center/blog/top-fitness-trends) (June 2, 2026)

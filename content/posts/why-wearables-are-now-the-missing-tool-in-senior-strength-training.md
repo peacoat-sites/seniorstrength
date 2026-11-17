@@ -59,7 +59,7 @@ After sessions, use the recovery data to spot patterns over weeks, not days. One
 Adults 65 and older now visit gyms and studios more frequently than any other age group, according to 2023 IHRSA data cited in the ACSM report. That's not a trend that came from nowhere. It came from people deciding that strength and function are worth protecting. Wearables, used thoughtfully and paired with real expertise, are finally giving that commitment a feedback loop it deserves.
 
 ## Sources
-- [ACSM: The Future of Fitness ,  Top Trends for 2026](https://acsm.org/top-fitness-trends-2026/) (July 2026)
+- [ACSM: The Future of Fitness, Top Trends for 2026](https://acsm.org/top-fitness-trends-2026/) (July 2026)
 - [Athletech News: Wearables, Fitness for Older Adults Tipped as Top Fitness Trends for 2026](https://athletechnews.com/wearables-fitness-for-older-adults-top-fitness-trends-2026-acsm/) (January 6, 2026)
 - [Recreation Management: ACSM Announces Top Trends for 2026](https://recmanagement.com/articles/155474/acsm-announces-top-trends-2026) (Late 2025 / January 2026)
 - [University at Buffalo: Study finds that for women over 60, muscle strength matters](https://www.buffalo.edu/ubnow/stories/2026/02/muscle-strength-longevity.html) (February 23, 2026)

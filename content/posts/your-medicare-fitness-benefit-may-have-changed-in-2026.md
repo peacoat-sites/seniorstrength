@@ -59,11 +59,11 @@ What you can control is whether you're caught off guard. Verify your specific be
 
 ## Sources
 
-- [Medicare Advantage Plans Are Quietly Dropping Popular Senior Benefits in 2026 , SavingAdvice](https://www.savingadvice.com/articles/2026/05/06/10734201_medicare-advantage-plans-are-quietly-dropping-popular-senior-benefits-in-2026.html) (May 6, 2026)
-- [Does Medicare Cover Exercise Programs? , Medicare.org](https://www.medicare.org/articles/does-medicare-supplement-plan-g-cover-gym-memberships/) (February 18, 2026)
-- [2026 ACSM Worldwide Fitness Trends , ACSM.org](https://acsm.org/top-fitness-trends-2026/) (November 2025, reconfirmed June 2026)
-- [2026 ACSM Worldwide Fitness Trends Full Report , ACSM Health & Fitness Journal](https://journals.lww.com/acsm-healthfitness/fulltext/2025/11000/2026_acsm_worldwide_fitness_trends__future.8.aspx) (November/December 2025)
-- [Senior Medicare-Linked Preventive Fitness Programs Market Report 2034 , MarketIntelo](https://marketintelo.com/report/senior-55-medicare-linked-preventive-fitness-programs-market/amp) (June 2026)
+- [Medicare Advantage Plans Are Quietly Dropping Popular Senior Benefits in 2026, SavingAdvice](https://www.savingadvice.com/articles/2026/05/06/10734201_medicare-advantage-plans-are-quietly-dropping-popular-senior-benefits-in-2026.html) (May 6, 2026)
+- [Does Medicare Cover Exercise Programs?, Medicare.org](https://www.medicare.org/articles/does-medicare-supplement-plan-g-cover-gym-memberships/) (February 18, 2026)
+- [2026 ACSM Worldwide Fitness Trends, ACSM.org](https://acsm.org/top-fitness-trends-2026/) (November 2025, reconfirmed June 2026)
+- [2026 ACSM Worldwide Fitness Trends Full Report, ACSM Health & Fitness Journal](https://journals.lww.com/acsm-healthfitness/fulltext/2025/11000/2026_acsm_worldwide_fitness_trends__future.8.aspx) (November/December 2025)
+- [Senior Medicare-Linked Preventive Fitness Programs Market Report 2034, MarketIntelo](https://marketintelo.com/report/senior-55-medicare-linked-preventive-fitness-programs-market/amp) (June 2026)
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
 

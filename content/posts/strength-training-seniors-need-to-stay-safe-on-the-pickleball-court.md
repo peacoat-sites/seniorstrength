@@ -70,7 +70,7 @@ Pickleball is genuinely good for you. The social engagement, the cardiovascular 
 - [Nowak Orthopedics: Injury Prevention Tips for Pickleball Players Over 40](https://nowakorthopedics.com/2026/06/25/injury-prevention-tips-for-pickleball-players-over-40/) (June 25, 2026)
 - [Sports Medicine Weekly: Pickleball Injuries Are Rising in 2026](https://sportsmedicineweekly.com/fitness/pickleball-injuries-rising-2026-prevention-tips/) (April 27, 2026)
 - [McGovern Medical School / UTHealth Houston: Pickleball Foot and Ankle Injuries](https://med.uth.edu/ortho/2026/03/24/pickleball-foot-and-ankle-injuries-prevention-tips/) (March 24, 2026)
-- [ACSM: The Future of Fitness ,  Top Trends for 2026](https://acsm.org/top-fitness-trends-2026/) (June 2026)
+- [ACSM: The Future of Fitness, Top Trends for 2026](https://acsm.org/top-fitness-trends-2026/) (June 2026)
 - [PMC / AJSM: Increasing Incidence of Pickleball Injuries in US Emergency Departments](https://pmc.ncbi.nlm.nih.gov/articles/PMC11758564/) (January 2025)
 - [Frontiers in Public Health: Wearable Device Exercise on Lower Limb Strength and Balance in Older Adults (Meta-Analysis)](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1778082/full) (February 13, 2026)
 

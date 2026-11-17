@@ -58,7 +58,7 @@ The simplification at the center of these guidelines, the reduction of complexit
 
 ## Sources
 
-- [ACSM Unveils Landmark 2026 Resistance Training Guidelines ,  First Update in 17 Years](https://acsm.org/resistance-training-guidelines-update-2026/) (published March 17, 2026)
+- [ACSM Unveils Landmark 2026 Resistance Training Guidelines, First Update in 17 Years](https://acsm.org/resistance-training-guidelines-update-2026/) (published March 17, 2026)
 - [Landmark ACSM/McMaster Guidelines Simplify Resistance Training for Longevity | 2 Minute Medicine](https://www.2minutemedicine.com/landmark-acsm-mcmaster-guidelines-simplify-resistance-training-for-longevity/) (published March 26, 2026)
 - [ACSM Strength Training Guidelines: 2026 Update Explained | Body Muscle Matters](https://bodymusclematters.com/acsm-strength-training-guidelines/) (published June 2026)
 - [New ACSM Resistance Training Guidelines 2026 | Defiance Health](https://www.defiance-health.com/blog/acsm-resistance-training-guidelines-2026-denver-tech-center) (published July 2026)
