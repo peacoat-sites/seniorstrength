@@ -1,6 +1,7 @@
 ---
 title: "Flexibility After 65: Simple Exercises to Stay Mobile"
 date: 2026-07-31T21:02:46.464848+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover practical stretches and exercises designed for older adults to maintain flexibility, improve mobility, and prevent stiffness after age 65."
 image: "/img/heroes/6815738.jpg"

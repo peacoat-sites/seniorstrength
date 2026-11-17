@@ -23,7 +23,7 @@ faqs:
    a: "More than most people expect. Getting protein earlier in the day rather than loaded at dinner supports muscle protein synthesis throughout the day. Eating something with protein and carbohydrates shortly after exercise (within an hour) meaningfully improves recovery, particularly in older adults whose repair processes are already slower."
  - q: "Can diet really affect energy levels that much after 60?"
    a: "Yes, and I'd argue it's the lever most people underestimate. Chronic dehydration, protein deficiency, gut inflammation from a low-fiber diet, and micronutrient gaps can all mimic fatigue that people assume is just aging. That's not always the case. Many of my clients have seen meaningful energy improvements by addressing nutrition before changing anything else."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people I work with come to me having already tried something. They've cut back on sugar, maybe started drinking more water, picked up a protein shake at Costco. They're not starting from zero. They're starting from confused, because everything they read seems to contradict everything else, and their body isn't responding the way it did at 45.

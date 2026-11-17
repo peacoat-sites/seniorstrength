@@ -1,6 +1,7 @@
 ---
 title: "Pickleball Is Surging Among Seniors. So Are the Injuries."
 date: 2026-07-03T21:06:51.756948+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Pickleball is booming among older adults, but injuries are rising too. Learn why seniors love the sport and how to stay safe on the court."
 image: "/img/heroes/29821186.jpg"

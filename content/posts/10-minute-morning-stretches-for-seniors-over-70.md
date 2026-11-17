@@ -18,7 +18,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You wake up and immediately feel it: stiffness in your back, your hips, maybe your knees. For anyone over 70, those first few minutes out of bed can feel like a real struggle. The good news is simple. A 10-minute routine of morning stretches can transform how you feel all day long. No gym, no equipment, no prior experience needed.
 

@@ -1,6 +1,7 @@
 ---
 title: "Grip Strength Is Now a Vital Sign. Here Is What to Do About It."
 date: 2026-07-17T20:53:48.883966+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Grip strength is now recognized as a vital health indicator. Learn why doctors are measuring it and what you can do to improve your grip strength today."
 image: "/img/heroes/13088863.jpg"

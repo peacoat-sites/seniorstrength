@@ -12,7 +12,7 @@ author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 slug: "a-4-minute-daily-workout-just-proved-it-can-transform-fitness-after-65"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most of us have heard the advice so many times it's stopped registering: you need at least 150 minutes of moderate activity per week, plus two days of strength training. Good advice on paper. But for adults over 65, that prescription has a compliance problem so severe it's almost embarrassing to mention. Fewer than one in five older adults actually meet the muscle-strengthening recommendation. Not because they're lazy. Because the bar feels impossibly high when your knees hurt, your schedule is unpredictable, and the gym is 20 minutes away.
 

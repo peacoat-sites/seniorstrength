@@ -23,7 +23,7 @@ faqs:
    a: "This comes up more than you'd think. Some physicians are working from advice that predates the current biomechanical research. I'd suggest asking specifically whether your doctor is aware of your disc or bone density status, and whether they'd be open to a referral to a physical therapist for a spine-specific exercise program. You're allowed to ask follow-up questions."
  - q: "How long before I notice a difference in my back pain?"
    a: "Most people with chronic, non-acute back pain notice meaningful improvement in 6-8 weeks of consistent, properly performed core training. Some people feel better sooner. The caveat is that you have to actually be consistent, which means two or three times a week minimum, not occasional sessions when the pain spikes. Building the habit before the pain flare is the whole point."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people with a bad back have been told, at some point, to "strengthen your core." What they're rarely told is which exercises are actually safe for them, and which ones are quietly making things worse. Many people report that months of crunches and sit-ups recommended by a doctor have worsened their back pain. Crunches are generally a poor choice for most adults over 60 with existing back problems, regardless of effort or form.

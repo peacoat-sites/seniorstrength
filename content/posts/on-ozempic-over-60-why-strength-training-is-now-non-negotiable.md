@@ -12,7 +12,7 @@ author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
 slug: "on-ozempic-over-60-why-strength-training-is-now-non-negotiable"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 Something surprising came out of the Endocrine Society's ENDO 2026 conference in Chicago this month, and I don't think it's getting nearly enough attention. Researchers tracked wearable fitness device data from 753 patients with obesity who had started a GLP-1 receptor agonist, drugs like Ozempic, Wegovy, Mounjaro, or Zepbound, and found that physical activity actually *decreased* significantly after they began treatment. Not slightly. Significantly. As [Healio reported on June 13](https://www.healio.com/news/endocrinology/20260613/exercise-declined-in-patients-with-obesity-after-starting-a-glp1), people moved less once they started the medication, not more. If you're over 60 and currently taking one of these drugs, that finding should stop you cold. Because for older adults specifically, the combination of GLP-1-driven muscle loss and reduced movement isn't just a missed opportunity. It's a genuine health risk.
 

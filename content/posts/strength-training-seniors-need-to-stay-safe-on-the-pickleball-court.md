@@ -12,7 +12,7 @@ author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
 slug: "strength-training-seniors-need-to-stay-safe-on-the-pickleball-court"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 If you've picked up a paddle in the last couple of years, you're in good company. [Pickleball participation has exploded](/pickleball-is-surging-among-seniors-so-are-the-injuries/) across the country, and for adults over 60, the appeal makes complete sense: it's social, it's genuinely fun, and it gets you moving in ways that sitting at home absolutely doesn't. But if you've been hearing more about injuries lately, or maybe felt a tweak in your ankle after a hard lateral step, you're not imagining it. Orthopedic clinics are flagging a real and rising trend this summer, and it's worth understanding what's actually going on before you assume the solution is simply playing less.

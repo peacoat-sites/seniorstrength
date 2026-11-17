@@ -1,6 +1,7 @@
 ---
 title: "Strength Training for the Frail Elderly: Build Muscle at 80+"
 date: 2026-08-14T20:29:05.749953+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how frail seniors can safely build strength and independence through targeted resistance exercises. Evidence-based guidance for aging adults."
 image: "/img/heroes/14524649.jpg"

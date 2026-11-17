@@ -1,6 +1,7 @@
 ---
 title: "60% of Seniors See Major Benefits From Daily Stretching"
 date: 2026-07-20T21:13:18.930467+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how daily stretching improves flexibility, balance, and mobility for seniors. Learn the proven benefits and best practices for safe stretching routines"
 image: "/img/heroes/8436949.jpg"

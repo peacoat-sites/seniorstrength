@@ -23,7 +23,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You wake up in the morning, swing your legs over the side of the bed, and feel that familiar ache in your knees before you've even taken a single step. Maybe you've started avoiding stairs. Maybe a walk around the block that used to feel effortless now requires planning around the soreness you know is coming afterward. If any of this sounds familiar, you're not alone, and you're not stuck. Knee pain and weakness in adults over 60 is one of the most common complaints I hear, but it's also one of the most responsive to the right kind of exercise. The key word there is "right." Not all knee exercises are created equal, and some popular advice that gets passed around can actually make things worse.
 

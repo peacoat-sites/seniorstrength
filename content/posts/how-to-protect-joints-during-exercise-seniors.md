@@ -23,7 +23,7 @@ faqs:
     a: "Pool walking or aquatic exercise, if you have access to a heated therapy pool, is hard to beat for low joint stress combined with real cardiovascular and muscular benefit. On land, slow, controlled bodyweight squats (only to the depth comfortable for you), chair-assisted standing exercises, and walking on flat, even surfaces are all solid starting points. Build duration before intensity."
   - q: "Can I still build real strength without loading my joints heavily?"
     a: "Yes. The research is clear that meaningful strength gains are achievable at moderate loads (roughly 40 to 60% of your one-rep max) when repetitions are performed slowly and controlled. 'Slow' in this context means 3 to 4 seconds on the lowering phase of any movement. This approach taxes the muscle while significantly reducing compressive and shear forces on the joint."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Every week, someone comes to me after getting hurt doing an exercise their doctor told them would be "gentle on the joints." Walking lunges. Jumping jacks as a "low-impact warmup." Leg press machines cranked to high resistance because "more weight means more benefit." And every time, I think: whoever gave that advice wasn't watching a 68-year-old with early knee osteoarthritis try to execute it.

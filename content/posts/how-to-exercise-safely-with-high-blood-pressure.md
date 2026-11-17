@@ -1,6 +1,7 @@
 ---
 title: "Exercise With High Blood Pressure: A Safe Guide"
 date: 2026-07-19T20:47:31.012791+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn which exercises are safe for high blood pressure, how to monitor your health, and what precautions to take before working out."
 image: "/img/heroes/4426521.jpg"

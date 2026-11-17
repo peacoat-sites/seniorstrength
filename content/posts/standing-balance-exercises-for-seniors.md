@@ -1,6 +1,7 @@
 ---
 title: "Standing Balance Exercises for Seniors: Build Stability and Prevent Falls"
 date: 2026-08-07T00:53:04.566150+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Master essential standing balance exercises designed for seniors to improve stability, strengthen legs, and reduce fall risk with safe, effective routines."
 image: "/img/heroes/6815738.jpg"

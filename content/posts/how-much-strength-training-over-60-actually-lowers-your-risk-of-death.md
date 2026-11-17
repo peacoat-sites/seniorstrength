@@ -1,6 +1,7 @@
 ---
 title: "How Much Strength Training Over 60 Actually Lowers Your Risk of Death"
 date: 2026-07-23T21:05:02.279379+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how strength training after 60 reduces mortality risk. Learn the science behind muscle building for longevity and practical tips for safe, effective wo"
 image: "/img/heroes/6293108.jpg"

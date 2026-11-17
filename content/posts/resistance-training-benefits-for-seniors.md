@@ -1,6 +1,7 @@
 ---
 title: "Resistance Training for Seniors: Build Strength and Independence"
 date: 2026-08-03T21:01:17.494162+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how resistance training helps seniors maintain muscle, bone density, and functional fitness. Safe exercises and expert guidance included."
 image: "/img/heroes/8846521.jpg"

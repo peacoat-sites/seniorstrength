@@ -23,7 +23,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most fitness content aimed at older adults spends three paragraphs warning you about your doctor before it says anything useful. Let's skip that part. You're an adult. You know your own body. What you might not know is how badly the standard "light weights, high reps" advice that gets recycled for seniors actually serves you, and in some cases, actively works against you.
 

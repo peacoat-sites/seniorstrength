@@ -23,7 +23,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people assume bad posture in older adults is just gravity winning. I used to think that too. Then I spent a few months going deep on the actual biomechanics, reviewed a stack of research going back to a 2003 landmark study in the *Journal of Bone and Mineral Research* on spinal curvature and mortality risk, and started paying closer attention to what was actually happening with the clients I was seeing in their 60s, 70s, and 80s. What I found changed how I think about this almost completely.
 

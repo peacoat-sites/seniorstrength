@@ -1,6 +1,7 @@
 ---
 title: "The 4-Minute Daily Workout That Builds Strength After 65"
 date: 2026-07-09T21:25:25.339282+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the 4-minute daily workout designed to build strength after 65. Simple, effective exercises that improve mobility, balance, and muscle tone for older a"
 image: "/img/heroes/11674389.jpg"

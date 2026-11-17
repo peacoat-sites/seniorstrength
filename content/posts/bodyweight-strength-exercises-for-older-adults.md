@@ -23,7 +23,7 @@ author: "James Cooper"
 author_slug: "james-cooper"
 author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Maybe you sat down in a chair recently and noticed it took more effort than it used to. Or you caught yourself gripping the railing on the stairs in a way you never thought twice about before. These moments can feel alarming, but here's something I want you to hear right away: they are incredibly common, and they are not a sign that decline is inevitable. Muscle loss, known clinically as sarcopenia, begins in our 40s and accelerates after 60, but research consistently shows that strength training can reverse meaningful amounts of that loss at virtually any age. The remarkable part is that you don't need a gym membership, a rack of dumbbells, or any equipment at all to start building real strength. Your own bodyweight, used correctly, is a genuinely powerful tool.
 

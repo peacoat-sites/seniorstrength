@@ -23,7 +23,7 @@ faqs:
    a: "Either works for most people. Light activity like this doesn't typically require fueling beforehand. If you feel lightheaded exercising on an empty stomach, have a small snack first, half a banana or a few crackers. If you're managing diabetes or take medications that affect blood sugar, check with your doctor about timing."
  - q: "Can I do this routine if I have knee or hip arthritis?"
    a: "Yes, with attention to comfort. Movement is generally better for arthritic joints than rest, and gentle morning movement can reduce stiffness significantly. Reduce the depth of your chair stands if your knees protest, and skip any movement that causes sharp (not dull or achy) pain. Dull stiffness that loosens as you warm up is normal. Sharp, localized pain is a signal to stop and get it evaluated."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most articles about morning exercise for seniors show a 70-year-old doing yoga on a beach at sunrise. Beautiful photo. Useless guidance.

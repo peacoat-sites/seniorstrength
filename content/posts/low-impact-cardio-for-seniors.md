@@ -23,7 +23,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people assume the biggest obstacle to cardio after 60 is motivation. I used to think that too. But after years of working with older adults, I've come to believe the real obstacle is misinformation, specifically the idea that "low impact" means "low effort" or, worse, that it's somehow a consolation prize for people who can't do "real" exercise. That assumption is wrong, and in some cases it's keeping people sedentary when they absolutely don't have to be.
 

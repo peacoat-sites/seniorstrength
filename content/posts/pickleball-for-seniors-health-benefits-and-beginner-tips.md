@@ -1,6 +1,7 @@
 ---
 title: "Pickleball for seniors: health benefits and beginner tips"
 date: 2026-05-18T23:05:44.611731+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the surprising health benefits of pickleball for seniors, plus beginner tips to start playing safely, build fitness, and make new friends at any age"
 image: "/img/heroes/34618470.jpg"

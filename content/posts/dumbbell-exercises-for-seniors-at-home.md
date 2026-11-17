@@ -23,7 +23,7 @@ faqs:
    a: "Pain is information, not something to push through. Most of these exercises have seated or modified versions that reduce joint stress significantly. A goblet squat can become a sit-to-stand from a slightly elevated chair. A Romanian deadlift can be performed seated with a resistance band. The principle (load the muscle progressively) matters more than the specific exercise."
  - q: "Do I need a bench, or can I do everything from a chair?"
    a: "A sturdy chair handles almost everything in a basic home program. You'll want something that doesn't slide on your floor, ideally with armrests you can grip for seated pressing. A weight bench gives you more positioning options, especially for rows and chest exercises, but it's not necessary to get started. Work with what you have."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people assume the hardest part of getting stronger after 60 is the work itself. I'd argue it's actually the misinformation you have to wade through first.

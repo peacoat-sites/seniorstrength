@@ -1,6 +1,7 @@
 ---
 title: "What the New ACSM Resistance Training Guidelines Mean After 60"
 date: 2026-07-20T21:11:11.738071+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover what the updated ACSM resistance training guidelines mean for adults over 60. Learn how to safely build strength and maintain muscle mass as you age."
 image: "/img/heroes/36917065.jpg"

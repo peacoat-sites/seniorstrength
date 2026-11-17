@@ -1,6 +1,7 @@
 ---
 title: "Grip Strength Exercises: Why 140,000 Older Adults Need Them"
 date: 2026-07-19T20:44:57.994226+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover essential grip strength exercises for older adults to maintain independence, prevent falls, and improve daily function with proven techniques."
 image: "/img/heroes/32392155.jpg"

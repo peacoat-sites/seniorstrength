@@ -1,6 +1,7 @@
 ---
 title: "10 Morning Stretches for Adults Over 65"
 date: 2026-07-13T20:57:03.161259+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Simple morning stretches designed for older adults to improve flexibility, reduce stiffness, and start your day with better mobility and comfort."
 image: "/img/heroes/6633818.jpg"

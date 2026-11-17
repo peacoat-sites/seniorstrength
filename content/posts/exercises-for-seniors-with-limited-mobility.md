@@ -23,7 +23,7 @@ faqs:
    a: "A physical therapist evaluation is genuinely the best starting point if you have significant mobility limitations, a history of falls, or multiple chronic conditions. One to three sessions to establish a baseline and get a personalized program is money well spent. If that's not accessible, chair stands, seated leg exercises, and supported standing balance work done at low intensity five days a week is a safe and reasonable place to begin."
  - q: "What's the difference between a resistance band and a resistance tube, and which is better for seniors?"
    a: "Resistance bands are flat loops or strips; tubes have handles. For seated and floor-based work, flat bands are generally easier to manage and less likely to snap back painfully if grip slips. TheraBand is the most widely used brand in clinical settings, and their color-coded resistance system (yellow is lightest, progressing through red, green, blue) makes it easy to track progress. Start with yellow or red regardless of how strong you feel."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people assume limited mobility means limited results. I'd like to respectfully disagree with that.

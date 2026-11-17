@@ -23,7 +23,7 @@ faqs:
     a: "You'll likely notice functional improvements (standing up feeling easier, less fatigue on stairs) within 4-6 weeks. Measurable strength gains on something like the 30-second chair stand test typically show up by 8-12 weeks of consistent twice-weekly training. The neuromuscular improvements (your nervous system learning to recruit muscle more efficiently) come first; actual muscle hypertrophy takes longer but does occur even in adults in their 80s."
   - q: "Do I need equipment or a gym membership to do these exercises?"
     a: "No. Everything described in this article can be done at home with a sturdy chair, a step or low stair, and optionally a $10-15 resistance loop band. A gym can be useful for variety and social motivation, but the fundamental exercises that produce the most benefit for older adults require almost no equipment."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people assume the biggest threat to independence as you age is heart disease or memory loss. I'd argue it's actually losing the ability to get up off the floor.

@@ -23,7 +23,7 @@ faqs:
    a: "Synovial fluid, which lubricates joints, is largely water-based, so chronic dehydration does negatively affect joint lubrication. But beyond staying adequately hydrated, drinking extra water above what you need doesn't produce additional joint benefit. The target for most older adults is somewhere around 6 to 8 cups daily, adjusted for body size and activity level."
  - q: "Are anti-inflammatory supplements like glucosamine and chondroitin worth taking?"
    a: "The evidence is genuinely mixed. The large GAIT trial found glucosamine and chondroitin didn't outperform placebo for mild knee osteoarthritis, but did show a significant effect in the subgroup with moderate-to-severe pain. Some people respond, some don't. If you try it, give it a minimum of 3 months before deciding, and use a reputable brand with independent testing. It's not a waste of money for everyone, but it's also not the slam-dunk some supplement companies imply."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most articles about joint inflammation start with something like "did you know omega-3 fatty acids are anti-inflammatory?" You did know. Everyone knows. What they skip is the part where they tell you how much actually matters, what the research looks like in older adults specifically, and why some foods touted as joint superfoods are doing almost nothing while others are dramatically undersold.

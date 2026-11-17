@@ -1,6 +1,7 @@
 ---
 title: "55% of Elderly Fall Due to Vitamin D Deficiency"
 date: 2026-07-27T21:09:17.052345+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how vitamin D deficiency increases fall risk in seniors and what levels matter. Prevention strategies backed by research."
 image: "/img/heroes/33061604.jpg"

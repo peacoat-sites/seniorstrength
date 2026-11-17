@@ -12,7 +12,7 @@ author_title: "Certified Trainer"
 author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
 slug: "how-exercise-fights-inflammaging-in-adults-over-60"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 A client of mine, a 67-year-old retired teacher, came in a few months ago frustrated. She'd been eating well, walking her neighborhood every morning, doing everything she thought she was supposed to do. But her doctor kept flagging elevated inflammatory markers at her annual bloodwork, and nobody was giving her a clear explanation of why, or what to do differently. She's not alone. And right now, the research is finally catching up to that frustration in a meaningful way.
 

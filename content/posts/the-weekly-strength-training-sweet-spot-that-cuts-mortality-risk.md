@@ -1,6 +1,7 @@
 ---
 title: "The Weekly Strength Training Sweet Spot That Cuts Mortality Risk"
 date: 2026-07-12T20:47:06.741423+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "The Weekly Strength Training Sweet Spot That Cuts Mortality Risk: Discover the optimal frequency and intensity of resistance exercise to reduce death risk and i"
 image: "/img/heroes/4720797.jpg"

@@ -18,7 +18,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Picture this: you wake up in the morning, and before your feet even hit the floor, your knees are already reminding you they're there. That familiar ache can make the idea of exercise feel impossible, or even risky. But here's the good news: **chair exercises for seniors** are one of the safest, most effective ways to stay active, build strength, and improve your overall health, even when your knees aren't cooperating.
 

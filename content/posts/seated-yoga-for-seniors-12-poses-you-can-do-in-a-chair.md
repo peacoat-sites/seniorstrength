@@ -18,7 +18,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You want to stay active and flexible, but getting down on a yoga mat and back up again just isn't as easy as it used to be. Maybe your knees ache, your balance isn't what it was, or you simply worry about falling. The good news? You don't need a mat, special clothing, or perfect balance to enjoy the benefits of yoga. **Seated yoga for seniors** lets you experience all the stretching, breathing, and calming benefits of traditional yoga from the comfort and safety of a sturdy chair.
 

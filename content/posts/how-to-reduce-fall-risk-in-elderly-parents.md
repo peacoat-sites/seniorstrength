@@ -18,7 +18,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you've watched a parent grip the wall for balance or shuffle carefully across a slippery floor, you already know that quiet fear. Falls are the leading cause of injury among older adults, and **reducing fall risk in elderly parents** is genuinely one of the most important things a family can do. The good news? Most falls are preventable. It takes home changes, the right exercises, and daily habits. That's it.
 

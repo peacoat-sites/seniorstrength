@@ -23,7 +23,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Maybe you've just had a check-up where your doctor said something like "you really should be more active," and you nodded along, but walked out of the office still not knowing what that actually means for your life. Or maybe you've been exercising for years and you're wondering if what you're doing is enough, or possibly too much. Either way, you're looking for a real answer, not a pamphlet with stick figures on it.
 

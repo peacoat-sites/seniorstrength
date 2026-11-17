@@ -1,6 +1,7 @@
 ---
 title: "Chair Aerobics for Seniors: Low-Impact Exercises You Can Do Anywhere"
 date: 2026-07-28T21:05:50.959592+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover chair aerobics exercises designed for older adults. Build strength and cardiovascular fitness safely without leaving your seat."
 image: "/img/heroes/12086685.jpg"

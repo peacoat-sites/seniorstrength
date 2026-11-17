@@ -23,7 +23,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people don't start thinking seriously about strength training until something goes wrong. A stumble on the porch steps. A moment of grabbing the wall to steady themselves. A doctor's appointment where the words "bone density" or "fall risk" come up for the first time. If that sounds familiar, you're not behind. You're exactly where a lot of people are when they first walk into my office.
 

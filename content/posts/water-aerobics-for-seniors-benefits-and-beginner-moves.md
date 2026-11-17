@@ -18,7 +18,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 You want to stay active, but your knees ache on the stairs, your hips protest after a long walk, and high-impact workouts sound exhausting rather than energizing. Sound familiar? You're not alone. Millions of adults over 60 find that land-based exercise has become more punishing than rewarding. That's where **water aerobics for seniors** comes in, a gentle, fun, and remarkably effective way to keep your body strong without the pain.
 

@@ -23,7 +23,7 @@ faqs:
    a: "Aim for at least 25 to 40 grams at each main meal rather than concentrating most of your protein at dinner. After resistance exercise specifically, consuming protein within about two hours appears to significantly improve muscle protein synthesis, which matters more as we age."
  - q: "Can seniors build muscle after 70?"
    a: "Yes, with consistency and adequate protein. The process is slower than in younger adults and requires more dietary protein to achieve similar results, but multiple studies confirm that meaningful muscle gain is possible well into the 70s and 80s with resistance training and sufficient nutrition."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people are eating about half the protein they actually need. Not because they don't care, but because the advice they've been given is outdated.

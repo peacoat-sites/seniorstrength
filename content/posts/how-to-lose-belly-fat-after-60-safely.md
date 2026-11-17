@@ -18,7 +18,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've noticed it creeping up on you, that stubborn belly that definitely wasn't there ten years ago. No matter what you try, it won't budge. Millions of people over 60 deal with this exact problem. You can lose belly fat after 60 safely and effectively. You just need an approach that actually fits your body at this stage of life.
 

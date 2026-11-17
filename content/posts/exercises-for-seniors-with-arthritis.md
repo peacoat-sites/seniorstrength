@@ -1,6 +1,7 @@
 ---
 title: "7 Gentle Exercises for Seniors With Arthritis Pain"
 date: 2026-07-10T21:07:58.570577+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover safe, effective exercises designed for seniors with arthritis. Reduce joint pain, improve mobility, and stay active with these simple movements."
 image: "/img/heroes/7938849.jpg"

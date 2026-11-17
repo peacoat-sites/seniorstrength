@@ -1,6 +1,7 @@
 ---
 title: "Hip Mobility Exercises for Seniors: 20 Minutes to Better Movement"
 date: 2026-07-16T20:56:37.695252+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Essential hip mobility exercises designed for seniors to improve flexibility, reduce pain, and maintain independence with safe, effective routines."
 image: "/img/heroes/6815698.jpg"

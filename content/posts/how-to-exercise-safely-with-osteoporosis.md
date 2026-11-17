@@ -1,6 +1,7 @@
 ---
 title: "Safe Exercises for Osteoporosis: Strengthen Without Injury"
 date: 2026-07-12T20:44:26.674637+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn which exercises build bone strength safely with osteoporosis. Discover low-impact movements and what to avoid to prevent fractures."
 image: "/img/heroes/36626659.jpg"

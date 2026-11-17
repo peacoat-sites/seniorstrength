@@ -18,7 +18,7 @@ author: "Helen Santos"
 author_slug: "helen-santos"
 author_title: "Group Fitness Instructor"
 author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you've recently had a bone density scan and heard words like "osteopenia" or "low bone mass," you're not alone. Millions of adults over 60 live with the very real fear of fractures, falls, and losing their independence. The good news? There are proven, practical ways to **prevent osteoporosis naturally after 60**, and it's never too late to start protecting your bones.
 

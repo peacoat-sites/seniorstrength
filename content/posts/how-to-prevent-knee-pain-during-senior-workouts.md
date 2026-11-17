@@ -1,6 +1,7 @@
 ---
 title: "Knee Pain During Senior Workouts: Prevention Strategies That Work"
 date: 2026-07-25T20:51:07.191883+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn proven techniques to protect your knees during exercise as a senior. Discover warm-ups, form fixes, and modifications to stay active pain-free."
 image: "/img/heroes/12086689.jpg"

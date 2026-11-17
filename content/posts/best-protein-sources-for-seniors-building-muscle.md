@@ -23,7 +23,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're at the gym, third set of seated leg presses done, and the trainer hands you a protein shake made from some chalky powder that tastes like vanilla-flavored disappointment. "You need at least 30 grams after every workout," he says. You nod, drink it, and wonder if this is really what it takes. Maybe. But here's what most people don't realize: the protein question for adults over 60 is far more nuanced than a post-workout shake, and getting it wrong doesn't just slow your results, it can quietly work against the very muscle you're trying to build.
 

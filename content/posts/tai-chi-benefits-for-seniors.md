@@ -1,6 +1,7 @@
 ---
 title: "How 47% of Seniors Get Better Balance With Tai Chi"
 date: 2026-08-05T21:06:14.439397+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover why tai chi is proven to improve balance, strength, and flexibility in seniors. Learn the key benefits and how to get started safely."
 image: "/img/heroes/8173543.jpg"

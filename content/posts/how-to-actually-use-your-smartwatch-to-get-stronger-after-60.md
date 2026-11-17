@@ -1,6 +1,7 @@
 ---
 title: "How to Actually Use Your Smartwatch to Get Stronger After 60"
 date: 2026-07-11T20:44:59.509520+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how seniors can use smartwatch features to build strength safely after 60. Track workouts, monitor heart rate, and stay motivated with wearable technol"
 image: "/img/heroes/4426519.jpg"

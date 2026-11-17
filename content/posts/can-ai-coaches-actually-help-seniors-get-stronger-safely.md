@@ -1,6 +1,7 @@
 ---
 title: "Can AI Coaches Actually Help Seniors Get Stronger Safely"
 date: 2026-08-04T21:11:27.875255+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "AI-powered coaching helps seniors build strength safely with personalized workouts, form correction, and injury prevention. Discover if AI coaches work for olde"
 image: "/img/heroes/6922178.jpg"

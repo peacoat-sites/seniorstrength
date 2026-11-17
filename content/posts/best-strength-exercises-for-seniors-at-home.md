@@ -23,7 +23,7 @@ author: "Linda Chen"
 author_slug: "linda-chen"
 author_title: "Physical Therapist"
 author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most home workout advice for seniors is written by people who have never watched a 68-year-old try to get up off the floor after a poorly cued exercise went sideways. The recommendations look fine on paper: "do squats, do lunges, stay active." What they skip is the sequencing, the load progression, and the specific reasons certain moves are dramatically more valuable than others at this stage of life. That gap isn't a minor editorial flaw. It's how people get hurt and quit.
 

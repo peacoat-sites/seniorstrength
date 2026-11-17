@@ -18,7 +18,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You want to stay strong and active, but the gym feels intimidating, and your joints aren't exactly thrilled about heavy weights anymore. Sound familiar? Resistance band exercises for seniors are a safe, affordable, and surprisingly effective way to build strength right from your living room. These stretchy, colorful bands are gentle on your joints, easy to store, and powerful enough to challenge your muscles at any fitness level.
 

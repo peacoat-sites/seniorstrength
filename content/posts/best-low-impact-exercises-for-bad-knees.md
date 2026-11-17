@@ -23,7 +23,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people with bad knees are told to rest. Stop walking so much. Skip the stairs. Take it easy. I spent years watching that advice backfire, and I'll be honest: it frustrated me every time. Because the research, and two decades of working with older adults, points in exactly the opposite direction. The right kind of movement is frequently one of the best things you can do for a painful knee. The wrong kind of rest is often what makes it worse.
 

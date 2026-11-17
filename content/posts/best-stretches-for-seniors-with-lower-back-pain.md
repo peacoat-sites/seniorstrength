@@ -18,7 +18,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you're waking up with a stiff lower back, you're in good company. Millions of seniors deal with this every single day, and it's frustrating enough that getting dressed or walking to the kitchen starts to feel like work. The encouraging part: stretches that actually work exist, and they're simple, gentle, and don't require a gym.
 

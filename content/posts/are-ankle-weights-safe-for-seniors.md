@@ -1,6 +1,7 @@
 ---
 title: "Ankle Weights for Seniors: Safe Exercises After 60"
 date: 2026-07-24T21:03:57.790481+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn whether ankle weights are safe for older adults 60+. Expert guidelines on proper use, risks, and effective alternatives for senior fitness."
 image: "/img/heroes/7020829.jpg"

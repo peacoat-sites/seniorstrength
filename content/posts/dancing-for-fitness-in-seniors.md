@@ -1,6 +1,7 @@
 ---
 title: "Dancing for Fitness: Why 76% of Seniors Stay Active"
 date: 2026-08-08T20:28:09.365374+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how dancing keeps seniors fit and healthy. Learn the benefits, best styles, and how to get started safely at any age."
 image: "/img/heroes/7020819.jpg"

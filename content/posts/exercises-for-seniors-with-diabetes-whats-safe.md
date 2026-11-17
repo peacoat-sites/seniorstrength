@@ -18,7 +18,7 @@ author: "Dr. Patricia Williams"
 author_slug: "dr-patricia-williams"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Managing blood sugar while staying active can feel like walking a tightrope. One wrong move and you're convinced your glucose will spike, or worse, you'll pull something. **Exercises for seniors with diabetes** are safe and can be one of your most effective tools for managing your condition and improving how you feel day to day.
 

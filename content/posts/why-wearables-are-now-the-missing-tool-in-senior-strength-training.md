@@ -1,6 +1,7 @@
 ---
 title: "Why Wearables Are Now the Missing Tool in Senior Strength Training"
 date: 2026-07-26T20:57:10.239061+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how wearable technology revolutionizes senior strength training, improving form, motivation, and safety while tracking progress in real time."
 image: "/img/heroes/4426517.jpg"

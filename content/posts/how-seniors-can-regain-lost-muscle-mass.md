@@ -23,7 +23,7 @@ faqs:
     a: "Generally yes, and in many cases it's actively recommended, but 'resistance training' covers a wide range of exercises and some are more appropriate than others depending on your specific condition. A physical therapist or certified trainer experienced with older adults can help you identify safe movement patterns. High-impact loading on fragile bone is a real concern, but controlled resistance training done with proper form tends to be well-tolerated and can actually improve bone density over time."
   - q: "What if I can't afford a gym or a personal trainer?"
     a: "You don't need either to start making real progress. A basic resistance band set ($15-30), a sturdy chair, and a countertop for balance support cover the foundational movements. YouTube channels like HASfit and MedBridge have well-regarded beginner programs designed for older adults. Also worth checking: many Medicare Advantage plans include a gym benefit (SilverSneakers is the most common) that covers membership costs entirely."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people don't realize they've already lost a significant amount of muscle by the time they notice anything's wrong.

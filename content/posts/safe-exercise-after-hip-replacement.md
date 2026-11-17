@@ -23,7 +23,7 @@ faqs:
    a: "Not in the first six months, and after that, it depends on your single-leg stability and your surgeon's guidance. The lateral movements and quick direction changes create hip loading patterns that are meaningfully different from walking or cycling. Get cleared specifically for pickleball before you step on the court."
  - q: "Can I do squats and lunges after a hip replacement?"
    a: "Yes, in most cases, once you're past the precaution period. Sit-to-stand movements (which are essentially functional squats) are often started within weeks of surgery. Full-depth squats and lunges come later, typically after three to four months, with attention to maintaining the hip above 90 degrees of flexion if posterior precautions were in place. Build into them gradually and learn proper technique from someone qualified. Depth is earned, not assumed."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Every week, someone sits across from me and says some version of the same thing: "My surgeon cleared me at twelve weeks, so I figured I could just... get back to normal." They're not wrong to feel hopeful. But "cleared" and "ready for full activity" are two very different things, and that gap is where most post-hip-replacement setbacks happen.

@@ -23,7 +23,7 @@ author: "Robert Davis"
 author_slug: "robert-davis"
 author_title: "Senior Nutrition Specialist"
 author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Every 11 seconds, an older adult ends up in an emergency room because of a fall. Most of those falls don't have to happen. Not through luck or constant vigilance or abandoning everything you enjoy doing. Through actual training. Specific, consistent, well-chosen training that rewires how your body responds when your foot lands somewhere unexpected.
 

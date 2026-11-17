@@ -12,7 +12,7 @@ author_title: "Medical Reviewer"
 author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
 slug: "how-much-strength-training-do-seniors-actually-need-to-live-longer"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 A client of mine, a 68-year-old retired teacher named Carol, came to me last spring convinced she needed to be at the gym five days a week or she was "doing it wrong." She was exhausted, her knees were complaining, and she'd already quietly started skipping sessions because the whole thing felt unsustainable. When I told her the research was about to prove she was massively overcomplicating this, she didn't believe me.

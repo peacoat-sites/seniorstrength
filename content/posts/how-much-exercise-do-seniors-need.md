@@ -1,6 +1,7 @@
 ---
 title: "Senior Exercise Guidelines: The Activity Plan Your Doctor Recommends"
 date: 2026-07-24T21:01:41.624112+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how much exercise seniors actually need to stay healthy, strong, and independent. Evidence-based guidelines for safe, effective fitness."
 image: "/img/heroes/37506905.jpg"

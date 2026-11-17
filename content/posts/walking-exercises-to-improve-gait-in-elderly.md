@@ -1,6 +1,7 @@
 ---
 title: "Walking Exercises for Elderly: Improve Gait at 65+"
 date: 2026-07-17T20:55:51.886330+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover walking exercises designed to improve gait and balance in elderly adults. Safe, effective routines to enhance mobility and prevent falls."
 image: "/img/heroes/11299677.jpg"
