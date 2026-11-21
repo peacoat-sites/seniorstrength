@@ -28,7 +28,7 @@ lastmod: 2026-11-16T16:00:00Z
 
 Most post-knee replacement guides hand you a tidy list of "safe" exercises and call it a day. What they skip is the other list: the movements that feel fine, look harmless, and can quietly damage your new joint before you even realize something's going wrong.
 
-That omission costs people. I've worked with clients who did everything their surgeon told them, then added a "gentle" yoga class or hopped on a stair climber at week eight because a friend said it was fine. Some got through it. Others set their recovery back by months.
+That omission costs people. Many people do everything their surgeon told them, then add a "gentle" yoga class or hop on a stair climber at week eight because a friend said it was fine. Some got through it. Others set their recovery back by months.
 
 Let's fix that gap.
 
@@ -68,7 +68,7 @@ Partial squats to about 90 degrees, done with control, are a different story. Th
 
 **Stair climbers and step mills.** These feel like responsible low-impact cardio. They're not. The step mill requires repetitive deep knee flexion under load, basically hundreds of mini-lunges per session. Many surgeons restrict stair climbers indefinitely post-TKR. If yours hasn't mentioned it, ask directly.
 
-**Elliptical with high resistance and steep incline.** The elliptical at moderate resistance and flat incline is often approved and is genuinely one of the better options. But crank the incline or resistance up, and you're dramatically increasing the force across the knee. I see this mistake constantly: someone gets cleared for the elliptical, interprets that as cleared for any elliptical setting.
+**Elliptical with high resistance and steep incline.** The elliptical at moderate resistance and flat incline is often approved and is genuinely one of the better options. But cranking the incline or resistance up dramatically increases the force across the knee. A common mistake is getting cleared for the elliptical and interpreting that as cleared for any elliptical setting.
 
 **Contact sports and activities with unpredictable lateral movement.** Soccer, tennis (singles, with its hard cuts and pivots), skiing, and anything that puts you at risk of a fall or collision. The concern here isn't just wear, it's fracture around the implant (periprosthetic fracture) and ligament stress on a joint that no longer has its original anatomy. Some surgeons clear recreational doubles tennis; very few clear singles. Know the difference.
 
@@ -80,7 +80,7 @@ Partial squats to about 90 degrees, done with control, are a different story. Th
 
 Yoga is the big one. The word "gentle" does a lot of misleading work in fitness marketing. A slow yoga class still includes child's pose (deep knee flexion), hero pose (extreme knee flexion with the foot tucked under the hip), and pigeon variations that torque the knee. These are not safe post-TKR regardless of how slowly you move into them.
 
-I had a client, Margaret, 68, six weeks post-op, genuinely diligent about her PT protocol. She'd been a yoga practitioner for fifteen years and missed it badly. She found a "gentle seniors yoga" class and went once. She reported afterward that she'd "modified everything." She was back in my office two weeks later with an inflamed joint and a two-week setback. The instructor had no TKR training and Margaret felt too awkward to sit out the kneeling poses entirely.
+Consider, for example, someone six weeks post-op who has been genuinely diligent about their PT protocol. Having practiced yoga for years and missing it badly, they seek out a low-key class. They find a "gentle seniors yoga" class and attend once. They report afterward that they "modified everything." Two weeks later, the result is an inflamed joint and a two-week setback. The instructor had no TKR training, and it can feel too awkward to sit out the kneeling poses entirely.
 
 The lesson: the class label doesn't protect you. Your own knowledge of which positions to refuse does.
 
@@ -96,13 +96,13 @@ The short version of what works well: walking on flat surfaces (building gradual
 
 Strong glutes and hip abductors are, genuinely, the underrated factor in TKR recovery. They offload force from the knee by improving alignment throughout the entire lower extremity kinetic chain. Most rehab protocols underemphasize this. If your PT has you doing clamshells and side-lying hip abduction and it feels too easy, don't assume it doesn't matter. It matters.
 
-Here are a few patterns I've tracked in my own work:
+The following scenarios illustrate common patterns seen in TKR recovery:
 
-Patient returns to TKR rehab at week 10 with swollen knee after adding a stair climber at the gym → discontinued the machine, returned to walking and pool work → swelling resolved within 10 days, resumed progression on track by week 12.
+For example, if a patient returns to TKR rehab at week 10 with a swollen knee after adding a stair climber at the gym, discontinuing the machine and returning to walking and pool work can resolve swelling within 10 days and allow resumed progression by week 12.
 
-Patient at week 16 complaining of stalled progress and ongoing stiffness → assessment found almost no hip abductor work in home routine → added focused glute and hip strengthening three times weekly → reported significantly improved stability and reduced knee fatigue within six weeks.
+For example, a patient at week 16 complaining of stalled progress and ongoing stiffness may show almost no hip abductor work in their home routine; adding focused glute and hip strengthening three times weekly can produce significantly improved stability and reduced knee fatigue within six weeks.
 
-Patient at 8 months post-op frustrated by "plateau" → cleared by surgeon for stationary bike, had been avoiding it out of excessive caution → introduced cycling at proper seat height and low resistance → regained meaningful functional range of motion over two months.
+For example, a patient at 8 months post-op frustrated by a "plateau" who is cleared for the stationary bike but has been avoiding it out of excessive caution can regain meaningful functional range of motion over two months by introducing cycling at proper seat height and low resistance.
 
 ---
 

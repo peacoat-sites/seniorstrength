@@ -77,17 +77,17 @@ Collagen protein is heavily marketed right now, often with claims that overstate
 
 As of July 2026, the most current consensus from sports nutrition researchers and geriatric dietitians is fairly consistent: aim for 25 to 40 grams of protein per serving, spread across three to four meals or shake opportunities throughout the day. One giant protein hit doesn't work as well. Muscle protein synthesis has a ceiling per meal, somewhere around 35 to 40 grams for most older adults, and anything beyond that is less efficiently used.
 
-Here's what I actually tell people in my sessions: start with a simple daily target based on your bodyweight (1.2g per kilogram is a good starting point), track your food protein for just three days to see where you actually land, and then figure out the gap. For most people I work with, one shake per day covers the shortfall without turning their whole diet upside down.
+A practical starting point is to calculate a simple daily target based on your bodyweight (1.2g per kilogram is a good baseline), track your food protein for just three days to see where you actually land, and then figure out the gap. For most older adults, one shake per day covers the shortfall without turning their whole diet upside down.
 
-A few specifics that only come up in practice:
+A few practical specifics worth knowing:
 
 Mixing whey into hot liquids (like oatmeal or soup) can cause it to clump badly. Cold water or milk works far better. And if you're mixing with milk rather than water, add roughly 8 grams of protein to your serving count from the milk itself, which genuinely matters if you're being precise.
 
 Some people over 65 experience GI discomfort from whey concentrate, particularly if they have any lactose sensitivity. The fix is usually switching to whey isolate (most of the lactose is removed during processing) or a high-quality pea-rice blend. Orgain Organic Protein is a decent plant-based option around $1.30 per serving; for whey, Momentous Essential Whey Protein and Thorne Whey Protein are both third-party tested, which matters if you're taking other medications and want to be careful about what's in your supplements.
 
-- A 72-year-old woman, 135 lbs (61 kg), doing twice-weekly resistance training, struggling to eat more than 50g protein daily from food alone. Target: 75–98g/day. Action: added one serving of whey isolate post-workout plus one casein shake before bed. Result: hit protein targets on training days consistently, and reported noticeably less muscle soreness within six weeks. Grip strength measured at her physical therapy appointments improved by roughly 18% over four months.
+For example, a woman in her early 70s doing twice-weekly resistance training who can manage only around 50g of protein daily from food might target 75–98g/day by adding one serving of whey isolate post-workout plus one casein shake before bed, which research suggests could support reduced muscle soreness and measurable grip strength gains over several months.
 
-- A 68-year-old man post-knee replacement, restricted to upper-body exercise only during recovery. Action: maintained 1.5g/kg protein intake through food plus one daily whey shake specifically to limit muscle loss during rehab. Result: his physical therapist noted his strength recovery timeline was faster than average for his age group, and he retained significantly more quad tone than expected given six weeks of leg disuse.
+Similarly, someone recovering from a knee replacement and restricted to upper-body exercise might maintain 1.5g/kg protein intake through food plus one daily whey shake to limit muscle loss during rehab, an approach that physical therapists often associate with faster-than-average strength recovery and better muscle retention during periods of limb disuse.
 
 ## The Kidney Question (Let's Actually Answer It)
 
@@ -97,7 +97,7 @@ For people with existing chronic kidney disease, yes, high protein intake can ac
 
 For healthy older adults without kidney disease: the concern is largely not supported by current research. A 2018 review in the *Journal of Nutrition and Metabolism* (Devries et al.) examined protein intakes up to 2.2g/kg/day in healthy adults and found no evidence of kidney damage in people with normal baseline kidney function. The myth traces back partly to studies done in people who already had kidney disease, which obviously skews the outcome.
 
-I don't have strong data on very long-term intakes (10+ years) at the higher end of the range, so I'll be honest about that gap. But at 1.2 to 1.6g/kg, the current evidence is reassuring for healthy kidneys.
+Strong data on very long-term intakes (10+ years) at the higher end of the range remain limited, and that gap is worth acknowledging. But at 1.2 to 1.6g/kg, the current evidence is reassuring for healthy kidneys.
 
 ## Sources
 

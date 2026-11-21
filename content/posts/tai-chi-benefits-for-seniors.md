@@ -38,7 +38,7 @@ Falls kill more Americans over 65 than most people realize. The CDC reports that
 
 Here's what makes tai chi different from standard balance exercises. It trains what researchers call "multisensory integration," meaning your nervous system learns to combine visual cues, vestibular input, and proprioceptive feedback simultaneously. A Tai Chi move like "single whip" isn't just shifting your weight. You're standing on one leg, rotating your trunk, tracking your hands through space, and breathing through all of it. A 2021 study in *JAMA Internal Medicine* found that a 48-week tai chi program reduced injurious falls by 31% compared to a stretching control group, 670 participants, average age 72. That's not a yoga mat falling over. That's a hip not breaking.
 
-I had a client a few years back, a 74-year-old retired civil engineer named Gerald, who came to me after his second near-fall in six months. His balance on a single-leg stand test was 4 seconds. After 16 weeks of twice-weekly tai chi, he hit 18 seconds. His confidence going down stairs changed completely. That shift in confidence matters, because fear of falling actually accelerates the physical decline that causes falls. It's a loop tai chi interrupts.
+For example, consider someone in their mid-seventies with two near-falls in six months who begins twice-weekly tai chi practice. A starting single-leg stand time of around 4 seconds is common in that situation. After 16 weeks of twice-weekly tai chi, times of 18 seconds or more are a realistic outcome. Confidence on stairs often changes substantially alongside those physical improvements. That shift in confidence matters, because fear of falling actually accelerates the physical decline that causes falls. It's a loop tai chi interrupts.
 
 ## What the Research Actually Covers
 
@@ -73,15 +73,15 @@ Most studies showing significant benefits use 60-minute sessions, 3 times per we
 
 ## The Part Most Articles Skip: What to Expect in Week 1
 
-First class, you will be confused. The movements have names like "wave hands like clouds" and "grasp the sparrow's tail," and a good instructor will not over-explain them. You're meant to follow visually and kinesthetically, not analytically. The most common mistake new students make (I made it myself the first time I took a full Yang long form class) is trying to memorize the sequence intellectually rather than letting the body absorb it through repetition. Let that go.
+First class, you will be confused. The movements have names like "wave hands like clouds" and "grasp the sparrow's tail," and a good instructor will not over-explain them. You're meant to follow visually and kinesthetically, not analytically. The most common mistake new students make is trying to memorize the sequence intellectually rather than letting the body absorb it through repetition. Let that go.
 
 What you'll actually feel after a single session: mild muscular fatigue in your thighs and lower back, because the low stances are harder than they look. Slightly disoriented in a pleasant way. The movements are done slowly enough that most people exit the first class without soreness, but after the second or third session, expect your quads to remind you they exist.
 
 One thing no article mentions: the standing meditation at the beginning, sometimes called "wu ji" stance, where you're simply standing with feet shoulder-width apart, arms relaxed, for several minutes. New students want to rush through it. Don't. That stillness is doing real work, training postural muscle endurance and beginning the breath regulation that carries through the whole form.
 
-Scenario 1: A 68-year-old woman, mild osteoarthritis in both knees, had been avoiding stairs for two years. Joined a Sun-style tai chi class at her local senior center ($0, covered by SilverSneakers) three times per week. At week 8, her therapist noted a 2-second improvement on timed-up-and-go. At week 16, she was using stairs without the handrail for the first time since 2023.
+For example, someone in their late sixties with mild osteoarthritis in both knees who has been avoiding stairs might join a Sun-style tai chi class at a local senior center three times per week.  By week 8, a therapist might note a meaningful improvement on the timed-up-and-go test. By week 16, using stairs without a handrail for the first time in years is a plausible and documented type of outcome.
 
-Scenario 2: A 71-year-old man with controlled hypertension, already on one medication, added tai chi three times per week. After 24 weeks, his doctor reduced his lisinopril dose. Blood pressure log showed average systolic dropped from 138 to 126 mmHg. He'd started for the balance benefits; the BP change was the surprise.
+For example, someone in their early seventies with controlled hypertension who adds tai chi three times per week may see meaningful cardiovascular changes. After 24 weeks, medication adjustments in consultation with a physician are a realistic possibility. Blood pressure logs in such cases can show systolic reductions of 10 mmHg or more. Starting for the balance benefits and discovering cardiovascular improvements is a commonly reported experience.
 
 ## Sources
 

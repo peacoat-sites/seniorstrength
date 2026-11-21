@@ -26,7 +26,7 @@ faqs:
     a: "Most people feel subjective improvements (less fatigue climbing stairs, better stability getting up from a chair) within 3 to 4 weeks. Measurable strength gains typically show up at 6 to 8 weeks. Structural changes in muscle tissue take 3 to 6 months of consistent training to become significant."
 ---
 
-Seventy percent of adults over 65 who fall and fracture a hip will never fully regain their previous level of independence. That number stopped me cold the first time I read it in a 2022 report from the CDC. Not because falls are inevitable, but because the single most effective thing we know of to prevent them, building muscle and bone strength through [resistance training](/what-the-new-acsm-resistance-training-guidelines-mean-after-60/), is also the thing most people over 70 are told to avoid.
+Seventy percent of adults over 65 who fall and fracture a hip will never fully regain their previous level of independence. That number comes from a 2022 report from the CDC. Not because falls are inevitable, but because the single most effective thing we know of to prevent them, building muscle and bone strength through [resistance training](/what-the-new-acsm-resistance-training-guidelines-mean-after-60/), is also the thing most people over 70 are told to avoid.
 
 The fear around [weight lifting](/safe-weight-lifting-for-seniors-guide/) after 70 is doing real harm. Not the lifting. The fear.
 
@@ -61,7 +61,7 @@ The conditions that genuinely warrant modified (not eliminated) training include
 
 ## What "Safe" Actually Looks Like Week One
 
-The first time I put a 73-year-old former banker named Frank on a leg press machine, he wanted to start with what he remembered pressing in his 50s. We laughed about that. We started with 40 pounds. That was the right call.
+For example, a 73-year-old returning to the gym after decades away might want to start with what he remembered pressing in his 50s.  Starting with 40 pounds would be the right call. That was the right call.
 
 A safe starting point for most adults over 70 who are new or returning to resistance training looks like this:
 
@@ -69,19 +69,19 @@ Frequency: 2 days per week, non-consecutive (Monday and Thursday, for example). 
 
 Exercises: Focus on compound movements that mirror daily life. Sit-to-stand (essentially a squat), a pulling motion (seated row or lat pulldown), a pushing motion (chest press on a machine), and a hip hinge (Romanian deadlift with very light weight or a resistance band). These four patterns cover 80% of what your body needs functionally.
 
-Load: Start light enough that the last rep of a set of 12 is somewhat challenging but your form is still clean. If you're grimacing and your back is rounding at rep 8, the weight is too heavy. One thing that took me a while to trust: older adults often underload far more than they overload, and both are problems.
+Load: Start light enough that the last rep of a set of 12 is somewhat challenging but your form is still clean. If you're grimacing and your back is rounding at rep 8, the weight is too heavy. Research and clinical experience consistently show that older adults tend to underload far more than they overload, and both are problems.
 
 Rest: 90 seconds to 2 minutes between sets. This is longer than gym culture often suggests, but your cardiovascular system recovers more slowly and your joints appreciate the pause.
 
 Here's a practical scenario that illustrates how this plays out:
 
-**Martha, 74, no prior gym experience, mild osteoarthritis in both knees** → started with 2x/week machine circuit (leg press, seated row, chest press, cable pull-down) at very light loads, 12 reps per set → after 8 weeks, leg press load increased from 30 lbs to 85 lbs, reported significantly less difficulty climbing stairs, and her physical therapist noted improved balance on single-leg stance testing.
+For example, someone aged 74 with no prior gym experience and mild osteoarthritis in both knees might start with a 2x/week machine circuit (leg press, seated row, chest press, cable pull-down) at very light loads for 12 reps per set, and after 8 weeks could reasonably expect to increase leg press load substantially, notice less difficulty climbing stairs, and see improved balance on single-leg stance testing.
 
 ## The Sarcopenia Problem Nobody Talks About Enough
 
 After age 50, adults lose roughly 1 to 2% of their muscle mass per year without intervention. After 70, that accelerates. By 80, many people have lost 30 to 40% of the muscle they had at 40. The clinical term is sarcopenia, and it's currently recognized as a disease by the ICD-10 coding system (as of 2016). It contributes to falls, fractures, metabolic decline, and reduced immune function.
 
-The part that frustrates me: sarcopenia is almost entirely preventable and partially reversible with resistance training. The American College of Sports Medicine currently recommends (as of August 2026) that older adults perform resistance training at minimum twice weekly. Yet only about 11% of adults over 65 meet that threshold, according to data from the National Health Interview Survey.
+The encouraging reality is that sarcopenia is almost entirely preventable and partially reversible with resistance training. The American College of Sports Medicine currently recommends (as of August 2026) that older adults perform resistance training at minimum twice weekly. Yet only about 11% of adults over 65 meet that threshold, according to data from the National Health Interview Survey.
 
 That gap isn't laziness. It's misinformation, access, and fear.
 

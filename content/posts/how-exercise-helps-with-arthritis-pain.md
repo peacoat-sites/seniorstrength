@@ -48,7 +48,7 @@ Here's what I tell people who are skeptical: the research on exercise for arthri
 
 ## The Types of Exercise That Actually Help (and One Common Mistake)
 
-I made this mistake myself early in my career: I assumed that because water aerobics was popular with older adults, it must be the gold standard for arthritic joints. I spent two years recommending it almost exclusively. Then I started reading more carefully about muscle strength and joint protection, and I had to rethink my whole approach.
+A common early mistake in exercise guidance for arthritis is assuming that because water aerobics is popular with older adults, it must be the gold standard for arthritic joints.  A closer look at the research on muscle strength and joint protection reveals why that assumption needs rethinking.
 
 Aquatic exercise is genuinely wonderful. The buoyancy reduces joint load, the warm water (most therapy pools run around 88 to 92 degrees Fahrenheit) relaxes muscle guarding, and it's accessible for people who can't tolerate weight-bearing activity at all. I'd never take it off the table.
 
@@ -76,9 +76,9 @@ Sharp, stabbing, or sudden pain is different. That always warrants stopping and 
 
 The problem is that most people with arthritis have spent years treating any pain as an alarm bell, which is understandable because sometimes it is. Learning to distinguish the types takes time and often works best with a physical therapist who can observe your movement and give you real-time feedback.
 
-I worked with a 67-year-old retired teacher named Margaret from my clinic's outreach program in fall 2024. She had bilateral knee osteoarthritis, had stopped walking more than a few hundred feet per day, and was convinced that any activity made her worse. We started with seated leg extensions using a resistance band at nearly zero load, and 12 weeks later she was walking 20 minutes daily and had dropped her reported pain score from a 7 at rest to a 3. The change wasn't dramatic in any single session. It was the accumulation.
+Consider someone like a 67-year-old with bilateral knee osteoarthritis who had stopped walking more than a few hundred feet per day and was convinced that any activity made her worse.  Starting with seated leg extensions using a resistance band at nearly zero load, a person in this situation might be walking 20 minutes daily within 12 weeks and report a drop in pain score from a 7 at rest to a 3. The change wasn't dramatic in any single session. It was the accumulation.
 
-Another example: a 72-year-old man I'll call Robert came in after his orthopedist suggested he consider knee replacement. He wanted to try six months of conservative care first. We focused on quadriceps and hip abductor strengthening, three days a week. At the six-month mark, his pain had decreased enough that he elected to postpone surgery. Two years later, as of when I last checked in with him, he hadn't had it. That outcome isn't universal, but it's not a fluke either. [Initial presentation: 8/10 pain, significant difficulty with stairs. Program: structured twice-weekly PT plus home exercise. Six-month result: pain reduced to 4/10, stair function improved enough to delay surgery indefinitely.]
+For example, a 72-year-old whose orthopedist has suggested knee replacement might choose to try six months of conservative care first.  Focusing on quadriceps and hip abductor strengthening three days a week is one approach worth considering in that situation. At the six-month mark, pain may decrease enough that the person elects to postpone surgery. In some cases, that delay extends two years or more. That outcome isn't universal, but it's not a fluke either. [Initial presentation: 8/10 pain, significant difficulty with stairs. Program: structured twice-weekly PT plus home exercise. Six-month result: pain reduced to 4/10, stair function improved enough to delay surgery indefinitely.]
 
 ---
 

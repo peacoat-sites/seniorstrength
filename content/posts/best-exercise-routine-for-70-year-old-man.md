@@ -25,7 +25,7 @@ author_title: "Exercise Safety"
 author_bio: "Patricia Williams is the byline used at Senior Strength for articles on exercise safety for older adults and starting or progressing a program around common health conditions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
-Most men I work with who are 70 don't think of themselves as "seniors." They think of themselves as guys who used to run 5Ks, or who built a deck with their own hands twenty years ago, or who want to keep up with grandkids who are now somehow in high school. That gap between who they feel they are and what their body will currently let them do, that's usually what brings them to my office.
+Most men who are 70 don't think of themselves as "seniors." They think of themselves as guys who used to run 5Ks, or who built a deck with their own hands twenty years ago, or who want to keep up with grandkids who are now somehow in high school. That gap between who they feel they are and what their body will currently let them do is often what motivates them to seek out a structured fitness program.
 
 So let's skip the gentle disclaimers and talk about what actually works.
 
@@ -42,7 +42,7 @@ So let's skip the gentle disclaimers and talk about what actually works.
 
 ## What Your Body Actually Needs at 70 (It's Not What Most Articles Say)
 
-Here's where I'll push back on conventional wisdom: the fitness world is obsessed with cardio for older adults. Walk more. Take the stairs. Get your heart rate up. Yes, cardiovascular health matters. But in 25 years of working with people in this age group, the men who lose independence, who fall, who can't get up off the floor, who stop driving, who can't lift their own luggage, they lost it because of [muscle, not heart rate](/benefits-of-exercise-for-older-adults/).
+Here's where I'll push back on conventional wisdom: the fitness world is obsessed with cardio for older adults. Walk more. Take the stairs. Get your heart rate up. Yes, cardiovascular health matters. But the men who lose independence, who fall, who can't get up off the floor, who stop driving, who can't lift their own luggage, consistently lose it because of [muscle, not heart rate](/benefits-of-exercise-for-older-adults/).
 
 Sarcopenia is the real culprit. That's the gradual loss of muscle mass that accelerates after 60. After 70, most men are losing somewhere between 1 and 2 percent of their muscle mass per year without deliberate [resistance training](/how-to-start-a-senior-fitness-program/). Not a scare tactic. Just biology.
 
@@ -54,9 +54,9 @@ A solid routine for a 70-year-old man needs four priorities in this order: stren
 
 ## The Actual Routine: What to Do and When
 
-One honest caveat before I lay this out: this is a starting framework, not a prescription. If you have osteoporosis, a history of spinal compression fractures, joint replacements, or uncontrolled blood pressure, clear this with your physician or a physical therapist before adding resistance training. I'm serious. Those conditions genuinely change what's appropriate.
+One honest caveat before laying this out: this is a starting framework, not a prescription. If you have osteoporosis, a history of spinal compression fractures, joint replacements, or uncontrolled blood pressure, clear this with your physician or a physical therapist before adding resistance training. This is not a minor consideration. Those conditions genuinely change what's appropriate.
 
-For a reasonably healthy 70-year-old man who hasn't been consistently exercising, here's what I'd build.
+For a reasonably healthy 70-year-old man who hasn't been consistently exercising, here's a solid starting framework.
 
 **Weeks 1 through 4: Build the foundation**
 
@@ -89,7 +89,7 @@ Do it anyway.
 
 Falls are the leading cause of injury-related death in adults over 65, according to the CDC. One in four Americans over 65 falls each year. A broken hip at 70 carries a 1-year mortality rate around 20 to 30 percent. These aren't alarm tactics. They're reasons to take balance work as seriously as anything else.
 
-The progression I use:
+A practical progression to follow:
 
 1. Stand near a countertop and practice single-leg stance for 10 to 30 seconds each side. Touch the counter if you need to.
 2. Progress to eyes closed. Much harder.
@@ -105,7 +105,7 @@ Ten minutes three times a week, tucked in at the end of your strength sessions. 
 
 Tight hips and a stiff thoracic spine (the middle of your back) silently make everything harder. They limit squat depth, walking gait, your ability to look over your shoulder while driving, and posture. They often don't hurt until they do.
 
-You don't need a 45-minute yoga class. Here's what I give most clients:
+You don't need a 45-minute yoga class. Here's a short, effective daily routine:
 
 - **Hip flexor stretch** (a half-kneeling lunge position, held 45 to 60 seconds per side, done daily if possible)
 - **Cat-cow on hands and knees**, 10 slow repetitions, one of the best ways to maintain spinal mobility and costs nothing
@@ -123,7 +123,6 @@ Spend 10 minutes daily. Morning works well, after a warm shower when tissues are
 - [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov)
 - in the *British Journal of Sports Medicine* looked at resistance training in adu
 - suggests the RDA of 0
-
 
 The training is the stimulus. Protein is the raw material. Most men over 70 aren't eating nearly enough protein to support muscle synthesis, and current research suggests the RDA of 0.8 grams per kilogram of body weight is too low for older adults doing resistance training.
 

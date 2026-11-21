@@ -30,7 +30,7 @@ Most people assume blood pressure medication is the main lever they can pull. An
 
 You might be wondering if that applies to you specifically, at your age, with your particular history. That's a fair question. The research does skew toward younger adults in some studies, but the evidence in adults 60 and older is strong. If you're not moving regularly and your blood pressure is elevated, exercise is almost certainly part of your answer.
 
-What I want to do here is tell you exactly what kinds of exercise work, why they work, and how to start safely without making the mistakes I've seen derail people in their first few weeks.
+This article covers exactly what kinds of exercise work, why they work, and how to start safely without making the mistakes that commonly derail people in their first few weeks.
 
 ## The Types That Actually Move the Needle
 
@@ -41,7 +41,7 @@ What I want to do here is tell you exactly what kinds of exercise work, why they
 | Resistance training (strength work) | 3-5 mmHg | Muscle building, metabolic health | Functional strength & fall prevention |
 | High-intensity interval training (HIIT) | Not quantified | Variable | Younger adults; higher injury risk in sedentary seniors over 65 |
 
-Not all exercise affects blood pressure the same way. This tripped me up early in my career. I used to hand new clients a generic "cardio plus weights" plan without thinking much about sequencing or intensity, and then wonder why their numbers weren't shifting the way I expected.
+Not all exercise affects blood pressure the same way, and a generic "cardio plus weights" plan without attention to sequencing or intensity often produces disappointing results.
 
 Here's what the research actually points to, and what I tell people now.
 
@@ -49,13 +49,13 @@ Here's what the research actually points to, and what I tell people now.
 
 "Moderate intensity" means you can still hold a conversation but wouldn't want to sing. That's the actual clinical definition, and it's useful.
 
-**Isometric exercise** is the one most people haven't heard about, and honestly, the results have surprised even me. Isometric holds, where you contract a muscle without moving a joint, don't look like much. Wall sits, handgrip squeezes, static plank holds. But a 2022 meta-analysis in the *British Journal of Sports Medicine* (the same group that did the big 2021 review) found that isometric exercise produced the largest reductions in blood pressure of any exercise modality tested, including aerobic. Specifically, isometric training dropped systolic pressure by an average of 8.24 mmHg. That number raised a lot of eyebrows in the field.
+**Isometric exercise** is the one most people haven't heard about, and the results have surprised many in the field. Isometric holds, where you contract a muscle without moving a joint, don't look like much. Wall sits, handgrip squeezes, static plank holds. But a 2022 meta-analysis in the *British Journal of Sports Medicine* (the same group that did the big 2021 review) found that isometric exercise produced the largest reductions in blood pressure of any exercise modality tested, including aerobic. Specifically, isometric training dropped systolic pressure by an average of 8.24 mmHg. That number raised a lot of eyebrows in the field.
 
-I don't think it replaces aerobic work. But I do think it deserves a place in any senior fitness program aimed at blood pressure.
+It does not replace aerobic work, but it deserves a place in any senior fitness program aimed at blood pressure.
 
 **Resistance training** (traditional strength work) produces moderate but real reductions, typically 3 to 5 mmHg systolic. It also builds the muscle mass and functional strength that protects against falls, preserves metabolic health, and makes everything else easier. So even if it's not your top blood-pressure tool, it earns its spot.
 
-**What I'd actually skip:** High-intensity interval training gets enormous press right now, and it has solid evidence in younger adults. In my experience with clients over 65, especially those who've been sedentary, the injury risk and barrier to entry outweigh the marginal benefit over steady moderate-intensity work. There are exceptions, and some older adults thrive with modified HIIT. But as a default starting point, I wouldn't lead with it.
+**What to consider skipping:** High-intensity interval training gets enormous press right now, and it has solid evidence in younger adults. For adults over 65, especially those who have been sedentary, the injury risk and barrier to entry tend to outweigh the marginal benefit over steady moderate-intensity work. There are exceptions, and some older adults thrive with modified HIIT, but as a default starting point it is not the best choice.
 
 ## How to Start Without Hurting Yourself
 
@@ -83,7 +83,7 @@ That's not a miracle. That's physiology.
 
 ## The Isometric Protocol Worth Knowing
 
-Because isometric exercise is underused and the results are compelling enough that I want to give it real space here.
+Because isometric exercise is underused and the results are compelling enough to warrant real attention here.
 
 The most studied version for blood pressure is the handgrip protocol. You squeeze a handgrip dynamometer (a device you can find for $15 to $30 on Amazon, brands like Camry or Grip Pro Trainer work fine) at 30% of your maximum effort, hold for two minutes, rest two minutes, repeat four times. Do this three times per week.
 
@@ -91,13 +91,13 @@ That's it. The studies that showed 8+ mmHg reductions used essentially this prot
 
 No dynamometer? Wall sits work just as well in practice. Sit with your back against the wall, thighs parallel to the floor (or as close as you can get), and hold. Shoot for three to four sets of 30 to 60 seconds with 90 seconds of rest between. Keep breathing.
 
-The research on exactly why isometrics work so well on blood pressure is still developing. The current hypothesis involves nitric oxide release and sustained vascular adaptation, but I'd be overstating things if I said we fully understand the mechanism. What we know is that the effect is real and repeatable across multiple trials.
+The research on exactly why isometrics work so well on blood pressure is still developing. The current hypothesis involves nitric oxide release and sustained vascular adaptation, though the mechanism is not yet fully understood. What we know is that the effect is real and repeatable across multiple trials.
 
 One caution: if you have any history of aortic aneurysm, certain heart valve conditions, or very poorly controlled hypertension, check with your cardiologist before adding isometric holds. The temporary pressure spike during the hold is mild at 30% effort, but worth flagging.
 
 ## Consistency Is the Whole Game
 
-I want to say something blunt here, because I've watched people spend months optimizing the wrong thing.
+It is worth being direct here, because many people spend months optimizing the wrong thing.
 
 The perfect exercise program that you do three times and abandon is useless. The modest program you actually do every week for four months will lower your blood pressure. Every time.
 
@@ -105,7 +105,7 @@ As of July 2026, the research consensus is clear: dose and consistency predict o
 
 People who get the best results are often those who attach exercise to something already in their lives, such as a regular walk to a familiar destination several mornings a week. Done consistently over time, this kind of routine can produce meaningful and lasting reductions in systolic pressure.
 
-Worked example: Robert, 72, avid gardener, had been resistant to "formal exercise" for years. His doctor had been nudging him toward medication for borderline hypertension (consistently 145-150 systolic). We reframed things: he added 20-minute evening walks three times a week and started doing wall sits during commercial breaks watching the news (four sets of 45 seconds). At his six-month follow-up, his doctor noted his average was 139 and decided to hold off on medication. Robert told me he doesn't even think of the wall sits as exercise.
+For example, consider someone in their early 70s who is an avid gardener and has been resistant to formal exercise for years, with a doctor nudging them toward medication for borderline hypertension (consistently 145 to 150 systolic). By reframing the approach, adding 20-minute evening walks three times a week and wall sits during commercial breaks (four sets of 45 seconds), it is realistic to see a six-month follow-up average around 139 systolic, enough for a doctor to hold off on medication, and that person may not even think of the wall sits as exercise.
 
 That framing matters more than people realize.
 

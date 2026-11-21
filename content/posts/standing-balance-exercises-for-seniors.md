@@ -28,7 +28,7 @@ faqs:
 
 Most people come to me after a fall, or after a close call, or after watching someone they love [lose their](/why-do-seniors-lose-their-balance-causes-and-fixes/) independence. They're not here because they want to be. They're here because something happened, and now they're scared, and they want to know if it's too late to fix it.
 
-It's not. I say that to almost everyone who sits down with me, and I mean it almost every time.
+It's not, and that reassurance holds true in almost every case.
 
 Balance is trainable at any age. Research in the British Journal of Sports Medicine found statistically significant improvements in both static and dynamic balance in adults in their 60s and 70s after a 12-week balance training program. A 2019 paper in JAMA Internal Medicine confirmed that targeted [balance exercises](/standing-balance-exercises-seniors-can-do-holding-a-chair/) reduce fall risk by roughly 23% in community-dwelling older adults.
 
@@ -40,7 +40,7 @@ Here's what I tell people who ask about chair-based balance work: it has its pla
 
 The body's balance system pulls from three sources at once: your inner ear (vestibular), your vision, and the sensory receptors in your feet and ankles called proprioceptors. Proprioception is the one most people over 60 have quietly lost ground on, and it's also the one most directly trained by standing exercises. You actually feel this when you try standing on one foot with your eyes closed.
 
-I made the mistake for years of jumping clients straight into single-leg work before their ankles could handle it. The wobble would spike their anxiety, they'd grip the chair so hard their knuckles went white, and they'd leave feeling worse about themselves. Now I always start with tandem stance, feet staggered, heel to toe, before anything involving one foot off the ground. Takes longer. Works better.
+A common mistake is jumping straight into single-leg work before the ankles can handle it. The wobble tends to spike anxiety, leading people to grip the chair so hard their knuckles go white, and they finish feeling worse about themselves. Starting with tandem stance, feet staggered heel to toe, before anything involving one foot off the ground, produces better results. Takes longer. Works better.
 
 ## The Exercises, From Easier to Harder
 
@@ -50,7 +50,7 @@ Don't race through this progression. The goal isn't to reach the hardest version
 Stand with one foot in front of the other, a few inches apart at first rather than heel-to-toe. Hold the back of a sturdy kitchen chair (not a rolling office chair, not a lightweight folding chair). Aim to hold 30 seconds without gripping. When that gets easy, close the gap. When that gets easy, try it without touching the chair, arms at your sides.
 
 **Weight shifts**
-Stand with feet hip-width apart, chair in front of you for support. Slowly shift your weight to your right foot, feeling it build through your heel and the outside of your foot, then shift back to center, then left. The key detail most instructors miss: let your trunk move with the shift rather than staying rigidly upright. That's how walking actually works.
+Stand with feet hip-width apart, chair in front of you for support. Slowly shift your weight to your right foot, feeling it build through your heel and the outside of your foot, then shift back to center, then left. The key detail that is often missed: let your trunk move with the shift rather than staying rigidly upright. That's how walking actually works.
 
 **Heel raises**
 Both feet flat, hold the chair lightly (fingertips, not grip). Rise to the balls of your feet, pause, lower slowly. The slow lowering is the part that builds strength in the soleus and gastrocnemius, the muscles that essentially catch you mid-step. Most people rush down. Don't rush down.
@@ -59,11 +59,11 @@ Both feet flat, hold the chair lightly (fingertips, not grip). Rise to the balls
 When you're consistently comfortable with tandem stance, try lifting one foot just an inch off the ground. Eyes open, chair within reach. Hold 10 seconds. Work toward 30. Then try with eyes closed, which removes the visual crutch and forces your proprioceptors to work harder. It'll feel completely different.
 
 **Tandem walking (heel-to-toe)**
-Walk a straight line, placing one foot directly in front of the other. Five steps, turn slowly, five steps back. Use a wall alongside you for reassurance rather than active support. This is the one I use as a rough progress check with clients after four weeks.
+Walk a straight line, placing one foot directly in front of the other. Five steps, turn slowly, five steps back. Use a wall alongside you for reassurance rather than active support. This can serve as a useful rough progress check after four weeks.
 
 ## What Actually Determines Your Progress
 
-Three things, in my experience.
+Three things stand out consistently.
 
 Frequency beats duration. Thirty minutes three times a week is dramatically better than 90 minutes once a week, for balance in particular. The nervous system consolidates these motor patterns during rest, so you need the repetition across days, not just across a single long session.
 
@@ -73,7 +73,7 @@ Anxiety is a real obstacle, not just a mindset issue. When someone is frightened
 
 ## Realistic Timelines and What to Expect
 
-Here's a rough breakdown based on what I typically see working with adults in their 60s, 70s, and 80s. These aren't guarantees. Individual health conditions, medications (some blood pressure medications affect balance significantly), and starting baselines all shift these numbers.
+Here's a rough breakdown based on research and clinical observations in adults in their 60s, 70s, and 80s. These aren't guarantees. Individual health conditions, medications (some blood pressure medications affect balance significantly), and starting baselines all shift these numbers.
 
 | Starting point | Typical first improvement | Noticeable in daily life | Plateau prevention |
 |---|---|---|---|
@@ -84,7 +84,7 @@ Here's a rough breakdown based on what I typically see working with adults in th
 
 For example, someone six months post-hip replacement who needs wall support for hallway walks might progress through six weeks of regular standing balance work (tandem stance to single-leg, plus daily heel raises) to walk without that support, a significant functional gain.
 
-Another: a 68-year-old retired teacher, Robert, was taking amlodipine for blood pressure and didn't realize it was contributing to lightheadedness during balance work. Once we flagged it with his doctor and adjusted to morning sessions after medication timing shifted, he progressed from dependent on chair grip to eyes-closed single-leg stance within eight weeks.
+For example, an older adult taking amlodipine for blood pressure may not realize it is contributing to lightheadedness during balance work. Once flagged with a doctor and sessions adjusted around medication timing, it is realistic to progress from dependence on chair grip to eyes-closed single-leg stance within eight weeks.
 
 ## Sources
 

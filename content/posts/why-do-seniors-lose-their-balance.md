@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Most people assume balance gets worse with age the same way hair goes gray: inevitable, random, not much you can do about it. I believed that too, for longer than I'd like to admit. What changed my mind was watching a 71-year-old client named Margaret go from grabbing door frames every time she stood up to hiking a moderately technical trail in the Catskills, twelve weeks after we started working together. That doesn't happen if balance decline is just "aging."
+Most people assume balance gets worse with age the same way hair goes gray: inevitable, random, not much you can do about it. I believed that too, for longer than I'd like to admit. For example, a 71-year-old can go from grabbing door frames every time she stands up to hiking a moderately technical trail in the Catskills within twelve weeks of starting a structured balance program. That doesn't happen if balance decline is just "aging."
 
 So I went looking for the actual reasons. And what I found is that the story most people get, even from their own doctors sometimes, is incomplete in ways that really matter.
 
@@ -60,7 +60,7 @@ The ankle musculature, specifically the tibialis anterior at the front and the p
 
 A study published in the Journal of Gerontology found that ankle plantar flexor power was a stronger predictor of fall risk in adults over 65 than any other single muscle group tested. Not hip strength, not knee extension, not grip strength. Ankles.
 
-I made this mistake myself early in my career: I'd put older clients on programs heavy with seated leg presses and core exercises, wondering why their balance wasn't improving much. Once I started prioritizing single-leg standing, heel raises, and ankle-stability work, the improvements were faster and more durable.
+A common mistake in older adult fitness programming is loading it heavily with seated leg presses and core exercises while expecting balance to improve. Once I started prioritizing single-leg standing, heel raises, and ankle-stability work, the improvements were faster and more durable.
 
 ---
 
@@ -88,11 +88,11 @@ Fear of falling is now recognized as an independent risk factor for future falls
 
 The worked examples here are telling:
 
-Robert, a 68-year-old retired teacher, fell in his driveway in late winter and fractured his wrist. After recovery, he stopped taking his daily walks out of fear. Six months later, his balance assessments showed meaningful decline across three of four standardized measures. When he restarted a structured walking and balance program, it took him four months to return to his pre-fall functional level. The fear-driven gap cost him almost a year of capacity.
+Consider someone who falls and fractures a wrist, then stops taking daily walks out of fear during recovery.  Six months of fear-driven inactivity can produce meaningful decline across three of four standardized balance measures. When a structured walking and balance program eventually resumes, returning to the pre-fall functional level can take four months or more. That fear-driven gap can cost close to a year of capacity.
 
-Compare that to Eleanor, a 74-year-old who fell on a walking trail and came to me within three weeks of being cleared by her orthopedist. We started slowly, worked on her proprioceptive training, included gradual exposure to outdoor and uneven surfaces. She was back on trails in eight weeks, with better measured balance scores than she'd had before the fall.
+By contrast, returning to structured activity within three weeks of medical clearance following a fall leads to much better outcomes. Starting slowly, working on proprioceptive training, and including gradual exposure to outdoor and uneven surfaces can support a full recovery. With this approach, returning to trails in eight weeks with better measured balance scores than before the fall is achievable.
 
-The difference wasn't just physical. Eleanor's early return to activity short-circuited the psychological restriction spiral before it could take hold.
+The difference in outcomes like these is not just physical. Early return to activity short-circuits the psychological restriction spiral before it can take hold.
 
 ---
 
@@ -104,7 +104,7 @@ Tai chi is the intervention with the strongest evidence base. A meta-analysis co
 
 Single-leg standing, done consistently, is cheap, requires no equipment, and has solid evidence behind it. Practice standing on one foot while doing dishes or brushing your teeth. The goal isn't to hold it forever: just building up to 10 seconds per side with eyes open, then eventually with eyes closed, challenges the vestibular and proprioceptive systems meaningfully.
 
-A concrete example: Dorothy, 77 years old, came to me after her doctor flagged her on a fall-risk screening. She had no recent falls but showed worrying patterns on a Berg Balance Scale assessment. We added 10 minutes of daily single-leg standing practice plus two weekly tai chi classes. After 12 weeks, her Berg Balance Score improved by 9 points (from 43 to 52 out of 56), moving her from moderate fall risk to low fall risk by standard clinical thresholds.
+For example, consider a 77-year-old flagged on a fall-risk screening with no recent falls but worrying patterns on a Berg Balance Scale assessment.  Adding 10 minutes of daily single-leg standing practice plus two weekly tai chi classes is a straightforward intervention. After 12 weeks, this combination has been shown to produce improvements on the order of 9 Berg Balance Score points, moving a person from moderate to low fall risk by standard clinical thresholds.
 
 The overrated intervention? Grip rails and grab bars installed without any accompanying balance training. They're not harmful, and for someone already at high fall risk in the home, they're sensible. Families sometimes invest heavily in home modifications while skipping balance training, which typically offers greater functional improvement. The bars are a safety net; they don't address the underlying problem.
 

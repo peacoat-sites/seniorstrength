@@ -28,7 +28,7 @@ faqs:
 
 Most people who come to me have already tried something. They walked every day for two weeks, felt good, then pushed a little too hard one afternoon and spent the next three days with aching knees. Or they bought a fitness tracker, followed a generic "10,000 steps a day" plan, and quit after a month because nothing seemed to be changing. Sound familiar?
 
-You might be wondering if there's actually a smarter way to approach this, or whether walking for fitness at 60, 70, or 80-something is just wishful thinking. Here's what I tell people when they first sit across from me: walking is probably the single most powerful thing you can do for your long-term health as an older adult, but only if you structure it correctly. Done wrong, it's just accumulated fatigue. Done right, it [builds real strength](/the-4-minute-daily-workout-that-builds-real-strength-after-65/), measurably improves balance, and can reduce your fall risk by more than you'd expect.
+You might be wondering if there's actually a smarter way to approach this, or whether walking for fitness at 60, 70, or 80-something is just wishful thinking. Walking is probably the single most powerful thing you can do for your long-term health as an older adult, but only if you structure it correctly. Done wrong, it's just accumulated fatigue. Done right, it [builds real strength](/the-4-minute-daily-workout-that-builds-real-strength-after-65/), measurably improves balance, and can reduce your fall risk by more than you'd expect.
 
 I've been working with [adults over](/how-exercise-fights-inflammaging-in-adults-over-60/) 60 for nearly 15 years, and I've watched people in their mid-70s go from shuffling 10 minutes around the block to walking 45-minute hilly routes. That doesn't happen by accident. It happens because they followed a plan that respected where they were starting from.
 
@@ -40,11 +40,11 @@ The "10,000 steps a day" target is everywhere. Pedometers, fitness apps, doctor'
 
 The actual research tells a more nuanced story. A landmark study published in JAMA Internal Medicine tracked nearly 17,000 older women and found that mortality benefits leveled off around 7,500 steps [per day](/how-much-protein-do-seniors-need-per-day/), with no additional benefit from more steps. For adults starting from a low baseline, even 4,000 to 5,000 steps per day produced significant health improvements. That means if you're currently walking 2,000 steps a day and you double it to 4,000, you're doing something genuinely meaningful. You don't need to triple it.
 
-I made this mistake myself early in my career. I'd tell new clients, "Let's shoot for 10,000 steps," and watch them overdo it in week one, get sore, lose motivation, and fall back to zero. Now my first conversation with anyone is about where they actually are, not where they think they should be.
+ Many older adults are told to shoot for 10,000 steps, overdo it in week one, get sore, lose motivation, and fall back to zero. The right starting point is always where someone actually is, not where they think they should be.
 
 ## Building Your First 8 Weeks
 
-The structure below is what I'd actually give a new client who's generally healthy but deconditioned, has some arthritic discomfort, or is recovering confidence after a fall or illness. Adjust it to your own situation. If you have significant balance issues, recent surgery, or cardiovascular concerns, run this by your doctor before you start.
+The structure below suits someone who is generally healthy but deconditioned, has some arthritic discomfort, or is recovering confidence after a fall or illness. Adjust it to your own situation. If you have significant balance issues, recent surgery, or cardiovascular concerns, run this by your doctor before you start.
 
 Here's what a realistic progression looks like:
 
@@ -73,7 +73,7 @@ People with knee osteoarthritis often do noticeably better on softer surfaces li
 
 A $35 pair of sneakers from the big-box store is not a walking shoe.
 
-For adults over 60, I generally recommend stability or motion-control walking shoes. Not running shoes with heavy cushioning in the heel, which can actually reduce ground-feel and make balance slightly harder, but a walking-specific shoe with good arch support, a moderately firm midsole, and a slightly wider toe box. Brands worth looking at: New Balance (their 928 model runs around $110 and is consistently well-reviewed for older walkers), Brooks (Addiction Walker, around $130), or ASICS (Gel-Nimbuswalker line). You don't need to spend more than that. Above $150, you're mostly paying for design.
+For adults over 60, stability or motion-control walking shoes are generally the better choice. Not running shoes with heavy cushioning in the heel, which can actually reduce ground-feel and make balance slightly harder, but a walking-specific shoe with good arch support, a moderately firm midsole, and a slightly wider toe box. Brands worth looking at: New Balance (their 928 model runs around $110 and is consistently well-reviewed for older walkers), Brooks (Addiction Walker, around $130), or ASICS (Gel-Nimbuswalker line). You don't need to spend more than that. Above $150, you're mostly paying for design.
 
 Get fitted at a specialty running or walking store where staff can actually watch you walk. Fleet Feet and Road Runner Sports both offer this service. It takes about 20 minutes and can save you months of preventable foot and ankle trouble.
 
@@ -87,13 +87,13 @@ Because the research on fall prevention is clear, and walking alone isn't quite 
 
 The good news is that you don't need to join a gym or spend an hour lifting weights. Two short strength sessions per week, 15-20 minutes each, targeting the hips, glutes, and lower legs, amplifies what the walking is building. Sit-to-stands from a chair (10-15 reps), heel raises while holding a counter (15-20 reps), and side-lying hip abductions (10-12 per side) cover a lot of ground. None of these require equipment.
 
-Scenario: Margaret, 74 years old, started walking 20 minutes three times a week with no strength work added. After 12 weeks, her resting heart rate dropped from 78 to 71 bpm, and she felt better. Then we added two short strength sessions per week. Eight weeks later, her timed-up-and-go score (a clinical balance test where you rise from a chair, walk 10 feet, return, and sit) improved from 13.4 seconds to 9.8 seconds. That's the difference between a score that flags moderate fall risk and one that falls within the normal range for her age. Walking got her started; the strength work changed her functional outcomes.
+For example, consider someone who starts walking 20 minutes three times a week with no strength work added. After 12 weeks, resting heart rate may drop noticeably and overall energy improves. Adding two short strength sessions per week builds on that foundation. Eight weeks later, timed-up-and-go scores can improve substantially, for example from around 13 seconds to under 10 seconds. That is the difference between a score that flags moderate fall risk and one that falls within the normal range for that age group. Walking got her started; the strength work changed her functional outcomes.
 
 ## What "Progress" Actually Looks Like
 
 Progress in walking programs for older adults doesn't always look the way people expect.
 
-It's not always faster. It's often more stable. Clients describe it as "my feet feel more confident on the ground" or "I'm not thinking about each step as much." That's your nervous system adapting, and it's every bit as real as an improvement on a stopwatch.
+It's not always faster. It's often more stable. Older adults often describe it as feeling more confident on the ground or not thinking about each step as much. That's your nervous system adapting, and it's every bit as real as an improvement on a stopwatch.
 
 A few markers worth tracking:
 

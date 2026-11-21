@@ -26,7 +26,7 @@ faqs:
     a: "Hold onto a countertop, a sturdy chair back, or TRX straps. Using support is not cheating. It lets you practice the movement pattern safely while your balance improves, which it will, if you're consistent. Balance and squatting actually train each other."
 ---
 
-Nearly half of all fall-related deaths in the United States involve [adults over](/how-exercise-fights-inflammaging-in-adults-over-60/) 65, and the CDC reports that falls are the leading cause of both fatal and nonfatal injuries in that age group. Here's the part that gets me every time I cite that number: a significant portion of those falls are directly linked to weak quadriceps and poor lower-body stability. In other words, the muscle group that squats train most directly is the exact muscle group standing between your patients and a trip to the ER.
+Nearly half of all fall-related deaths in the United States involve [adults over](/how-exercise-fights-inflammaging-in-adults-over-60/) 65, and the CDC reports that falls are the leading cause of both fatal and nonfatal injuries in that age group. A significant portion of those falls are directly linked to weak quadriceps and poor lower-body stability. In other words, the muscle group that squats train most directly is the exact muscle group standing between older adults and a trip to the ER.
 
 A common question from older adults is whether squats are bad for the knees at their age. I want to answer that clearly: no. The research doesn't support that fear. A 2021 review published in the *British Journal of Sports Medicine* found that progressive [resistance training](/what-the-new-acsm-resistance-training-guidelines-mean-after-60/), including squat-pattern movements, actually reduces knee pain in older adults with osteoarthritis rather than worsening it. What does cause problems is doing squats wrong, or jumping to a depth and load your body isn't ready for. That's a very different thing from squats themselves being dangerous.
 
@@ -36,7 +36,7 @@ Let me walk you through what [actually works](/how-to-sleep-better-as-a-senior-w
 
 ## Why Your Knees Are (Probably) Not the Problem
 
-Here's what I used to get wrong, and I'll admit it freely: early in my career, I believed that if someone had any knee pain history, I should steer them away from loaded squatting entirely. A physical therapist I respect pulled me aside after watching me work with a 67-year-old woman named Patricia who had mild patellofemoral syndrome. He said, "You're protecting her into weakness." That stuck with me.
+A common early mistake in working with older adults is believing that any knee pain history means avoiding loaded squatting entirely. Consider, for example, a 67-year-old woman with mild patellofemoral syndrome whose trainer initially kept her away from any squat loading. The concern in cases like that is that well-intentioned caution can protect someone into weakness. 
 
 The research backs him up. A 2019 study in *JAMA Internal Medicine* followed 1,564 adults aged 60 to 79 and found that those who performed lower-body resistance training at least twice a week had a 34% lower rate of mobility disability at 4-year follow-up compared to those who did stretching only. Squats, lunges, and leg press movements were specifically named in the protocol. The control group, the one that only stretched, didn't see those gains. Flexibility alone isn't enough.
 
@@ -62,7 +62,7 @@ For example, someone recovering from bilateral knee replacement who was advised 
 
 ## Comparing Your Squat Options
 
-Not all squat variations are equal in terms of joint stress and difficulty. This table reflects what I typically see in practice with adults over 60, using approximate ranges from clinical research and my own client tracking.
+Not all squat variations are equal in terms of joint stress and difficulty. The ranges below reflect approximate values from clinical research on adults over 60.
 
 | Squat Variation | Knee Stress Level | Hip Mobility Required | Best For | Notes |
 |---|---|---|---|---|
@@ -75,11 +75,11 @@ Not all squat variations are equal in terms of joint stress and difficulty. This
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Knee joint load by squat variation (% bodyweight)</div><div class="sc-row"><span class="sc-label">Chair squat</span><span class="sc-track"><span class="sc-bar" style="width:42%"></span></span><span class="sc-val">55 % BW</span></div><div class="sc-row"><span class="sc-label">Wall squat</span><span class="sc-track"><span class="sc-bar" style="width:37%"></span></span><span class="sc-val">48 % BW</span></div><div class="sc-row"><span class="sc-label">Goblet squat</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">78 % BW</span></div><div class="sc-row"><span class="sc-label">Box squat</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">65 % BW</span></div><div class="sc-row"><span class="sc-label">Barbell back squat</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">130 % BW</span></div><div class="sc-src">Source: Escamilla et al., Journal of Biomechanics, 2001</div></div>
 
-The Escamilla et al. data from *Journal of Biomechanics* is the most cited biomechanical breakdown of squat loading I'm aware of, and what it shows is striking: a standard barbell squat puts compressive force on the knee at roughly 130% of bodyweight. A chair squat sits around 55%. That gap matters a lot if you're working around arthritis or a previous replacement.
+The Escamilla et al. data from *Journal of Biomechanics* is among the most cited biomechanical breakdowns of squat loading available, and what it shows is striking: a standard barbell squat puts compressive force on the knee at roughly 130% of bodyweight. A chair squat sits around 55%. That gap matters a lot if you're working around arthritis or a previous replacement.
 
 ## The Form Mistakes That Get People Hurt
 
-This is where I'll be direct, because I've watched well-meaning YouTube tutorials cause real problems.
+This is where it is worth being direct, because well-meaning YouTube tutorials can cause real problems.
 
 The biggest one: people try to keep their torso completely upright, like they're doing a split squat on a competition stage. That cue works for young lifters with excellent ankle mobility. For most adults over 60, it causes the heels to rise, the knees to shoot forward past the toes, and the joint stress to spike. A slight forward lean, maybe 30 to 45 degrees from vertical, is not only fine, it's preferable.
 
@@ -101,9 +101,9 @@ Osteoporosis deserves its own mention. Heavy loaded squats with a barbell create
 
 Two days per week, at least 48 hours apart. That's your starting frequency. More is not better early on; muscle and connective tissue adaptation in adults over 60 takes slightly longer than in younger adults, and the recovery window matters.
 
-Scenario 1: Margaret, 68, sedentary for 5 years, mild knee osteoarthritis → Started with chair squats at 2x8 twice weekly → At week 6, progressed to box squats at 16" depth, added a 10-lb dumbbell goblet hold → At week 10, scored 14 reps on her 30-second chair stand test, up from 9 at baseline. Her orthopedist noted improved quad muscle mass on her follow-up visit.
+For example, a sedentary adult in their late 60s with mild knee osteoarthritis might start with chair squats at 2x8 twice weekly, progress to box squats at 16" depth with a 10-lb goblet hold by week 6, and reach 14 reps on the 30-second chair stand test by week 10, up from 9 at baseline.
 
-Scenario 2: Robert, 74, history of one hip replacement (left, 2021), cleared by surgeon for exercise → Started with TRX-assisted squats, controlling depth carefully → By week 8, performing 3 sets of 10 unassisted bodyweight squats to a 14" box → Reported no hip pain, improved confidence on stairs.
+Similarly, an adult in their mid-70s with a prior hip replacement who has been cleared by their surgeon might begin with TRX-assisted squats, control depth carefully, and progress to 3 sets of 10 unassisted bodyweight squats to a 14" box by week 8, with no hip pain and improved confidence on stairs.
 
 As of August 2026, the American College of Sports Medicine recommends that adults over 65 perform muscle-strengthening activities on at least 2 days per week, targeting all major muscle groups. Squat-pattern movements are one of the most efficient ways to check that box, because they simultaneously train quads, glutes, hamstrings, and core stabilizers in a single movement. If you're only going to add one resistance exercise to your week, this is the one to pick.
 

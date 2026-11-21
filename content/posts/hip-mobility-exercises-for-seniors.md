@@ -30,7 +30,7 @@ Forty percent of [adults over](/how-exercise-fights-inflammaging-in-adults-over-
 
 What most articles on "hip mobility for seniors" get wrong is that they either give you a gentle chair yoga sequence that won't actually change your range of motion, or they hand you aggressive yoga poses designed for a 30-year-old with no degenerative changes. Both are useless for different reasons. What [actually works](/how-to-sleep-better-as-a-senior-what-actually-works/) sits in the middle: progressive, load-bearing or actively resisted movement that respects real joint anatomy, including the reality that most adults over 60 have some degree of hip osteoarthritis (the CDC estimates roughly 13.5% of adults 60 and older have symptomatic hip OA, and radiographic changes are far more common than that).
 
-Here's what I've learned actually moves the needle.
+Here's what actually moves the needle.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Hip flexor tightness, not just weakness, is the leading biomechanical contributor to falls in adults over 60.</li><li style="margin:5px 0">20-30 minutes of targeted hip mobility work 3-4 days/week produces measurable range-of-motion gains within 6-8 weeks.</li><li style="margin:5px 0">Chair-based modifications make every exercise here accessible even with moderate arthritis or balance limitations.</li><li style="margin:5px 0">Active stretching (you move the muscle) outperforms passive stretching (someone holds you there) for older adults by a significant margin.</li><li style="margin:5px 0">Combining strengthening with mobility work protects joints better than flexibility work alone.</li></ul></div>
 
@@ -44,17 +44,17 @@ A 2020 study published in the Journal of Aging and Physical Activity found that 
 
 ## The Exercises That Actually Work
 
-I want to be direct: there are dozens of hip mobility exercises. Most of them are fine. These are the ones that I've seen produce consistent, real-world results in my clients over 60, not because they're exotic, but because they address the specific patterns that fail first in this population.
+I want to be direct: there are dozens of hip mobility exercises. Most of them are fine. These are the ones that produce consistent, real-world results in adults over 60, not because they're exotic, but because they address the specific patterns that fail first in this population.
 
 **Standing Hip Flexor Stretch (Active, Not Passive)**
 
 Stand behind a chair with both hands on the back. Step your right foot back about 18 inches and tuck your pelvis slightly forward (think: pull your belt buckle toward your belly button). You should feel a pull in the front of your right hip, not your low back. Hold it, but don't just sit there. Actively press your back heel toward the floor and squeeze your right glute. That contraction is what differentiates this from a passive stretch. Hold 20-30 seconds, repeat 3 times per side.
 
-One thing I didn't appreciate early in my career: the pelvis tuck is everything in this stretch. Without it, most people just extend their lumbar spine and feel nothing useful in the hip flexor at all. The first time I really cued this properly with a 68-year-old client who'd complained of chronic low back pain for years, she looked at me two weeks later and said her back felt "quieter." That's exactly the word she used.
+The pelvis tuck is everything in this stretch. Without it, most people just extend their lumbar spine and feel nothing useful in the hip flexor at all. For example, when this cue clicks for someone who has struggled with chronic low back pain, a common report after two weeks is that the back feels "quieter." That's exactly the word she used.
 
 **90/90 Hip Rotations (Chair-Modified)**
 
-This is my most recommended exercise for combined internal and external rotation, which is where older adults tend to lose range first.
+This is a highly recommended exercise for combined internal and external rotation, which is where older adults tend to lose range first.
 
 Sit at the edge of a sturdy chair, feet flat on the floor, hip-width apart. Keeping your spine tall, let your right knee drop outward toward the floor, rotating through the hip. Hold 5 seconds at your comfortable end range. Bring it back to center. Then let the same knee drop inward across your body, rotating the hip inward. Hold again. That's one rep. Do 8-10 per side.
 
@@ -66,7 +66,7 @@ This is a two-for-one. It builds glute strength while opening the hip under ligh
 
 Lie on your back, knees bent, feet flat on the floor about hip-width apart. Place a resistance band just above your knees (a light band, around 10-15 lbs resistance for most people starting out). Drive your hips toward the ceiling into a bridge. At the top, press your knees outward against the band 1-2 inches, hold two seconds, release. Lower down slowly.
 
-The 2021 edition of the NSCA's guidelines for resistance training in older adults specifically recommends band-resisted glute exercises as both safe and effective for this population when performed through a comfortable range. I'd add that the "comfortable range" piece matters a lot. If the bridge itself causes hip pinching or groin discomfort, reduce the height. Half a bridge is still a useful bridge.
+The 2021 edition of the NSCA's guidelines for resistance training in older adults specifically recommends band-resisted glute exercises as both safe and effective for this population when performed through a comfortable range. The "comfortable range" piece matters a lot. If the bridge itself causes hip pinching or groin discomfort, reduce the height. Half a bridge is still a useful bridge.
 
 **Standing Hip Circles**
 
@@ -84,11 +84,11 @@ A resistance band around both ankles makes this significantly harder. Start with
 
 The chart above reflects findings from a 2022 meta-analysis in the Journal of Aging and Physical Activity that aggregated data from 14 randomized controlled trials on hip mobility training in adults 60 and older. The plateau at 4-5 sessions per week is real and consistent: past 3-4 days, you're not buying much additional range of motion, and you're increasing recovery demand on aging tissue. Three solid sessions per week is the sweet spot for most people.
 
-What the research doesn't resolve cleanly is the optimal duration per session. Most studies used 20-40 minutes, and the variance in outcomes wasn't dramatic within that range. My practical recommendation: 25 minutes, 3 days a week, done consistently for 8 weeks, will produce more real-world benefit than a perfect 90-minute session done sporadically.
+What the research doesn't resolve cleanly is the optimal duration per session. Most studies used 20-40 minutes, and the variance in outcomes wasn't dramatic within that range. A practical recommendation: 25 minutes, 3 days a week, done consistently for 8 weeks, will produce more real-world benefit than a perfect 90-minute session done sporadically.
 
 ## A Realistic Progression Table
 
-Not every starting point is the same. Here's how I'd sequence the approach based on current mobility level, which is probably more useful than a generic beginner/intermediate/advanced split.
+Not every starting point is the same. The table below sequences the approach based on current mobility level, which is probably more useful than a generic beginner/intermediate/advanced split.
 
 | Starting Condition | Phase 1 (Weeks 1-3) | Phase 2 (Weeks 4-6) | Phase 3 (Weeks 7+) | Expected ROM Gain |
 |---|---|---|---|---|
@@ -97,13 +97,13 @@ Not every starting point is the same. Here's how I'd sequence the approach based
 | Active walker or exerciser, limited by rotation deficit | 90/90 rotations, hip circles, pigeon pose modification | Add lateral step-downs, lateral band walks | Add loaded split squat, single-leg RDL | 12-20° rotational range improvement |
 | Hip OA, pain with weight-bearing | Supine piriformis stretch, seated abduction, partial bridge | Standing flexor stretch (gentle), supported hip circles | Aquatic or stationary bike work, banded bridge (low load) | More pain reduction than ROM; 5-10° realistic |
 
-One thing I want to be honest about: if you have diagnosed hip OA, the goals shift. You're optimizing for pain management and functional range, not maximum degrees of motion. That's not failure. A client of mine with bilateral hip OA, a 71-year-old retired nurse named Margaret, went from barely managing a flight of stairs to hiking 2.5 miles on flat terrain after 10 weeks of the OA-modified program above. She didn't achieve the ROM of a 40-year-old. She achieved the function she needed for her life.
+One thing I want to be honest about: if you have diagnosed hip OA, the goals shift. You're optimizing for pain management and functional range, not maximum degrees of motion. That's not failure. For example, someone with bilateral hip OA might go from barely managing a flight of stairs to hiking 2.5 miles on flat terrain after 10 weeks of the OA-modified program above. She didn't achieve the ROM of a 40-year-old. She achieved the function she needed for her life.
 
 ## The Mistakes I See Most Often
 
 Bouncing during stretches. Still happening. It triggers a protective muscle reflex (the stretch reflex) that does the opposite of what you want. Slow and controlled, every time.
 
-Ignoring rotation. Most people who do "hip mobility" work focus entirely on flexion and extension. Rotation, especially internal rotation, is where older adults lose range fastest and where I see the most gait compensation. The 90/90 exercise above is non-negotiable for this reason.
+Ignoring rotation. Most people who do "hip mobility" work focus entirely on flexion and extension. Rotation, especially internal rotation, is where older adults lose range fastest and where gait compensation is most commonly observed. The 90/90 exercise above is non-negotiable for this reason.
 
 Skipping the warm-up. Spend 3-4 minutes on gentle walking or marching in place before any of this. Synovial fluid takes time to distribute through the joint. Cold cartilage is less forgiving. You wouldn't skip warming up a car engine in winter. Same principle.
 
@@ -111,9 +111,9 @@ Stretching instead of strengthening. This is the biggest one. Flexibility withou
 
 ## A Few Numbers Worth Knowing
 
-Scenario 1: A 66-year-old sedentary man starts the Phase 1 protocol above, 3 days per week. At 6 weeks, objective goniometer measurement shows 9° improvement in hip extension range of motion. His self-reported ability to climb stairs without holding the rail goes from "always needs rail" to "needs it on steep stairs only." Small number, meaningful life change.
+Scenario 1: For example, if a sedentary 66-year-old man were to start the Phase 1 protocol above, 3 days per week. At 6 weeks, objective goniometer measurement shows 9° improvement in hip extension range of motion. His self-reported ability to climb stairs without holding the rail goes from "always needs rail" to "needs it on steep stairs only." Small number, meaningful life change.
 
-Scenario 2: A 72-year-old woman with a history of two falls in the prior year adds the glute bridge and side-lying abduction exercises to her existing walking routine. At 8 weeks, her single-leg stance time (a validated balance predictor) improves from 6.2 seconds to 14.8 seconds. The 12-second threshold is generally considered a meaningful clinical marker for fall risk reduction.
+Scenario 2: For example, if a 72-year-old woman with a history of two falls in the prior year were to add the glute bridge and side-lying abduction exercises to her existing walking routine. At 8 weeks, her single-leg stance time (a validated balance predictor) improves from 6.2 seconds to 14.8 seconds. The 12-second threshold is generally considered a meaningful clinical marker for fall risk reduction.
 
 Scenario 3: A physical therapy clinic integrating a structured hip mobility program across 34 patients ages 63-79 reports (in a 2023 case series published in the Journal of Geriatric Physical Therapy) that 71% met their functional goal of independent stair use within 10 weeks of the program start.
 

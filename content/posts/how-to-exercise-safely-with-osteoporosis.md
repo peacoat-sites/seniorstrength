@@ -36,7 +36,7 @@ A common mistake with osteoporosis and osteopenia isn't doing too much exercise.
 
 Bone mineral density (BMD) doesn't just determine whether something breaks. It determines *how* something breaks, and which movements create enough compressive or shear force to cause a fracture even without a fall.
 
-The spine is often underestimated. Vertebral compression fractures, which can happen from something as minor as bending forward sharply to pick something up, are the most common osteoporotic fracture and frequently go undiagnosed for months. The hip gets more cultural attention, but the spine is where many practitioners see the hardest-to-detect injuries.
+The spine is often underestimated. Vertebral compression fractures, which can happen from something as minor as bending forward sharply to pick something up, are the most common osteoporotic fracture and frequently go undiagnosed for months. The hip gets more cultural attention, but the spine is where clinicians commonly see the hardest-to-detect injuries.
 
 Here's the part that surprises people: your bones aren't uniformly weak. Osteoporosis tends to concentrate at the lumbar spine (L1-L4), the femoral neck (top of the thigh bone), and the wrist. That means some parts of your skeleton are fine while others are significantly compromised. Your exercise program needs to reflect that specific distribution, which is exactly why a DEXA scan with T-scores at multiple sites is more useful than a single whole-body BMD number. If your doctor only told you "you have osteoporosis" without specifying where, it's worth asking for the site-specific T-scores at your next appointment.
 
@@ -44,9 +44,9 @@ Here's the part that surprises people: your bones aren't uniformly weak. Osteopo
 
 This is the section that never makes it into the cheerful fitness pamphlets.
 
-**Forward spinal flexion under load** is the one I'm most vigilant about. Crunches, sit-ups, toe touches, the "roll down" in Pilates, the forward fold in yoga where an instructor pushes on your back, rowing with poor form, picking up a grandchild with a rounded spine. All of these place compressive force on the anterior vertebral bodies, which are the exact structures that fail in osteoporotic fractures. A 2015 study in *Osteoporosis International* found that common Pilates exercises that involve trunk flexion produced spinal loads high enough to be concerning for women with low BMD. That finding hasn't gotten nearly enough attention in the fitness world.
+**Forward spinal flexion under load** is among the most important risks to understand. Crunches, sit-ups, toe touches, the "roll down" in Pilates, the forward fold in yoga where an instructor pushes on your back, rowing with poor form, picking up a grandchild with a rounded spine. All of these place compressive force on the anterior vertebral bodies, which are the exact structures that fail in osteoporotic fractures. A 2015 study in *Osteoporosis International* found that common Pilates exercises that involve trunk flexion produced spinal loads high enough to be concerning for women with low BMD. That finding hasn't gotten nearly enough attention in the fitness world.
 
-**High-impact activities without bone density to support them** are another real risk. Running on a treadmill might be listed as "weight-bearing" and it is, but landing forces at 3x body weight per stride are a different animal than walking at 1.1x body weight. If your T-score is below -2.5, I'd have a frank conversation with your physician before jogging.
+**High-impact activities without bone density to support them** are another real risk. Running on a treadmill might be listed as "weight-bearing" and it is, but landing forces at 3x body weight per stride are a different animal than walking at 1.1x body weight. If your T-score is below -2.5, a frank conversation with your physician before jogging is strongly advisable.
 
 **Twisting under load.** A golf swing with a driver, heavy cable rotations, even some dance moves that combine rotation with a weighted lower body. Torsional forces on already-compromised vertebrae are underappreciated.
 
@@ -80,25 +80,25 @@ Start with an honest assessment of where you are. Not where you think you should
 
 If you have a T-score of -1.0 to -2.4 (osteopenia range), you have more flexibility. A well-run group fitness class with a trainer who knows your situation is reasonable. You can walk, bike, hike on flat terrain, do most resistance exercises with good form, and begin progressing load.
 
-If your T-score is -2.5 or below (osteoporosis range), I'd argue that working with a physical therapist or certified personal trainer who has specific osteoporosis experience isn't optional, it's the move. At least for the first 8-12 weeks while you establish safe movement patterns. The cost of 6-10 PT sessions (typically $75 to $175 per session depending on your location and insurance, as of 2026) is a fraction of the cost, financially and otherwise, of a vertebral fracture.
+If your T-score is -2.5 or below (osteoporosis range), working with a physical therapist or certified personal trainer who has specific osteoporosis experience is not optional, it is the move. At least for the first 8-12 weeks while you establish safe movement patterns. The cost of 6-10 PT sessions (typically $75 to $175 per session depending on your location and insurance, as of 2026) is a fraction of the cost, financially and otherwise, of a vertebral fracture.
 
 The hip hinge is the single most important movement pattern to master. Every time you bend to pick something up, you're doing a hip hinge. Getting that pattern right, weight back, spine neutral, movement from the hips not the waist, protects your lumbar spine on every single repetitive daily task.
 
-Margaret, 68, T-score -2.7 at lumbar spine, had been doing a twice-weekly yoga class for three years → Switched to Fishman-protocol yoga DVD and added twice-weekly resistance training (goblet squats, banded hip abduction, wall-supported overhead press) with a trainer for 10 weeks → Follow-up DEXA at 12 months showed +2.3% BMD at lumbar spine; she reported three fewer "near-fall" moments in six months.
+For example, someone with a T-score of -2.7 at the lumbar spine who had been doing a twice-weekly general yoga class for three years might switch to a Fishman-protocol yoga DVD and add twice-weekly resistance training (goblet squats, banded hip abduction, wall-supported overhead press) with a trainer for 10 weeks, and see a follow-up DEXA at 12 months showing improved BMD at the lumbar spine along with fewer near-fall moments.
 
-David, 71, femoral neck T-score -2.1, former runner who was told to stop all running → Cleared by physician for supervised LIFTMOR-style protocol, started with bodyweight deadlifts and progressed to 95 lbs over 16 weeks → No adverse events; reported significantly reduced fear of falling and returned to 20-minute walks three times weekly.
+For example, someone with a femoral neck T-score of -2.1 who was told to stop all running might be cleared by a physician for a supervised LIFTMOR-style protocol, starting with bodyweight deadlifts and progressing to meaningful loads over 16 weeks, with no adverse events and a return to regular walking.
 
-Carol, 74, multiple vertebral fractures, extremely conservative starting point → Began with seated resistance band work, progressed to standing with wall support, focused heavily on hip extension and balance → After 6 months, able to walk 30 minutes daily without pain flare; no new fractures over 18-month follow-up.
+For example, someone with multiple vertebral fractures starting from a very conservative baseline might begin with seated resistance band work, progress to standing with wall support, and focus heavily on hip extension and balance, potentially reaching 30 minutes of daily walking without pain and avoiding new fractures over an extended follow-up period.
 
 ## Medications, Supplements, and the Exercise Equation
 
-Exercise doesn't work in isolation, and I'd be doing you a disservice to pretend otherwise.
+Exercise does not work in isolation, and treating it as the whole solution would be a disservice.
 
 If your physician has recommended bisphosphonates (alendronate/Fosamax, risedronate/Actonel) or other bone medications, those work on a completely different mechanism than exercise. They're not either/or. The research suggests the combination of medication and resistance exercise produces better outcomes than either alone, though I'll be honest that the long-term data on exactly how much better is still being refined.
 
 Calcium and vitamin D matter, but the dosing question is more complicated than "take 1200mg of calcium." The research on calcium supplementation specifically has gotten murkier over the past decade, with some studies raising questions about cardiovascular effects from high-dose supplements. Current guidance from the National Osteoporosis Foundation (as of 2026) generally favors getting calcium from food sources first, supplementing only to close the gap, and ensuring vitamin D is in an adequate range (typically 800-1000 IU/day for most older adults, though your physician should check your serum 25(OH)D level before recommending a specific dose).
 
-That conversation belongs with your doctor and potentially a registered dietitian. I don't have enough information about your specific situation to go further than that here, and anyone who gives you a confident universal dose without knowing your bloodwork is guessing.
+That conversation belongs with your doctor and potentially a registered dietitian. Without knowing an individual's bloodwork and health history, any confident universal dose recommendation is guesswork.
 
 ## Sources
 

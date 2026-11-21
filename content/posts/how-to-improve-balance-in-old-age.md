@@ -30,9 +30,9 @@ Falls are the leading cause of injury-related death among adults 65 and older in
 
 You might be wondering if your balance is just... declining. Like it's something that happens to you, not something you can change. I hear that from people constantly, and I want to be direct with you: that belief is wrong, and it's one of the more harmful things going around.
 
-Here's what I tell people in their first session with me: balance is a skill, not a fixed trait. It's trainable at 62, at 74, at 83. The research on this is genuinely encouraging, not the lukewarm "some improvement is possible" kind. A 2020 Cochrane review analyzing 108 trials found that exercise programs specifically targeting balance reduced fall rates in older adults by roughly 23%. That's not a rounding error. That's a meaningful, life-changing number.
+The key thing to understand is this: balance is a skill, not a fixed trait. It's trainable at 62, at 74, at 83. The research on this is genuinely encouraging, not the lukewarm "some improvement is possible" kind. A 2020 Cochrane review analyzing 108 trials found that exercise programs specifically targeting balance reduced fall rates in older adults by roughly 23%. That's not a rounding error. That's a meaningful, life-changing number.
 
-But the how matters enormously. Because I've also seen people make their balance worse by following well-meaning but misguided advice. Let me walk you through what actually works.
+But the how matters enormously. Because well-meaning but misguided advice can actually make balance worse. Let me walk you through what actually works.
 
 ---
 
@@ -58,7 +58,7 @@ One more thing: medications. This doesn't get said loudly enough. As of July 202
 
 **Step-ups with intention.** Using a low, sturdy step (4-6 inches), step up and bring the trailing leg up slowly before stepping back down. The emphasis here is the hip flexor lift and the control on descent. A regular stair works fine.
 
-Here's a concrete example of how this plays out in practice: Margaret, a 71-year-old I worked with in late 2024, came to me after two near-falls in her kitchen. She had no major health conditions, but she'd been largely sedentary for three years. We started with daily single-leg stance (10 seconds per side, three times a day) and sit-to-stand exercises five days a week. After eight weeks, her time on a 30-second chair stand test went from 8 repetitions to 14, and she hadn't had another near-fall incident. Not a cure, but a real, measurable shift.
+For example, consider a 71-year-old woman who sought help after two near-falls in her kitchen. She had no major health conditions but had been largely sedentary for three years. Starting with daily single-leg stance (10 seconds per side, three times a day) and sit-to-stand exercises five days a week produced clear results. After eight weeks, her 30-second chair stand test improved from 8 repetitions to 14, and she had no further near-fall incidents. Not a cure, but a real, measurable shift.
 
 ---
 
@@ -66,11 +66,11 @@ Here's a concrete example of how this plays out in practice: Margaret, a 71-year
 
 Ankle strength. Specifically, calf raises and ankle circles.
 
-I can't tell you how many balance programs I've reviewed over the years that completely ignore the ankles. It's a real gap. Your ankles are the first responders in balance correction. When you step on an uneven surface, before your brain consciously registers the instability, your ankles are already making micro-adjustments. If the muscles around them are weak, those adjustments don't happen fast enough or with enough force.
+Many balance programs completely ignore the ankles, which is a real gap. It's a real gap. Your ankles are the first responders in balance correction. When you step on an uneven surface, before your brain consciously registers the instability, your ankles are already making micro-adjustments. If the muscles around them are weak, those adjustments don't happen fast enough or with enough force.
 
 The fix is simple: stand at a counter, rise up on your toes slowly, hold for 2 seconds, lower slowly. Repeat 15-20 times. Daily. It's not glamorous. Neither is a hip fracture.
 
-Foot sensation is part of this too. If you've been wearing thick-soled, heavily cushioned shoes for years, you might actually be reducing the sensory feedback your feet send upward. I'm not saying ditch your support, especially if you have foot conditions. But there's legitimate research suggesting that overly cushioned footwear can reduce proprioceptive input in older adults. This is an area where I'd genuinely recommend talking to a podiatrist rather than making a change on your own.
+Foot sensation is part of this too. If you've been wearing thick-soled, heavily cushioned shoes for years, you might actually be reducing the sensory feedback your feet send upward. This is not a reason to abandon supportive footwear, especially for those with foot conditions. But there's legitimate research suggesting that overly cushioned footwear can reduce proprioceptive input in older adults. This is an area where talking to a podiatrist before making any change is worthwhile.
 
 ---
 
@@ -86,11 +86,11 @@ And please: don't start any new exercise program without at least a conversation
 
 ## Worked Examples
 
-**Scenario 1:** 68-year-old man, retired teacher, noticed unsteadiness while hiking on uneven terrain. → Added daily single-leg stance (eyes open, then eyes closed), tandem walking, and ankle calf raises three times per week. → After 10 weeks, reported hiking confidently on moderate trails with no near-falls. Sit-to-stand score improved from 11 to 16 reps in 30 seconds.
+**Example 1:** A 68-year-old man noticed unsteadiness while hiking on uneven terrain. Adding daily single-leg stance (eyes open, then eyes closed), tandem walking, and ankle calf raises three times per week led to measurable improvement: after 10 weeks, he reported hiking confidently on moderate trails with no near-falls, and his sit-to-stand score improved from 11 to 16 reps in 30 seconds.
 
-**Scenario 2:** 76-year-old woman, history of one fall resulting in a wrist fracture two years prior, significant fear of falling developed afterward. → Started with supported single-leg stance at kitchen counter for 5 seconds per side, plus chair yoga for hip mobility twice weekly. Fear of falling (measured by Falls Efficacy Scale) dropped meaningfully over 12 weeks, and she returned to taking walks around her neighborhood. → Gradual exposure to movement, not just physical training, restored her confidence.
+**Example 2:** Consider a 76-year-old woman with a history of one fall resulting in a wrist fracture and significant fear of falling that developed afterward. Beginning with supported single-leg stance at a kitchen counter for 5 seconds per side, plus chair yoga for hip mobility twice weekly, can produce meaningful results: fear of falling (measured by the Falls Efficacy Scale) may drop considerably over 12 weeks, and gradual exposure to movement, not just physical training, can restore confidence and allow a return to neighborhood walks.
 
-**Scenario 3:** 82-year-old man, mild balance impairment noted by his physician, referred to a physical therapist for formal gait assessment. → PT identified significant ankle weakness and recommended a targeted 6-week program. → Timed Up and Go test improved from 14.2 seconds to 10.8 seconds, which moved him from "moderate fall risk" to "low fall risk" on that assessment.
+**Example 3:** For an 82-year-old man with mild balance impairment noted by his physician, a referral to a physical therapist for formal gait assessment can be valuable. A PT might identify significant ankle weakness and recommend a targeted 6-week program, potentially improving the Timed Up and Go test from around 14.2 seconds to 10.8 seconds, moving the patient from "moderate fall risk" to "low fall risk" on that assessment.
 
 ---
 

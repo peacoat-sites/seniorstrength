@@ -96,19 +96,19 @@ The medication angle is worth a direct conversation with whoever manages your pr
 
 Vitamin D deficiency also shows up in this conversation more than people expect. A meta-analysis in the *British Medical Journal* found that supplementing Vitamin D in deficient older adults reduced fall risk by about 22%. The threshold for deficiency is generally under 20 ng/mL on a serum 25(OH)D test. It's a routine blood test. If it's been more than a year since you had one, it's worth asking for.
 
-Unsupportive slip-ons and worn-down soles are common and can affect stability. A shoe with a firm heel counter, a slight taper, and no more than a half-inch heel-to-toe drop will serve you better than most "comfort" footwear marketed to seniors. The New Balance 928v3 (around $130) gets recommended by podiatrists a lot, and in my experience that reputation is earned.
+Unsupportive slip-ons and worn-down soles are common and can affect stability. A shoe with a firm heel counter, a slight taper, and no more than a half-inch heel-to-toe drop will serve you better than most "comfort" footwear marketed to seniors. The New Balance 928v3 (around $130) gets recommended by podiatrists frequently, and that reputation is well-supported by user and clinical feedback.
 
 ## Tracking Progress (Because It's Real)
 
-One thing I push hard with every client: measure. Not obsessively, but consistently. The Timed Up and Go test (TUG) is a standard clinical tool you can do at home. Start seated in a chair, stand, walk 10 feet, turn around, walk back, sit. Time it. Under 12 seconds is generally considered normal for adults over 60. Over 20 seconds is a meaningful red flag for fall risk.
+One practical habit worth adopting is to measure progress consistently. Not obsessively, but consistently. The Timed Up and Go test (TUG) is a standard clinical tool you can do at home. Start seated in a chair, stand, walk 10 feet, turn around, walk back, sit. Time it. Under 12 seconds is generally considered normal for adults over 60. Over 20 seconds is a meaningful red flag for fall risk.
 
-Three scenarios I've seen play out with consistent work:
+Here are three hypothetical scenarios that illustrate how consistent effort can pay off:
 
-Man, 71, had TUG time of 18.4 seconds and described feeling unsteady on stairs. Added daily calf raises, hip abduction with a Theraband, and tandem walking. At 8 weeks, TUG time dropped to 13.1 seconds. Stairs stopped feeling dangerous.
+For example, a man of 71 might start with a TUG time of 18.4 seconds and describe feeling unsteady on stairs. Adding daily calf raises, hip abduction with a Theraband, and tandem walking is a reasonable protocol. At 8 weeks, a TUG time improvement to around 13.1 seconds would not be an unusual result. Stairs often stop feeling dangerous with that level of improvement.
 
-Woman, 68, was having balance issues primarily in dim light (classic vestibular issue). Referred to vestibular physical therapy, added vitamin D supplementation after bloodwork showed deficiency at 14 ng/mL. Six months later, reported 80% reduction in unsteadiness episodes during evening walks.
+Similarly, a woman of 68 experiencing balance issues primarily in dim light, a classic vestibular pattern, might follow a different path. Referral to vestibular physical therapy combined with vitamin D supplementation after bloodwork reveals a deficiency at 14 ng/mL is a common and evidence-supported approach. Six months later, an 80% reduction in unsteadiness episodes during evening walks is a realistic outcome with that combination of interventions.
 
-Man, 74, fell twice in one year after starting a new blood pressure medication. Medication was reviewed by his cardiologist, dosage adjusted. Combined with 10 minutes of daily balance exercises, went 14 months without a fall as of our last contact.
+Consider also a man of 74 who fell twice in one year after starting a new blood pressure medication. Having the medication reviewed by a cardiologist and the dosage adjusted is exactly the kind of step worth pursuing in that situation. Combined with 10 minutes of daily balance exercises, going 14 or more months without a fall is a plausible and common outcome.
 
 None of these are dramatic stories. They're just consistent effort paying off, which is how it almost always goes.
 

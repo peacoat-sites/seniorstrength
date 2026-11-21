@@ -26,11 +26,11 @@ faqs:
     a: "If you're doing both in the same session, most evidence favors strength training first when the primary goal is muscle building. Aerobic fatigue can compromise the quality of resistance work. That said, they don't have to happen in the same session at all. Separating them, strength one day, a walk the next, is perfectly fine and what I typically recommend for clients just starting out."
 ---
 
-Sixty-three years old, a retired postal worker named Gerald, came into my clinic last spring barely able to lift a gallon of milk without his elbow shaking. He'd been told by three different people, including one doctor, that this was just "normal aging." He'd accepted it. He was eating less because he wasn't as active, sleeping poorly, and had quietly stopped doing anything that required upper [body strength](/lower-body-strength-exercises-for-seniors/). By the time he reached me, he'd lost an estimated 14 pounds of muscle in about four years.
+Consider someone like Gerald, a 63-year-old retired postal worker who could barely lift a gallon of milk without his elbow shaking. He'd been told by three different people, including one doctor, that this was just "normal aging." He'd accepted it. He was eating less because he wasn't as active, sleeping poorly, and had quietly stopped doing anything that required upper [body strength](/lower-body-strength-exercises-for-seniors/). By the time he sought help, he'd lost an estimated 14 pounds of muscle in about four years.
 
 Six months later, Gerald was doing assisted pull-ups.
 
-I tell his story not to promise you the same result, because [muscle loss](/how-to-prevent-muscle-loss-with-age/) is complicated and everyone's starting point is different, but because Gerald's case perfectly illustrates the two most damaging myths about sarcopenia, which is the clinical term for age-related muscle loss: that it's inevitable, and that reversing it requires something extreme.
+His story is worth sharing not to promise the same result, because [muscle loss](/how-to-prevent-muscle-loss-with-age/) is complicated and everyone's starting point is different, but because Gerald's situation perfectly illustrates the two most damaging myths about sarcopenia, which is the clinical term for age-related muscle loss: that it's inevitable, and that reversing it requires something extreme.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Adults lose roughly 3-8% of muscle mass per decade after 30, accelerating sharply after 60, but this is not irreversible.</li><li style="margin:5px 0">Resistance training 2-3 times per week produces measurable strength gains in adults over 60 within 8-12 weeks.</li><li style="margin:5px 0">Protein needs actually increase with age; most older adults should target 1.2-1.6g per kg of body weight daily.</li><li style="margin:5px 0">Muscle protein synthesis drops with age but responds strongly to leucine-rich protein (eggs, Greek yogurt, salmon) consumed within 2 hours post-exercise.</li><li style="margin:5px 0">Consistency over six months, not intensity, predicts outcomes in older adults.</li></ul></div>
 
@@ -46,7 +46,7 @@ The second thing happening is motor unit dropout. Muscle fibers, particularly th
 
 "Stay active" is not a prescription. It's a platitude.
 
-I spent two years as a PT assistant in a senior wellness center where we used to print handouts listing "activities like walking, gardening, and swimming" as sarcopenia prevention strategies. I cringe at those now. Not because those activities don't have value, they absolutely do, but because they don't create the mechanical tension in muscle fibers required to actually reverse sarcopenia. Walking is aerobic conditioning. It will not rebuild the quadriceps of someone who's lost significant mass. The distinction matters enormously, and the research has been consistent on this point for at least the last decade.
+For years, senior wellness programs commonly printed handouts listing "activities like walking, gardening, and swimming" as sarcopenia prevention strategies. That approach falls short. Not because those activities don't have value, they absolutely do, but because they don't create the mechanical tension in muscle fibers required to actually reverse sarcopenia. Walking is aerobic conditioning. It will not rebuild the quadriceps of someone who's lost significant mass. The distinction matters enormously, and the research has been consistent on this point for at least the last decade.
 
 What works is progressive resistance training. That means lifting weights, using resistance bands, doing bodyweight exercises against gravity, or using weight machines, and doing it in a way that progressively overloads the muscle. The "progressive" part is where most people drop the ball. If the weight isn't challenging you in the 8-15 rep range, your muscles have no reason to adapt.
 
@@ -62,7 +62,7 @@ One thing I always warn clients about that almost nobody else mentions: the firs
 
 Current protein recommendations, as of 2026, are still debated, but the emerging consensus among researchers in geriatric nutrition leans well above the old RDA of 0.8g per kg of body weight. For older adults engaged in any resistance training, 1.2-1.6g per kg is the range that appears most supported by the current evidence. For a 160-pound (73 kg) person, that's roughly 88-117 grams of protein daily.
 
-Most older adults I work with are eating 40-60 grams. They're not being negligent. They often have reduced appetite, smaller stomach capacity, and digestion changes that make high-protein meals uncomfortable. Some are on fixed incomes where chicken breast every day isn't realistic.
+Many older adults are eating only 40-60 grams of protein daily. They're not being negligent. They often have reduced appetite, smaller stomach capacity, and digestion changes that make high-protein meals uncomfortable. Some are on fixed incomes where chicken breast every day isn't realistic.
 
 | Protein Source | Serving Size | Protein (g) | Cost Estimate (2026) | Leucine Content |
 |---|---|---|---|---|
@@ -76,29 +76,29 @@ Most older adults I work with are eating 40-60 grams. They're not being negligen
 
 Leucine matters specifically because it appears to act as a trigger for muscle protein synthesis. The current research, and I want to be careful here because the field is moving fast, suggests that 2.5-3g of leucine per meal may be a threshold that activates the MPS pathway more reliably. Whey protein is exceptionally high in leucine, which is why it's been studied extensively in older adults and why a simple whey shake post-workout isn't a bad idea even if it feels like something only 25-year-olds do.
 
-One scenario I see often: A 68-year-old woman, sedentary, starts strength training twice per week but doesn't change her diet. After 8 weeks she sees modest strength gains but minimal muscle mass change. She increases protein to 1.4g/kg and adds a Greek yogurt with two scrambled eggs in the morning. By week 16, her grip strength measurably improves and her PT assessment shows visible quad definition. The training was the stimulus. The protein was the raw material. You need both.
+For example, if a sedentary 68-year-old woman starts strength training twice per week but doesn't change her diet, she may see modest strength gains after 8 weeks but minimal muscle mass change. After 8 weeks she sees modest strength gains but minimal muscle mass change. If she then increases protein to 1.4g/kg and adds a Greek yogurt with two scrambled eggs in the morning, results can improve significantly. By week 16, grip strength may measurably improve and a PT assessment may show visible quad definition. The training was the stimulus. The protein was the raw material. You need both.
 
 ## Balance, Falls, and What Nobody Warns You About
 
 Muscle mass and fall risk are deeply connected, but the connection is more nuanced than "stronger legs = fewer falls." What really predicts fall risk is reactive balance, the ability to recover from an unexpected perturbation. This depends on Type II fiber function, ankle stability, and proprioception (your body's sense of where it is in space), all of which decline with age and all of which are trainable.
 
-Single-leg stance work is something I include with almost every client over 65. Stand on one foot, near a counter for safety, for 20-30 seconds. It sounds almost comically simple. But in a 2022 study published in *PLOS ONE*, adults who could not hold a 10-second single-leg balance were associated with a nearly doubled risk of all-cause mortality over the following decade. That finding got a lot of attention when it came out, and honestly it should have. Your balance is a biomarker.
+Single-leg stance work is recommended for nearly everyone over 65. Stand on one foot, near a counter for safety, for 20-30 seconds. It sounds almost comically simple. But in a 2022 study published in *PLOS ONE*, adults who could not hold a 10-second single-leg balance were associated with a nearly doubled risk of all-cause mortality over the following decade. That finding got a lot of attention when it came out, and honestly it should have. Your balance is a biomarker.
 
-Tai chi is worth mentioning here, and I say that as someone who spent years being skeptical of it as fitness. The research is actually quite strong. A 2020 meta-analysis in *JAMA Internal Medicine* found that tai chi significantly reduced fall rates in older adults, with some trials showing 43-48% reductions. I don't think it's magic. I think it works because it trains slow, controlled eccentric movements and weight shifting in ways that most Western exercise modalities don't prioritize. Twice-weekly tai chi alongside resistance training is a combination I now recommend regularly.
+Tai chi is worth mentioning here, even for those who have been skeptical of it as a fitness modality. The research is actually quite strong. A 2020 meta-analysis in *JAMA Internal Medicine* found that tai chi significantly reduced fall rates in older adults, with some trials showing 43-48% reductions. I don't think it's magic. I think it works because it trains slow, controlled eccentric movements and weight shifting in ways that most Western exercise modalities don't prioritize. Twice-weekly tai chi alongside resistance training is a combination well supported by the research.
 
 ## Practical Starting Points by Fitness Level
 
-I've noticed that most resources assume either that you're already reasonably active or that you need to be talked into everything gently. So let me give you something more direct.
+Most resources assume either that you're already reasonably active or that you need to be talked into everything gently. So let me give you something more direct.
 
 **If you're currently sedentary:** Start with sit-to-stands and a 10-minute walk daily for two weeks. No weights yet. Your connective tissue needs time. Injuries from jumping in too fast set people back months.
 
 **If you're lightly active (walking regularly but no strength work):** You're ready to start resistance training now. Two sessions per week, lower body and push/pull pattern, with a rest day between. A session doesn't need to be more than 25-30 minutes.
 
-**If you've been doing some strength work but not progressing:** This is Gerald's eventual category, and honestly it's where the most gains are left on the table. Get a movement assessment from a physical therapist (most take Medicare), find where your weak links are, and start loading those specifically.
+**If you've been doing some strength work but not progressing:** This is Gerald's eventual category, and it's where the most gains are left on the table. Get a movement assessment from a physical therapist (most take Medicare), find where your weak links are, and start loading those specifically.
 
 ---
 
-One thing I haven't addressed: hormone changes. Testosterone and estrogen both support muscle mass, and both decline significantly with age. Hormone replacement therapy is beyond what I can advise on here, and the research on its use specifically for sarcopenia is genuinely mixed in terms of risk-benefit. I'd encourage a conversation with an endocrinologist if you've done everything right on training and nutrition and still aren't moving the needle. Don't accept a shrug as an answer.
+One thing I haven't addressed: hormone changes. Testosterone and estrogen both support muscle mass, and both decline significantly with age. Hormone replacement therapy is a topic that requires a qualified physician, and the research on its use specifically for sarcopenia is genuinely mixed in terms of risk-benefit. I'd encourage a conversation with an endocrinologist if you've done everything right on training and nutrition and still aren't moving the needle. Don't accept a shrug as an answer.
 
 ## Sources
 
