@@ -16,8 +16,8 @@ faqs:
    a: "A temporary dip in performance is completely normal and happens to everyone, including elite athletes. Illness, stress, poor sleep, seasonal changes, or simply a busier week can all affect results. Don’t be discouraged. Look at your trend over three to six months rather than obsessing over a single measurement. The long-term direction is what truly matters for your health."
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Senior Nutrition Specialist"
-author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
+author_title: "Senior Nutrition"
+author_bio: "Robert Davis is the byline used at Senior Strength for articles on protein, nutrition and eating habits that help older adults keep muscle. It is a pen name, not a dietitian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-07
 ---
 You've been [walking every morning](/does-walking-30-minutes-a-day-help-seniors-lose-weight/), doing your stretching routine, and skipping the second helping at dinner. But when someone asks, "How's your fitness going?" you pause. Honestly? You're not quite sure. This is the most common frustration I hear from active older adults. They're putting in the work but can't answer the simplest question about whether it's actually paying off. The missing piece isn't motivation or discipline, it's knowing how to **track fitness progress seniors** typically ignore. And that's where everything changes.

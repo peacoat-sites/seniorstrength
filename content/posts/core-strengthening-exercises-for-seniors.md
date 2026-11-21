@@ -21,8 +21,8 @@ faqs:
    a: "Either can work, but having at least two or three sessions with a trainer or physical therapist who can watch your form early on is genuinely valuable. Form errors in core work are often invisible to the person doing the exercise. You might think your lower back is flat during a dead bug when it's actually arching significantly. A qualified set of eyes catches things that a mirror can't."
 author: "James Cooper"
 author_slug: "james-cooper"
-author_title: "Certified Trainer"
-author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+author_title: "Strength Training"
+author_bio: "James Cooper is the byline used at Senior Strength for articles on strength training for older adults: exercise choice, progression and recovery. It is a pen name, not a certified personal trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most advice about core training for older adults is wrong. Not dangerous, exactly, just wrong in a way that wastes time and sometimes makes things worse. The standard recommendation you'll hear at most gyms goes something like this: "Do some planks, maybe a few crunches, try a bird dog." And sure, those exercises exist on a spectrum somewhere between fine and useful. But they're almost never taught in the right order, for the right reasons, and they skip over the foundational work that actually makes a difference when you're 65, 72, or 84.

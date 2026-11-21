@@ -14,10 +14,10 @@ faqs:
    a: "Most health guidelines recommend aiming for at least 150 minutes of moderate exercise per week. For water aerobics, that means attending three to four 45-minute classes per week. Even two classes a week will produce noticeable improvements in strength, flexibility, and energy levels within a few weeks."
  - q: "Is water aerobics good for seniors with arthritis?"
    a: "Absolutely, it’s actually one of the most recommended exercises for people with arthritis. The Arthritis Foundation specifically endorses aquatic exercise because the warm water soothes inflamed joints while the buoyancy removes the pressure that makes land-based exercise painful. Many seniors with arthritis report significant reductions in joint pain after just a few weeks of regular water aerobics."
-author: "Dr. Patricia Williams"
-author_slug: "dr-patricia-williams"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+author: "Patricia Williams"
+author_slug: "patricia-williams"
+author_title: "Exercise Safety"
+author_bio: "Patricia Williams is the byline used at Senior Strength for articles on exercise safety for older adults and starting or progressing a program around common health conditions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You want to stay active, but your knees ache on the stairs, your hips protest after a long walk, and high-impact workouts sound exhausting rather than energizing. Sound familiar? You're not alone. Millions of adults over 60 find that land-based exercise has become more punishing than rewarding. That's where **water aerobics for seniors** comes in, a gentle, fun, and remarkably effective way to keep your body strong without the pain.

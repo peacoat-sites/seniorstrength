@@ -6,8 +6,8 @@
 
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
-/dr.-patricia-williams/ /dr-patricia-williams/ 301
-/dr.-marcus-webb/ /dr-marcus-webb/ 301
+/dr.-patricia-williams/ /patricia-williams/ 301
+/dr.-marcus-webb/ /about/ 301
 
 # 2026-07-18 duplicate-topic merges
 /the-4-minute-daily-workout-that-boosts-strength-after-65/ /the-4-minute-daily-workout-that-builds-strength-after-65/ 301
@@ -21,3 +21,5 @@
 /categories/flexibility/ /categories/balance-mobility/ 301
 /categories/getting-started/ /categories/general-fitness/ 301
 /categories/health-data/ /categories/lifestyle/ 301
+/dr-patricia-williams/ /patricia-williams/ 301
+/dr-marcus-webb/ /about/ 301

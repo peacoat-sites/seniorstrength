@@ -16,8 +16,8 @@ faqs:
     a: "Yes, gentle range-of-motion and stretching exercises are generally very beneficial for arthritis in the shoulder. Movement helps keep the joint lubricated and can reduce stiffness and pain over time. However, always check with your rheumatologist or doctor before starting a new exercise routine if you have been diagnosed with a specific type of arthritis. Your shoulders have carried you through decades of life, cooking, gardening, hugging loved ones, and so much more. They deserve your care and attention. By practicing these gentle shoulder pain exercises for seniors regularly, listening to yo"
 author: "Helen Santos"
 author_slug: "helen-santos"
-author_title: "Group Fitness Instructor"
-author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+author_title: "Group and Home Workouts"
+author_bio: "Helen Santos is the byline used at Senior Strength for articles on group and at-home workouts for adults over 60, including for people coming back after years away from exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 If you wake up reaching for your coffee cup and your shoulder screams in protest, you're in good company. Millions of seniors deal with this every single day. The encouraging part? The right **shoulder pain exercises for seniors** can make a real difference, often without pills or a trip to an expensive clinic. These gentle moves restore mobility, ease stiffness, and get you back to living your life.

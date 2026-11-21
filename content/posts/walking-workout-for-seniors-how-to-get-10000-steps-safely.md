@@ -16,8 +16,8 @@ faqs:
    a: "Not at all! Research consistently shows that multiple shorter walks throughout the day provide the same health benefits as one long walk. Three 15-minute walks, two 20-minute walks, any combination works. What matters most is the total movement, not how it’s arranged."
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Senior Nutrition Specialist"
-author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
+author_title: "Senior Nutrition"
+author_bio: "Robert Davis is the byline used at Senior Strength for articles on protein, nutrition and eating habits that help older adults keep muscle. It is a pen name, not a dietitian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You lace up your shoes, step outside, and wonder: _am I doing enough?_ Maybe your doctor mentioned getting more steps in, or you caught something on the news about 10,000 steps. But the idea of walking that much can feel overwhelming, especially if your knees ache, your energy tanks by afternoon, or you haven't been active in years. A walking workout for seniors doesn't have to be extreme. It just needs to be smart, steady, and built around _your_ body.

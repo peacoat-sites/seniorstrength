@@ -16,8 +16,8 @@ faqs:
     a: "A pedometer alone will not cause weight loss, but it is a powerful motivational tool that supports an active lifestyle. Research consistently shows that people who track their steps walk significantly more than those who do not. Combined with a balanced diet and your doctor’s guidance, increased daily walking can absolutely contribute to healthy weight management over time."
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Senior Nutrition Specialist"
-author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
+author_title: "Senior Nutrition"
+author_bio: "Robert Davis is the byline used at Senior Strength for articles on protein, nutrition and eating habits that help older adults keep muscle. It is a pen name, not a dietitian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-07
 ---
 You started walking more to stay healthy, but keeping track of your steps feels surprisingly complicated. Maybe your phone is always in another room. Maybe the fitness apps seem designed for someone half your age. Finding the **best pedometer for seniors** shouldn't require a technology degree. It should just work, right out of the box.

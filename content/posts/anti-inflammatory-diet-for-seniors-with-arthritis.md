@@ -16,8 +16,8 @@ faqs:
    a: "Yes, you can still include meat in your diet, moderation and type are the key factors. Skinless poultry like chicken and turkey is a much better choice than red meat for arthritis management. If you enjoy red meat, limit it to once or twice a week and choose leaner cuts. Processed meats like sausage, hot dogs, and bacon should be eaten very rarely, as they are particularly pro-inflammatory."
 author: "James Cooper"
 author_slug: "james-cooper"
-author_title: "Certified Trainer"
-author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+author_title: "Strength Training"
+author_bio: "James Cooper is the byline used at Senior Strength for articles on strength training for older adults: exercise choice, progression and recovery. It is a pen name, not a certified personal trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 If you wake up most mornings with stiff, aching joints that make getting out of bed feel like a chore, you're definitely not alone. Millions of seniors deal with arthritis pain every single day, and it can feel relentless. The encouraging part? What you eat might be one of the most powerful tools you have. An **anti-inflammatory diet for seniors with arthritis** could genuinely change how you feel.

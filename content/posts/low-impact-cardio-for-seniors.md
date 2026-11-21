@@ -21,8 +21,8 @@ faqs:
    a: "I'll be honest: boredom is a real training problem, not a character flaw. The solution is variety and social structure. Rotating between two or three different activities across the week reduces monotony. Group classes, walking partners, or even a good podcast series reserved only for exercise sessions can transform consistency. Some clients do better with goal-based activities (training for a charity walk, for example) than open-ended exercise. Finding what makes you want to show up is not a nice-to-have, it's a core component of any effective fitness strategy."
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Senior Nutrition Specialist"
-author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
+author_title: "Senior Nutrition"
+author_bio: "Robert Davis is the byline used at Senior Strength for articles on protein, nutrition and eating habits that help older adults keep muscle. It is a pen name, not a dietitian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people assume the biggest obstacle to cardio after 60 is motivation. I used to think that too. But after years of working with older adults, I've come to believe the real obstacle is misinformation, specifically the idea that "low impact" means "low effort" or, worse, that it's somehow a consolation prize for people who can't do "real" exercise. That assumption is wrong, and in some cases it's keeping people sedentary when they absolutely don't have to be.

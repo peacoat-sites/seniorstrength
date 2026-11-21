@@ -16,8 +16,8 @@ faqs:
     a: "Most people begin to feel improvements in strength and balance within four to six weeks of regular exercise. Visible muscle tone may take a little longer, around eight to twelve weeks, but the functional benefits, like getting up from chairs more easily and feeling steadier on your feet, often arrive much sooner than that."
 author: "Linda Chen"
 author_slug: "linda-chen"
-author_title: "Physical Therapist"
-author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+author_title: "Balance and Mobility"
+author_bio: "Linda Chen is the byline used at Senior Strength for articles on balance, mobility and fall prevention. It is a pen name, not a physical therapist; how articles are researched and checked is explained in our editorial standards."
 
 ---
 Picture this: you reach for something on a high shelf, shift your weight, and suddenly feel unsteady on your feet. Or maybe climbing stairs has started to feel like a real workout when it used to be effortless. If this sounds familiar, you're not alone. Millions of adults over 70 quietly struggle with weakening legs, and the good news is, it doesn't have to stay that way. Leg strength exercises for seniors are one of the most powerful tools you have for staying independent, confident, and active well into your 70s, 80s, and beyond.

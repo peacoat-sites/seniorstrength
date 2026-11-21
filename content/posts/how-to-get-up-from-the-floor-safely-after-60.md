@@ -8,8 +8,8 @@ categories: ["Balance & Mobility"]
 tags: ["from", "floor", "safely", "after"]
 author: "James Cooper"
 author_slug: "james-cooper"
-author_title: "Certified Trainer"
-author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+author_title: "Strength Training"
+author_bio: "James Cooper is the byline used at Senior Strength for articles on strength training for older adults: exercise choice, progression and recovery. It is a pen name, not a certified personal trainer; how articles are researched and checked is explained in our editorial standards."
 slug: "how-to-get-up-from-the-floor-safely-after-60"
 affiliate_disclosure: true
 faqs:

@@ -14,10 +14,10 @@ faqs:
    a: "Most health experts recommend aiming for at least three to five days per week of moderate physical activity. If social activities like walking groups, dance classes, or fitness classes are your primary form of exercise, attending three times per week is a great starting point. As your stamina improves, you can add more sessions or mix different types of activities throughout the week."
  - q: "Are there free or low-cost social fitness programs for seniors?"
    a: "Yes, many programs are completely free or very affordable. Medicare Advantage plans often include free gym memberships through programs like Silver Sneakers or Renew Active. Community centers, parks and recreation departments, senior centers, and faith organizations frequently offer free or low-cost group fitness and social activity programs. A quick call to your local Area Agency on Aging can connect you with options in your community."
-author: "Dr. Patricia Williams"
-author_slug: "dr-patricia-williams"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+author: "Patricia Williams"
+author_slug: "patricia-williams"
+author_title: "Exercise Safety"
+author_bio: "Patricia Williams is the byline used at Senior Strength for articles on exercise safety for older adults and starting or progressing a program around common health conditions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Do you sit more than you used to? Most seniors do. The years pile up, motivation drains, and exercising alone starts to feel pointless. But here's what changes everything: mixing movement with people you actually want to see. Combine friendship with activity, and something shifts. You stay active. You stay happy. You stay healthy into your 70s and 80s.

@@ -21,8 +21,8 @@ faqs:
    a: "Muscles need recovery time to grow stronger. Doing strength exercises every single day doesn't give your tissue time to repair and rebuild. Three times per week is the research-supported sweet spot for older adults. On the days between, gentle movement like walking, stretching, or seated range-of-motion exercises is great. But the specific strengthening sessions should have rest days built in."
 author: "James Cooper"
 author_slug: "james-cooper"
-author_title: "Certified Trainer"
-author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+author_title: "Strength Training"
+author_bio: "James Cooper is the byline used at Senior Strength for articles on strength training for older adults: exercise choice, progression and recovery. It is a pen name, not a certified personal trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Maybe you sat down five minutes ago and you're not entirely sure your knees will cooperate when you stand back up. Or maybe a doctor, physical therapist, or well-meaning family member told you to "do some exercise," but the gym feels impossible and getting down on a floor mat sounds unappealing. Here's something that might surprise you: some of the most effective lower-body strengthening you can do happens entirely from a chair. Not as a compromise. Not as a stepping stone you'll eventually graduate from. As a legitimate, research-backed approach to building the leg strength, joint stability, and functional mobility that keep you independent and safe in daily life.

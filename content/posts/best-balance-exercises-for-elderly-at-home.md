@@ -19,10 +19,10 @@ faqs:
    a: "Stop and sit down. Dizziness during balance exercises can mean several things: a blood pressure drop (especially if you stood up quickly), a vestibular issue, or simple exertion. If it happens once, note what you were doing and try a less challenging variation next time. If it happens repeatedly, see your doctor or an ENT before continuing."
  - q: "Can these exercises help if I already use a cane or walker?"
    a: "Yes, with modifications. Many of these can be done with one hand on your assistive device instead of a chair. Consult with a physical therapist about which exercises are appropriate given your specific situation, because the answer depends on why you're using the device in the first place."
-author: "Dr. Patricia Williams"
-author_slug: "dr-patricia-williams"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+author: "Patricia Williams"
+author_slug: "patricia-williams"
+author_title: "Exercise Safety"
+author_bio: "Patricia Williams is the byline used at Senior Strength for articles on exercise safety for older adults and starting or progressing a program around common health conditions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most balance guides for older adults list the same five exercises, tell you to hold a chair, and call it a day. That's not useless advice. It's just incomplete in ways that matter.

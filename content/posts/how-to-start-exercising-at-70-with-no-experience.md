@@ -14,10 +14,10 @@ faqs:
     a: "Many seniors begin to notice improvements in energy, mood, and sleep quality within just two to four weeks of regular activity. Physical changes like improved strength and endurance typically become noticeable within six to eight weeks of consistent exercise."
   - q: "What if I have arthritis or joint pain, can I still exercise?"
     a: "In most cases, yes, and exercise is often recommended as part of arthritis management. Low-impact activities like swimming, water aerobics, cycling, and gentle yoga put minimal stress on your joints while still building strength and flexibility. Always consult your doctor or a physical therapist for guidance tailored to your specific condition."
-author: "Dr. Patricia Williams"
-author_slug: "dr-patricia-williams"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+author: "Patricia Williams"
+author_slug: "patricia-williams"
+author_title: "Exercise Safety"
+author_bio: "Patricia Williams is the byline used at Senior Strength for articles on exercise safety for older adults and starting or progressing a program around common health conditions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 
 ---
 Maybe you've spent decades putting everyone else first, your career, your family, your home, and now you're looking in the mirror wondering where to even begin. If you're searching for **how to start exercising at 70**, you're not alone, and you're absolutely not too late. Millions of seniors begin their fitness journey after 70 and go on to feel stronger, more energetic, and more independent than they have in years.

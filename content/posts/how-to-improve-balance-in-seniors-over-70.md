@@ -16,8 +16,8 @@ faqs:
    a: "Walking is wonderful for overall health and does contribute to balance by strengthening leg muscles and promoting coordination. However, it works best when combined with targeted balance exercises like those described in this article. Walking on uneven terrain such as grass, gravel paths, or gentle hiking trails can provide an extra balance challenge for those who are already reasonably steady on their feet. Always wear supportive footwear and go with a companion when trying new terrain."
 author: "Linda Chen"
 author_slug: "linda-chen"
-author_title: "Physical Therapist"
-author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+author_title: "Balance and Mobility"
+author_bio: "Linda Chen is the byline used at Senior Strength for articles on balance, mobility and fall prevention. It is a pen name, not a physical therapist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Have you ever reached for something on a high shelf and felt a wobble, or hesitated at the top of the stairs because your footing didn't feel solid? You're not alone. Millions of people over 70 live with these moments every day. The good news is that balance can be improved, and most of it can happen in your own home, starting right now.

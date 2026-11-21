@@ -8,8 +8,8 @@ categories: ["trending"]
 tags: ["seniors", "ozempic", "must", "prioritize", "strength"]
 author: "Linda Chen"
 author_slug: "linda-chen"
-author_title: "Physical Therapist"
-author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+author_title: "Balance and Mobility"
+author_bio: "Linda Chen is the byline used at Senior Strength for articles on balance, mobility and fall prevention. It is a pen name, not a physical therapist; how articles are researched and checked is explained in our editorial standards."
 slug: "why-seniors-on-ozempic-must-prioritize-strength-training-now"
 affiliate_disclosure: true
 lastmod: 2026-07-07

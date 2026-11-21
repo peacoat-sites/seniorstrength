@@ -21,8 +21,8 @@ faqs:
    a: "Most of them, yes, with some modifications. Sit-to-stand may need to be done from a higher surface if deep knee bending is painful. Lateral leg raises are usually well-tolerated because they don't load the joint under compression. That said, if you're having a flare-up, this is a conversation to have with your doctor or physical therapist, not something to work around on your own."
 author: "Linda Chen"
 author_slug: "linda-chen"
-author_title: "Physical Therapist"
-author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+author_title: "Balance and Mobility"
+author_bio: "Linda Chen is the byline used at Senior Strength for articles on balance, mobility and fall prevention. It is a pen name, not a physical therapist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people don't start thinking seriously about strength training until something goes wrong. A stumble on the porch steps. A moment of grabbing the wall to steady themselves. A doctor's appointment where the words "bone density" or "fall risk" come up for the first time. If that sounds familiar, you're not behind. You're exactly where a lot of people are when they first walk into my office.

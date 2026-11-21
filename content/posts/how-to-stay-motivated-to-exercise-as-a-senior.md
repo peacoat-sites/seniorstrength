@@ -16,8 +16,8 @@ faqs:
    a: "Starting from scratch is actually a wonderful position to be in, because even small amounts of new activity produce noticeable improvements quickly. Begin with just 5 to 10 minutes of walking each day and gradually build from there. A visit to your doctor for a check-up before beginning is always a smart first step. From there, consider working with a certified senior fitness trainer who can help you progress safely, confidently, and at your own pace."
 author: "Linda Chen"
 author_slug: "linda-chen"
-author_title: "Physical Therapist"
-author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+author_title: "Balance and Mobility"
+author_bio: "Linda Chen is the byline used at Senior Strength for articles on balance, mobility and fall prevention. It is a pen name, not a physical therapist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You lace up your sneakers, feel fired up for a few days, and then life happens. Sound familiar? Finding lasting motivation to exercise is one of the most common health challenges for people aged 60 and beyond. The good news? With the right strategies, staying active can actually become something you look forward to, not something you dread.

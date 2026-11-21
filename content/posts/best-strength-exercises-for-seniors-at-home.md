@@ -21,8 +21,8 @@ faqs:
    a: "Neurological gains, meaning your muscles firing more efficiently and coordination improving, show up in two to four weeks. You'll feel stronger before you look stronger. Visible muscle changes take six to twelve weeks of consistent training. The fastest results most people notice are functional ones: getting up from chairs more easily, feeling more stable on stairs, less fatigue doing daily tasks. Those typically appear within four to six weeks and are, frankly, more meaningful than any aesthetic change."
 author: "Linda Chen"
 author_slug: "linda-chen"
-author_title: "Physical Therapist"
-author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+author_title: "Balance and Mobility"
+author_bio: "Linda Chen is the byline used at Senior Strength for articles on balance, mobility and fall prevention. It is a pen name, not a physical therapist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most home workout advice for seniors is written by people who have never watched a 68-year-old try to get up off the floor after a poorly cued exercise went sideways. The recommendations look fine on paper: "do squats, do lunges, stay active." What they skip is the sequencing, the load progression, and the specific reasons certain moves are dramatically more valuable than others at this stage of life. That gap isn't a minor editorial flaw. It's how people get hurt and quit.

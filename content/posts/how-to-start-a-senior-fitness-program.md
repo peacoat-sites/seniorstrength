@@ -21,8 +21,8 @@ faqs:
    a: "The 'talk test' is a practical and reliable guide: if you can speak in full sentences during aerobic exercise, you're in a reasonable intensity zone. For strength work, if you can't complete the last two reps of a set with reasonable control and form, the weight or resistance is too high. Pain that persists more than 48 hours after a session, sharp pain during exercise, or chest tightness or unusual shortness of breath are all signals to stop and check in with your doctor."
 author: "Helen Santos"
 author_slug: "helen-santos"
-author_title: "Group Fitness Instructor"
-author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+author_title: "Group and Home Workouts"
+author_bio: "Helen Santos is the byline used at Senior Strength for articles on group and at-home workouts for adults over 60, including for people coming back after years away from exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people start their senior fitness program the exact same wrong way. They do too much, too fast, get hurt or exhausted by week two, and then quietly decide that exercise "just isn't for them anymore." This pattern is common, and the fitness industry deserves much of the blame for it.

@@ -14,10 +14,10 @@ faqs:
    a: "Yes, this is very common and has a biological explanation. As we age, our metabolism naturally slows down, and hormonal changes, particularly in estrogen and testosterone, cause fat to redistribute, especially around the abdomen. Muscle loss also means your body burns fewer calories at rest. Small, gradual changes in diet and regular physical activity can help manage this shift."
  - q: "Should seniors try to lose weight if their BMI is in the “overweight” range?"
    a: "Not necessarily, and certainly not without medical guidance. For seniors with a BMI between 25 and 30, the focus is usually better placed on improving fitness, strength, and nutrition quality rather than on weight loss for its own sake. Aggressive weight loss in older adults can cause muscle and bone loss that does more harm than good. If your doctor recommends weight loss, ask for a referral to a registered dietitian who specializes in senior nutrition."
-author: "Dr. Patricia Williams"
-author_slug: "dr-patricia-williams"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+author: "Patricia Williams"
+author_slug: "patricia-williams"
+author_title: "Exercise Safety"
+author_bio: "Patricia Williams is the byline used at Senior Strength for articles on exercise safety for older adults and starting or progressing a program around common health conditions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You step on the scale and the number stares back at you. But what does it actually mean at 65, 70, or 75 years old? Most seniors find themselves confused by **healthy weight seniors BMI** charts that were built with younger adults in mind. The real answer is that understanding your ideal weight after 65 requires more nuance than a single number on a chart.

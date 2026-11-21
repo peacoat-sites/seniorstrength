@@ -14,10 +14,10 @@ faqs:
    a: "Yes, in fact, proper walking shoes are especially important for seniors with diabetes. Diabetes can reduce circulation and sensation in the feet, making blisters and pressure points particularly dangerous. Look for shoes labeled “diabetic-friendly” or “therapeutic,” with seamless interiors, deep toe boxes, and accommodating widths. Brands like Propét and New Balance offer Medicare-approved diabetic footwear options."
  - q: "How often should seniors replace their walking shoes?"
    a: "Most podiatrists recommend replacing walking shoes every 300 to 500 miles, or roughly every six to twelve months for regular daily walkers. Even if the outside of the shoe looks fine, the cushioning and support structures inside break down over time. Worn-out shoes can contribute to joint pain, balance problems, and an increased risk of falls, so don’t hold on to them too long."
-author: "Dr. Patricia Williams"
-author_slug: "dr-patricia-williams"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+author: "Patricia Williams"
+author_slug: "patricia-williams"
+author_title: "Exercise Safety"
+author_bio: "Patricia Williams is the byline used at Senior Strength for articles on exercise safety for older adults and starting or progressing a program around common health conditions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 If you've ever squeezed your feet into shoes that felt like a vice grip by midday, you know the feeling. Millions of seniors struggle to find comfortable footwear that actually fits, and if you've got wider feet, the search gets ten times worse. Finding the **best walking shoes for seniors with wide feet** shouldn't require a PhD in shoe engineering. This guide cuts through the noise so you can walk comfortably, safely, and with actual confidence every single day.

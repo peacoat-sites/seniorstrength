@@ -19,10 +19,10 @@ faqs:
    a: "Yes, and it's underrated. Brisk walking, where you can hold a conversation but not sing comfortably, improves cardiovascular fitness, reduces blood pressure, supports bone density, and contributes meaningfully to functional independence. It doesn't replace resistance training for building muscle, and it doesn't replace balance work for fall prevention. But as a daily aerobic habit, walking is safe, accessible, requires no equipment, and has an excellent evidence base. The goal is brisk, not leisurely."
  - q: "How long should each workout be?"
    a: "Long enough to be effective, short enough to be repeatable. For resistance training, 30 to 45 minutes is sufficient for a well-structured full-body session. For aerobic exercise, 20 to 30 minutes of sustained moderate effort accomplishes the goal. Balance and flexibility work can be done in 5 to 15 minute segments. One of the biggest mistakes I see is people doing marathon 90-minute sessions twice a week instead of consistent 30-minute sessions five or six times a week. Shorter sessions you actually do beat perfect sessions you skip."
-author: "Dr. Patricia Williams"
-author_slug: "dr-patricia-williams"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+author: "Patricia Williams"
+author_slug: "patricia-williams"
+author_title: "Exercise Safety"
+author_bio: "Patricia Williams is the byline used at Senior Strength for articles on exercise safety for older adults and starting or progressing a program around common health conditions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most fitness advice aimed at seniors treats "exercise frequency" like a scheduling problem. Pick three days a week, check the box, done. But frequency isn't the real question. The real question is: how much stress can your body absorb, recover from, and adapt to, given where you are *right now*? Those are very different conversations, and conflating them is exactly how people end up either spinning their wheels or getting hurt.

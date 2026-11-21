@@ -16,8 +16,8 @@ faqs:
     a: "With proper care, a good quality resistance band typically lasts 1 to 2 years of regular use. Fabric bands tend to outlast latex bands. To extend their life, store them away from direct sunlight, avoid stretching them beyond three times their resting length, and wipe them clean after use. Always inspect your bands before each session. If you notice any small cuts, discoloration, or sticky spots on latex bands, replace them immediately to prevent snapping during exercise. Resistance bands are one of the most senior-friendly fitness tools ever designed. Whether you’re rebuilding strength after a"
 author: "James Cooper"
 author_slug: "james-cooper"
-author_title: "Certified Trainer"
-author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+author_title: "Strength Training"
+author_bio: "James Cooper is the byline used at Senior Strength for articles on strength training for older adults: exercise choice, progression and recovery. It is a pen name, not a certified personal trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your doctor says you need to build strength. Your joints say the gym is out of the question. Millions of seniors face this exact frustration every year, and it's a real one. The good news? **The best resistance bands for seniors** offer a safe, affordable, and genuinely effective way to build muscle, improve balance, and stay active from your living room.

@@ -16,8 +16,8 @@ faqs:
     a: "If you experience increased pain during or after exercising, stop and rest. Mild muscle soreness is normal when starting a new routine, but sharp, shooting, or swelling pain is a sign to see your doctor. It’s also possible that certain exercises need to be modified for your individual condition, a physical therapist or podiatrist can create a personalized plan that works safely for you. Your feet are the foundation of your independence and mobility, and it’s never too late to start caring for them better. With just a few minutes of foot pain relief exercises for seniors each day, you can walk"
 author: "James Cooper"
 author_slug: "james-cooper"
-author_title: "Certified Trainer"
-author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+author_title: "Strength Training"
+author_bio: "James Cooper is the byline used at Senior Strength for articles on strength training for older adults: exercise choice, progression and recovery. It is a pen name, not a certified personal trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 If you've ever hobbled out of bed in the morning and winced the moment your feet hit the floor, you're far from alone. Millions of seniors deal with daily foot discomfort that makes every step feel like a chore. The good news is that **foot pain relief exercises for seniors** can make a real, lasting difference, no expensive treatments or complicated equipment required.

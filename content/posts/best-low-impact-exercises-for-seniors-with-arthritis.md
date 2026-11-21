@@ -16,8 +16,8 @@ faqs:
    a: "Start small and build gradually. Even five minutes of gentle walking or seated stretching is a legitimate starting point. From there, add a few minutes each week as your body adapts. Consider joining a senior fitness class at your local community center, where an instructor can guide you and you will have the added benefit of social connection."
 author: "Helen Santos"
 author_slug: "helen-santos"
-author_title: "Group Fitness Instructor"
-author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+author_title: "Group and Home Workouts"
+author_bio: "Helen Santos is the byline used at Senior Strength for articles on group and at-home workouts for adults over 60, including for people coming back after years away from exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You wake up in the morning, and before you even get out of bed, your knees and fingers remind you that arthritis is part of your daily life. Maybe you used to love walking in the park or dancing with friends, but now the thought of exercise feels more daunting than exciting. You're not alone. Here's the good news: **low impact exercises for seniors with arthritis** can actually reduce your pain, improve your flexibility, and help you get back to doing the things you love.

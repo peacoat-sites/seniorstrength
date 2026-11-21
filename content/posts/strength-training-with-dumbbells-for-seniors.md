@@ -21,8 +21,8 @@ faqs:
    a: "Strength improvements typically appear within four to six weeks, often before visible muscle changes. The early gains are largely neurological (your nervous system gets more efficient at recruiting muscle fibers) rather than structural. Visible changes in muscle size take longer, usually three to four months of consistent training. Functional benefits, like climbing stairs more easily or feeling steadier on your feet, often show up in the six to eight week range."
 author: "Helen Santos"
 author_slug: "helen-santos"
-author_title: "Group Fitness Instructor"
-author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+author_title: "Group and Home Workouts"
+author_bio: "Helen Santos is the byline used at Senior Strength for articles on group and at-home workouts for adults over 60, including for people coming back after years away from exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most fitness content aimed at seniors is either patronizing or reckless. It's either "gentle chair exercises for beginners!" with stock photos of smiling people holding two-pound weights, or it's generic bodybuilding advice with zero acknowledgment that a 68-year-old recovering from a hip replacement isn't the same as a 30-year-old starting a bulk. The truth sits in the middle, and it's more interesting than either extreme.

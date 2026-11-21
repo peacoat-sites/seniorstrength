@@ -16,8 +16,8 @@ faqs:
    a: "Yes, and the evidence is strong. A major review published in the British Journal of Sports Medicine found that balance and functional exercises reduced fall rates in older adults by approximately 24 percent. The key is consistency, doing the exercises regularly over several weeks is what produces lasting improvement in both strength and coordination. Photo by Age Cymru on Unsplash"
 author: "James Cooper"
 author_slug: "james-cooper"
-author_title: "Certified Trainer"
-author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+author_title: "Strength Training"
+author_bio: "James Cooper is the byline used at Senior Strength for articles on strength training for older adults: exercise choice, progression and recovery. It is a pen name, not a certified personal trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Have you ever reached for something on a high shelf and felt that wobble, that split-second panic where your hand shoots out for something solid? Millions of seniors live with this every single day. The good news: simple **standing balance exercises seniors** can do at home, using nothing but a sturdy chair, actually work. Better balance means more confidence, more independence, fewer falls.

@@ -19,10 +19,10 @@ faqs:
    a: "Most people notice improved energy and daily movement quality within 3 to 4 weeks. Measurable strength gains typically begin around 6 to 8 weeks. Visible muscle changes take longer, often 3 to 6 months. The less conditioned you are starting out, the faster the initial progress tends to be."
  - q: "Should a 70-year-old man do cardio or strength training first?"
    a: "If you're doing both in the same session, do strength first. Cardiovascular fatigue will compromise your form and effort on resistance exercises. If they're on separate days, the order is less important. Most men this age do better keeping cardio and strength sessions separate when possible."
-author: "Dr. Patricia Williams"
-author_slug: "dr-patricia-williams"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+author: "Patricia Williams"
+author_slug: "patricia-williams"
+author_title: "Exercise Safety"
+author_bio: "Patricia Williams is the byline used at Senior Strength for articles on exercise safety for older adults and starting or progressing a program around common health conditions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most men I work with who are 70 don't think of themselves as "seniors." They think of themselves as guys who used to run 5Ks, or who built a deck with their own hands twenty years ago, or who want to keep up with grandkids who are now somehow in high school. That gap between who they feel they are and what their body will currently let them do, that's usually what brings them to my office.

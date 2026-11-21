@@ -21,8 +21,8 @@ faqs:
    a: "Almost certainly yes, though the specific amounts depend on your blood levels and dietary intake. Exercise stimulates bone formation, but the raw materials still have to be there. Most guidelines suggest 1200mg of calcium daily for women over 50 (from food and supplements combined) and vitamin D3 in the range of 800 to 2000 IU daily, but get your 25-OH vitamin D level checked before assuming you need a high dose."
 author: "James Cooper"
 author_slug: "james-cooper"
-author_title: "Certified Trainer"
-author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+author_title: "Strength Training"
+author_bio: "James Cooper is the byline used at Senior Strength for articles on strength training for older adults: exercise choice, progression and recovery. It is a pen name, not a certified personal trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most advice about osteoporosis exercise is dangerously incomplete. Not wrong, exactly, but incomplete in ways that can lead you straight into a fracture rather than away from one.

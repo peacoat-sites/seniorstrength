@@ -14,10 +14,10 @@ faqs:
    a: "For seniors, doing a few gentle stretches before a walk, especially calf and hip stretches, can help prepare your joints for movement and reduce injury risk. A more thorough stretch session is also beneficial after your walk, when your muscles are warm and more pliable. Both approaches have real benefits."
  - q: "What if I can’t stand up safely without help?"
    a: "That’s perfectly okay, nearly every stretch in this routine can be modified to be done entirely from a chair or even from the edge of your bed. Seated stretching is just as effective for improving flexibility and reducing stiffness. Focus on what you can do comfortably, and don’t hesitate to ask a physical therapist for a personalized adaptation."
-author: "Dr. Patricia Williams"
-author_slug: "dr-patricia-williams"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+author: "Patricia Williams"
+author_slug: "patricia-williams"
+author_title: "Exercise Safety"
+author_bio: "Patricia Williams is the byline used at Senior Strength for articles on exercise safety for older adults and starting or progressing a program around common health conditions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You wake up and immediately feel it: stiffness in your back, your hips, maybe your knees. For anyone over 70, those first few minutes out of bed can feel like a real struggle. The good news is simple. A 10-minute routine of morning stretches can transform how you feel all day long. No gym, no equipment, no prior experience needed.

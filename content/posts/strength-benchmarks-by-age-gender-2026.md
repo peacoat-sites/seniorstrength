@@ -2,9 +2,9 @@
 title: "Strength Benchmarks by Age & Gender (2026): How You Compare"
 image: "/img/heroes/6922184.jpg"
 description: "CDC/ACSM strength standards by age and gender. Bench press, squat, deadlift benchmarks. Track your progress vs. population averages."
-author: "Dr. Patricia Williams"
-author_slug: "dr-patricia-williams"
-author_title: "Medical Reviewer"
+author: "Patricia Williams"
+author_slug: "patricia-williams"
+author_title: "Exercise Safety"
 date: 2026-06-28
 featured_depth: true
 faqs:
@@ -21,6 +21,7 @@ faqs:
 categories: ["lifestyle"]
 keywords: ["strength benchmarks by age", "how much should I be able to lift", "squat deadlift bench press standards"]
 lastmod: 2026-07-09
+author_bio: "Patricia Williams is the byline used at Senior Strength for articles on exercise safety for older adults and starting or progressing a program around common health conditions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 ---
 
 Most people have no idea if they're strong.

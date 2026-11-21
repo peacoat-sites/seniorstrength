@@ -10,8 +10,8 @@ slug: "exercises-to-avoid-with-osteoporosis"
 affiliate_disclosure: true
 author: "James Cooper"
 author_slug: "james-cooper"
-author_title: "Certified Trainer"
-author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+author_title: "Strength Training"
+author_bio: "James Cooper is the byline used at Senior Strength for articles on strength training for older adults: exercise choice, progression and recovery. It is a pen name, not a certified personal trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Three years ago, a woman I'll call Margaret walked into a physical therapy clinic where I was consulting, carrying a printout from a popular fitness website. She'd been doing sit-ups every morning to "strengthen her core" after her doctor told her she had osteoporosis. She was proud of her consistency. Four months of it.

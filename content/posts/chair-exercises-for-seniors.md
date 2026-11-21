@@ -19,10 +19,10 @@ faqs:
    a: "Stop, rest, and assess. Mild breathlessness during active exercise is normal. Breathlessness that persists at rest, chest tightness, dizziness, or unusual pain are not. Those are signals to stop entirely and contact a healthcare provider. For general fatigue mid-routine, rest as long as you need between exercises. There's no rule that says rest periods must be short. Quality of movement matters far more than the clock."
  - q: "How do I know when I'm ready to progress to standing exercises?"
    a: "A reliable signal: when you can complete 3 sets of 12 sit-to-stands with arms crossed over your chest, controlling the lowering phase on each rep, you have the lower body strength and control for most basic standing exercises. Balance is a separate variable. If your chair-supported balance holds are solid at 30 seconds per leg, you're likely ready to try standing movements with support nearby. Moving between the two isn't a one-or-the-other choice. Most people benefit from continuing some chair work even as they add standing exercises."
-author: "Dr. Patricia Williams"
-author_slug: "dr-patricia-williams"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+author: "Patricia Williams"
+author_slug: "patricia-williams"
+author_title: "Exercise Safety"
+author_bio: "Patricia Williams is the byline used at Senior Strength for articles on exercise safety for older adults and starting or progressing a program around common health conditions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most fitness advice for older adults treats a chair like a consolation prize, something you resort to when you can't hack it standing up. That's completely backwards. A chair is a tool, and when you use it right, it becomes one of the most effective pieces of equipment for building the strength, balance, and mobility that actually keep you independent and on your feet.

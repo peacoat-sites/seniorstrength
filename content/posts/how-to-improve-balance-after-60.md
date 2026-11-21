@@ -10,8 +10,8 @@ slug: "how-to-improve-balance-after-60"
 affiliate_disclosure: true
 author: "James Cooper"
 author_slug: "james-cooper"
-author_title: "Certified Trainer"
-author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+author_title: "Strength Training"
+author_bio: "James Cooper is the byline used at Senior Strength for articles on strength training for older adults: exercise choice, progression and recovery. It is a pen name, not a certified personal trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Three falls. That's what it took before Patricia finally agreed to come see me. She was 67, fiercely independent, and absolutely certain her two previous stumbles on the back porch steps were just bad luck. The third one sent her to the ER with a bruised hip and a badly shaken confidence. By the time she sat down across from me, she wasn't asking about strength or cardio anymore. She just wanted to feel safe in her own house again.

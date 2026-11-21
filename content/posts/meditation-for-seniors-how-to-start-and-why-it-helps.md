@@ -16,8 +16,8 @@ faqs:
    a: "Guided meditation is widely considered the most beginner-friendly option for older adults. Having a calm voice lead you through the session removes guesswork and helps quiet a busy mind. Apps like Insight Timer offer free guided sessions specifically designed for older beginners, ranging from 5 to 15 minutes. Body scan meditations and breath-awareness sessions are also excellent starting points."
 author: "Helen Santos"
 author_slug: "helen-santos"
-author_title: "Group Fitness Instructor"
-author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+author_title: "Group and Home Workouts"
+author_bio: "Helen Santos is the byline used at Senior Strength for articles on group and at-home workouts for adults over 60, including for people coming back after years away from exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 ## When Your Mind Won't Quiet Down

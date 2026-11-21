@@ -17,8 +17,8 @@ faqs:
     a: "No prior racket experience is needed whatsoever. Many of today’s most enthusiastic senior pickleball players never played tennis, badminton, or any similar sport in their lives. The paddle is light, the court is small, and the rules are simple enough to learn in under 15 minutes. Beginner clinics are designed specifically for people starting from absolute zero, and the welcoming culture of the pickleball community means you’ll find patient, encouraging playing partners at any open-play session."
 author: "James Cooper"
 author_slug: "james-cooper"
-author_title: "Certified Trainer"
-author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+author_title: "Strength Training"
+author_bio: "James Cooper is the byline used at Senior Strength for articles on strength training for older adults: exercise choice, progression and recovery. It is a pen name, not a certified personal trainer; how articles are researched and checked is explained in our editorial standards."
 
 ---
 Finding an exercise routine that's genuinely fun, social, and easy on aging joints can feel almost impossible. Many seniors start walking programs that quickly become boring, or try gym workouts that leave their knees aching. If that sounds familiar, pickleball might just be your answer. This fast-growing sport is sweeping retirement communities, recreation centers, and parks across the country, and for very good reason.

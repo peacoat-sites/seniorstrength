@@ -21,8 +21,8 @@ faqs:
    a: "Neural adaptations happen within 3-4 weeks: you'll feel more coordinated and capable even before muscle size changes. Meaningful strength gains are usually noticeable by 8-12 weeks with consistent training. The research on older adults is actually encouraging here; the relative strength gains from a good program are comparable to what younger adults achieve, even if the absolute numbers differ."
 author: "James Cooper"
 author_slug: "james-cooper"
-author_title: "Certified Trainer"
-author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+author_title: "Strength Training"
+author_bio: "James Cooper is the byline used at Senior Strength for articles on strength training for older adults: exercise choice, progression and recovery. It is a pen name, not a certified personal trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most upper body exercise advice for older adults is, bluntly, watered-down nonsense. "Try some arm circles!" Cool. That'll really help you lift a carry-on into the overhead bin or push yourself up off the floor after a fall. The exercises that actually build functional strength get skipped because trainers are either overcautious or they're defaulting to the same dusty chair routine they've used since 1987.

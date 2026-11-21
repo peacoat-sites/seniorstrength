@@ -16,8 +16,8 @@ faqs:
    a: "Yes, absolutely. Research consistently shows that proper seating posture and lumbar support can significantly reduce both the frequency and severity of lower back pain. Many seniors experience noticeable improvement within just a few weeks of switching to a properly supportive chair. Of course, a chair works best as part of a broader approach that includes gentle movement, stretching, and guidance from your doctor or physical therapist."
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Senior Nutrition Specialist"
-author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
+author_title: "Senior Nutrition"
+author_bio: "Robert Davis is the byline used at Senior Strength for articles on protein, nutrition and eating habits that help older adults keep muscle. It is a pen name, not a dietitian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 If you're shifting uncomfortably after a few minutes of sitting, you're not alone. Millions of seniors deal with chronic back pain every day, and the wrong chair can amplify it dramatically. Finding the **best chair for seniors with back pain** can genuinely transform your daily comfort, posture, and even mood.

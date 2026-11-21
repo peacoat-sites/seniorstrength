@@ -19,10 +19,10 @@ faqs:
    a: "You might, over time, particularly if you're consistent and paying attention to nutrition. But weight loss is a slow process and the scale is a poor measure of what's actually happening in your body. Increased stamina, better sleep, and easier movement in daily life tend to show up sooner and matter more."
  - q: "What if I get winded really quickly at first?"
    a: "That's normal, and it's useful information. Start with shorter intervals, even two to three minutes of movement followed by a minute of gentle marching, and work up gradually. Getting winded quickly early in a program doesn't mean something is wrong. It often means the program is working exactly as it should."
-author: "Dr. Patricia Williams"
-author_slug: "dr-patricia-williams"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+author: "Patricia Williams"
+author_slug: "patricia-williams"
+author_title: "Exercise Safety"
+author_bio: "Patricia Williams is the byline used at Senior Strength for articles on exercise safety for older adults and starting or progressing a program around common health conditions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people assume that once you're sitting down, you're not really working out. That assumption has kept a lot of older adults from making real progress with their cardiovascular health. I see it constantly: someone comes in after a fall, or a knee replacement, or a long stretch of being sedentary, and they've been told to "stay active" without anyone actually showing them how. Seated cardio is how we bridge that gap. And done right, it's more effective than most people expect.

@@ -21,8 +21,8 @@ faqs:
    a: "Starting from zero actually has some advantages: you have a lot of room to improve, and your body will respond to even modest training stimuli with noticeable gains. What changes is the starting point, not the destination. Work with a trainer who has specific experience with older adults, start at a lower intensity than you think you need, and be patient with the early weeks. The fundamentals of progressive overload and adequate protein still apply completely."
 author: "Helen Santos"
 author_slug: "helen-santos"
-author_title: "Group Fitness Instructor"
-author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+author_title: "Group and Home Workouts"
+author_bio: "Helen Santos is the byline used at Senior Strength for articles on group and at-home workouts for adults over 60, including for people coming back after years away from exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're at the gym, or maybe just standing in your living room with a pair of light dumbbells, and someone's told you that building muscle after 65 is basically impossible. That your body is too far gone. I've heard that from so many clients when they first walk through my door. And I'll be direct: it's wrong. Provably, scientifically wrong. What *is* true is that muscle building after 65 looks different, requires smarter strategy, and punishes the mistakes that younger people can get away with. Get those things right, and your body will respond in ways that genuinely surprise you.

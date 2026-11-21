@@ -21,8 +21,8 @@ faqs:
    a: "Start where you are, not where you were. Previous fitness is a real asset, your body has a 'muscle memory' effect that can speed adaptation, but jumping back to your former level of activity after years of reduced movement is a reliable path to injury. Begin at about 40 to 50 percent of what you think you can handle, let your joints and tendons catch up with your motivation for the first three to four weeks, and then build progressively. Your history of fitness is an advantage; just don't let it talk you into skipping the ramp-up phase."
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Senior Nutrition Specialist"
-author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
+author_title: "Senior Nutrition"
+author_bio: "Robert Davis is the byline used at Senior Strength for articles on protein, nutrition and eating habits that help older adults keep muscle. It is a pen name, not a dietitian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Maybe you've just had a check-up where your doctor said something like "you really should be more active," and you nodded along, but walked out of the office still not knowing what that actually means for your life. Or maybe you've been exercising for years and you're wondering if what you're doing is enough, or possibly too much. Either way, you're looking for a real answer, not a pamphlet with stick figures on it.

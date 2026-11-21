@@ -16,8 +16,8 @@ faqs:
     a: "No special equipment is required. A standard armless dining chair works perfectly. The most important things are that the chair is stable, doesn’t wobble, and allows you to sit with your feet flat on the floor. Avoid chairs with wheels or very soft cushions that might shift during movement. If your feet don’t quite reach the floor, place a folded blanket or a firm pillow under them for support."
 author: "Linda Chen"
 author_slug: "linda-chen"
-author_title: "Physical Therapist"
-author_bio: "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
+author_title: "Balance and Mobility"
+author_bio: "Linda Chen is the byline used at Senior Strength for articles on balance, mobility and fall prevention. It is a pen name, not a physical therapist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You want to stay active and flexible, but getting down on a yoga mat and back up again just isn't as easy as it used to be. Maybe your knees ache, your balance isn't what it was, or you simply worry about falling. The good news? You don't need a mat, special clothing, or perfect balance to enjoy the benefits of yoga. **Seated yoga for seniors** lets you experience all the stretching, breathing, and calming benefits of traditional yoga from the comfort and safety of a sturdy chair.

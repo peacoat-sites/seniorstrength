@@ -16,8 +16,8 @@ faqs:
     a: "There are a few common morning habits that can undermine a senior’s health and energy. Try to avoid checking stressful news or social media immediately upon waking, as this can spike anxiety and set a negative tone for the day. Also avoid skipping breakfast, rushing out of bed too quickly without allowing your body to adjust, and consuming too much caffeine early, especially if you have high blood pressure or heart rhythm concerns. Starting your morning slowly, gently, and with kindness toward your body makes a tremendous difference in how you feel by midday and beyond."
 author: "James Cooper"
 author_slug: "james-cooper"
-author_title: "Certified Trainer"
-author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+author_title: "Strength Training"
+author_bio: "James Cooper is the byline used at Senior Strength for articles on strength training for older adults: exercise choice, progression and recovery. It is a pen name, not a certified personal trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Do you wake up stiff, groggy, unsure how to start the day with any real energy? You're not alone. Millions of people over 65 struggle with sluggish mornings, and it bleeds into everything else, mood, mobility, the whole day tanks. The good news: a simple, consistent **morning routine for seniors** actually works. Small, deliberate habits practiced day after day can shift how you feel, how you move, how you think.

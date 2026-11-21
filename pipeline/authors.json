@@ -1,37 +1,37 @@
 [
   {
-    "slug": "dr-patricia-williams",
-    "name": "Dr. Patricia Williams",
-    "title": "Medical Reviewer",
-    "specialty": "Sports Medicine & Senior Fitness Safety",
-    "bio": "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
-  },
-  {
-    "slug": "james-cooper",
-    "name": "James Cooper",
-    "title": "Certified Trainer",
-    "specialty": "Senior Fitness Programming & Strength Training",
-    "bio": "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
-  },
-  {
-    "slug": "linda-chen",
-    "name": "Linda Chen",
-    "title": "Physical Therapist",
-    "specialty": "Fall Prevention, Balance & Mobility",
-    "bio": "Linda Chen is a licensed physical therapist with a specialty in geriatric rehabilitation and fall prevention. She has worked with patients recovering from hip fractures, strokes, and joint replacements, and has a deep understanding of how strength and balance work together in an aging body. At Senior Strength Guide, she covers fall prevention, balance training, and exercises for specific physical limitations."
-  },
-  {
-    "slug": "robert-davis",
-    "name": "Robert Davis",
-    "title": "Senior Nutrition Specialist",
-    "specialty": "Senior Nutrition & Muscle Maintenance",
-    "bio": "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
+    "slug": "patricia-williams",
+    "name": "Patricia Williams",
+    "title": "Exercise Safety",
+    "specialty": "Exercise Safety",
+    "bio": "Patricia Williams is the byline used at Senior Strength for articles on exercise safety for older adults and starting or progressing a program around common health conditions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "helen-santos",
     "name": "Helen Santos",
-    "title": "Group Fitness Instructor",
-    "specialty": "Senior Group Exercise & Community Fitness",
-    "bio": "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+    "title": "Group and Home Workouts",
+    "specialty": "Group and Home Workouts",
+    "bio": "Helen Santos is the byline used at Senior Strength for articles on group and at-home workouts for adults over 60, including for people coming back after years away from exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+  },
+  {
+    "slug": "james-cooper",
+    "name": "James Cooper",
+    "title": "Strength Training",
+    "specialty": "Strength Training",
+    "bio": "James Cooper is the byline used at Senior Strength for articles on strength training for older adults: exercise choice, progression and recovery. It is a pen name, not a certified personal trainer; how articles are researched and checked is explained in our editorial standards."
+  },
+  {
+    "slug": "linda-chen",
+    "name": "Linda Chen",
+    "title": "Balance and Mobility",
+    "specialty": "Balance and Mobility",
+    "bio": "Linda Chen is the byline used at Senior Strength for articles on balance, mobility and fall prevention. It is a pen name, not a physical therapist; how articles are researched and checked is explained in our editorial standards."
+  },
+  {
+    "slug": "robert-davis",
+    "name": "Robert Davis",
+    "title": "Senior Nutrition",
+    "specialty": "Senior Nutrition",
+    "bio": "Robert Davis is the byline used at Senior Strength for articles on protein, nutrition and eating habits that help older adults keep muscle. It is a pen name, not a dietitian; how articles are researched and checked is explained in our editorial standards."
   }
 ]

@@ -21,8 +21,8 @@ faqs:
    a: "Most people notice meaningful changes in 4 to 8 weeks with consistent effort. Balance often improves faster than strength. The first thing many people report isn't something dramatic: it's that they reached for the railing and then didn't bother, because they didn't need it."
 author: "Helen Santos"
 author_slug: "helen-santos"
-author_title: "Group Fitness Instructor"
-author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+author_title: "Group and Home Workouts"
+author_bio: "Helen Santos is the byline used at Senior Strength for articles on group and at-home workouts for adults over 60, including for people coming back after years away from exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people don't realize they're losing independence long before a fall happens. It happens quietly: gripping a railing tighter than you used to, skipping stairs when you can take the elevator, hesitating before standing up from a low chair. If any of that sounds familiar, you're not alone, and you're not too late.

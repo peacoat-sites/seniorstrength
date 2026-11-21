@@ -16,8 +16,8 @@ faqs:
    a: "Balance absolutely can improve with exercise at any age, including in people in their 80s and 90s. Clinical studies have shown that consistent balance and strength training can reduce fall risk by 20 to 40 percent in older adults. The key is starting gently, being consistent, and choosing exercises appropriate for your current fitness level. Remember, every small step you take toward better balance is an investment in your independence, your confidence, and your quality of life. You deserve to move through the world feeling safe and strong, and with the right knowledge and habits, that is comp"
 author: "James Cooper"
 author_slug: "james-cooper"
-author_title: "Certified Trainer"
-author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+author_title: "Strength Training"
+author_bio: "James Cooper is the byline used at Senior Strength for articles on strength training for older adults: exercise choice, progression and recovery. It is a pen name, not a certified personal trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 ## When Simple Tasks Start Feeling Risky

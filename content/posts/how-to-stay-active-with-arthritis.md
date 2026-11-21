@@ -21,8 +21,8 @@ faqs:
    a: "Yes, for weight-bearing joints like hips and knees, the evidence is genuinely compelling. Every pound of body weight translates to roughly four pounds of force on the knee joint during walking. Even modest weight loss, in the 10-15 pound range, can produce noticeable reductions in knee pain. That said, the relationship between weight and arthritis is complex and weight loss alone isn't a fix, especially for inflammatory types like RA. Your rheumatologist or primary care doctor is the right person to talk with about this specifically."
 author: "James Cooper"
 author_slug: "james-cooper"
-author_title: "Certified Trainer"
-author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+author_title: "Strength Training"
+author_bio: "James Cooper is the byline used at Senior Strength for articles on strength training for older adults: exercise choice, progression and recovery. It is a pen name, not a certified personal trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Sixty-three percent of adults over 65 with arthritis cut back on physical activity because of pain. Cutting back on activity usually makes things worse, and the long-term cost goes beyond the pain itself.

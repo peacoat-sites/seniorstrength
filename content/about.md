@@ -1,42 +1,38 @@
 ---
-title: "About Dr. Patricia Williams"
+title: "About Senior Strength"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "Learn about Dr. Patricia Williams, the Senior Wellness Editor behind seniorstrength.today."
+description: "What Senior Strength covers, who writes it and how articles are produced."
 layout: "about-page"
-author_slug: "dr-patricia-williams"
-author_name: "Dr. Patricia Williams"
-person_name: "Dr. Patricia Williams"
 ---
 
-# About Dr. Patricia Williams
+## About Senior Strength
 
-I've spent years reading the research on exercise science and healthy aging, not as a passive consumer, but as someone who has watched family members navigate the physical challenges that come with getting older, and who has become deeply invested in understanding what the science actually says versus what gets recycled in mainstream wellness content.
+Senior Strength covers strength, balance and mobility training for adults over 60, along with the nutrition that helps keep muscle with age.
 
-I'm a fitness writer who focuses on adults over 60. My background is in research and communication, not physical therapy or medicine, which means I read widely, source carefully, and write for people who want real information, not vague motivational content. I started Senior Strength Today because I kept finding that senior fitness content fell into two camps: overly cautious to the point of being useless, or reckless about what adults with existing conditions can safely do. Neither serves the people I write for.
+## Who writes here
 
-My goal is to be the writer who explains the evidence clearly, acknowledges the nuances, and respects your ability to make informed decisions with the help of your own healthcare provider.
+Articles are published under pen names, each covering one part of the site:
 
-## Why I Started Senior Strength Today
+- **[Patricia Williams](/patricia-williams/)**: exercise safety for older adults and starting or progressing a program around common health conditions
+- **[Helen Santos](/helen-santos/)**: group and at-home workouts for adults over 60, including for people coming back after years away from exercise
+- **[James Cooper](/james-cooper/)**: strength training for older adults: exercise choice, progression and recovery
+- **[Linda Chen](/linda-chen/)**: balance, mobility and fall prevention
+- **[Robert Davis](/robert-davis/)**: protein, nutrition and eating habits that help older adults keep muscle
 
-The catalyst was straightforward: a family member was told after a hospital stay that they needed to "stay active" with no further guidance. What does that mean when you're 72, have mild osteoporosis, and haven't exercised regularly in a decade? The internet offered little help. Most content was either written for athletes or was so generic it said nothing.
+## How we work
 
-Senior Strength Today exists to fill that gap, with evidence-based, practical content on movement, strength, balance, nutrition, and lifestyle for real people in their 60s, 70s, and beyond.
+Articles are drafted with AI writing tools from public sources and pass an automated accuracy check before they are published. The full process, the sources we rely on and the limits of what this site can tell you are in our [editorial standards](/editorial-standards/).
 
-## What You'll Find Here
+## Important limits
 
-- **Strength training:** Safe, effective exercises for building and maintaining muscle after 60
-- **Balance and fall prevention:** Research-backed techniques and exercises to reduce fall risk
-- **Flexibility and mobility:** Stretching protocols and mobility work appropriate for older adults
-- **Nutrition for aging:** Protein, bone health, hydration, and the nutrients that matter most
-- **Pain management:** Understanding chronic pain, movement as medicine, and when to see a specialist
-- **Lifestyle and longevity:** Sleep, stress, social connection, and their role in healthy aging
+This is general exercise information, not medical advice. Check with your doctor before starting a new program if you have heart disease, high blood pressure that is not under control, diabetes, osteoporosis, a recent fall, surgery or joint replacement, or symptoms such as chest pain or dizziness when you exert yourself. Stop and get medical help right away if you have chest pain, severe shortness of breath or sudden dizziness during exercise.
 
-## A Note on Our Content
+## Affiliate disclosure
 
-Every article on this site is grounded in peer-reviewed research, guidance from organizations like the American College of Sports Medicine and National Institute on Aging, and my years of studying this field. I link to primary sources wherever possible and update articles when new research changes the picture. Nothing here is a substitute for your physician's advice, please always consult your doctor before starting a new exercise program, especially if you have existing health conditions.
+Some links on this site are affiliate links, including Amazon links. If you buy through them we may earn a commission at no extra cost to you.
 
-## Get in Touch
+## Contact
 
-Have a question about a topic, a correction to share, or a subject you'd like me to cover? I'd love to hear from you. Visit the [contact page](/contact/) to reach me directly.
+Questions, corrections or topic requests: use the [contact page](/contact/).

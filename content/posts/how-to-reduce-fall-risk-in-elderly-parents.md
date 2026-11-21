@@ -14,10 +14,10 @@ faqs:
     a: "Most experts recommend balance and strength training at least three times per week for meaningful improvement. Even short sessions of 15-20 minutes are beneficial when done consistently. Programs like tai chi or community-based fall prevention classes such as Stepping On or Otago are well-researched and designed specifically for older adults. Many are available through senior centers, YMCAs, or even online."
   - q: "When should I be concerned about my parent’s fall risk?"
     a: "If your parent has already fallen once in the past year, that is a significant warning sign, people who fall once are two to three times more likely to fall again. Other red flags include frequent near-misses, reluctance to walk without holding onto furniture, complaints of dizziness, or avoiding activities they used to enjoy out of fear. Bring these concerns to their doctor right away. Many healthcare providers use a simple screening tool called the Timed Up and Go (TUG) test to measure fall risk quickly and objectively."
-author: "Dr. Patricia Williams"
-author_slug: "dr-patricia-williams"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+author: "Patricia Williams"
+author_slug: "patricia-williams"
+author_title: "Exercise Safety"
+author_bio: "Patricia Williams is the byline used at Senior Strength for articles on exercise safety for older adults and starting or progressing a program around common health conditions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 If you've watched a parent grip the wall for balance or shuffle carefully across a slippery floor, you already know that quiet fear. Falls are the leading cause of injury among older adults, and **reducing fall risk in elderly parents** is genuinely one of the most important things a family can do. The good news? Most falls are preventable. It takes home changes, the right exercises, and daily habits. That's it.

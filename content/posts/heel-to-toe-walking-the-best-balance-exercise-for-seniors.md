@@ -16,8 +16,8 @@ faqs:
     a: "If you currently use a mobility aid, it is best to consult your doctor or physical therapist before attempting tandem walking independently. They can assess your current balance level and may work with you on modified versions in a supervised setting. In some cases, a therapist may guide you through partial heel-to-toe steps while you use one hand on a support rail, allowing you to gain the benefits safely and progressively."
 author: "James Cooper"
 author_slug: "james-cooper"
-author_title: "Certified Trainer"
-author_bio: "James Cooper is a NASM-certified personal trainer who works exclusively with adults over 60 and has designed hundreds of strength programs tailored to the specific needs and limitations of older clients. He believes firmly that it is never too late to start lifting. At Senior Strength Guide, he covers workout programming, beginner strength training, and progressing safely at any age."
+author_title: "Strength Training"
+author_bio: "James Cooper is the byline used at Senior Strength for articles on strength training for older adults: exercise choice, progression and recovery. It is a pen name, not a certified personal trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Have you ever felt a sudden wobble while walking across the room, or grabbed a countertop just to steady yourself? Millions of seniors deal with balance challenges every single day. The good news: a simple, no-equipment exercise called **heel-to-toe walking** can make a real difference, and you can start practicing it today.

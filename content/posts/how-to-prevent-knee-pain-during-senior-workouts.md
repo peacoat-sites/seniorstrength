@@ -7,10 +7,10 @@ description: "Learn proven techniques to protect your knees during exercise as a
 image: "/img/heroes/12086689.jpg"
 categories: ["Injury Prevention"]
 tags: ["prevent", "knee", "pain", "during", "senior"]
-author: "Dr. Patricia Williams"
-author_slug: "dr-patricia-williams"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Patricia Williams is a sports medicine physician who shifted her clinical focus to older adults after observing how profoundly appropriate exercise could slow functional decline. She reviews all exercise content on Senior Strength Guide for safety and clinical accuracy, adding the medical context that distinguishes helpful from harmful for an aging body."
+author: "Patricia Williams"
+author_slug: "patricia-williams"
+author_title: "Exercise Safety"
+author_bio: "Patricia Williams is the byline used at Senior Strength for articles on exercise safety for older adults and starting or progressing a program around common health conditions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 slug: "how-to-prevent-knee-pain-during-senior-workouts"
 affiliate_disclosure: true
 ---

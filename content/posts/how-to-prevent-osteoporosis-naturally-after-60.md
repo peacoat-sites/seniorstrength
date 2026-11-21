@@ -16,8 +16,8 @@ faqs:
     a: "Walking is genuinely beneficial for bone health because it’s a weight-bearing activity that stresses your leg bones, hips, and spine in a healthy way. However, research suggests that walking alone may not be sufficient to meaningfully increase bone density in older adults who already have some bone loss. For the best results, pair your daily walks with resistance training at least twice a week. Even light resistance work, using bands, light weights, or your own body weight, makes a significant difference when done consistently."
 author: "Helen Santos"
 author_slug: "helen-santos"
-author_title: "Group Fitness Instructor"
-author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+author_title: "Group and Home Workouts"
+author_bio: "Helen Santos is the byline used at Senior Strength for articles on group and at-home workouts for adults over 60, including for people coming back after years away from exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 If you've recently had a bone density scan and heard words like "osteopenia" or "low bone mass," you're not alone. Millions of adults over 60 live with the very real fear of fractures, falls, and losing their independence. The good news? There are proven, practical ways to **prevent osteoporosis naturally after 60**, and it's never too late to start protecting your bones.

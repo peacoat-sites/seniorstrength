@@ -21,8 +21,8 @@ faqs:
    a: "If you have sharp or stabbing knee pain, pain that wakes you from sleep, significant swelling without a known cause, a recent injury or fall, or if you've been doing consistent strengthening work for 8 weeks with no improvement, please see a professional. A physical therapist can assess your movement patterns, identify compensation strategies you might not even be aware of, and tailor a program specifically to your anatomy and limitations. Self-guided programs work well for many people, but there's no shame and plenty of wisdom in getting professional eyes on your situation. The goal here isn'"
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Senior Nutrition Specialist"
-author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
+author_title: "Senior Nutrition"
+author_bio: "Robert Davis is the byline used at Senior Strength for articles on protein, nutrition and eating habits that help older adults keep muscle. It is a pen name, not a dietitian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You wake up in the morning, swing your legs over the side of the bed, and feel that familiar ache in your knees before you've even taken a single step. Maybe you've started avoiding stairs. Maybe a walk around the block that used to feel effortless now requires planning around the soreness you know is coming afterward. If any of this sounds familiar, you're not alone, and you're not stuck. Knee pain and weakness in adults over 60 is one of the most common complaints I hear, but it's also one of the most responsive to the right kind of exercise. The key word there is "right." Not all knee exercises are created equal, and some popular advice that gets passed around can actually make things worse.

@@ -17,8 +17,8 @@ faqs:
    a: "Most people see improvements within 2-3 weeks of consistent sleep habit changes, though full benefits typically appear after 6-8 weeks. Your brain needs time to establish new patterns and associations with better sleep. Be patient and consistent, the changes you make now build better sleep for months and years ahead."
 author: "Robert Davis"
 author_slug: "robert-davis"
-author_title: "Senior Nutrition Specialist"
-author_bio: "Robert Davis focuses on nutrition for older adults, especially the protein and habit changes that preserve muscle and strength with age. He has coached seniors through practical dietary changes that stick. At Senior Strength he covers senior nutrition and muscle maintenance."
+author_title: "Senior Nutrition"
+author_bio: "Robert Davis is the byline used at Senior Strength for articles on protein, nutrition and eating habits that help older adults keep muscle. It is a pen name, not a dietitian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-07
 ---
 ## The Sleep Struggle: Why Nights Get Tougher After 60

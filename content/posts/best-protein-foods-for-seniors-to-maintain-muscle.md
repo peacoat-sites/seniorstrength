@@ -16,8 +16,8 @@ faqs:
    a: "Staying well-hydrated is essential for muscle function, recovery, and overall health. Dehydration can cause muscles to feel weaker, increase cramping risk, and impair the body’s ability to use protein effectively. Seniors are at higher risk for dehydration because the sense of thirst naturally diminishes with age. Aim for at least 6 to 8 cups of fluid daily, and remember that water-rich foods like soups, fruits, and vegetables also contribute to your hydration. Building and maintaining strong muscles after 60 is absolutely possible, and it starts with what’s on your plate. By choosing the righ"
 author: "Helen Santos"
 author_slug: "helen-santos"
-author_title: "Group Fitness Instructor"
-author_bio: "Helen Santos has been teaching fitness classes designed for adults over 60 for more than a decade at community centers, senior facilities, and online. She has a gift for making movement accessible and encouraging for people who have not exercised in years or who are working around chronic conditions. At Senior Strength Guide, she covers group exercise formats, seated workouts, and staying active in a social context."
+author_title: "Group and Home Workouts"
+author_bio: "Helen Santos is the byline used at Senior Strength for articles on group and at-home workouts for adults over 60, including for people coming back after years away from exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-07
 ---
 You've probably felt it: stairs get harder, groceries feel heavier, everyday tasks take more effort. Between 60 and 80, most people experience a real decline in strength. The frustrating part? It doesn't have to be inevitable. Getting enough protein makes a measurable difference in how strong you stay and how long you can live independently.
