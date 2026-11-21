@@ -26,9 +26,9 @@ faqs:
     a: "Yes. Vitamin D toxicity causes hypercalcemia, which can bring symptoms including nausea, weakness, confusion, and kidney problems. Sustained doses above 4,000 IU daily without medical supervision are inadvisable. Get tested, know your number, and dose accordingly."
 ---
 
-Forty percent of adults over 65 who fall will fall again within a year. That number haunts me. I've worked with [older adults](/strength-training-is-now-essential-for-older-adults-on-glp-1-drugs/) for long enough to see what a single fall can set in motion, and yet the conversation about preventing them almost always misses one of the most correctable pieces of the puzzle: vitamin D status. Not exercise alone, not better footwear (though please, yes, ditch the floppy slippers). Vitamin D. Between 35% and 55% of older Americans are deficient in vitamin D, and most people associate it only with bone health.
+Forty percent of adults over 65 who fall will fall again within a year.  Yet the conversation about preventing falls almost always misses one of the most correctable pieces of the puzzle: vitamin D status. Not exercise alone, not better footwear (though please, yes, ditch the floppy slippers). Vitamin D. Between 35% and 55% of older Americans are deficient in vitamin D, and most people associate it only with bone health.
 
-I'll be honest: I didn't take this seriously enough early in my career. I focused almost entirely on movement quality, [balance training](/balance-training-for-fall-prevention-seniors/), progressive resistance work. All of that matters enormously. But what surprised me was how consistently the literature kept pulling vitamin D back into the conversation, specifically around muscle function and neuromuscular control, which are the exact things that determine whether someone catches a stumble or hits the floor.
+Vitamin D is easy to overlook in fall prevention. The focus in fall prevention tends to fall almost entirely on movement quality, [balance training](/balance-training-for-fall-prevention-seniors/), and progressive resistance work. All of that matters enormously. Yet the literature consistently pulls vitamin D back into the conversation, specifically around muscle function and neuromuscular control, which are the exact things that determine whether someone catches a stumble or hits the floor.
 
 What follows is the actual story. Not the reassuring summary version.
 
@@ -38,7 +38,7 @@ What follows is the actual story. Not the reassuring summary version.
 
 Most people think of vitamin D as a calcium helper. Good for bones, obviously important, but kind of passive. Here's what changes the picture: vitamin D receptors (VDRs) are present in skeletal muscle tissue, and they're not decorative. A 2010 meta-analysis published in the *British Medical Journal* by Bischoff-Ferrari and colleagues found that supplementation with 700–1,000 IU of vitamin D per day reduced [fall risk](/how-to-reduce-fall-risk-in-elderly-parents/) by 19% in older adults. That's a meaningful number. But the mechanism is the part that gets overlooked.
 
-Fast-twitch muscle fibers, the type II fibers responsible for rapid, reactive movements like catching yourself when you trip, are disproportionately affected by vitamin D deficiency. A patient I worked with at an outpatient rehab clinic several years ago, a 71-year-old retired postal worker named Robert, had genuinely impressive lower body strength for his age on standard testing. Leg press, seated calf raise, no problems. But his reactive balance was terrible. He'd score poorly on perturbation tests where you'd give a small unexpected nudge. His 25(OH)D came back at 14 ng/mL. After four months of supervised supplementation and continuing his exercise program, his reactive scores improved by roughly 40%. I can't attribute that entirely to vitamin D, but it was striking.
+Fast-twitch muscle fibers, the type II fibers responsible for rapid, reactive movements like catching yourself when you trip, are disproportionately affected by vitamin D deficiency. For example, an older adult with genuinely impressive lower body strength on standard testing might still show serious deficits in reactive balance. Leg press, seated calf raise, no problems. But reactive balance can still be poor. Someone like this might score poorly on perturbation tests involving a small unexpected nudge. A 25(OH)D test in such a case might come back at 14 ng/mL. After four months of supervised supplementation alongside a continuing exercise program, reactive balance scores can improve substantially. The improvement cannot be attributed entirely to vitamin D, but the pattern is striking.
 
 The research here is mixed in some important ways, though. Not every trial shows dramatic fall reduction. A large 2022 trial published in the *New England Journal of Medicine* (the VITAL Rhythm follow-up work) found that very high-dose supplementation (2,000 IU daily) did not reduce falls or fractures in a generally healthy older adult population. The critical detail: that population was largely not deficient at baseline. Correction matters when there's something to correct.
 
@@ -58,13 +58,13 @@ Here's a practical comparison of where older adults typically land, what it mean
 | 30–50 ng/mL | Adequate | Fall risk not significantly elevated from D status | Maintenance dose or dietary sources |
 | Above 100 ng/mL | Potential toxicity | Risk of hypercalcemia; don't go here | Discontinue supplementation; physician consult |
 
-One thing I don't see discussed enough: the retest. Lots of people get diagnosed with deficiency, start a supplement, and never check again. The repletion timeline varies considerably between individuals based on body composition (vitamin D is fat-soluble and sequesters in adipose tissue, meaning higher body fat can mean slower serum response), sun exposure, and gut absorption. Retesting at three months is standard practice for a reason.
+One thing that does not get discussed enough is the retest. Lots of people get diagnosed with deficiency, start a supplement, and never check again. The repletion timeline varies considerably between individuals based on body composition (vitamin D is fat-soluble and sequesters in adipose tissue, meaning higher body fat can mean slower serum response), sun exposure, and gut absorption. Retesting at three months is standard practice for a reason.
 
 ## What the Research Actually Shows About Supplementation and Falls
 
 Three worked examples from the clinical literature that I find instructive:
 
-**Scenario 1:** Deficient community-dwelling adults, average age 73, enrolled in a Swiss RCT (Bischoff-Ferrari, 2006) with a mean baseline 25(OH)D of 18 ng/mL. Action: 700 IU vitamin D plus 500mg calcium daily for three years. Result: 65% reduction in non-vertebral fractures and a 26% reduction in falls versus placebo. This is the study that first made me pay real attention.
+**Scenario 1:** Deficient community-dwelling adults, average age 73, enrolled in a Swiss RCT (Bischoff-Ferrari, 2006) with a mean baseline 25(OH)D of 18 ng/mL received 700 IU vitamin D plus 500 mg calcium daily for three years, resulting in a 65% reduction in non-vertebral fractures and a 26% reduction in falls versus placebo.
 
 **Scenario 2:** Nursing home residents in Boston, average age 82, severely deficient at baseline (~10 ng/mL). Action: 800 IU daily plus calcium supplementation. Result: The *Lancet*-published Chapuy trial found a 43% reduction in hip fractures over 18 months, with significant reduction in falls.
 
@@ -80,7 +80,7 @@ Dietary sources help but rarely close the gap. A 3.5-ounce serving of wild-caugh
 
 ## Getting Tested, and What to Do With the Results
 
-The test you want is a serum 25-hydroxyvitamin D, sometimes written as 25(OH)D. Not 1,25-dihydroxyvitamin D, which measures the active hormone form and misses early deficiency. Patients sometimes arrive with a "normal" vitamin D result that turned out to be the wrong test. Ask specifically for 25(OH)D.
+The test you want is a serum 25-hydroxyvitamin D, sometimes written as 25(OH)D. Not 1,25-dihydroxyvitamin D, which measures the active hormone form and misses early deficiency. It is not uncommon for someone to arrive with a "normal" vitamin D result that turned out to be the wrong test. Ask specifically for 25(OH)D.
 
 Standard labs (Quest, LabCorp) run this at roughly $40–$60 out of pocket; most insurance covers it if your physician notes clinical suspicion of deficiency or documents fall risk. Medicare Part B covers it under certain diagnostic codes. It takes about two business days for results.
 

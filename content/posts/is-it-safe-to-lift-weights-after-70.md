@@ -36,7 +36,7 @@ You might be wondering whether your body is simply too old for that kind of stre
 
 ## What the Research Actually Shows
 
-Here's what changed my thinking early in my career: I assumed [older adults](/ozempic-and-muscle-loss-what-older-adults-on-glp-1s-must-know/) needed gentler, lower-intensity work because their muscles were more fragile. That's wrong. A landmark study published in the *Journal of the American Medical Association* (Fiatarone et al., 1994) put frail nursing home residents with an average age of 87 through high-intensity leg press training. Ten weeks later, they had increased muscle strength by an average of 113% and walking speed improved measurably. These were people in their late 80s. In a nursing home.
+A common assumption is that [older adults](/ozempic-and-muscle-loss-what-older-adults-on-glp-1s-must-know/) need gentler, lower-intensity work because their muscles are more fragile. That's wrong. A landmark study published in the *Journal of the American Medical Association* (Fiatarone et al., 1994) put frail nursing home residents with an average age of 87 through high-intensity leg press training. Ten weeks later, they had increased muscle strength by an average of 113% and walking speed improved measurably. These were people in their late 80s. In a nursing home.
 
 More recently, a 2019 meta-analysis in *Sports Medicine* reviewed 49 randomized controlled trials on resistance training in adults over 60 and found consistent, meaningful improvements in muscle mass, strength, and functional performance regardless of baseline fitness. The researchers noted that training age (how long you've been lifting) matters far less past 60 than people assume. Your muscles respond to progressive overload at 72 the same basic way they do at 42, just a bit more slowly.
 
@@ -61,7 +61,7 @@ The conditions that genuinely warrant modified (not eliminated) training include
 
 ## What "Safe" Actually Looks Like Week One
 
-For example, a 73-year-old returning to the gym after decades away might want to start with what he remembered pressing in his 50s.  Starting with 40 pounds would be the right call. That was the right call.
+For example, a 73-year-old returning to the gym after decades away might want to start with what he remembered pressing in his 50s, but beginning with a much lighter load, such as 40 pounds, is the right call.
 
 A safe starting point for most adults over 70 who are new or returning to resistance training looks like this:
 
