@@ -28,7 +28,7 @@ faqs:
 
 Seventy percent of fall-related deaths in the U.S. occur in [adults over](/how-exercise-fights-inflammaging-in-adults-over-60/) 65, and weak core muscles are one of the most consistent contributors. That number stopped me cold the first time I read it in a CDC injury report, because I had spent years watching patients chase cardio goals while their stability went quietly to pieces.
 
-Pilates doesn't get the attention it deserves for [older adults](/fitness-programs-for-older-adults-just-hit-their-highest-acsm-ranking-/). People hear "Pilates" and picture young women in lululemon contorting themselves on a Reformer machine. What most people don't realize is that the foundational principles, breath, spinal alignment, controlled movement, and slow load progression, are almost perfectly matched to what happens to the body after 60. A consistent beginner Pilates practice often produces functional improvements that rival far more expensive and elaborate programs.
+Pilates doesn't get the attention it deserves for [older adults](/fitness-programs-for-older-adults-just-hit-their-highest-acsm-ranking/). People hear "Pilates" and picture young women in lululemon contorting themselves on a Reformer machine. What most people don't realize is that the foundational principles, breath, spinal alignment, controlled movement, and slow load progression, are almost perfectly matched to what happens to the body after 60. A consistent beginner Pilates practice often produces functional improvements that rival far more expensive and elaborate programs.
 
 If you've been told "just do some [chair yoga](/chair-yoga-for-seniors-beginners/)" and found it unsatisfying, or if you tried a group fitness class and felt lost or left behind, this is for you.
 
