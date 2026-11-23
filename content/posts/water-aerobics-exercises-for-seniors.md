@@ -37,7 +37,7 @@ When you're submerged to your chest, your body bears roughly 25 to 35 percent of
 
 Water also provides resistance proportional to effort. Push your arm slowly through the water and you feel a gentle tug. Push it fast and you're working significantly harder. That's called hydrostatic drag, and it makes water a built-in progressive resistance system. You don't need to change weights. You change speed. Excellent news if the idea of managing dumbbells or resistance bands feels like one more complicated thing to figure out.
 
-Then there's buoyancy's effect on balance training. One of the biggest barriers to [balance work for older adults](/exercises-for-seniors-with-limited-mobility/) is fear. Fear of falling during the exercise itself. In the water, that fear dissolves, sometimes literally on day one. Many people avoid single-leg standing because they fear tipping, but chest-deep water allows for this practice without that anxiety. And that neurological work, training your body to manage weight shifts and correct itself mid-movement, transfers to your daily life on dry land.
+Then there's buoyancy's effect on balance training. One of the biggest barriers to balance work for older adults is fear. Fear of falling during the exercise itself. In the water, that fear dissolves, sometimes literally on day one. Many people avoid single-leg standing because they fear tipping, but chest-deep water allows for this practice without that anxiety. And that neurological work, training your body to manage weight shifts and correct itself mid-movement, transfers to your daily life on dry land.
 
 ## The Core Exercises Worth Your Time
 

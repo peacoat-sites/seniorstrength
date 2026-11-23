@@ -41,7 +41,7 @@ Nearly 70% of adults over 65 have high blood pressure, according to the American
 
 ## What Makes a Blood Pressure Monitor "Senior-Friendly"
 
-A 35-year-old can use pretty much any monitor. A 72-year-old with arthritis and [reading glasses](/best-magnifying-glasses-for-seniors-with-macular-degeneration/)? They need something different.
+A 35-year-old can use pretty much any monitor. A 72-year-old with arthritis and reading glasses? They need something different.
 
 The display has to be large enough to read without pulling out your glasses. Big buttons. Obvious labels. One button to start, not five menus to navigate through.
 
@@ -101,7 +101,7 @@ Stores 80 readings. Detects irregular heartbeats. No app required, no Wi-Fi setu
 
 ### A&D Medical UA-651BLE
 
-Healthcare professionals use this. It costs less than you'd expect. Bluetooth connectivity, one-button operation, and a wrap cuff that you can put on with one hand, even if [arthritis makes it hard](/best-chair-for-seniors-with-back-pain-buying-guide/) to fasten traditional cuffs.
+Healthcare professionals use this. It costs less than you'd expect. Bluetooth connectivity, one-button operation, and a wrap cuff that you can put on with one hand, even if arthritis makes it hard to fasten traditional cuffs.
 
 If you live alone and need something you can operate without help, this is it.
 

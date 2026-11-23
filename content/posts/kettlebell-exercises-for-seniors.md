@@ -76,7 +76,7 @@ Scenario: A 71-year-old client who hadn't been able to squat past parallel in ye
 
 ## Balance and the Overlooked Grip Connection
 
-Falls are the leading cause of injury-related death in adults over 65, according to CDC data current as of 2026. That statistic gets cited constantly. What gets cited less often is the [grip strength](/grip-strength-exercises-for-older-adults/) connection.
+Falls are the leading cause of injury-related death in adults over 65, according to CDC data current as of 2026. That statistic gets cited constantly. What gets cited less often is the grip strength connection.
 
 Weak grip predicts [fall risk](/how-to-reduce-fall-risk-in-elderly-parents/) with uncomfortable accuracy. When grip goes, reaction time for catching yourself goes with it. Kettlebells, more than almost any other training tool, build grip strength progressively and consistently because you're holding an offset weight that constantly tries to rotate out of your hand.
 

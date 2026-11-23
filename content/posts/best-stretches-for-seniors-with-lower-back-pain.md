@@ -26,7 +26,7 @@ You don't need special equipment or even much time. Fifteen minutes a day, done 
 
 ## Why Lower Back Pain Is So Common in Seniors
 
-Your muscles and ligaments naturally lose strength and elasticity as you age. The discs between your vertebrae get thinner, lose moisture, and become less cushioned. After 60, conditions like [osteoarthritis and spinal stenosis](/how-to-prevent-osteoporosis-naturally-after-60/) show up more frequently. Even mundane stuff, sitting too long, sleeping on a bad mattress, can trigger flare-ups.
+Your muscles and ligaments naturally lose strength and elasticity as you age. The discs between your vertebrae get thinner, lose moisture, and become less cushioned. After 60, conditions like osteoarthritis and spinal stenosis show up more frequently. Even mundane stuff, sitting too long, sleeping on a bad mattress, can trigger flare-ups.
 
 A common misconception is that rest alone solves the problem. Movement is. Gentle stretching keeps muscles loose, improves blood flow, and helps your spine stay stable and strong.
 
@@ -100,7 +100,7 @@ Not everyone's comfortable on the floor, and that's completely legitimate. Chair
 
  * **Seated spinal twist:** Sit tall, place your right hand on your left knee, gently rotate your torso left. Hold 20 seconds, switch.
  * **Seated hip flexor stretch:** Sit at the edge of your chair and slide your right foot behind you, keeping your back straight. You'll feel a gentle stretch in the front of your right hip. Hold and switch.
- * **Seated figure-four stretch:** Cross your right ankle over your left knee and lean forward gently. This targets the [piriformis muscle](/how-to-reduce-joint-inflammation-naturally-for-seniors/), a major culprit in lower back pain. Hold and switch.
+ * **Seated figure-four stretch:** Cross your right ankle over your left knee and lean forward gently. This targets the piriformis muscle, a major culprit in lower back pain. Hold and switch.
 
 These can happen anywhere. Kitchen table. Living room. Your desk. No excuses needed.
 

@@ -61,7 +61,7 @@ Calculate your approximate daily intake from food before deciding how much to su
 
 This matters because high supplemental calcium (above roughly 1,000 mg/day from supplements alone) has been associated in some studies with increased cardiovascular risk, particularly in women. The research here is genuinely mixed, and a 2022 review in *JAMA Cardiology* didn't find a clear causal link, but it's a reason not to double up on calcium supplements when diet already gives you a solid foundation.
 
-Vitamin D from food is harder. Fatty fish (salmon, mackerel) are the [best natural sources](/how-to-strengthen-bones-naturally-after-60/). Fortified milk and fortified cereals offer smaller amounts. The sun still helps if you're outside for 15-20 minutes around midday with arms exposed, but window glass blocks UVB, and sunscreen reduces synthesis. Realistically, most older adults do need a vitamin D supplement.
+Vitamin D from food is harder. Fatty fish (salmon, mackerel) are the best natural sources. Fortified milk and fortified cereals offer smaller amounts. The sun still helps if you're outside for 15-20 minutes around midday with arms exposed, but window glass blocks UVB, and sunscreen reduces synthesis. Realistically, most older adults do need a vitamin D supplement.
 
 ## Choosing the Right Form
 

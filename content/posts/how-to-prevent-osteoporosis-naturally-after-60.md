@@ -77,7 +77,7 @@ Exercise is one of the most powerful tools you have to prevent osteoporosis natu
 
 Aim for at least **30 minutes of weight-bearing activity most days**, plus two resistance training sessions per week. Start gently and progress slowly. Talk to your doctor before beginning any new exercise program.
 
-Balance exercises like tai chi and yoga deserve a mention too. They don't build bone directly, but they dramatically [reduce your fall risk](/how-to-reduce-joint-inflammation-naturally-for-seniors/), and preventing falls means preventing fractures.
+Balance exercises like tai chi and yoga deserve a mention too. They don't build bone directly, but they dramatically reduce your fall risk, and preventing falls means preventing fractures.
 
 ## Lifestyle Habits That Quietly Damage Your Bones
 

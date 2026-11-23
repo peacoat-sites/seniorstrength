@@ -65,7 +65,7 @@ A few things worth knowing before you begin:
 
 Your blood pressure rises during exercise. That's normal and expected. What matters is how it responds at rest afterward. Over weeks of consistent training, [your resting numbers come down](/benefits-of-exercise-for-older-adults/). But if your blood pressure is very high (say, systolic above 180) before you start, please talk to your doctor before beginning anything beyond gentle walking. This isn't liability boilerplate; it's because exercising at those levels can occasionally trigger a cardiovascular event.
 
-Avoid breath-holding during effort. This is called the Valsalva maneuver, and it spikes blood pressure dramatically in the short term. It happens naturally when people strain. Coaches sometimes even cue it. For blood pressure management, you want to breathe steadily through every exercise, especially [resistance training](/exercises-for-seniors-to-stay-independent/).
+Avoid breath-holding during effort. This is called the Valsalva maneuver, and it spikes blood pressure dramatically in the short term. It happens naturally when people strain. Coaches sometimes even cue it. For blood pressure management, you want to breathe steadily through every exercise, especially resistance training.
 
 Start with time, not intensity. Twenty minutes of easy walking four days a week is a better starting point than one hard 45-minute session. Your cardiovascular system adapts over weeks, not days.
 

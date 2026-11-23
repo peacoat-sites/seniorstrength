@@ -36,9 +36,9 @@ The answer is yes. With important caveats.
 
 ## What "Frail" Actually Means (And Why the Word Matters)
 
-Most people don't love the word frail. I get that. But clinically, frailty has a specific meaning: it's a syndrome characterized by low muscle mass (sarcopenia), reduced [grip strength](/grip-strength-exercises-for-older-adults/), slow walking speed, exhaustion, and low physical activity. Researchers use a tool called the Fried Frailty Phenotype, developed at Johns Hopkins, to identify it. You need three or more of those five markers to be classified as frail; one or two puts you in the "pre-frail" category.
+Most people don't love the word frail. I get that. But clinically, frailty has a specific meaning: it's a syndrome characterized by low muscle mass (sarcopenia), reduced grip strength, slow walking speed, exhaustion, and low physical activity. Researchers use a tool called the Fried Frailty Phenotype, developed at Johns Hopkins, to identify it. You need three or more of those five markers to be classified as frail; one or two puts you in the "pre-frail" category.
 
-Why does the label matter? Because the training approach for a pre-frail 70-year-old who's just deconditioned and a genuinely frail 84-year-old with osteoporosis and a recent hospitalization are genuinely different. Treating them the same is where a lot of well-meaning programs go wrong, and where a lot of [older adults](/benefits-of-exercise-for-older-adults/) get hurt or burned out in the first two weeks.
+Why does the label matter? Because the training approach for a pre-frail 70-year-old who's just deconditioned and a genuinely frail 84-year-old with osteoporosis and a recent hospitalization are genuinely different. Treating them the same is where a lot of well-meaning programs go wrong, and where a lot of older adults get hurt or burned out in the first two weeks.
 
 Here's what I tell people who bristle at the term: frailty isn't a life sentence, it's a clinical baseline. It tells us where to start, not where you'll end up.
 

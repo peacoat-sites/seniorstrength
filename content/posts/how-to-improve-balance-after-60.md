@@ -1,5 +1,5 @@
 ---
-title: "Steady On Your Feet: 5 Balance Fixes for Active Adults"
+title: "How to Improve Balance After 60 With Fixes"
 date: 2026-06-09T21:47:31.956475+00:00
 draft: false
 description: "Discover simple exercises and tips to improve balance after 60, reduce fall risk, and stay active, confident, and independent as you age gracefully."
@@ -16,7 +16,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Three falls. That's what it took before Patricia finally agreed to come see me. She was 67, fiercely independent, and absolutely certain her two previous stumbles on the back porch steps were just bad luck. The third one sent her to the ER with a bruised hip and a badly shaken confidence. By the time she sat down across from me, she wasn't asking about strength or cardio anymore. She just wanted to feel safe in her own house again.
 
-I mention Patricia because her story is almost universal. Balance doesn't usually fail dramatically or all at once. It erodes quietly, over years, and most people don't notice until something goes wrong. The genuinely good news is that [balance responds to training](/balance-exercises-for-seniors-to-prevent-falls/) faster than almost any other physical quality I work with in older adults. Patricia was walking her dog without fear again in about six weeks. Not because I did anything miraculous, but because we finally started working on the right things.
+I mention Patricia because her story is almost universal. Balance doesn't usually fail dramatically or all at once. It erodes quietly, over years, and most people don't notice until something goes wrong. The genuinely good news is that balance responds to training faster than almost any other physical quality I work with in older adults. Patricia was walking her dog without fear again in about six weeks. Not because I did anything miraculous, but because we finally started working on the right things.
 
 ## Why Balance Gets Worse After 60 (And It's Not Just "Getting Old")
 

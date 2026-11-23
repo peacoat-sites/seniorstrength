@@ -1,5 +1,5 @@
 ---
-title: "Easy Cardio Routines That Keep Seniors Active"
+title: "Low Impact Cardio for Seniors That Keeps You Active"
 date: 2026-05-30T10:57:40.029895+00:00
 draft: false
 description: "Discover the best low impact cardio exercises for seniors to boost heart health, improve mobility, and stay active safely. Start moving better today with these "
@@ -52,7 +52,7 @@ There's also a neurological component that fascinates me. Many low impact activi
 
 Not all low impact cardio is interchangeable. Each option has a different profile of benefits and limitations.
 
-**Walking** is the most accessible and the most underestimated. A brisk walk at 3 to 3.5 mph elevates heart rate meaningfully for most adults over 60. The key word is brisk. A slow stroll doesn't cut it for cardiovascular conditioning. Arm swing matters. Upright posture matters. So does deliberate heel-to-toe contact. Walking on varied terrain adds balance challenge. [Walking poles reduce knee load](/best-low-impact-exercises-for-bad-knees/) by up to 25 percent and engage the upper body. If you have good baseline health and reasonable joint function, walking is the easiest place to start.
+**Walking** is the most accessible and the most underestimated. A brisk walk at 3 to 3.5 mph elevates heart rate meaningfully for most adults over 60. The key word is brisk. A slow stroll doesn't cut it for cardiovascular conditioning. Arm swing matters. Upright posture matters. So does deliberate heel-to-toe contact. Walking on varied terrain adds balance challenge. Walking poles reduce knee load by up to 25 percent and engage the upper body. If you have good baseline health and reasonable joint function, walking is the easiest place to start.
 
 **[Swimming and water aerobics](/water-aerobics-exercises-for-seniors/)** are the gold standard for anyone managing significant joint pain, arthritis, or obesity. Water reduces effective body weight by around 90 percent at neck depth. The resistance is constant but gentle. What surprised me in practice is how hard people work in the pool without realizing it, partly because the water keeps them cool and masks perceived exertion. The downside: not everyone has pool access, and water exercise does less for bone density than weight-bearing activity.
 

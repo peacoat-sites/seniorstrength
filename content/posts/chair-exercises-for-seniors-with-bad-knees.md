@@ -1,5 +1,5 @@
 ---
-title: "Strengthen Your Legs Without Stressing Your Knees"
+title: "Chair Exercises for Seniors With Bad Knees"
 date: 2026-05-29T06:09:40.675523+00:00
 draft: false
 description: "Discover the best chair exercises for seniors with bad knees. Build strength, reduce stiffness, and stay active safely with this easy, practical seated worko"

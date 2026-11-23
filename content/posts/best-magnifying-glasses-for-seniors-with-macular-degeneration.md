@@ -52,11 +52,11 @@ There's no single perfect magnifier for everyone with macular degeneration. Your
 
 ### Handheld Magnifiers
 
-These are the classic, portable option most people picture. A good handheld magnifier with built-in LED lighting is incredibly versatile. Perfect for reading price tags, mail, menus, and [medicine labels on the go](/pill-organizer-vs-smart-pill-dispenser-which-do-seniors-need/). Look for models with 5x to 8x magnification and a comfortable grip you won't get tired of.
+These are the classic, portable option most people picture. A good handheld magnifier with built-in LED lighting is incredibly versatile. Perfect for reading price tags, mail, menus, and medicine labels on the go. Look for models with 5x to 8x magnification and a comfortable grip you won't get tired of.
 
 ### Stand Magnifiers
 
-Stand magnifiers sit directly on the page, keeping the lens at the perfect focal distance automatically. This is wonderful if you have [hand tremors](/best-chair-for-seniors-with-back-pain-buying-guide/) or find it tiring to hold a magnifier steady. They're ideal for extended reading sessions at home where you can leave it in one place.
+Stand magnifiers sit directly on the page, keeping the lens at the perfect focal distance automatically. This is wonderful if you have hand tremors or find it tiring to hold a magnifier steady. They're ideal for extended reading sessions at home where you can leave it in one place.
 
 ### Hands-Free and Wearable Magnifiers
 

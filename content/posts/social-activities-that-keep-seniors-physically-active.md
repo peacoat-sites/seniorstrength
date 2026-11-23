@@ -1,5 +1,5 @@
 ---
-title: "How Social Activities Keep Seniors Strong and Mobile"
+title: "Social Activities That Keep Seniors Physically Active"
 date: 2026-05-25T22:43:04.341402+00:00
 draft: false
 description: "Discover the best social activities seniors physical health depends on. From walking groups to dance classes and pickleball, stay active, connected, and happ"

@@ -26,7 +26,7 @@ You want to stay strong and active, but the gym feels intimidating, and your joi
 
 Resistance bands work by creating tension your muscles have to push or pull against. Unlike dumbbells or barbells, the resistance increases gradually as you stretch the band, meaning there's no sudden jolt of weight that can strain a joint.
 
-This makes them ideal for older adults dealing with arthritis, osteoporosis, or recovering from an injury. Regular resistance training [improves balance, reduces fall risk](/tai-chi-for-balance-in-seniors/), and helps manage blood sugar and blood pressure.
+This makes them ideal for older adults dealing with arthritis, osteoporosis, or recovering from an injury. Regular resistance training improves balance, reduces fall risk, and helps manage blood sugar and blood pressure.
 
 Here's what makes resistance bands stand out for seniors:
 

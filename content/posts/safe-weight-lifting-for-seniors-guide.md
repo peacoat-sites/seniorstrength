@@ -1,5 +1,5 @@
 ---
-title: "Strength Training After 60: Lift Safely, Stay Strong"
+title: "Safe Weight Lifting for Seniors: Lift Smarter, Stay Strong"
 date: 2026-06-05T12:23:18.327157+00:00
 draft: false
 description: "Discover safe weight lifting tips for seniors. Learn proper techniques, recommended exercises, and expert advice to build strength, improve balance, and stay in"

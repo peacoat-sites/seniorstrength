@@ -1,5 +1,5 @@
 ---
-title: "The Right Strength Training Schedule for Older Adults"
+title: "How Often Should Seniors Strength Train for Best Results"
 date: 2026-06-09T21:49:56.169737+00:00
 draft: false
 description: "Discover how often seniors should strength train to build muscle, boost balance, and stay independent. Get expert-backed weekly workout recommendations for olde"
@@ -57,7 +57,7 @@ For someone just starting out or returning to training after a significant break
 
 For someone who's been training consistently for a few months and is handling recovery well, a shift to three days per week makes sense. At this point, some people do better with full-body sessions three times a week. Others, particularly those who want to focus more specifically on [lower body strength](/lower-body-strength-exercises-for-seniors/) (which matters enormously for fall prevention and functional independence), do well with a simple two-day lower body, one-day upper body split, or some variation on that.
 
-Here's what I think gets skipped in most of these discussions: [balance training and mobility work](/safe-weight-lifting-for-seniors-guide/) don't count as "rest" in the way people assume, but they also don't count as strength training. You can do balance work or gentle mobility sessions on your off days without compromising recovery from strength work. In fact, a 20-minute balance and stretching session on a Wednesday between your Monday and Friday strength days probably improves your outcomes overall. The research on this in older adults is genuinely encouraging, particularly around fall risk reduction.
+Here's what I think gets skipped in most of these discussions: balance training and mobility work don't count as "rest" in the way people assume, but they also don't count as strength training. You can do balance work or gentle mobility sessions on your off days without compromising recovery from strength work. In fact, a 20-minute balance and stretching session on a Wednesday between your Monday and Friday strength days probably improves your outcomes overall. The research on this in older adults is genuinely encouraging, particularly around fall risk reduction.
 
 One thing I'd push back on: the idea that "light days" of strength training, meaning very low load, high rep work, are truly restorative. The evidence that very light strength training speeds recovery or reduces soreness is limited. If you need a light day, a walk and some hip mobility work will serve you better than a half-effort session with two-pound dumbbells.
 

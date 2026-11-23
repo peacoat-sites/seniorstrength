@@ -1,5 +1,5 @@
 ---
-title: "Rise From The Floor With Confidence After 60"
+title: "How to Get Up From the Floor Safely After 60"
 date: 2026-06-18T22:08:48.911594+00:00
 draft: false
 description: "Learn the safest step-by-step method to get up from the floor after 60, protecting your joints and preventing falls with simple techniques."

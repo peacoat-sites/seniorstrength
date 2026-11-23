@@ -1,5 +1,5 @@
 ---
-title: "Quick Workouts That Keep Seniors Strong and Independent"
+title: "10 Minute Exercise Routine for Seniors That Works"
 date: 2026-07-01T21:27:23.729415+00:00
 draft: false
 description: "Discover a simple 10 minute exercise routine for seniors to boost strength, balance, and flexibility safely at home with no equipment needed."
@@ -60,7 +60,7 @@ Do this standing, in bare feet or thin-soled shoes if you can. Thick, cushioned 
 
 **Standing marches (1 minute).** Hold the back of the chair lightly (fingers only, not a death grip). Lift each knee to about hip height alternately, like slow marching. This activates the hip flexors and challenges single-leg balance in a very safe way.
 
-**Wall push-ups (1 minute, about 15 reps).** Face a wall, arms slightly wider than shoulder-width, hands flat on the wall at chest height. Lean in and push back. This is real upper body work, not a consolation prize. For someone who hasn't done any pressing movement in years, [wall push-ups](/standing-exercises-for-seniors-no-equipment/) will light up the chest, shoulders, and triceps in a meaningful way.
+**Wall push-ups (1 minute, about 15 reps).** Face a wall, arms slightly wider than shoulder-width, hands flat on the wall at chest height. Lean in and push back. This is real upper body work, not a consolation prize. For someone who hasn't done any pressing movement in years, wall push-ups will light up the chest, shoulders, and triceps in a meaningful way.
 
 **Heel raises (1 minute).** Still at the wall or holding the chair, rise onto your toes and lower slowly. The calf muscles are sometimes called the "second heart" because of their role in pumping blood back up from the legs. Weak calves are also a significant fall risk factor. Do these slowly. The lowering phase matters as much as the raising.
 

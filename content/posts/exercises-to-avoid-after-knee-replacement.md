@@ -1,5 +1,5 @@
 ---
-title: "Protect Your New Knee: 7 Movements To Skip"
+title: "Exercises to Avoid After Knee Replacement"
 date: 2026-07-06T21:28:03.677538+00:00
 draft: false
 description: "Protect your new joint by learning which exercises to avoid after knee replacement surgery and what safe alternatives can support your recovery."

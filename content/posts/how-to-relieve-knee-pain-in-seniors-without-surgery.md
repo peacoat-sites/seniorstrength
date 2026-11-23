@@ -91,7 +91,7 @@ Drink enough water too. Cartilage is mostly water. Aim for six to eight glasses 
 
 Home remedies and exercise aren't cutting it for everyone. Your doctor has other options that don't require surgery and genuinely work.
 
-**[Physical therapy](/safe-exercise-after-hip-replacement/)** is usually the first move. A licensed therapist designs a program specific to your exact problem, targeting weak muscles and imbalances.
+**Physical therapy** is usually the first move. A licensed therapist designs a program specific to your exact problem, targeting weak muscles and imbalances.
 
 Other solid non-surgical options:
 

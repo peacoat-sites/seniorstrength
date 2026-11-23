@@ -78,7 +78,7 @@ The goal here is not to grip for dear life. One or two fingers touching the surf
 
 **Wall-supported heel raises**
 
-Stand facing a wall, fingertips resting lightly on it. Rise onto your toes slowly (count two seconds up), hold for one second at the top, lower for three seconds. This builds the calf and ankle strength that's absolutely central to [fall prevention](/standing-exercises-for-seniors-no-equipment/). People don't trip and fall because their quads are weak. They fall because their ankle doesn't respond fast enough when the ground shifts. Heel raises train exactly that.
+Stand facing a wall, fingertips resting lightly on it. Rise onto your toes slowly (count two seconds up), hold for one second at the top, lower for three seconds. This builds the calf and ankle strength that's absolutely central to fall prevention. People don't trip and fall because their quads are weak. They fall because their ankle doesn't respond fast enough when the ground shifts. Heel raises train exactly that.
 
 Start with ten reps. When you can do three sets of fifteen without the wall feeling necessary, you're ready to try one-handed, then fingertip-only.
 

@@ -55,7 +55,7 @@ I want to be specific about what's actually worth doing here, because generic li
 
 **[Seated edge exercises](/seated-leg-exercises-for-seniors/).** If someone can sit at the edge of the bed with feet supported, either on the floor or a step stool, the options expand considerably. Seated knee extensions, seated marching, and supported standing practice all become available. The transition from lying-down exercises to edge-of-bed exercises is a significant milestone and worth celebrating.
 
-**[Hand and grip exercises](/10-minute-exercise-routine-for-seniors/).** These get ignored almost entirely, and I find that frustrating. Grip strength is an independent predictor of overall functional health and longevity in older adults, and it deteriorates during illness just like leg strength does. Squeezing a soft ball, towel, or even just interlacing fingers and pressing palms together provides genuine stimulus. It's also something a person can do without any assistance and with zero risk of falling.
+**Hand and grip exercises.** These get ignored almost entirely, and I find that frustrating. Grip strength is an independent predictor of overall functional health and longevity in older adults, and it deteriorates during illness just like leg strength does. Squeezing a soft ball, towel, or even just interlacing fingers and pressing palms together provides genuine stimulus. It's also something a person can do without any assistance and with zero risk of falling.
 
 ## The Mattress Problem Nobody Talks About
 

@@ -91,7 +91,7 @@ Programs focusing on balance training and lower-body strengthening can reduce fa
 * **Calf raises:** Stand behind a chair, hold the back, and rise up on your toes. Lower slowly.
 * **Side leg raises:** Stand behind a chair and lift one leg out to the side, hold briefly, and lower slowly.
 
-[Tai chi deserves special mention](/how-to-improve-balance-after-60/). Multiple studies have found it exceptionally effective for seniors because it combines slow, deliberate movement with balance training in a low-impact format that people actually enjoy doing.
+Tai chi deserves special mention. Multiple studies have found it exceptionally effective for seniors because it combines slow, deliberate movement with balance training in a low-impact format that people actually enjoy doing.
 
 ## Medication Review and Medical Checkups
 

@@ -99,7 +99,7 @@ Building the habit is the real achievement. Once walking is part of your daily r
 
 ## How to Get Started Safely as a Senior
 
-Before starting any new exercise routine, it's always a good idea to [check in with your doctor](/exercise-routine-for-seniors-to-lose-belly-fat/), especially if you have joint issues, heart conditions, or diabetes. Most seniors get the green light, but knowing your specific limitations helps you walk smarter.
+Before starting any new exercise routine, it's always a good idea to check in with your doctor, especially if you have joint issues, heart conditions, or diabetes. Most seniors get the green light, but knowing your specific limitations helps you walk smarter.
 
 Here are some smart starting points:
 

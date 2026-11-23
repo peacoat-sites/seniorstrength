@@ -28,7 +28,7 @@ What surprised me was the demographic data sitting underneath all of this. Accor
 
 Heart rate variability sounds technical. It isn't, really. It's a measure of the variation in time between your heartbeats, and it reflects how well your nervous system is recovering from stress, whether that stress is a hard training session, poor sleep, or just life. A higher HRV generally means you're recovered and ready to push. A lower one is your body asking for a lighter day.
 
-For adults over 60, this matters enormously. The recovery window after strength training lengthens with age. A 35-year-old might bounce back from a heavy squat session in 36 hours. A 68-year-old might need 72. The problem is that most [older adults](/why-seniors-on-ozempic-must-prioritize-strength-training-now/) either don't know this and overtrain, or they do know it and undertrain out of excessive caution. HRV data gives you something concrete to act on. If your score drops significantly, you pull back. If it's strong, you load the bar.
+For adults over 60, this matters enormously. The recovery window after strength training lengthens with age. A 35-year-old might bounce back from a heavy squat session in 36 hours. A 68-year-old might need 72. The problem is that most older adults either don't know this and overtrain, or they do know it and undertrain out of excessive caution. HRV data gives you something concrete to act on. If your score drops significantly, you pull back. If it's strong, you load the bar.
 
 The research here is mixed on precise thresholds, and any trainer who tells you there's one magic HRV number is oversimplifying. But the directional value, tracking your own trends over time rather than comparing to population averages, is well-supported. Devices like the Oura Ring Gen3 and Garmin's newer fitness watches now make this data accessible without requiring a clinical setting.
 
@@ -47,7 +47,7 @@ The honest answer is that the "best" device depends entirely on what you're tryi
 
 ## The Motivation Effect Is Real, and Underrated
 
-I don't want to breeze past the AARP finding, because trainers sometimes dismiss the motivational angle as soft data. An AARP study found that 45% of [adults over](/how-exercise-fights-inflammaging-in-adults-over-60/) 50 felt more motivated to stay healthy after using activity or sleep trackers for just six weeks. Six weeks. That's a short window for a meaningful behavior shift.
+I don't want to breeze past the AARP finding, because trainers sometimes dismiss the motivational angle as soft data. An AARP study found that 45% of adults over 50 felt more motivated to stay healthy after using activity or sleep trackers for just six weeks. Six weeks. That's a short window for a meaningful behavior shift.
 
 Motivation is infrastructure. Without it, the best program in the world doesn't get executed. For older adults who may be returning to exercise after a long gap, or managing chronic conditions that make consistency harder, having a device that reflects your effort back to you in concrete terms can bridge the gap between intention and action. That's not a small thing.
 

@@ -42,7 +42,7 @@ During aerobic exercise, your systolic pressure rises (sometimes to 160-180 mmHg
 
 The other pressure spike to know about is the Valsalva response. When you hold your breath and strain during heavy resistance training, blood pressure can spike to 300/200 mmHg or higher. Healthy younger adults may tolerate this, but in someone over 60 with existing hypertension it poses greater risk.
 
-So the goal isn't avoiding blood pressure increases [during exercise](/how-to-protect-joints-during-exercise-seniors/). It's controlling the type, magnitude, and duration of those increases.
+So the goal isn't avoiding blood pressure increases during exercise. It's controlling the type, magnitude, and duration of those increases.
 
 ## The Hierarchy of Exercise Types
 
@@ -87,7 +87,7 @@ After six weeks, his resting BP had dropped from 148/92 to 139/86. His doctor re
 
 **Cooldown (10 minutes minimum).** Stopping abruptly after aerobic exercise can cause blood to pool in the legs and trigger a sudden BP drop. This is another place where incidents happen. Slow the pace gradually. Don't just step off the treadmill and sit down.
 
-Scenario 2: A 67-year-[old woman](/best-exercise-routine-for-65-year-old-woman/), stage 1 hypertension, wanted to keep doing her yoga class. Some yoga is fine, some isn't. We identified the problematic poses (extended inversions, long isometric holds like chair pose without breaks) and swapped in alternatives. She kept going to class, modified about four poses, and her BP over three months: 152/94 to 143/88. Not dramatic, but consistent.
+Scenario 2: A 67-year-old woman, stage 1 hypertension, wanted to keep doing her yoga class. Some yoga is fine, some isn't. We identified the problematic poses (extended inversions, long isometric holds like chair pose without breaks) and swapped in alternatives. She kept going to class, modified about four poses, and her BP over three months: 152/94 to 143/88. Not dramatic, but consistent.
 
 ## The Medication Factor
 

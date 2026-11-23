@@ -31,7 +31,7 @@ You're at the gym, third set of seated leg presses done, and the trainer hands y
 
 The standard Recommended Dietary Allowance for protein is 0.8 grams per kilogram of body weight per day. That number surprises almost everyone. It was set to prevent deficiency, not to optimize muscle building. For a 70-year-old trying to get stronger, it's genuinely inadequate.
 
-Many people in their late 60s eat what they believe is "plenty of protein" because they've hit the RDA, with chicken salads for lunch and Greek yogurt as a snack. Yet muscle loss can still occur. Why? After about age 60, your body becomes less efficient at converting dietary protein into muscle tissue. Researchers call this [anabolic resistance](/how-much-protein-do-seniors-need-to-build-muscle/). Your muscles simply don't respond to protein signals the way they did at 40.
+Many people in their late 60s eat what they believe is "plenty of protein" because they've hit the RDA, with chicken salads for lunch and Greek yogurt as a snack. Yet muscle loss can still occur. Why? After about age 60, your body becomes less efficient at converting dietary protein into muscle tissue. Researchers call this anabolic resistance. Your muscles simply don't respond to protein signals the way they did at 40.
 
 The practical fix: most sports nutrition researchers and geriatric dietitians now recommend somewhere between 1.2 and 1.6 grams of protein per kilogram of body weight daily for older adults doing strength training. For a 170-pound person, that's roughly 93 to 123 grams per day. That's a meaningful target, and which foods you use to hit it actually matters.
 

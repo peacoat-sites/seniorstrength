@@ -26,7 +26,7 @@ Foot pain can stem from many sources: plantar fasciitis, arthritis, weakened mus
 
 ## Why Foot Pain Is So Common After 60
 
-As we age, the fat padding in our feet naturally thins out, leaving less cushioning between our bones and the ground. The tendons and ligaments that hold the foot together become less elastic and more prone to stiffness. Conditions like [osteoarthritis](/how-to-prevent-osteoporosis-naturally-after-60/), bunions, and plantar fasciitis become increasingly common in our 60s and beyond.
+As we age, the fat padding in our feet naturally thins out, leaving less cushioning between our bones and the ground. The tendons and ligaments that hold the foot together become less elastic and more prone to stiffness. Conditions like osteoarthritis, bunions, and plantar fasciitis become increasingly common in our 60s and beyond.
 
 Even years of wearing poorly fitting shoes can catch up with us later in life. Understanding why your feet hurt is the first step toward giving them the right kind of care.
 
@@ -72,7 +72,7 @@ Hold for 15 to 30 seconds, then release slowly. Repeat three times on each foot.
 
 Place a small towel or a handful of marbles on the floor. Using only your toes, try to pick up the marbles one at a time and place them in a cup, or scrunch the towel toward you with your toes. It sounds simple, but this is a powerful workout for the small muscles throughout your foot and toes.
 
-Spend about two minutes on each foot. It's also a wonderful way to improve coordination and mind-body connection, which matters for [fall prevention](/best-stretches-for-seniors-with-lower-back-pain/).
+Spend about two minutes on each foot. It's also a wonderful way to improve coordination and mind-body connection, which matters for fall prevention.
 
 ### 5. Ankle Circles
 

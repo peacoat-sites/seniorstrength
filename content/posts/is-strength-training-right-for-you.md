@@ -17,4 +17,4 @@ But starting something new always comes with questions. Is this a good fit for w
 
 {{< quiz >}}
 
-Wherever you landed, remember that everyone starts somewhere, and small, consistent steps add up fast. Browse our [beginner guides for chair-based moves](/bed-exercises-for-elderly-with-limited-mobility/), simple home routines, and tips for staying motivated. And before you begin any new exercise program, have a quick chat with your doctor to make sure it's the right time for you.
+Wherever you landed, remember that everyone starts somewhere, and small, consistent steps add up fast. Browse our beginner guides for chair-based moves, simple home routines, and tips for staying motivated. And before you begin any new exercise program, have a quick chat with your doctor to make sure it's the right time for you.

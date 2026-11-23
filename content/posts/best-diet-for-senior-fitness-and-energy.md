@@ -1,5 +1,5 @@
 ---
-title: "Fuel Your Active Years: The Right Foods For Senior Energy"
+title: "Best Diet for Senior Fitness and Energy: What to Eat"
 date: 2026-06-21T21:13:31.364241+00:00
 draft: false
 description: "Discover the best diet for senior fitness and energy. Learn which foods fuel strength, boost vitality, and support healthy aging for adults over 60."
@@ -49,7 +49,7 @@ I'll be direct about this one: almost every person over 60 who walks into my ses
 
 The old recommended daily allowance of 0.8 grams per kilogram of body weight was set based on what prevents deficiency, not what supports muscle maintenance or active aging. There's a meaningful difference. Research published in the *Journal of Nutrition, Health & Aging* and replicated across multiple institutions points consistently toward older adults needing somewhere between 1.2 and 1.6 grams per kilogram of body weight daily, especially if they're strength training. For a 160-pound person, that's roughly 87 to 116 grams of protein a day. Most people I test are hitting 50 to 60.
 
-Why does it matter so much after 60? Something called [anabolic resistance](/how-much-protein-do-seniors-need-to-build-muscle/). Your muscles become less responsive to the protein signals that trigger growth and repair. To get the same muscle-building stimulus a 35-year-old gets from 20 grams of protein at a meal, you may need 35 to 40 grams. The dose has to go up to get the same result. It's not fair. It's just what's true.
+Why does it matter so much after 60? Something called anabolic resistance. Your muscles become less responsive to the protein signals that trigger growth and repair. To get the same muscle-building stimulus a 35-year-old gets from 20 grams of protein at a meal, you may need 35 to 40 grams. The dose has to go up to get the same result. It's not fair. It's just what's true.
 
 So what does that actually look like on a plate? A 6-ounce chicken breast, a cup of Greek yogurt, two eggs and some cottage cheese. Spread it across meals rather than loading it all at dinner, which is what most people accidentally do. Your muscles can only use so much at once, and the evidence strongly suggests that distributing protein more evenly across three meals does more for muscle protein synthesis than the same total amount eaten mostly at night.
 
@@ -65,7 +65,7 @@ Very low carbohydrate diets can work for weight management in older adults, but 
 
 Carbohydrates are still your body's preferred fuel for moderate-to-high intensity work. Period. The question isn't whether to eat them. It's which ones, and when.
 
-The "which ones" answer is genuinely simple: prioritize whole food carbohydrate sources. Oats, sweet potatoes, brown rice, legumes, fruit. These aren't just carbohydrates. They come packaged with fiber, which slows glucose absorption, supports gut health (more on that in a second), and feeds the kind of gut bacteria linked to lower [systemic inflammation](/foods-that-reduce-inflammation-for-arthritis/). Processed carbs and added sugar do the opposite. They spike blood glucose, accelerate inflammation, and leave you hungry again in an hour.
+The "which ones" answer is genuinely simple: prioritize whole food carbohydrate sources. Oats, sweet potatoes, brown rice, legumes, fruit. These aren't just carbohydrates. They come packaged with fiber, which slows glucose absorption, supports gut health (more on that in a second), and feeds the kind of gut bacteria linked to lower systemic inflammation. Processed carbs and added sugar do the opposite. They spike blood glucose, accelerate inflammation, and leave you hungry again in an hour.
 
 The "when" question matters more than most people realize. A small carbohydrate-containing meal or snack within an hour or two before exercise can noticeably improve your performance and recovery. Something like a banana and a tablespoon of peanut butter, or a half-cup of oatmeal. It doesn't have to be complicated. And within 30 to 60 minutes after a workout, pairing carbohydrates with protein (the classic combo) helps shuttle amino acids into muscle tissue and replenishes glycogen faster.
 

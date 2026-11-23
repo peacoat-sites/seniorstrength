@@ -1,5 +1,5 @@
 ---
-title: "Stay Active: The Motivation Tricks That Work For Older Adults"
+title: "How to Stay Motivated to Exercise as a Senior"
 date: 2026-05-21T16:08:22.652618+00:00
 draft: false
 description: "Struggling to stay active? Discover proven strategies to boost motivation to exercise for seniors, build lasting habits, and enjoy fitness after 60, startin"

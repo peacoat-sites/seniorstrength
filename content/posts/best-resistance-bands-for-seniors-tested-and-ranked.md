@@ -108,7 +108,7 @@ For seniors who do most of their exercise seated, the SPRI Xertube is a fantasti
 
 It comes in multiple resistance levels sold individually, so you can choose exactly what's right for your current strength. Physical therapists frequently recommend this brand for in-home exercise programs.
 
-* **Best for:** Seated exercises, [post-surgery recovery](/foam-roller-for-seniors-how-to-use-it-safely/)
+* **Best for:** Seated exercises, post-surgery recovery
 * **Resistance range:** Ultra light to ultra heavy
 * **Price range:** $10-$20
 

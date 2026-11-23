@@ -1,5 +1,5 @@
 ---
-title: "Start Your Day Strong: Easy Workouts For Active Seniors"
+title: "Gentle Morning Workout for Seniors That Starts the Day Right"
 date: 2026-06-29T00:36:33.166629+00:00
 draft: false
 description: "Start your day right with these gentle morning exercises designed for seniors to boost flexibility, balance, and energy safely from home."
@@ -56,7 +56,7 @@ I'm going to give you a 20-to-25-minute routine. No floor work unless I flag it 
 
 **Wall push-ups: 10-15 repetitions.** Stand arm's length from a wall, hands at shoulder height. Lower your chest toward the wall, elbows at roughly 45 degrees from your sides, then press back. For most people this is dramatically easier than a floor push-up, which is exactly the point. Upper body pressing strength has a direct relationship to independence in daily life.
 
-**Standing calf raises: 15 repetitions.** Hold the back of the chair lightly (not tightly, you're not death-gripping it). Rise up on your toes, hold one second, lower slowly. Calf strength and ankle stability are underrated balance factors. Seriously underrated. A 2020 systematic review in *Age and Ageing* identified [calf and ankle weakness](/best-low-impact-exercises-for-bad-knees/) as among the top modifiable risk factors for falls in community-dwelling older adults.
+**Standing calf raises: 15 repetitions.** Hold the back of the chair lightly (not tightly, you're not death-gripping it). Rise up on your toes, hold one second, lower slowly. Calf strength and ankle stability are underrated balance factors. Seriously underrated. A 2020 systematic review in *Age and Ageing* identified calf and ankle weakness as among the top modifiable risk factors for falls in community-dwelling older adults.
 
 **Hip hinge practice: 10 repetitions.** Stand with feet hip-width apart, slight bend in knees. Push your hips back like you're trying to close a car door with your backside, keeping your back straight. This teaches the hinge pattern that protects your lower back every time you bend to pick something up. Most people round their back because they've never been shown the alternative.
 

@@ -75,7 +75,7 @@ For someone with [knee or hip arthritis](/exercises-for-seniors-with-arthritis/)
 
 You don't have to fix all of these overnight. But knowing they exist, and watching for them, changes everything.
 
-**Worked example:** A 71-year-old client of mine, a retired electrician named Frank, came to me with persistent [medial knee pain](/exercises-to-avoid-after-knee-replacement/). He'd been told to stop doing squats. We didn't stop squats. We widened his stance slightly, added a resistance band just above the knees to train his glutes to stop the valgus collapse, and dropped the weight to a goblet squat with a 15-pound kettlebell. Eight weeks in, his knee pain had dropped from a 6/10 to a 1-2/10 on most days, and his leg strength had measurably improved. Scenario: knee pain from squat-pattern valgus collapse → adjusted alignment, reduced load, targeted glute activation → pain reduced by approximately 70% over 8 weeks.
+**Worked example:** A 71-year-old client of mine, a retired electrician named Frank, came to me with persistent medial knee pain. He'd been told to stop doing squats. We didn't stop squats. We widened his stance slightly, added a resistance band just above the knees to train his glutes to stop the valgus collapse, and dropped the weight to a goblet squat with a 15-pound kettlebell. Eight weeks in, his knee pain had dropped from a 6/10 to a 1-2/10 on most days, and his leg strength had measurably improved. Scenario: knee pain from squat-pattern valgus collapse → adjusted alignment, reduced load, targeted glute activation → pain reduced by approximately 70% over 8 weeks.
 
 ---
 

@@ -35,7 +35,7 @@ You might be wondering whether sitting down can actually raise your heart rate e
 
 Here's something worth understanding from the start: cardiovascular fitness isn't about whether your feet are on the ground. It's about how hard your heart and lungs are working. When you move large muscle groups rhythmically and continuously, your cardiovascular system responds. Full stop. Whether you're standing, walking, or seated in a sturdy chair doesn't change that basic physiology.
 
-What seated exercise does change is the risk profile. Removing the balance demand means you can work harder without fear of falling. For someone managing neuropathy, [recovering from hip surgery](/exercises-for-seniors-with-limited-mobility/), or simply dealing with the kind of dizziness that comes with certain blood pressure medications, that's not a compromise. That's an intelligent adaptation.
+What seated exercise does change is the risk profile. Removing the balance demand means you can work harder without fear of falling. For someone managing neuropathy, recovering from hip surgery, or simply dealing with the kind of dizziness that comes with certain blood pressure medications, that's not a compromise. That's an intelligent adaptation.
 
 The research supports this. A 2020 review published in the *Journal of Aging and Physical Activity* looked at [chair-based exercise programs](/chair-exercises-for-seniors/) across multiple studies and found meaningful improvements in cardiovascular endurance, leg strength, and self-reported quality of life in adults over 65. These weren't gentle stretching programs. They were structured, progressively challenging workouts done entirely from a seated position.
 

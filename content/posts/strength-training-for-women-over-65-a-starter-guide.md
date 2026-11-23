@@ -48,7 +48,7 @@ Hard to think of any medication or supplement that delivers this many benefits a
 
 Before starting any new exercise program, talk with your doctor or healthcare provider, especially if you have existing conditions like heart disease, osteoporosis, arthritis, or diabetes. In most cases, your doctor will fully support and encourage you to begin strength training.
 
-Ask your provider about any movements you should modify or avoid. For example, [women with severe osteoporosis](/best-low-impact-exercises-for-seniors-with-arthritis/) may need to skip certain forward-bending exercises. A physical therapist can be an excellent resource for creating a personalized, safe starting plan.
+Ask your provider about any movements you should modify or avoid. For example, women with severe osteoporosis may need to skip certain forward-bending exercises. A physical therapist can be an excellent resource for creating a personalized, safe starting plan.
 
 Once you have the green light, start slow. Your goal in the first few weeks is simply to learn the movements, not to push yourself to exhaustion. Consistency matters far more than intensity when you're just beginning.
 

@@ -26,7 +26,7 @@ Here's the short version of how it works: a cuff or wrap is applied to the upper
 
 ## Why the 2025-2026 Research Changes the Conversation
 
-Before this year, BFR had solid evidence behind it in athletic and post-surgical populations. What was missing was a clear picture of how it performed specifically in [older adults](/morning-stretches-for-older-adults/), at scale, across multiple study designs. That picture arrived in May 2026.
+Before this year, BFR had solid evidence behind it in athletic and post-surgical populations. What was missing was a clear picture of how it performed specifically in older adults, at scale, across multiple study designs. That picture arrived in May 2026.
 
 An umbrella review published in Sport Medicine and Health Science synthesized 23 systematic reviews covering 53 unique trials. The finding: BFR training promotes muscle hypertrophy comparable to high-load resistance training and superior to low-load training without BFR in adults 50 and older. That's not a small distinction. It means the method isn't just "better than nothing." It competes directly with the gold standard, at a fraction of the mechanical load.
 

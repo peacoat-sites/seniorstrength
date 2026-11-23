@@ -79,7 +79,7 @@ Start with 8 repetitions. Work toward 15 before you add difficulty.
 
 Here's where I expect some pushback.
 
-A lot of seniors come to me having been told to "strengthen your core." And so they've been doing crunches, or sit-ups, or some variation of both. I understand why, that's been the conventional wisdom for decades. But for adults over 60 with degenerative disc disease, spinal stenosis, or osteoporosis (all very common), [repeated spinal flexion under load](/exercises-for-seniors-with-arthritis/) is a real problem. Stuart McGill, a spinal biomechanics researcher at the University of Waterloo whose work has substantially reshaped how clinicians think about back rehabilitation, has documented how flexion-based movements can accelerate disc damage over time.
+A lot of seniors come to me having been told to "strengthen your core." And so they've been doing crunches, or sit-ups, or some variation of both. I understand why, that's been the conventional wisdom for decades. But for adults over 60 with degenerative disc disease, spinal stenosis, or osteoporosis (all very common), repeated spinal flexion under load is a real problem. Stuart McGill, a spinal biomechanics researcher at the University of Waterloo whose work has substantially reshaped how clinicians think about back rehabilitation, has documented how flexion-based movements can accelerate disc damage over time.
 
 The "core" most people need to strengthen is not the six-pack musculature. It's the deep, circumferential stabilizing system: the muscles that resist movement rather than produce it. That's what pelvic tilts and bird dogs are training. That's why I'd rather have a 68-year-old doing a 20-second plank (properly, with a neutral spine) than 20 crunches.
 

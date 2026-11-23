@@ -47,7 +47,7 @@ You'll gain:
 
 Photo by [Jack Lopez](https://unsplash.com/@jacklopezofficial?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-When you narrow your base of support as you do in heel-to-toe walking, your nervous system fires up balance reflexes that often go underused in normal daily movement. This is called proprioceptive training, and it's one of the most effective tools in [fall prevention](/best-balance-exercises-for-elderly-at-home/).
+When you narrow your base of support as you do in heel-to-toe walking, your nervous system fires up balance reflexes that often go underused in normal daily movement. This is called proprioceptive training, and it's one of the most effective tools in fall prevention.
 
 Research published in the _Journal of Aging and Physical Activity_ found that regular tandem walking exercises significantly improved balance scores and reduced fall risk in older adults. Physical therapists use this exact technique as a frontline intervention for seniors with balance concerns.
 

@@ -70,7 +70,7 @@ Many well-intentioned programs fall apart here. People show up three times a wee
 
 The standard recommendation for sedentary adults is 0.8 grams of protein per kilogram of body weight per day. For a 150-pound person, that's about 54 grams. Research increasingly suggests that older adults who are resistance training need closer to 1.2 to 1.6 grams per kilogram per day to maximize muscle protein synthesis. For that same 150-pound person, that's 82 to 109 grams daily. That's a meaningful difference.
 
-There's another wrinkle specific to older adults: [anabolic resistance](/how-to-reverse-muscle-loss-in-old-age/). Younger muscle tissue kicks off protein synthesis with a relatively small amino acid stimulus. Older muscle tissue often requires a larger dose per meal to get the same response. Practically, this means spreading protein across meals matters, and each meal should ideally contain at least 25 to 40 grams of high-quality protein rather than skimping at breakfast and lunch and front-loading at dinner.
+There's another wrinkle specific to older adults: anabolic resistance. Younger muscle tissue kicks off protein synthesis with a relatively small amino acid stimulus. Older muscle tissue often requires a larger dose per meal to get the same response. Practically, this means spreading protein across meals matters, and each meal should ideally contain at least 25 to 40 grams of high-quality protein rather than skimping at breakfast and lunch and front-loading at dinner.
 
 High-quality protein sources to prioritize: eggs, Greek yogurt, cottage cheese, chicken, fish, lean beef, and for plant-based eaters, soy protein, tempeh, and lentils combined with other plant proteins to ensure complete amino acid profiles.
 

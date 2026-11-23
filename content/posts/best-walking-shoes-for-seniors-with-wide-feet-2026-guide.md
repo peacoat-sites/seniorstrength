@@ -102,7 +102,7 @@ Quick breakdown:
  * **Lace-up:** Customizable and secure, may feel more supportive on uneven terrain if you're an active walker
  * **Slip-on:** Most convenient, but offers the least adjustability. Look for elastic panels that give you width
 
-Significant swelling or [difficulty bending](/foam-roller-for-seniors-how-to-use-it-safely/)? Velcro is almost always your best bet for both safety and ease.
+Significant swelling or difficulty bending? Velcro is almost always your best bet for both safety and ease.
 
 ## How to Get the Right Fit: Tips from Podiatrists
 

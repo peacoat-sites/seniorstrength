@@ -36,7 +36,7 @@ You're not fragile. But you are operating with a body that responds differently 
 
 ## The Warm-Up Is Not Optional
 
-I'll be honest: for years, I underestimated how much the warm-up mattered for [older adults](/why-seniors-on-ozempic-must-prioritize-strength-training-now/) specifically. I thought five minutes of light walking was sufficient for anyone. I was wrong. Here's what changed my mind.
+I'll be honest: for years, I underestimated how much the warm-up mattered for older adults specifically. I thought five minutes of light walking was sufficient for anyone. I was wrong. Here's what changed my mind.
 
 For example, a calf muscle tear can happen during a [water aerobics](/water-aerobics-exercises-for-seniors/) class if you push off the pool wall before your muscles have time to adjust to the water temperature and activity, especially if the instructor jumps straight into the routine. Such an injury can sideline you for eleven weeks or more.
 

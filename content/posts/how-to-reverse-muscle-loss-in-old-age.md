@@ -26,7 +26,7 @@ faqs:
     a: "If you're doing both in the same session, most evidence favors strength training first when the primary goal is muscle building. Aerobic fatigue can compromise the quality of resistance work. That said, they don't have to happen in the same session at all. Separating them, strength one day, a walk the next, is perfectly fine and what I typically recommend for clients just starting out."
 ---
 
-Consider someone like Gerald, a 63-year-old retired postal worker who could barely lift a gallon of milk without his elbow shaking. He'd been told by three different people, including one doctor, that this was just "normal aging." He'd accepted it. He was eating less because he wasn't as active, sleeping poorly, and had quietly stopped doing anything that required upper [body strength](/lower-body-strength-exercises-for-seniors/). By the time he sought help, he'd lost an estimated 14 pounds of muscle in about four years.
+Consider someone like Gerald, a 63-year-old retired postal worker who could barely lift a gallon of milk without his elbow shaking. He'd been told by three different people, including one doctor, that this was just "normal aging." He'd accepted it. He was eating less because he wasn't as active, sleeping poorly, and had quietly stopped doing anything that required upper body strength. By the time he sought help, he'd lost an estimated 14 pounds of muscle in about four years.
 
 Six months later, Gerald was doing assisted pull-ups.
 

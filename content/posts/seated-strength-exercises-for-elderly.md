@@ -1,5 +1,5 @@
 ---
-title: "Build Strength While Sitting: Safe Exercises for Older Adults"
+title: "Seated Strength Exercises for Elderly Adults That Build Muscle"
 date: 2026-06-23T21:43:28.379551+00:00
 draft: false
 description: "Discover effective seated strength exercises for elderly adults to build muscle, improve balance, and boost independence safely from a chair."
@@ -73,7 +73,7 @@ If this becomes easy after a few weeks, you can add a light ankle weight. The An
 
 This one requires a resistance band, which you can get from any sporting goods store or online for under $15. Anchor the band around a table leg in front of you, or have someone hold the ends. Hold one end in each hand, arms extended forward, then pull your elbows back like you're trying to pinch something between your shoulder blades. Hold briefly, then return slowly.
 
-This targets the mid-back muscles (rhomboids and mid-trapezius) that become critically weak in people who spend hours at a computer or slouched in chairs. Weak mid-back is a major driver of the [forward-hunched posture](/core-strengthening-exercises-for-seniors/) you see in a lot of older adults, and that posture in turn affects breathing, balance, and digestion. This one exercise addresses something that almost nobody talks about in senior fitness content.
+This targets the mid-back muscles (rhomboids and mid-trapezius) that become critically weak in people who spend hours at a computer or slouched in chairs. Weak mid-back is a major driver of the forward-hunched posture you see in a lot of older adults, and that posture in turn affects breathing, balance, and digestion. This one exercise addresses something that almost nobody talks about in senior fitness content.
 
 **Seated Calf Raises**
 

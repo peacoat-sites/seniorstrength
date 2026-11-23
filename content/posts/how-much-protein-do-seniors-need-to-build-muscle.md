@@ -68,13 +68,13 @@ So what does 30 to 40 grams of protein actually look like at breakfast? Here are
 
 Lunch and dinner can carry similar loads without much difficulty if you're anchoring the meal around a meaningful protein source. A six-ounce chicken breast has roughly 50 grams. A can of tuna packs about 25. A cup of cooked lentils gets you 18, though plant proteins come with additional considerations (more on that in a moment).
 
-One thing I've noticed working with clients in their 60s and 70s is that appetite often decreases with age, which makes hitting higher protein targets genuinely harder. If you're finding it difficult to eat enough food, [protein supplements](/best-protein-sources-for-seniors-building-muscle/) aren't cheating. They're practical. A good whey protein powder, something like Optimum Nutrition Gold Standard or Thorne Whey, runs about $35 to $55 for a month's supply and adds 20 to 25 grams per serving with minimal volume. For smaller appetites, that can be the difference between hitting your target and falling short by 40 grams every day.
+One thing I've noticed working with clients in their 60s and 70s is that appetite often decreases with age, which makes hitting higher protein targets genuinely harder. If you're finding it difficult to eat enough food, protein supplements aren't cheating. They're practical. A good whey protein powder, something like Optimum Nutrition Gold Standard or Thorne Whey, runs about $35 to $55 for a month's supply and adds 20 to 25 grams per serving with minimal volume. For smaller appetites, that can be the difference between hitting your target and falling short by 40 grams every day.
 
 **Build a realistic weekly meal plan around your protein goals with our Senior Meal Planning Guide.**
 
 ## The Plant Protein Question
 
-You might be wondering whether you can hit these targets eating mostly or entirely [plant-based foods](/best-protein-sources-for-seniors-building-muscle/). The honest answer is yes, but it takes more intentionality than most plant-based guides admit.
+You might be wondering whether you can hit these targets eating mostly or entirely plant-based foods. The honest answer is yes, but it takes more intentionality than most plant-based guides admit.
 
 Plant proteins tend to be "incomplete," meaning they're low in one or more of the amino acids your muscles need, particularly leucine, which appears to be the most important amino acid for triggering muscle protein synthesis. Dr. Nicolaas Deutz, director of the Center for Translational Research in Aging and Longevity at Texas A&M, has noted that leucine acts almost like an "on switch" for muscle building, and plant sources generally deliver less of it per gram of protein than animal sources do.
 

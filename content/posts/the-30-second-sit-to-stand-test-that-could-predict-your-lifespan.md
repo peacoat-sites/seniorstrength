@@ -34,7 +34,7 @@ A March 2026 Harvard Health report, summarizing findings from a JAMA Network Ope
 
 ## What Your Score Actually Means
 
-Scoring norms matter. Completing 12 stands in 30 seconds means something very different at 65 than at 80. Here's how the widely-used Jones and Rikli normative data (the standard reference in [functional fitness](/exercises-for-seniors-to-stay-independent/) testing for older adults) breaks down by age group for women and men:
+Scoring norms matter. Completing 12 stands in 30 seconds means something very different at 65 than at 80. Here's how the widely-used Jones and Rikli normative data (the standard reference in functional fitness testing for older adults) breaks down by age group for women and men:
 
 | Age Group | Below Average (Women) | Average (Women) | Below Average (Men) | Average (Men) |
 |---|---|---|---|---|

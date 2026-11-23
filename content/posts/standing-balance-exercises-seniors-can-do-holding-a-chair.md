@@ -41,7 +41,7 @@ Choose a sturdy, non-wheeled chair and place it against a wall for extra securit
  * Start slowly and never push through pain or dizziness
  * Have a family member or friend nearby when you first begin
 
-**Pro Tip:** Place your chair in front of a mirror if possible. Watching your posture in real time helps you stay aligned and gives your brain extra visual feedback, one of the [three key systems controlling balance](/why-do-seniors-lose-their-balance/).
+**Pro Tip:** Place your chair in front of a mirror if possible. Watching your posture in real time helps you stay aligned and gives your brain extra visual feedback, one of the three key systems controlling balance.
 
 ## Five Essential Standing Balance Exercises Seniors Can Do Holding a Chair
 

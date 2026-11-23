@@ -36,7 +36,7 @@ You're at a family dinner, laughing and talking, but you keep missing punchlines
 
 Nearly one in three people between 65 and 74 has some degree of hearing loss. It's one of the most common conditions affecting older adults, but most people treat it like an afterthought.
 
-That's a mistake. Untreated hearing loss doesn't just mean missing conversations. It leads to social isolation, depression, and cognitive decline that doctors often mistake for early dementia. Your brain actually atrophies when it's starved of sound input. Think of a hearing aid not as a cosmetic fix but as a preventive health measure, something you'd take as seriously as [managing blood pressure or cholesterol](/best-blood-pressure-monitor-for-seniors-at-home/).
+That's a mistake. Untreated hearing loss doesn't just mean missing conversations. It leads to social isolation, depression, and cognitive decline that doctors often mistake for early dementia. Your brain actually atrophies when it's starved of sound input. Think of a hearing aid not as a cosmetic fix but as a preventive health measure, something you'd take as seriously as managing blood pressure or cholesterol.
 
 The sooner you address it, the better your chances of staying sharp and connected long-term.
 
@@ -44,7 +44,7 @@ The sooner you address it, the better your chances of staying sharp and connecte
 
 Not all hearing aids are created equal, and specs matter. Before you spend money, know what actually moves the needle for your life.
 
-**Ease of use** tops the list. If you've got arthritis or any [dexterity issues](/best-chair-for-seniors-with-back-pain-buying-guide/), the wrong size device becomes unusable within weeks. Simple controls and easy insertion matter more than you'd think.
+**Ease of use** tops the list. If you've got arthritis or any dexterity issues, the wrong size device becomes unusable within weeks. Simple controls and easy insertion matter more than you'd think.
 
 **Battery life** is real. Rechargeable models eliminate the constant frustration of fiddling with tiny disposable batteries, though they do add complexity for some users.
 

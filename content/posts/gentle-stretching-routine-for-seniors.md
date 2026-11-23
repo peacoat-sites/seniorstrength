@@ -1,5 +1,5 @@
 ---
-title: "Easy Stretches That Keep Seniors Mobile and Pain-Free"
+title: "Gentle Stretching Routine for Seniors to Stay Mobile"
 date: 2026-05-24T22:13:01.142265+00:00
 draft: false
 description: "Discover a safe and easy gentle stretching routine for seniors to improve flexibility, reduce stiffness, boost mobility, and enhance overall health and well-bei"
@@ -69,7 +69,7 @@ This routine works for most healthy adults over 60, but "most" isn't "all." Use 
 Sit tall, feet flat. Clasp your hands behind your back (or grip the back of the chair if that's too much). Gently squeeze your shoulder blades together and lift your chest toward the ceiling. You'll feel a stretch across the front of your shoulders and chest. This directly counteracts the forward rounding that builds up from decades of desk work or driving.
 
 **2. Seated Hip Flexor Stretch**
-Sit near the edge of a sturdy chair. Slide your right leg back so your foot is behind you, top of foot resting on the floor or toes touching down. Sit tall and gently press your hips forward. You should feel a pull at the front of your right hip. This one's a revelation for people with [chronic low back tightness](/best-chair-for-seniors-with-back-pain-buying-guide/). Repeat on the left.
+Sit near the edge of a sturdy chair. Slide your right leg back so your foot is behind you, top of foot resting on the floor or toes touching down. Sit tall and gently press your hips forward. You should feel a pull at the front of your right hip. This one's a revelation for people with chronic low back tightness. Repeat on the left.
 
 **3. Seated Hamstring Stretch**
 Sit tall, extend your right leg straight out with your heel on the floor. Keep your back straight (don't round your spine) and hinge slightly forward at your hips until you feel a pull along the back of your thigh. Most people try to touch their toes and end up stretching their lower back instead. Keep the spine long. That's what actually works.

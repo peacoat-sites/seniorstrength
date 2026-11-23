@@ -57,7 +57,7 @@ That said, you have to build up to them.
 
 **Add a heel raise.** Standing behind the chair with hands lightly resting on the back for balance, rise up on your toes, hold for two seconds, lower slowly. This targets the calf muscles and, critically, it trains the ankle stability that keeps you upright when you step on uneven ground. Aim for 3 sets of 10 to 15 reps.
 
-**Step-ups on a low step.** Four to six inches is enough to start. One foot up, drive through the heel to step fully onto the surface, bring the other foot up, then step back down with control. This builds [single-leg strength](/lower-body-strength-exercises-for-seniors/) in a way that squats simply can't, and single-leg strength is exactly what you need for walking and stair climbing.
+**Step-ups on a low step.** Four to six inches is enough to start. One foot up, drive through the heel to step fully onto the surface, bring the other foot up, then step back down with control. This builds single-leg strength in a way that squats simply can't, and single-leg strength is exactly what you need for walking and stair climbing.
 
 **Mini squats or wall squats.** Standing with your back against a wall, feet shoulder-width apart and about 18 inches out from the wall, slide down until your thighs are at roughly 45 degrees (not a full 90-degree bend unless that's comfortable). Hold for 10-30 seconds and work up from there. This is lower-impact on the knees than a free squat and still loads the quads and glutes effectively.
 

@@ -36,7 +36,7 @@ What most people don't realize is that muscle loss, sarcopenia, is already happe
 
 ## Why Your Muscles Are Begging for a Challenge
 
-Muscle is metabolically expensive. Your body will shed it the moment it decides you don't need it. This is called the "use it or lose it" principle, and it applies with brutal efficiency as we age. After 60, the rate of [muscle loss](/why-seniors-on-ozempic-must-prioritize-strength-training-now/) accelerates, and it brings friends: slower metabolism, weaker bones, worse balance, higher fall risk, and blood sugar regulation that starts to slip.
+Muscle is metabolically expensive. Your body will shed it the moment it decides you don't need it. This is called the "use it or lose it" principle, and it applies with brutal efficiency as we age. After 60, the rate of muscle loss accelerates, and it brings friends: slower metabolism, weaker bones, worse balance, higher fall risk, and blood sugar regulation that starts to slip.
 
 Resistance training sends a signal to your body that muscle is necessary. The mechanical stress of lifting something heavy, whether that's a barbell, a resistance band, or your own bodyweight in a squat, triggers a cascade of hormonal and cellular responses that stimulate muscle protein synthesis. Even when anabolic hormones like testosterone and growth hormone decline with age (and they do decline), muscle tissue still responds to mechanical loading. The signal pathway is different, but the adaptation happens.
 
