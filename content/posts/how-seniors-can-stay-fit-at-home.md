@@ -28,7 +28,7 @@ lastmod: 2026-11-16T16:00:00Z
 
 Most home fitness advice for older adults is either condescendingly simple or quietly dangerous. You'll find articles recommending chair sits and wall push-ups alongside breathless enthusiasm for "senior-friendly" routines that, in practice, do almost nothing to build the strength and balance that actually keep you upright and independent. The gap between feel-good content and genuinely effective training is wide, and most people land in it.
 
-Here's what actually matters: progressive overload, balance training that challenges you (not just lets you wobble gently), and consistency across all [three pillars of functional fitness](/functional-fitness-exercises-for-seniors/): strength, mobility, and cardiovascular capacity. You don't need a gym. You need a plan that respects your intelligence and treats your body as something worth developing.
+Here's what actually matters: progressive overload, balance training that challenges you (not just lets you wobble gently), and consistency across all [three pillars of functional fitness](/exercises-for-seniors-to-stay-independent/): strength, mobility, and cardiovascular capacity. You don't need a gym. You need a plan that respects your intelligence and treats your body as something worth developing.
 
 ## The Equipment Worth Buying (And What to Skip)
 

@@ -37,7 +37,7 @@ Here's what to actually do about it.
 
 Walk into any gym. You'll see rows of people doing chest presses and shoulder raises. You'll see almost nobody doing rows.
 
-This imbalance matters because most of us are already anterior-dominant from decades of sitting, driving, and looking at screens. The muscles across your chest and the front of your shoulders get chronically shortened and overworked; the muscles of your upper back and rear shoulders get long and weak. Then someone hands you a pair of [dumbbell](/strength-training-with-dumbbells-for-seniors/)s and says "do some presses" and you've just made an existing imbalance worse.
+This imbalance matters because most of us are already anterior-dominant from decades of sitting, driving, and looking at screens. The muscles across your chest and the front of your shoulders get chronically shortened and overworked; the muscles of your upper back and rear shoulders get long and weak. Then someone hands you a pair of [dumbbell](/dumbbell-exercises-for-seniors-at-home/)s and says "do some presses" and you've just made an existing imbalance worse.
 
 Here's my strong preference: for every pushing exercise in your program, do at least one, ideally two, pulling exercises. If you do chest press, do seated rows and face pulls. If you do an overhead press, add a band pull-apart. This ratio shift alone changes outcomes noticeably over a few months.
 

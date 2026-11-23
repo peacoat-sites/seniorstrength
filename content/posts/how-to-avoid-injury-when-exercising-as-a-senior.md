@@ -36,9 +36,9 @@ You're not fragile. But you are operating with a body that responds differently 
 
 ## The Warm-Up Is Not Optional
 
-I'll be honest: for years, I underestimated how much the warm-up mattered for [older adults](/strength-training-is-now-essential-for-older-adults-on-glp-1-drugs/) specifically. I thought five minutes of light walking was sufficient for anyone. I was wrong. Here's what changed my mind.
+I'll be honest: for years, I underestimated how much the warm-up mattered for [older adults](/why-seniors-on-ozempic-must-prioritize-strength-training-now/) specifically. I thought five minutes of light walking was sufficient for anyone. I was wrong. Here's what changed my mind.
 
-For example, a calf muscle tear can happen during a [water aerobics](/water-aerobics-for-seniors-benefits-and-beginner-moves/) class if you push off the pool wall before your muscles have time to adjust to the water temperature and activity, especially if the instructor jumps straight into the routine. Such an injury can sideline you for eleven weeks or more.
+For example, a calf muscle tear can happen during a [water aerobics](/water-aerobics-exercises-for-seniors/) class if you push off the pool wall before your muscles have time to adjust to the water temperature and activity, especially if the instructor jumps straight into the routine. Such an injury can sideline you for eleven weeks or more.
 
 The physiology here is straightforward. As we age, muscle tissue loses some of its elasticity. Tendons become less pliable. The synovial fluid in your joints takes longer to distribute evenly when you start moving. A proper warm-up addresses all three of those things. Eight to ten minutes of gentle, progressive movement isn't just ritual. It's preparation on a cellular level.
 

@@ -28,7 +28,7 @@ faqs:
 
 After 65, your body loses muscle roughly three times faster than it did in your 30s.
 
-That's not a scare tactic. That's the actual rate. A landmark paper published in the *Journal of Cachexia, Sarcopenia and Muscle* put the average [muscle loss](/how-to-prevent-muscle-loss-with-age/) in adults over 60 at around 1 to 2 percent per year, but for many people who are sedentary or undereating protein, the rate climbs considerably higher. And here's the part that catches most people off guard: the muscle you lose in your 60s and 70s directly affects your balance, your bone density, and your ability to recover from illness. This isn't about vanity. It's about staying independent.
+That's not a scare tactic. That's the actual rate. A landmark paper published in the *Journal of Cachexia, Sarcopenia and Muscle* put the average [muscle loss](/how-to-reverse-muscle-loss-in-old-age/) in adults over 60 at around 1 to 2 percent per year, but for many people who are sedentary or undereating protein, the rate climbs considerably higher. And here's the part that catches most people off guard: the muscle you lose in your 60s and 70s directly affects your balance, your bone density, and your ability to recover from illness. This isn't about vanity. It's about staying independent.
 
 You might be wondering whether protein shakes can actually do anything meaningful about this, or whether they're just expensive flavored powder sold to people who are worried. That's a fair question, and I want to give you a real answer, not a sales pitch.
 
@@ -38,7 +38,7 @@ You might be wondering whether protein shakes can actually do anything meaningfu
 
 The official Recommended Dietary Allowance of 0.8 grams of protein per kilogram of bodyweight per day is often applied to older adults, but this approach misses an important distinction. This number is the minimum to prevent deficiency, not the amount needed to maintain or build muscle in [older adults](/morning-stretches-for-older-adults/).
 
-The research has shifted decisively on this. A 2017 study in the *American Journal of Clinical Nutrition* (Bauer et al.) and subsequent work from the PROT-AGE Study Group recommend 1.2 to 1.6 grams per kilogram [per day](/how-much-protein-do-seniors-need-per-day/) for healthy older adults, and up to 2.0 grams per kilogram for those dealing with illness or recovering from surgery. For a 160-pound (73 kg) person, that's roughly 88 to 117 grams of protein daily, sometimes more.
+The research has shifted decisively on this. A 2017 study in the *American Journal of Clinical Nutrition* (Bauer et al.) and subsequent work from the PROT-AGE Study Group recommend 1.2 to 1.6 grams per kilogram [per day](/how-much-protein-do-seniors-need-to-build-muscle/) for healthy older adults, and up to 2.0 grams per kilogram for those dealing with illness or recovering from surgery. For a 160-pound (73 kg) person, that's roughly 88 to 117 grams of protein daily, sometimes more.
 
 Most older adults aren't close to hitting those numbers. A National Health and Nutrition Examination Survey analysis found that approximately 46% of adults over 70 consume less than the already-conservative 0.8g/kg recommendation. When you factor in reduced appetite (which is genuinely common with aging), difficulties chewing, and the simple fact that cooking a full protein-rich meal three times a day takes energy, you start to understand why supplementation isn't just a convenience. It fills a real gap.
 

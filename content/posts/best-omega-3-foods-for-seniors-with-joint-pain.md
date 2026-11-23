@@ -82,7 +82,7 @@ These are easy to add to meals you probably already make:
 * **Chia seeds**, two tablespoons pack around 5,000 mg of ALA. Make a chia pudding the night before and grab it for breakfast.
 * **Walnuts**, a small handful (about one ounce) gives you roughly 2,500 mg of ALA. They also contain antioxidants that fight damage in your joints.
 * **Hemp seeds**, a good mix of omega-3 and omega-6 fatty acids. Toss them on salads or stir them into soups.
-* **Edamame**, young soybeans make a tasty snack with decent ALA and plenty of protein to support the [muscles around your joints](/best-protein-foods-for-seniors-to-maintain-muscle/).
+* **Edamame**, young soybeans make a tasty snack with decent ALA and plenty of protein to support the [muscles around your joints](/best-protein-sources-for-seniors-building-muscle/).
 * **Algae oil**, made from marine algae, this is the plant-based source of actual EPA and DHA. Great for vegetarians and vegans.
 
 Here's the honest part: ALA from plants has to convert to EPA and DHA in your body, and that conversion isn't very efficient. Still, plant-based omega-3s deliver real anti-inflammatory benefits and belong in any senior's diet.

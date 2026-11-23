@@ -45,7 +45,7 @@ The encouraging part? The vestibular system responds extremely well to targeted 
 
 ## How Vestibular Exercises Actually Help
 
-Vestibular rehabilitation exercises work through **neuroplasticity**, the brain's ability to rewire and adapt. When you repeatedly challenge your [balance system](/why-do-seniors-lose-their-balance-causes-and-fixes/) in a safe, controlled way, your brain gradually learns to compensate for the faulty signals it's receiving.
+Vestibular rehabilitation exercises work through **neuroplasticity**, the brain's ability to rewire and adapt. When you repeatedly challenge your [balance system](/why-do-seniors-lose-their-balance/) in a safe, controlled way, your brain gradually learns to compensate for the faulty signals it's receiving.
 
 Research published in journals like the _Journal of Vestibular Research_ consistently shows that vestibular rehabilitation therapy reduces dizziness frequency and severity. Studies also document improvements in gait stability, reduced [fall risk](/how-to-reduce-fall-risk-in-elderly-parents/), and better quality of life in older adults who do regular vestibular exercise programs.
 

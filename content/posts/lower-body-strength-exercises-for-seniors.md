@@ -41,9 +41,9 @@ What I want to do here is give you the real picture: which exercises actually bu
 | 60s | 1-2% per year | Journal of Gerontology |
 | 70+ | 2-4% per year | Journal of Gerontology |
 
-[Muscle loss after 60](/how-seniors-can-regain-lost-muscle-mass/) isn't linear. It accelerates. The research on sarcopenia (age-related muscle loss) consistently shows that the rate of decline roughly doubles between your 60s and your 70s if you're not doing targeted resistance training. A landmark paper published in the *Journal of Gerontology* found that adults who were sedentary lost an average of 1-2% of lower body muscle mass per year in their 60s, jumping to 2-4% per year after 70.
+[Muscle loss after 60](/how-to-reverse-muscle-loss-in-old-age/) isn't linear. It accelerates. The research on sarcopenia (age-related muscle loss) consistently shows that the rate of decline roughly doubles between your 60s and your 70s if you're not doing targeted resistance training. A landmark paper published in the *Journal of Gerontology* found that adults who were sedentary lost an average of 1-2% of lower body muscle mass per year in their 60s, jumping to 2-4% per year after 70.
 
-The lower body takes the hardest hit for a few reasons. One, it's the furthest from your heart. Two, the [fast-twitch muscle fibers](/how-to-build-muscle-after-60/) responsible for power and quick reactions atrophy disproportionately with age. And three, most people reduce walking distances before they reduce arm activities, so the legs get less daily stimulation without anyone really noticing.
+The lower body takes the hardest hit for a few reasons. One, it's the furthest from your heart. Two, the [fast-twitch muscle fibers](/how-to-build-muscle-after-65/) responsible for power and quick reactions atrophy disproportionately with age. And three, most people reduce walking distances before they reduce arm activities, so the legs get less daily stimulation without anyone really noticing.
 
 What this means practically: by the time someone tells me their balance has gotten "a little shaky," they've often already lost 15-20% of their functional lower body strength. That's not a rounding error. That's the difference between catching yourself on a slippery floor and falling.
 

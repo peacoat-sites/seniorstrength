@@ -28,7 +28,7 @@ What most people don't realize is that this isn't inevitable in the way we've be
 
 ## The Grip Strength Number That Should Get Your Attention
 
-In February 2026, researchers at the University at Buffalo published what's being described as the largest study of its kind in *JAMA Network Open*. They found that for every 7 kilograms of [grip strength](/what-your-grip-strength-says-about-how-long-you-will-live/) in women over 60, mortality risk dropped by 12% on average. Read that again. A 7 kg difference in how hard you can squeeze, something measurable with a simple handheld device in a doctor's office, correlates with a 12% drop in mortality risk.
+In February 2026, researchers at the University at Buffalo published what's being described as the largest study of its kind in *JAMA Network Open*. They found that for every 7 kilograms of [grip strength](/grip-strength-exercises-for-older-adults/) in women over 60, mortality risk dropped by 12% on average. Read that again. A 7 kg difference in how hard you can squeeze, something measurable with a simple handheld device in a doctor's office, correlates with a 12% drop in mortality risk.
 
 Grip strength is a marker, not a magic lever. It reflects the overall state of your muscular system. A stronger grip generally means you've maintained more lean muscle mass, better neuromuscular coordination, and a more physically active lifestyle. But the number is striking because it gives something concrete to reach toward. Strength is trainable at any age. The goal isn't to become an athlete. The goal is to stay functional and reduce systemic vulnerability.
 

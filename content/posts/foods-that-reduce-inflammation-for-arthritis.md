@@ -46,7 +46,7 @@ What most people don't realize is that the foods you eat directly influence infl
 
 Dr. Frank Hu, a professor of nutrition and epidemiology at Harvard T.H. Chan School of Public Health, has written extensively on dietary patterns and chronic disease. His research team found that "diets high in refined starches, sugar, and saturated and trans-fatty acids promote inflammation, while diets rich in omega-3 fatty acids, antioxidants, and polyphenols have the opposite effect." That's not a vague observation, it's supported by biomarkers like C-reactive protein (CRP) and interleukin-6 levels measured in blood.
 
-For people with rheumatoid arthritis specifically, a 2020 review published in *Frontiers in Nutrition* examined 24 controlled studies and found that [Mediterranean-style dietary patterns](/anti-inflammatory-foods-for-senior-joints/) were consistently associated with lower disease activity scores and reduced CRP levels. The effect sizes weren't enormous, but they were real and replicable.
+For people with rheumatoid arthritis specifically, a 2020 review published in *Frontiers in Nutrition* examined 24 controlled studies and found that Mediterranean-style dietary patterns were consistently associated with lower disease activity scores and reduced CRP levels. The effect sizes weren't enormous, but they were real and replicable.
 
 Here's the practical upshot: you don't need to memorize biochemistry. You need to know which foods are working for you and which ones are quietly making things worse.
 

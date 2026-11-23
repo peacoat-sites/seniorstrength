@@ -26,7 +26,7 @@ Whether you're flying solo or cooking for two, meal prep saves time, money, and 
 
 ## Why Meal Prep Makes Sense for Older Adults
 
-Your body's needs shift as you age. You need more protein to keep muscle, [more calcium for bones](/calcium-rich-foods-for-seniors-non-dairy-options-too/), and decent fiber for digestion. Meanwhile, a lot of seniors lose appetite or just can't be bothered cooking something complicated every single day.
+Your body's needs shift as you age. You need more protein to keep muscle, [more calcium for bones](/calcium-and-vitamin-d-for-seniors-guide/), and decent fiber for digestion. Meanwhile, a lot of seniors lose appetite or just can't be bothered cooking something complicated every single day.
 
 Meal prepping tackles several problems at once. It kills the urge to grab processed junk when you're tired or unmotivated.
 

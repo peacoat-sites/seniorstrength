@@ -31,7 +31,7 @@ The study enrolled 97 adults aged 65 and older and put them through a protocol c
 
 After 12 weeks, the numbers were hard to dismiss. Participants added an average of 4.2 additional chair-stand repetitions in a 30-second window. They held a one-legged balance stand 3.6 seconds longer. They shaved 2.3 seconds off their sit-to-stand time. For younger adults, those improvements might sound modest. For someone in their mid-70s, they represent the difference between moving through the world confidently and quietly avoiding activities that feel risky.
 
-Chair-stand performance and one-legged balance aren't arbitrary fitness metrics. They're among the strongest predictors of [fall risk and functional independence](/what-your-grip-strength-says-about-how-long-you-will-live/) in older adults. A 4.2 rep improvement in 30-second chair stands is clinically significant territory. The sit-to-stand time reduction matters because that movement, getting up from a chair, is one of the first things older adults start compensating around when strength begins to decline.
+Chair-stand performance and one-legged balance aren't arbitrary fitness metrics. They're among the strongest predictors of [fall risk and functional independence](/grip-strength-exercises-for-older-adults/) in older adults. A 4.2 rep improvement in 30-second chair stands is clinically significant territory. The sit-to-stand time reduction matters because that movement, getting up from a chair, is one of the first things older adults start compensating around when strength begins to decline.
 
 ## Why Adherence Is the Real Story Here
 

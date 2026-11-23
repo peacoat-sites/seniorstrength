@@ -47,7 +47,7 @@ Before any technique, any routine, any specific stretch: no pain.
 
 I don't mean "push through mild discomfort." I mean the instant you feel a sharp sensation, pinching, or joint pain, you back off. Stretching should feel like a mild to moderate pull in the muscle itself, not in the joint. If you're feeling it in your knee, hip socket, or shoulder joint, something's wrong with either your position or how deep you're going.
 
-This matters more after 60 for concrete reasons. Tissues are more vulnerable to micro-tears at this stage. Recovery takes longer. And because older adults often have some [osteoporosis](/best-exercises-for-osteoporosis/), arthritis, or other underlying joint changes, a stretch that's totally fine for a 35-year-old can cause real damage when applied carelessly to a 70-year-old.
+This matters more after 60 for concrete reasons. Tissues are more vulnerable to micro-tears at this stage. Recovery takes longer. And because older adults often have some [osteoporosis](/how-to-exercise-safely-with-osteoporosis/), arthritis, or other underlying joint changes, a stretch that's totally fine for a 35-year-old can cause real damage when applied carelessly to a 70-year-old.
 
 Here's one practical rule I give every client: the "3-second rule." Hold the initial stretch for three seconds. If the sensation softens or stays the same, you're probably fine to continue. If it intensifies, back off. Your nervous system is trying to tell you something.
 

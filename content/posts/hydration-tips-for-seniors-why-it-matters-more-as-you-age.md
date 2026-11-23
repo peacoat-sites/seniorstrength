@@ -41,7 +41,7 @@ Even a small drop in hydration can trigger or worsen:
  * **Confusion and cognitive decline**, even mild dehydration can cause brain fog, difficulty concentrating, and memory lapses
  * **Dizziness and falls**, low fluid levels can cause drops in blood pressure, leading to dangerous falls
  * **Kidney stones and kidney stress**, your kidneys need adequate water to filter waste properly
- * **Fatigue and [muscle weakness](/best-protein-foods-for-seniors-to-maintain-muscle/)**, dehydrated muscles tire faster and are more prone to cramps
+ * **Fatigue and [muscle weakness](/best-protein-sources-for-seniors-building-muscle/)**, dehydrated muscles tire faster and are more prone to cramps
 
 The good news? Most of these risks drop significantly when you make consistent hydration a daily priority.
 
@@ -88,7 +88,7 @@ Don't force large amounts all at once. Small, steady sips throughout the day are
 
 Photo by [Luisa Brimble](https://unsplash.com/@luisabrimble?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Water is always the gold standard, but it's far from your only option. Herbal teas, diluted fruit juices, broths, and [low-fat milk](/calcium-rich-foods-for-seniors-non-dairy-options-too/) all count toward your daily fluid intake and offer added nutritional benefits.
+Water is always the gold standard, but it's far from your only option. Herbal teas, diluted fruit juices, broths, and [low-fat milk](/calcium-and-vitamin-d-for-seniors-guide/) all count toward your daily fluid intake and offer added nutritional benefits.
 
 Sparkling water is a great option if you prefer a little fizz. Just choose versions without added sugar or artificial sweeteners. Coconut water is another hydrating choice that naturally contains electrolytes, though it does have some natural sugars.
 

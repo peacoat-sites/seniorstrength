@@ -28,7 +28,7 @@ faqs:
 
 Forty percent of adults over 65 who fall will fall again within a year.  Yet the conversation about preventing falls almost always misses one of the most correctable pieces of the puzzle: vitamin D status. Not exercise alone, not better footwear (though please, yes, ditch the floppy slippers). Vitamin D. Between 35% and 55% of older Americans are deficient in vitamin D, and most people associate it only with bone health.
 
-Vitamin D is easy to overlook in fall prevention. The focus in fall prevention tends to fall almost entirely on movement quality, [balance training](/balance-training-for-fall-prevention-seniors/), and progressive resistance work. All of that matters enormously. Yet the literature consistently pulls vitamin D back into the conversation, specifically around muscle function and neuromuscular control, which are the exact things that determine whether someone catches a stumble or hits the floor.
+Vitamin D is easy to overlook in fall prevention. The focus in fall prevention tends to fall almost entirely on movement quality, [balance training](/balance-exercises-for-seniors-to-prevent-falls/), and progressive resistance work. All of that matters enormously. Yet the literature consistently pulls vitamin D back into the conversation, specifically around muscle function and neuromuscular control, which are the exact things that determine whether someone catches a stumble or hits the floor.
 
 What follows is the actual story. Not the reassuring summary version.
 

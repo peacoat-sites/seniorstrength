@@ -60,7 +60,7 @@ Falls are the leading cause of injury-related death in adults over 65 in the Uni
 
 Balance declines because we stop practicing it. If you've spent 30 years sitting at a desk and riding elevators, your proprioceptive system, the network of sensory inputs that tells your brain where your body is in space, has gotten lazy. It can be retrained. That's the part most fitness content forgets to mention.
 
-Targeted balance work over 12 weeks can dramatically reduce fall risk in people in their 80s. Not marathon training. Exercises like single-leg stands, heel-to-toe walking, and side-stepping with resistance bands. The research backs this up. A 2019 Cochrane Review, which pooled results from 108 trials, found that [balance and functional exercises](/functional-fitness-exercises-for-seniors/) reduced fall rate in older adults by 24%.
+Targeted balance work over 12 weeks can dramatically reduce fall risk in people in their 80s. Not marathon training. Exercises like single-leg stands, heel-to-toe walking, and side-stepping with resistance bands. The research backs this up. A 2019 Cochrane Review, which pooled results from 108 trials, found that [balance and functional exercises](/exercises-for-seniors-to-stay-independent/) reduced fall rate in older adults by 24%.
 
 Tai chi keeps coming up in this research and honestly, it deserves its reputation. A 2020 study in *JAMA Internal Medicine* found that tai chi reduced fall incidence better than a stretching program and comparably to a multimodal exercise program. It's low-impact, it's social, and classes at most community centers run around $8 to $15 per session. Worth knowing.
 

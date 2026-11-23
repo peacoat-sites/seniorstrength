@@ -64,7 +64,7 @@ Joint protection during exercise comes down to two things, and they interact: ho
 
 **Load management.** More resistance isn't always better, even for building strength. The research on this has gotten more nuanced over the last several years. A 2022 paper in *The Journal of Strength and Conditioning Research* found that older adults made comparable strength gains training at 30-60% of their one-rep maximum compared to higher loads, with significantly less joint stress. The key variable was time under tension, meaning slower, more controlled repetitions, rather than the amount of weight.
 
-For someone with [knee or hip arthritis](/how-to-exercise-with-arthritis-without-pain/), this is genuinely good news. You don't need to load the joint heavily to get stronger. You need to load it consistently, progressively, and in good position.
+For someone with [knee or hip arthritis](/exercises-for-seniors-with-arthritis/), this is genuinely good news. You don't need to load the joint heavily to get stronger. You need to load it consistently, progressively, and in good position.
 
 **Alignment.** This is where a mirror, a knowledgeable trainer, or at minimum a phone propped up to record yourself is worth more than almost any piece of equipment you can buy. Common misalignments I see:
 

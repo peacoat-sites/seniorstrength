@@ -28,7 +28,7 @@ lastmod: 2026-11-16T16:00:00Z
 
 Most people picture chair yoga and think it's basically stretching for people who gave up. I understand that reaction. The first time a doctor suggested it to a patient I was working with, a 71-year-old retired electrician named Frank who'd had a hip replacement six months earlier, he looked at me like I'd offered him a participation trophy. Six weeks later he was telling everyone in his building about it.
 
-That gap between perception and reality is exactly why I want to write this piece carefully. Chair yoga done right is not gentle napping with background music. At its best, it builds the kind of functional strength and body awareness that keeps you from grabbing the wall when you stand up too fast, from crumpling when you step off a curb wrong, from living in that [low-level chronic tightness](/gentle-exercises-for-seniors-with-arthritis/) that most people over 60 just accept as the price of getting older.
+That gap between perception and reality is exactly why I want to write this piece carefully. Chair yoga done right is not gentle napping with background music. At its best, it builds the kind of functional strength and body awareness that keeps you from grabbing the wall when you stand up too fast, from crumpling when you step off a curb wrong, from living in that [low-level chronic tightness](/exercises-for-seniors-with-arthritis/) that most people over 60 just accept as the price of getting older.
 
 It also has a genuinely low floor for entry. You don't need a gym. You don't need yoga experience. You need a sturdy chair without wheels.
 

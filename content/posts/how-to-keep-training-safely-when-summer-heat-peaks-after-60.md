@@ -35,7 +35,7 @@ If you take any of these, please talk to your doctor before your next outdoor wo
 
 Many people get into trouble in August by keeping their usual schedule without adjusting for the season. A morning walk that felt fine in spring becomes risky as heat and humidity intensify. By mid-July the heat index at 8 a.m. is already climbing past 80 degrees, and by late August the window of safe outdoor activity has shrunk considerably.
 
-[Senior fitness](/how-to-start-a-senior-fitness-program/) experts writing for the Alliance for Aging Research in July 2026 were direct about this: heat exhaustion and dehydration escalate faster in adults over 65, and the strategy has to be proactive, not reactive. That means building the timing change into your routine before you feel like you need it, not after you've had a close call.
+[Senior fitness](/how-to-start-strength-training-at-65/) experts writing for the Alliance for Aging Research in July 2026 were direct about this: heat exhaustion and dehydration escalate faster in adults over 65, and the strategy has to be proactive, not reactive. That means building the timing change into your routine before you feel like you need it, not after you've had a close call.
 
 The safe window, according to both that guidance and the Rough Draft Atlanta physician report, is before 10 a.m. or after 6 p.m. If your schedule makes that genuinely impossible, you move the workout indoors. That's the whole decision tree.
 

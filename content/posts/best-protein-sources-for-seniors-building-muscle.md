@@ -47,7 +47,7 @@ Not all protein is created equal. What you're looking for is high leucine conten
 
 **Greek yogurt and cottage cheese** are workhorse options. Plain Greek yogurt at 2% fat has roughly 17 to 20 grams per cup. Cottage cheese, often underrated, provides about 25 grams per cup and is rich in casein protein, which digests slowly and may help preserve muscle overnight when eaten before bed. This isn't speculation, there's solid research on pre-sleep casein and muscle protein synthesis in older adults.
 
-**Salmon and other fatty fish** give you protein and [omega-3 fatty acids](/anti-inflammatory-foods-for-senior-joints/) in one shot. EPA and DHA, the main omega-3s, have direct anti-inflammatory effects that support muscle recovery and may reduce anabolic resistance. A 3-ounce serving of salmon runs about 22 grams of protein. Aim for fatty fish two to three times per week.
+**Salmon and other fatty fish** give you protein and [omega-3 fatty acids](/foods-that-reduce-inflammation-for-arthritis/) in one shot. EPA and DHA, the main omega-3s, have direct anti-inflammatory effects that support muscle recovery and may reduce anabolic resistance. A 3-ounce serving of salmon runs about 22 grams of protein. Aim for fatty fish two to three times per week.
 
 **Legumes and soy** matter if you eat plant-forward. Most plant proteins are lower in leucine than animal sources, but soy is the exception. Tofu, tempeh, and edamame are complete proteins with leucine levels that approach meat. A cup of cooked edamame contains about 17 grams of protein. Black beans or lentils give you 15 to 18 grams per cup, but combine them with a leucine-rich source like Greek yogurt or eggs in the same meal, and their muscle-building effectiveness improves significantly.
 

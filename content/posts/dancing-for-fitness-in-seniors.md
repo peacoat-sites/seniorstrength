@@ -34,7 +34,7 @@ I'll be honest, I had to fight my own skepticism on this. Dancing felt like a so
 
 ## The Fall-Prevention Angle No One Talks About
 
-Standard [balance exercises](/standing-balance-exercises-for-seniors/), think single-leg stands and foam pad work, train static balance. They're valuable. But falls don't usually happen when you're standing still. They happen when you're mid-stride, pivoting, reaching for something, responding to an unexpected surface. Dancing trains dynamic balance, the kind that actually kicks in during real-world movement.
+Standard [balance exercises](/standing-balance-exercises-seniors-can-do-holding-a-chair/), think single-leg stands and foam pad work, train static balance. They're valuable. But falls don't usually happen when you're standing still. They happen when you're mid-stride, pivoting, reaching for something, responding to an unexpected surface. Dancing trains dynamic balance, the kind that actually kicks in during real-world movement.
 
 A study published in PLOS ONE (Hackney et al.) followed adults over 65 through a 13-week Argentine tango program and found significant improvements in gait, posture, and dynamic balance scores compared to a control group doing conventional balance exercises. Not marginally better. Significantly. The tango group improved their Berg Balance Scale scores by an average of 3.4 points; the conventional exercise group improved by 1.1. For context, a change of 4 points on the Berg is considered the minimum clinically important difference for fall-risk prediction.
 

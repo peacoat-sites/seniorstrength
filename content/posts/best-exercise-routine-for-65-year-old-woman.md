@@ -46,7 +46,7 @@ A lot of the programs marketed to women over 60 are, honestly, too gentle. Chair
 
 Here's what most people don't know: sarcopenia (age-related muscle loss) doesn't happen slowly. After 60, you can lose 1-2% of your muscle mass per year if you're not actively working against it. That's not background noise. That's a significant shift in how you move, how stable you are, and what you can do independently a decade from now.
 
-The research is pretty clear on this: [progressive resistance training](/functional-fitness-exercises-for-seniors/) is the most effective way to preserve muscle and bone density in older women. A 2022 review in the *Journal of Strength and Conditioning Research* looked at 30-plus studies and found that twice-weekly strength training with progressive load consistently improved lean mass, functional strength, and fall risk in women over 60. "Progressive" is the key word. You have to gradually increase the challenge over time, not just repeat the same light workout forever.
+The research is pretty clear on this: [progressive resistance training](/exercises-for-seniors-to-stay-independent/) is the most effective way to preserve muscle and bone density in older women. A 2022 review in the *Journal of Strength and Conditioning Research* looked at 30-plus studies and found that twice-weekly strength training with progressive load consistently improved lean mass, functional strength, and fall risk in women over 60. "Progressive" is the key word. You have to gradually increase the challenge over time, not just repeat the same light workout forever.
 
 Some women who've done water aerobics for years find they still can't get up from the floor. Cardiovascular fitness and muscular strength are different systems. You need to train both.
 

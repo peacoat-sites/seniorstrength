@@ -71,7 +71,7 @@ People treat balance work as a separate category. It's not.
 
 When you practice standing on one foot while brushing your teeth, or walking heel-to-toe along a line on the floor, you're forcing your leg muscles to make constant micro-corrections. Those corrections are exactly the kind of fast-twitch, reactive muscle activity that deteriorates with age and that ordinary strength exercises don't fully address.
 
-The research behind [balance training in older adults](/leg-strengthening-exercises-for-elderly/) is some of the most consistent in the field. The Otago Exercise Programme, developed in New Zealand and studied extensively since the 1990s, has shown meaningful reductions in falls among older adults through a combination of leg strengthening and balance exercises done at home. It's not fancy. It's systematic.
+The research behind balance training in older adults is some of the most consistent in the field. The Otago Exercise Programme, developed in New Zealand and studied extensively since the 1990s, has shown meaningful reductions in falls among older adults through a combination of leg strengthening and balance exercises done at home. It's not fancy. It's systematic.
 
 Here's what I tell people about balance work: do it near something you can grab if needed, like a kitchen counter. But use it as little as possible. The goal is to gradually shift from needing the support to barely touching it to hovering your fingers an inch above it.
 

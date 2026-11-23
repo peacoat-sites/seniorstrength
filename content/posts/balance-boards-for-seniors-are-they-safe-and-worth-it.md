@@ -40,7 +40,7 @@ Balance is a complex system. Your eyes, inner ear, muscles, and brain all have t
 
 Muscle strength, particularly in the legs and core, tends to decline after age 60. Reaction time slows too, which means your body has less time to catch itself when you start to tip.
 
-Here's the good news: [balance is a skill](/how-to-improve-balance-in-seniors-over-70/). Like most skills, it can be practiced and improved at any age. That's where balance boards come in.
+Here's the good news: [balance is a skill](/how-to-improve-balance-after-60/). Like most skills, it can be practiced and improved at any age. That's where balance boards come in.
 
 ## What Is a Balance Board and How Does It Work
 

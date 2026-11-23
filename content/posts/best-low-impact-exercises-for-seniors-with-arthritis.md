@@ -65,7 +65,7 @@ Many senior centers and recreation programs offer beginner tai chi classes. Free
 
 ### 4. Gentle Yoga
 
-Yoga combines stretching, strength, and mindfulness in one practice. For seniors with arthritis, [chair yoga is especially useful](/seated-yoga-for-seniors-12-poses-you-can-do-in-a-chair/). All poses are done seated or using a chair for support, which improves flexibility without the repeated strain of getting up and down from the floor.
+Yoga combines stretching, strength, and mindfulness in one practice. For seniors with arthritis, [chair yoga is especially useful](/chair-yoga-for-seniors-beginners/). All poses are done seated or using a chair for support, which improves flexibility without the repeated strain of getting up and down from the floor.
 
 Regular yoga practice relieves stiffness in the hips, spine, shoulders, and hands. It also teaches you how to breathe through discomfort, a skill that helps with chronic pain management in everyday life.
 

@@ -35,7 +35,7 @@ So here's a guide that takes you seriously.
 
 The logic sounds reasonable: older joints are more vulnerable, muscles recover more slowly, so keep the weights low and the reps high. The problem is that low-load training doesn't adequately stimulate muscle protein synthesis in older adults. You need a certain threshold of mechanical tension to signal the body to build and maintain muscle. Below that threshold, you're just going through motions.
 
-Sarcopenia, the age-related loss of muscle mass, accelerates after 60 and really picks up after 70. You lose roughly 1-2% of muscle mass per year if you're sedentary, and the losses in strength run even steeper than that. The only reliable intervention that actually reverses this trend is [progressive resistance training](/how-to-build-muscle-after-60/): lifting weights that challenge you, and gradually increasing that challenge over time.
+Sarcopenia, the age-related loss of muscle mass, accelerates after 60 and really picks up after 70. You lose roughly 1-2% of muscle mass per year if you're sedentary, and the losses in strength run even steeper than that. The only reliable intervention that actually reverses this trend is [progressive resistance training](/how-to-build-muscle-after-65/): lifting weights that challenge you, and gradually increasing that challenge over time.
 
 "Challenging" does not mean reckless. There's a meaningful difference between lifting at 70-75% of your one-rep maximum (the weight you could only lift once), which is a standard and appropriate training intensity for most healthy adults, and loading up a barbell with no regard for form. The goal is to work hard enough that the last two or three reps of a set feel genuinely difficult. Not painful. Not grinding. Difficult.
 
@@ -57,7 +57,7 @@ A reasonable starting structure, two to three days per week on non-consecutive d
 
 Each session should cover a lower-body push (squat variation), a lower-body hinge (deadlift or Romanian deadlift), an upper-body push (press), an upper-body pull (row or lat pulldown), and something for the core that isn't just crunches. That's your whole program. Five movement patterns, done consistently, is enough to produce real results for most people new to lifting.
 
-For equipment, [adjustable dumbbells](/strength-training-with-dumbbells-for-seniors/) (Bowflex SelectTech 552s run around $429 for the pair and cover 5 to 52.5 pounds) or a basic barbell with plates handles the lower-body work well. If you're joining a gym, a cable machine is your best friend for upper-body pulling, because it maintains tension through the entire range of motion, which is easier on the joints than free weights in many cases.
+For equipment, [adjustable dumbbells](/dumbbell-exercises-for-seniors-at-home/) (Bowflex SelectTech 552s run around $429 for the pair and cover 5 to 52.5 pounds) or a basic barbell with plates handles the lower-body work well. If you're joining a gym, a cable machine is your best friend for upper-body pulling, because it maintains tension through the entire range of motion, which is easier on the joints than free weights in many cases.
 
 Start with two sets of 10-12 reps per exercise. After two weeks, add a third set. After another two to three weeks, add a little weight to any exercise that feels easy by rep 8. You are now doing progressive overload. You are now doing what works.
 

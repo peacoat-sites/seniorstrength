@@ -25,7 +25,7 @@ faqs:
     a: "Most people notice improved endurance and reduced breathlessness during activity within four to six weeks of consistent moderate-intensity exercise. Measurable cardiovascular improvements in resting heart rate and blood pressure typically show up within eight to twelve weeks, though this varies considerably depending on starting fitness level and consistency."
 ---
 
-The single most important thing most adults over 60 can do for their long-term health isn't [strength training](/how-much-strength-training-over-60-actually-lowers-your-risk-of-death/), isn't stretching, and it's not any particular diet. It's consistent aerobic activity, and low-impact formats are the most sustainable way to get it. The CDC recommends at least 150 minutes of moderate-intensity aerobic activity per week for older adults, and low-impact exercise is fully capable of meeting that threshold.
+The single most important thing most adults over 60 can do for their long-term health isn't [strength training](/how-much-strength-training-do-seniors-actually-need-to-live-longer/), isn't stretching, and it's not any particular diet. It's consistent aerobic activity, and low-impact formats are the most sustainable way to get it. The CDC recommends at least 150 minutes of moderate-intensity aerobic activity per week for older adults, and low-impact exercise is fully capable of meeting that threshold.
 
 That matters because "low-impact" often gets misread as "easy" or "not quite real exercise." Neither is true. Low-impact simply means you keep at least one foot on the ground at all times, which protects joints while still delivering genuine cardiovascular stress. Your heart rate goes up. Calories burn. Bone-loading still occurs (more on that below). The workout is real.
 
@@ -67,7 +67,7 @@ Cost ranges above are approximate and vary by region. Medicare Advantage plans s
 
 ## The Bone Density Question
 
-One legitimate concern about low-impact exercise: it doesn't load the skeleton the way running or jumping does. For people managing osteopenia or osteoporosis, that matters. [Water aerobics](/water-aerobics-for-seniors-benefits-and-beginner-moves/), while excellent for joints, provides almost no bone-loading stimulus. Cycling, same problem.
+One legitimate concern about low-impact exercise: it doesn't load the skeleton the way running or jumping does. For people managing osteopenia or osteoporosis, that matters. [Water aerobics](/water-aerobics-exercises-for-seniors/), while excellent for joints, provides almost no bone-loading stimulus. Cycling, same problem.
 
 This doesn't mean you should avoid these activities. It means you probably shouldn't rely on them exclusively if bone density is a priority. Brisk walking does provide some mechanical load to the hips and spine. The NIA recommends combining aerobic activity with weight-bearing movement and [resistance training](/what-the-new-acsm-resistance-training-guidelines-mean-after-60/) for bone health, not picking one to the exclusion of the others.
 

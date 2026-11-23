@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Every 11 seconds, an older adult ends up in an emergency room because of a fall. Most of those falls don't have to happen. Not through luck or constant vigilance or abandoning everything you enjoy doing. Through actual training. Specific, consistent, well-chosen training that rewires how your body responds when your foot lands somewhere unexpected.
 
-Maybe you're wondering if you're already too far gone. Maybe you had a close call recently and now you're scared it'll happen again. Maybe your doctor mentioned [balance training](/balance-training-for-fall-prevention-seniors/) and you nodded along without knowing what that actually looks like. Wherever you're starting from, you're in the right place. And you're definitely not too late.
+Maybe you're wondering if you're already too far gone. Maybe you had a close call recently and now you're scared it'll happen again. Maybe your doctor mentioned balance training and you nodded along without knowing what that actually looks like. Wherever you're starting from, you're in the right place. And you're definitely not too late.
 
 <div class="value-module">
   <div class="vm-head">Balance Exercise Progression Guide</div>

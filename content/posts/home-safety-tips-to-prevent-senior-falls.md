@@ -75,7 +75,7 @@ Handrails and night lights help. They don't build the physical capacity to catch
 
 That capacity comes from lower body strength and reactive balance. Both are trainable well into your 80s, and the research on this is genuinely encouraging.
 
-[Single-leg balance practice](/how-to-exercise-with-arthritis-without-pain/) is about the simplest thing you can do and one of the most effective. Stand near a counter, lift one foot a few inches off the floor, hold for 10 seconds, switch sides. Work up to 30 seconds. Once it gets easy, try it with eyes closed. The difference between eyes-open and eyes-closed balance is striking and tells you something important about how much you rely on sight to stay upright.
+[Single-leg balance practice](/exercises-for-seniors-with-arthritis/) is about the simplest thing you can do and one of the most effective. Stand near a counter, lift one foot a few inches off the floor, hold for 10 seconds, switch sides. Work up to 30 seconds. Once it gets easy, try it with eyes closed. The difference between eyes-open and eyes-closed balance is striking and tells you something important about how much you rely on sight to stay upright.
 
 Sit-to-stand from a chair without using your hands is both an exercise and a real-world skill. If you can't do it without pushing off the armrests, that's your training target. It predicts fall risk better than most single measures, and improving it directly builds the strength you need to recover from a stumble.
 

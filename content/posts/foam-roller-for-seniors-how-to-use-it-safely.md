@@ -37,7 +37,7 @@ Before you invest in a roller, it helps to understand exactly what it can do for
 * **Boosts circulation:** The gentle pressure encourages blood flow to soft tissues that may not move as freely as they once did.
 * **Supports better posture:** Rolling the upper back and chest can counteract the rounded shoulders that come from years of desk work or driving.
 * **Eases lower back tension:** Many seniors find that rolling the hips and glutes indirectly relieves chronic [lower back discomfort](/best-chair-for-seniors-with-back-pain-buying-guide/).
-* **Helps with balance preparation:** Looser, more responsive muscles contribute to [better balance and stability](/best-walking-shoes-for-seniors-with-wide-feet-2026-guide/) over time.
+* **Helps with balance preparation:** Looser, more responsive muscles contribute to better balance and stability over time.
 
 Research published in the _Journal of Athletic Training_ confirms that foam rolling can significantly improve flexibility with consistent use. That's encouraging news for anyone who wants to stay active and independent well into their later years.
 

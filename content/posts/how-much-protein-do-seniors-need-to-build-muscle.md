@@ -52,7 +52,7 @@ To put that in real numbers: a 160-pound (73 kg) person aiming to build muscle w
 
 You might be wondering whether eating that much protein is safe for your kidneys. It's a fair concern, and I'll get to it. But first, let's talk about where that protein actually has to come from.
 
-**Check out our [Senior Nutrition Tracker tool](/tools/nutrition-tracker) to see how your current intake stacks up against these targets.**
+**Check out our Senior Nutrition Tracker tool to see how your current intake stacks up against these targets.**
 
 ## How to Actually Hit Your Protein Target Without Forcing Food
 
@@ -70,7 +70,7 @@ Lunch and dinner can carry similar loads without much difficulty if you're ancho
 
 One thing I've noticed working with clients in their 60s and 70s is that appetite often decreases with age, which makes hitting higher protein targets genuinely harder. If you're finding it difficult to eat enough food, [protein supplements](/best-protein-sources-for-seniors-building-muscle/) aren't cheating. They're practical. A good whey protein powder, something like Optimum Nutrition Gold Standard or Thorne Whey, runs about $35 to $55 for a month's supply and adds 20 to 25 grams per serving with minimal volume. For smaller appetites, that can be the difference between hitting your target and falling short by 40 grams every day.
 
-**Build a realistic weekly meal plan around your protein goals with our [Senior Meal Planning Guide](/guides/senior-meal-planning).**
+**Build a realistic weekly meal plan around your protein goals with our Senior Meal Planning Guide.**
 
 ## The Plant Protein Question
 
@@ -82,7 +82,7 @@ This doesn't mean plant-based seniors can't build muscle. It means you likely ne
 
 The research here is genuinely mixed on exactly how much more plant-based older adults need, but a working assumption of adding another 10 to 20 percent to your target seems reasonable and conservative.
 
-**Learn more about building muscle on a plant-based diet in our [Vegan & Vegetarian Senior Fitness guide](/guides/plant-based-seniors).**
+**Learn more about building muscle on a plant-based diet in our Vegan & Vegetarian Senior Fitness guide.**
 
 ## What About Kidney Health?
 
@@ -96,7 +96,7 @@ Dr. Bettina Mittendorfer, a professor at the University of Missouri School of Me
 
 That said, if you have diagnosed kidney disease, diabetes with kidney involvement, or any condition affecting kidney function, please talk to your doctor or a registered dietitian before significantly increasing your protein intake. This is one of those situations where individual medical history genuinely changes the recommendation, and I'd be doing you a disservice to suggest otherwise.
 
-**Get personalized guidance by connecting with a registered dietitian through our [Find a Senior Nutrition Professional directory](/directory/dietitians).**
+**Get personalized guidance by connecting with a registered dietitian through our Find a Senior Nutrition Professional directory.**
 
 ## Timing Your Protein Around Exercise
 

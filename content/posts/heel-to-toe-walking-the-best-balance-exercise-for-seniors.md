@@ -34,7 +34,7 @@ Balance naturally declines as we age. Changes in inner ear function, muscle stre
 
 Falls are the leading cause of injury among adults over 65, according to the Centers for Disease Control and Prevention. Even one fall can lead to a broken bone, reduced independence, or a fear of moving freely, which can make balance even worse over time.
 
-The encouraging truth is that [balance is trainable](/how-to-improve-balance-in-seniors-over-70/). Just like strength or flexibility, your balance can genuinely improve with consistent, targeted practice.
+The encouraging truth is that [balance is trainable](/how-to-improve-balance-after-60/). Just like strength or flexibility, your balance can genuinely improve with consistent, targeted practice.
 
 You'll gain:
 
@@ -47,7 +47,7 @@ You'll gain:
 
 Photo by [Jack Lopez](https://unsplash.com/@jacklopezofficial?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-When you narrow your base of support as you do in heel-to-toe walking, your nervous system fires up balance reflexes that often go underused in normal daily movement. This is called proprioceptive training, and it's one of the most effective tools in [fall prevention](/fall-prevention-exercises-for-elderly-at-home/).
+When you narrow your base of support as you do in heel-to-toe walking, your nervous system fires up balance reflexes that often go underused in normal daily movement. This is called proprioceptive training, and it's one of the most effective tools in [fall prevention](/best-balance-exercises-for-elderly-at-home/).
 
 Research published in the _Journal of Aging and Physical Activity_ found that regular tandem walking exercises significantly improved balance scores and reduced fall risk in older adults. Physical therapists use this exact technique as a frontline intervention for seniors with balance concerns.
 

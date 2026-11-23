@@ -54,7 +54,7 @@ Aquatic exercise is genuinely wonderful. The buoyancy reduces joint load, the wa
 
 But it shouldn't be *all* you do.
 
-[Strength training, done correctly](/functional-fitness-exercises-for-seniors/), is probably the most protective intervention available to someone with arthritis. When the muscles around a joint are strong, they absorb force that would otherwise be transmitted directly to cartilage and bone. Quadriceps strength, specifically, has a well-documented inverse relationship with knee osteoarthritis progression: weaker quads mean more pain and faster decline. This has been replicated enough times across enough populations that I consider it settled.
+[Strength training, done correctly](/exercises-for-seniors-to-stay-independent/), is probably the most protective intervention available to someone with arthritis. When the muscles around a joint are strong, they absorb force that would otherwise be transmitted directly to cartilage and bone. Quadriceps strength, specifically, has a well-documented inverse relationship with knee osteoarthritis progression: weaker quads mean more pain and faster decline. This has been replicated enough times across enough populations that I consider it settled.
 
 Here's a loose sense of what an effective weekly structure might look like for someone managing arthritis (keeping in mind that individual circumstances vary enormously and you should always work with your own healthcare provider to tailor this):
 

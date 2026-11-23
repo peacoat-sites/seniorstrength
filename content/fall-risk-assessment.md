@@ -47,6 +47,6 @@ If your TUG time is above 13.5 seconds, or your single-leg balance is very limit
 
 This assessment is most useful when you repeat it every 6 to 12 weeks. Progress can be subtle week to week, but over a few months the trend line tells a clear story. Tracking your numbers is also a great way to stay motivated. Write down today's scores and compare them after a focused training block. Most people find that even modest improvements in chair stand count and TUG time correspond to real changes in how steady and confident they feel on their feet.
 
-For more guidance on exercises specifically designed to improve balance and reduce fall risk, see our [10-minute morning stretches for seniors](/10-minute-morning-stretches-for-seniors-over-70/) and our strength training resources in the [Balance & Safety](/categories/balance-safety/) section.
+For more guidance on exercises specifically designed to improve balance and reduce fall risk, see our [10-minute morning stretches for seniors](/morning-stretches-for-older-adults/) and our strength training resources in the Balance & Safety section.
 
 *This assessment is for informational purposes only and does not constitute medical advice. Always consult a qualified healthcare provider before beginning a new exercise program.*

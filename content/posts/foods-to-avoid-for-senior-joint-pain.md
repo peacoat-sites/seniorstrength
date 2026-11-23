@@ -25,7 +25,7 @@ faqs:
     a: "Some supplements, particularly omega-3 fish oil and vitamin D (if you're deficient), have reasonable supporting evidence. Others, like glucosamine and chondroitin, have mixed results. Talk to your doctor before adding supplements, especially if you're taking blood thinners or other medications, since interactions are real."
 ---
 
-If your joints ache more after certain meals, you're not imagining it. Specific foods trigger or amplify inflammation through real, documented mechanisms, and cutting them back often produces noticeable relief within a few weeks. That's not a guarantee, and diet alone won't replace medical treatment for conditions like rheumatoid arthritis or severe osteoarthritis, but the evidence supporting a low-[inflammatory diet](/anti-inflammatory-diet-for-seniors-with-arthritis/) for joint pain management is solid enough that most rheumatologists now talk about food alongside medication.
+If your joints ache more after certain meals, you're not imagining it. Specific foods trigger or amplify inflammation through real, documented mechanisms, and cutting them back often produces noticeable relief within a few weeks. That's not a guarantee, and diet alone won't replace medical treatment for conditions like rheumatoid arthritis or severe osteoarthritis, but the evidence supporting a low-[inflammatory diet](/foods-that-reduce-inflammation-for-arthritis/) for joint pain management is solid enough that most rheumatologists now talk about food alongside medication.
 
 For [adults over](/how-wearables-are-changing-strength-training-for-adults-over-60/) 60, the stakes are higher than they are for younger people. Inflammatory responses tend to run hotter as we age, recovery is slower, and many of us are already managing more than one condition. The wrong dietary patterns don't just cause discomfort; they can accelerate cartilage breakdown and make physical therapy and exercise less effective. So this matters.
 
@@ -66,7 +66,7 @@ Partially hydrogenated oils (trans fats) are worth a separate mention. While the
 
 A category, not a single ingredient. The NOVA classification system, developed at the University of São Paulo, categorizes foods by degree of processing, and the ultra-processed category (NOVA Group 4) covers things like packaged chips, frozen meals with long ingredient lists, deli meats, commercial bread with additives, flavored crackers, and instant noodles. What they share: artificial additives, high sodium, refined starches, seed oils, and very little fiber.
 
-The sodium issue alone matters for joint health. High sodium intake is linked to increased autoimmune activity and can worsen inflammatory conditions including rheumatoid arthritis. The American Heart Association's current recommended limit is no more than 2,300mg [per day](/how-much-protein-do-seniors-need-per-day/), with an ideal target of 1,500mg for most adults managing cardiovascular or inflammatory conditions. A single fast food meal can hit 2,000mg without trying.
+The sodium issue alone matters for joint health. High sodium intake is linked to increased autoimmune activity and can worsen inflammatory conditions including rheumatoid arthritis. The American Heart Association's current recommended limit is no more than 2,300mg [per day](/how-much-protein-do-seniors-need-to-build-muscle/), with an ideal target of 1,500mg for most adults managing cardiovascular or inflammatory conditions. A single fast food meal can hit 2,000mg without trying.
 
 ## Alcohol
 

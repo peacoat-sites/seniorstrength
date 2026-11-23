@@ -114,7 +114,7 @@ Whether you go simple or smart, certain features make a big difference in daily 
 
 **For smart pill dispensers, look for:**
 
-  * Loud, adjustable alarm volume, especially important if you have [hearing loss](/best-hearing-aids-for-seniors-2026-guide/)
+  * Loud, adjustable alarm volume, especially important if you have hearing loss
   * A bright visual alert like a flashing light
   * A simple interface with large buttons
   * Battery backup in case the power goes out

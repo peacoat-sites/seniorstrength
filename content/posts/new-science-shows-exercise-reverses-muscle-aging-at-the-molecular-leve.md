@@ -33,7 +33,7 @@ Here's what I tell people when they hear this: your muscles haven't forgotten ho
 
 ## Three Hours a Week Is the Number Worth Knowing
 
-A lot of people assume they need to overhaul their entire life to see real results. The research says otherwise. A secondary analysis of the U.S. POINTER trial, published in April 2026 in the Journals of Gerontology, looked at 2,111 adults between ages 60 and 79. Three hours of structured exercise [per week](/how-much-exercise-do-seniors-need-per-week/) produced measurable reductions in biological aging markers and frailty indicators. Three hours. That's a single long walk plus two short strength sessions. That's less time than most people spend watching one streaming series.
+A lot of people assume they need to overhaul their entire life to see real results. The research says otherwise. A secondary analysis of the U.S. POINTER trial, published in April 2026 in the Journals of Gerontology, looked at 2,111 adults between ages 60 and 79. Three hours of structured exercise [per week](/how-much-exercise-do-seniors-need/) produced measurable reductions in biological aging markers and frailty indicators. Three hours. That's a single long walk plus two short strength sessions. That's less time than most people spend watching one streaming series.
 
 The Frontiers in Medicine systematic review published January 20, 2026 backs this up from a functional standpoint, confirming that structured programs improve muscular strength, balance, mobility, and gait speed in adults 65 and older. Gait speed, in particular, is worth paying attention to. It's one of the strongest predictors of independence, fall risk, and even longevity in older adults. It sounds like a minor thing until you realize how much it governs.
 
