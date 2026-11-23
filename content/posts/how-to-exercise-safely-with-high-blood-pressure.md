@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn which exercises are safe for high blood pressure, how to monitor your health, and what precautions to take before working out."
 image: "/img/heroes/4426521.jpg"
-categories: ["Fitness Basics"]
+categories: ["General Fitness"]
 tags: ["exercise", "safely", "with", "high", "blood"]
 author: "James Cooper"
 author_slug: "james-cooper"

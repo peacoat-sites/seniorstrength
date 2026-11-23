@@ -4,7 +4,7 @@ date: 2026-05-18T02:45:21.709066+00:00
 draft: false
 description: "Discover the best vestibular exercises for seniors with dizziness. Learn 5 gentle, effective movements that improve balance, reduce vertigo, and help you fee"
 image: "/img/heroes/8939923.jpg"
-categories: ["balance"]
+categories: ["Balance & Mobility"]
 slug: "vestibular-exercises-for-seniors-with-dizziness"
 affiliate_disclosure: true
 faqs:

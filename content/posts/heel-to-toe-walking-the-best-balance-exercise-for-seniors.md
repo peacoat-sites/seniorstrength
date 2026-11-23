@@ -4,7 +4,7 @@ date: 2026-05-24T10:48:36.612796+00:00
 draft: false
 description: "Discover how heel to toe walking for seniors can dramatically improve balance, reduce fall risk, and boost confidence. Step-by-step guide, progressions, and"
 image: "/img/heroes/8795589.jpg"
-categories: ["balance"]
+categories: ["Balance & Mobility"]
 slug: "heel-to-toe-walking-the-best-balance-exercise-for-seniors"
 affiliate_disclosure: true
 faqs:

@@ -4,7 +4,7 @@ date: 2026-05-24T16:50:24.423573+00:00
 draft: false
 description: "Learn proven strategies to reduce fall risk in elderly parents,  from balance exercises and home safety tips to medication reviews and the right footwear. Pr"
 image: "/img/heroes/5698217.jpg"
-categories: ["balance"]
+categories: ["Balance & Mobility"]
 slug: "how-to-reduce-fall-risk-in-elderly-parents"
 affiliate_disclosure: true
 faqs:

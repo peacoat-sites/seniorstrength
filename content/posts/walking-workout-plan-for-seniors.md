@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "A progressive walking plan designed for older adults to improve fitness, mobility, and heart health. Includes routines for all fitness levels."
 image: "/img/heroes/10449525.jpg"
-categories: ["exercise"]
+categories: ["General Fitness"]
 tags: ["walking", "workout", "plan", "seniors"]
 author: "Robert Davis"
 author_slug: "robert-davis"
