@@ -107,7 +107,7 @@ This might sound a little soft, but stick with me, because it's biomechanically 
 
 When you hold a stretch and your muscle starts to resist, your nervous system is often a bigger factor than the muscle itself. The stretch reflex, a protective mechanism that fires when a muscle is lengthened too quickly or too far, will cause muscles to contract and resist. Slow breathing directly downregulates that reflex.
 
-Here's what I tell clients: inhale before you enter the stretch, then exhale slowly as you move into it. Keep breathing throughout. If you catch yourself holding your breath, you've probably gone too deep.
+Inhale before you enter the stretch, then exhale slowly as you move into it. Keep breathing throughout. If you catch yourself holding your breath, you've probably gone too deep.
 
 The mindset part connects here too. People who approach stretching as something to "push through" tend to breathe poorly, go too far, and get less benefit than people who treat it as an exploration. What's the edge of your range today? Not last week, not what your neighbor can do. Today. That curiosity-based approach isn't just kinder. It actually produces better results because you stay below the threshold that triggers the protective reflex.
 
