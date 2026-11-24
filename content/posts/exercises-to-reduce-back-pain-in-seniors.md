@@ -25,8 +25,7 @@ faqs:
    a: "It's not overhyped, but it's often misdirected. Strengthening the right muscles through the right movements genuinely reduces pain and improves function over time. The mistake is equating 'core' with 'abs' and defaulting to flexion exercises that can irritate the spine. The research is fairly clear that motor control training (teaching the deep stabilizers to activate correctly and consistently) produces better outcomes for chronic low back pain than general strengthening alone. So yes, core work helps. The question is which core work."
 lastmod: 2026-11-16T16:00:00Z
 ---
-
-Most people who come to me with back pain are already frustrated before they even sit down. They've tried the stretches their doctor printed off a handout, maybe watched a few YouTube videos, probably rested more than they should have. And nothing stuck, or it helped briefly, then the pain crept back.
+Most people dealing with back pain arrive frustrated. They've tried stretches from a doctor's handout, maybe watched YouTube videos, probably rested more than they should have. And nothing stuck, or it helped briefly, then the pain crept back.
 
 Here's what I tell people in that situation: back pain in adults over 60 is almost never just about the back. It's almost always about what the back is compensating for.
 
@@ -79,7 +78,7 @@ Start with 8 repetitions. Work toward 15 before you add difficulty.
 
 Here's where I expect some pushback.
 
-A lot of seniors come to me having been told to "strengthen your core." And so they've been doing crunches, or sit-ups, or some variation of both. I understand why, that's been the conventional wisdom for decades. But for adults over 60 with degenerative disc disease, spinal stenosis, or osteoporosis (all very common), repeated spinal flexion under load is a real problem. Stuart McGill, a spinal biomechanics researcher at the University of Waterloo whose work has substantially reshaped how clinicians think about back rehabilitation, has documented how flexion-based movements can accelerate disc damage over time.
+A lot of seniors have been told to "strengthen your core" and so they've been doing crunches, or sit-ups, or some variation of both. That's been the conventional wisdom for decades. But for adults over 60 with degenerative disc disease, spinal stenosis, or osteoporosis (all very common), repeated spinal flexion under load is a real problem. Stuart McGill, a spinal biomechanics researcher at the University of Waterloo whose work has substantially reshaped how clinicians think about back rehabilitation, has documented how flexion-based movements can accelerate disc damage over time.
 
 The "core" most people need to strengthen is not the six-pack musculature. It's the deep, circumferential stabilizing system: the muscles that resist movement rather than produce it. That's what pelvic tilts and bird dogs are training. That's why I'd rather have a 68-year-old doing a 20-second plank (properly, with a neutral spine) than 20 crunches.
 

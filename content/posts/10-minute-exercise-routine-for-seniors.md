@@ -78,7 +78,7 @@ Here's something I find genuinely frustrating about a lot of "senior exercise" c
 
 Progression doesn't have to mean more time. It can mean: slower movement (slower lowering in the sit-to-stand), fewer support points (fingers on the chair instead of a full grip), or added challenge to one element (balance hold on a folded towel instead of flat floor). Those small changes keep the routine working for you six months in, not just week one.
 
-A client I worked with, a 72-year-old retired teacher named Margaret, came to me in early 2025 frustrated because she'd been doing the same chair exercises from a YouTube video for eight months with no real progress. She felt fine but not stronger.
+A 72-year-old who does the same chair exercises from a YouTube video for eight months might feel fine but notice no real improvement in strength. This kind of plateau happens when a routine doesn't change, the body adapts to familiar movements and stops making gains.
 
 Scenario: Margaret doing the same 10-rep routine with full chair support for 8 months → Added single-finger balance holds and slow eccentric lowering on sit-to-stands over 6 weeks → She reported feeling stable enough to walk her granddaughter's dog without holding the leash with both hands. Functionally, that's a real outcome.
 

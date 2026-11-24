@@ -37,7 +37,7 @@ Achilles tendons are especially vulnerable. They become stiffer and less elastic
 
 ## What the Research Says About Building Lower-Body Resilience
 
-Here's what I tell people who come to me after a pickleball scare: the exercises that actually protect you on the court are not glamorous. They're not trendy. But the evidence behind them is solid.
+The exercises that actually protect you on the court are not glamorous. They're not trendy. But the evidence behind them is solid.
 
 A February 2026 systematic review and meta-analysis published in *Frontiers in Public Health* examined wearable-device-based exercise interventions focused specifically on lower-limb strength and balance in older adults. The findings reinforced what clinicians have observed for years: targeted, consistent lower-limb training improves both functional strength and balance outcomes in this population. The technology angle is interesting (and wearables are becoming a real part of how older adults track and motivate their training), but the underlying principle is older than any gadget. You have to train the muscles that protect the joints you're using.
 

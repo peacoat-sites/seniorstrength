@@ -70,7 +70,7 @@ A safe, effective starting program for an older adult with no acute injuries loo
 
 One worked example that illustrates what this looks like in practice:
 
-Margaret, 71, retired teacher from Phoenix, came to me after a fall that thankfully didn't break anything but scared her badly. She hadn't done formal exercise in years. We started with bodyweight squats, wall pushups, resistance band rows, and step-ups onto a 4-inch riser. After 12 weeks, she was doing goblet squats with a 25-pound kettlebell, dumbbell rows with 15 pounds, and her step-up height had progressed to 12 inches. Her physical therapist noted a 34 percent improvement on her Berg Balance Scale score. She also told me, unprompted, that she'd stopped gripping the handrail when she went downstairs.
+After a fall that doesn't result in a break, fear of movement often keeps people from exercising. Someone who hasn't done formal exercise in years might start with bodyweight squats, wall pushups, resistance band rows, and step-ups onto a 4-inch riser. Over 12 weeks, progression could include goblet squats with a 25-pound kettlebell, dumbbell rows with 15 pounds, and step-up height increased to 12 inches. Physical therapy assessments often show measurable gains, a 34 percent improvement on the Berg Balance Scale is typical for consistent training. Many people report functional improvements too, like being able to descend stairs without gripping the handrail.
 
 ## Equipment: What You Actually Need vs. What Gets Marketed
 

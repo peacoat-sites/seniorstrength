@@ -79,7 +79,7 @@ The one small thing I always have clients do that they're always surprised by: a
 
 ## Sources
 
-- Cochrane Database of Systematic Reviews (2019): "Exercise for osteoarthritis of the knee" -- pooled analysis of 152 trials showing consistent pain reduction and functional improvement.
+- Cochrane Database of Systematic Reviews (2019): "Exercise for osteoarthritis of the knee", pooled analysis of 152 trials showing consistent pain reduction and functional improvement.
 - *Osteoarthritis and Cartilage* (2017): Study examining the relationship between quadriceps strength and knee joint loading force during functional activities.
 - American College of Rheumatology: Current clinical guidelines (updated 2022) recommending exercise as a first-line treatment for knee osteoarthritis.
 - National Institute on Aging, NIH: Resource on strength training safety and recommendations for adults 65 and older.

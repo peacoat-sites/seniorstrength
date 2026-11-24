@@ -25,7 +25,7 @@ faqs:
    a: "Balance. Hands down. Strength can be rebuilt over months. A fall and the injury, hospitalization, or loss of confidence that follows can set you back years. Even five minutes of balance work daily makes a measurable difference, and it requires no equipment at all."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Most people over 70 who come to me have already been told they need to exercise. Their doctor mentioned it, their adult kids are nudging them, maybe they read something alarming about falls and muscle loss. What they haven't been told is *how* to actually start without hurting themselves, getting overwhelmed, or wasting money on programs that weren't designed for them in the first place.
+Most people over 70 have already been told they need to exercise. A doctor may have mentioned it, adult children may be nudging them, or they may have read something alarming about falls and muscle loss. What many haven't been told is *how* to actually start without hurting themselves, getting overwhelmed, or wasting money on programs that weren't designed for them in the first place.
 
 So let's skip the preamble and get into what actually works.
 

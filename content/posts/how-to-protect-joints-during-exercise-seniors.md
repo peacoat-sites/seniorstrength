@@ -25,8 +25,7 @@ faqs:
     a: "Yes. The research is clear that meaningful strength gains are achievable at moderate loads (roughly 40 to 60% of your one-rep max) when repetitions are performed slowly and controlled. 'Slow' in this context means 3 to 4 seconds on the lowering phase of any movement. This approach taxes the muscle while significantly reducing compressive and shear forces on the joint."
 lastmod: 2026-11-16T16:00:00Z
 ---
-
-Every week, someone comes to me after getting hurt doing an exercise their doctor told them would be "gentle on the joints." Walking lunges. Jumping jacks as a "low-impact warmup." Leg press machines cranked to high resistance because "more weight means more benefit." And every time, I think: whoever gave that advice wasn't watching a 68-year-old with early knee osteoarthritis try to execute it.
+Exercises labeled "gentle on the joints" can sometimes cause problems. Walking lunges, jumping jacks as a warmup, or leg press machines set to high resistance may not suit everyone, especially a 68-year-old with early knee osteoarthritis. What works as general guidance doesn't always account for individual conditions and limitations.
 
 Joint protection during exercise isn't complicated, but it's also not what most people think it is. It's not about avoiding exercise. It's not about wrapping yourself in braces and moving at half speed. And it's definitely not about the "senior fitness" class at your gym where everyone does chair yoga for 45 minutes and calls it a workout. (I love chair yoga. It just shouldn't be the whole story.)
 
@@ -75,7 +74,7 @@ For someone with [knee or hip arthritis](/exercises-for-seniors-with-arthritis/)
 
 You don't have to fix all of these overnight. But knowing they exist, and watching for them, changes everything.
 
-**Worked example:** A 71-year-old client of mine, a retired electrician named Frank, came to me with persistent medial knee pain. He'd been told to stop doing squats. We didn't stop squats. We widened his stance slightly, added a resistance band just above the knees to train his glutes to stop the valgus collapse, and dropped the weight to a goblet squat with a 15-pound kettlebell. Eight weeks in, his knee pain had dropped from a 6/10 to a 1-2/10 on most days, and his leg strength had measurably improved. Scenario: knee pain from squat-pattern valgus collapse → adjusted alignment, reduced load, targeted glute activation → pain reduced by approximately 70% over 8 weeks.
+**Worked example:** Persistent medial knee pain from squat-pattern valgus collapse can often be addressed without stopping squats entirely. Instead, try widening your stance slightly, adding a resistance band just above the knees to activate the glutes and prevent inward knee collapse, and reducing the load, for instance, using a goblet squat with a 15-pound kettlebell. With these adjustments, pain levels typically drop from moderate intensity to minimal over about 8 weeks, and leg strength improves measurably. Scenario: knee pain from squat-pattern valgus collapse → adjusted alignment, reduced load, targeted glute activation → pain reduced by approximately 70% over 8 weeks.
 
 ---
 

@@ -75,7 +75,7 @@ One practical note: measure twice before accepting a high reading. Sit quietly f
 
 ## Building a Session That Actually Works
 
-A 60-year-old client named David came to me last year with a resting BP of 148/92, on one medication, nervous about exercise because his cardiologist had told him to "be careful." Nothing specific, just careful. He'd essentially stopped moving entirely, which was making everything worse.
+A person with a resting BP of 148/92, already on one medication, might be nervous about exercise if their doctor gave vague guidance like "be careful" without specifics. That anxiety can lead to avoiding movement altogether, which tends to worsen blood pressure control.
 
 Here's what we built for him, and the structure that works for most people in his situation:
 

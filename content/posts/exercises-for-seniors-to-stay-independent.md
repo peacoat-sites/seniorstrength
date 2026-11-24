@@ -29,7 +29,7 @@ Most people don't realize they're losing independence long before a fall happens
 
 The exercises that actually protect independence aren't the ones most people think of first. It's rarely about getting "fit" in the conventional sense. It's about keeping the specific physical capacities that daily life demands, the ability to catch yourself when you trip, to carry groceries without your back giving out, to get up off the floor if you need to.
 
-Here's what I tell people who come to me feeling behind: you don't need to reclaim the body you had at 45. You need to invest in the body you have now.
+Here's what helps people who feel behind: you don't need to reclaim the body you had at 45. You need to invest in the body you have now.
 
 ## Why Functional Strength Beats Everything Else
 
@@ -103,7 +103,7 @@ Knowing what to do is the easier part. Actually doing it is where most programs 
 
 Attach new exercise habits to things you already do. Standing calf raises while you brew coffee. Sit-to-stands during commercial breaks. Single-leg stance while you brush your teeth. You're not replacing your day, you're layering into it.
 
-For a more structured approach, three 30-minute sessions per week is a solid target, backed by the American College of Sports Medicine's guidelines for older adults. But I've worked with people who couldn't start there, and that's fine. Ten minutes a day, every day, beats an ambitious plan that falls apart after two weeks.
+For a more structured approach, three 30-minute sessions per week is a solid target, backed by the American College of Sports Medicine's guidelines for older adults. Some people can't start at that level, and that's fine. Ten minutes a day, every day, beats an ambitious plan that falls apart after two weeks.
 
 The only equipment I'd actually recommend having at home: a resistance band set (the TheraBand Resistance Band Set runs about $20 for three levels), a sturdy chair, and comfortable non-slip shoes. That's genuinely enough to run a thorough functional program.
 

@@ -22,7 +22,7 @@ For adults over 60, this compounds a problem that was already serious before any
 
 ## The Muscle Loss Nobody Warned You About
 
-Here's what I tell people when they come to me confused about why they feel weaker even as the number on the scale drops: GLP-1 drugs don't just take fat. Research consistently estimates that 20 to 40 percent of the weight lost on medications like semaglutide, liraglutide, dulaglutide, and tirzepatide comes from lean tissue, meaning muscle. That's a wide range, and the exact number varies by individual, but even the low end of that estimate matters enormously for someone who is 65 or 70 and already starting from a depleted baseline.
+GLP-1 drugs don't just take fat. Research consistently estimates that 20 to 40 percent of the weight lost on medications like semaglutide, liraglutide, dulaglutide, and tirzepatide comes from lean tissue, meaning muscle. That's a wide range, and the exact number varies by individual, but even the low end of that estimate matters enormously for someone who is 65 or 70 and already starting from a depleted baseline. This can explain why someone might feel weaker even as the number on the scale drops.
 
 The clinical term for what many older adults in this situation are dealing with is sarcopenic obesity: carrying excess fat while simultaneously having insufficient muscle mass. A June 2026 review in PMC estimates this condition affects roughly 20 percent of obese adults seeking treatment, and it creates a cruel paradox. These are often the people who need GLP-1 therapy most. They're also the people least able to absorb the muscle loss it causes without real consequences, things like reduced walking speed, trouble rising from a chair, and sharply elevated fall risk.
 

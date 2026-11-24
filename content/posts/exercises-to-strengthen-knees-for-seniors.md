@@ -39,7 +39,7 @@ Appropriate exercise won't grind your knees down faster. In most cases, it's the
 
 ## What Not to Do First (This Matters More Than People Realize)
 
-Here's what I tell people who come to me motivated and ready to "fix" their knees: the first step is knowing what to avoid, because well-intentioned effort in the wrong direction can genuinely set you back weeks.
+Here's what matters for anyone motivated and ready to "fix" their knees: the first step is knowing what to avoid, because well-intentioned effort in the wrong direction can genuinely set you back weeks.
 
 **Deep squats and full-range lunges** put compressive forces through the knee joint at angles that already-stressed cartilage handles poorly. A regular squat to 90 degrees or below increases patellofemoral joint stress dramatically. For someone starting from a place of pain, this is the wrong entry point.
 

@@ -35,7 +35,7 @@ Adults lose roughly 3 to 5 percent of muscle mass per decade after age 30, and t
 
 The problem is that standard exercise advice isn't designed with older bodies in mind. Squats with a barbell. Lunges. High-impact movements. Those carry real injury risk for someone dealing with arthritis, balance challenges, osteoporosis, or recent joint surgery. Seated leg exercises sidestep those risks while still delivering the muscular stimulus your body needs.
 
-I've worked with clients who came convinced they were "too far gone" to make progress. Within eight weeks of consistent seated work, several reported that standing up from chairs felt easier, that they were walking farther without fatigue, and that their confidence on stairs had improved. That's muscle doing its job.
+Consistent seated work can produce measurable results within eight weeks. People often report that standing up from chairs feels easier, that they can walk farther without fatigue, and that their confidence on stairs has improved. That's muscle doing its job.
 
 ## What a Good Seated Leg Workout Actually Targets
 

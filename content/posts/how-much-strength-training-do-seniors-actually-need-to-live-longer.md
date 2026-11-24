@@ -14,8 +14,7 @@ slug: "how-much-strength-training-do-seniors-actually-need-to-live-longer"
 affiliate_disclosure: true
 lastmod: 2026-11-16T16:00:00Z
 ---
-
-A client of mine, a 68-year-old retired teacher named Carol, came to me last spring convinced she needed to be at the gym five days a week or she was "doing it wrong." She was exhausted, her knees were complaining, and she'd already quietly started skipping sessions because the whole thing felt unsustainable. When I told her the research was about to prove she was massively overcomplicating this, she didn't believe me.
+A 68-year-old retired teacher might become convinced she needs to be at the gym five days a week or she's "doing it wrong." She might feel exhausted, her knees might complain, and she might quietly start skipping sessions because the whole thing feels unsustainable. Research shows that overcomplicating a fitness routine is common, and that less frequent, well-designed exercise can be just as effective.
 
 She will now.
 

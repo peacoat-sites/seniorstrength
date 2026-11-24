@@ -23,7 +23,7 @@ That doesn't mean you should go sign up for a boot camp. There's a real differen
 
 ## Why Movement Actually Helps Arthritic Joints
 
-Here's what I tell people when they first come to me: cartilage doesn't have its own blood supply. It gets nutrients from the synovial fluid surrounding the joint, and synovial fluid moves when you move. When you sit still for long periods, that fluid stagnates, the cartilage gets less nourishment, and the joint stiffens up. Moving, even gently, literally feeds your joints.
+Cartilage doesn't have its own blood supply. It gets nutrients from the synovial fluid surrounding the joint, and synovial fluid moves when you move. When you sit still for long periods, that fluid stagnates, the cartilage gets less nourishment, and the joint stiffens up. Moving, even gently, literally feeds your joints.
 
 On top of that, the muscles around your joints act as shock absorbers. Weak quads, for example, put far more compressive load on the knee joint than strong ones do. Strengthening those muscles doesn't damage the joint; it protects it. A study published in *Arthritis & Rheumatology* found that older adults with knee osteoarthritis who completed a 12-week strength training program showed a 36% reduction in pain and a 38% improvement in physical function.
 
@@ -90,7 +90,7 @@ Ice vs. heat is worth addressing because people get this wrong more often than n
 
 ## Sources
 
-- Cochrane Systematic Review (2019): "Exercise for osteoarthritis of the knee" -- found land-based exercise reduces pain and improves function with effect sizes comparable to some pharmacological treatments.
+- Cochrane Systematic Review (2019): "Exercise for osteoarthritis of the knee", found land-based exercise reduces pain and improves function with effect sizes comparable to some pharmacological treatments.
 - *Arthritis & Rheumatology* (Messier et al.): 12-week strength training study showing 36% pain reduction and 38% functional improvement in older adults with knee OA.
 - Wang et al., *Annals of Internal Medicine* (2020): RCT of 204 adults with knee osteoarthritis showing tai chi equivalent to physical therapy for pain relief at 12 weeks.
 - American College of Rheumatology: Physical Activity Guidelines for Adults with Arthritis, recommending 150 minutes/week of moderate aerobic activity.

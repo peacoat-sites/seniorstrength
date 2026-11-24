@@ -30,7 +30,7 @@ Most people are eating about half the protein they actually need. Not because th
 
 The standard recommendation you'll see on nutrition labels, the one still used as a baseline across most dietary guidelines, suggests 0.8 grams of protein per kilogram of body weight per day. For a 150-pound person, that's roughly 55 grams. Sounds reasonable. The problem is that number was designed to prevent deficiency, not to support muscle growth, and it was largely established in studies on younger adults. For someone over 60 who's trying to actually build or preserve muscle, 55 grams is nowhere near enough.
 
-Here's what I tell people when they first come to me frustrated that they've been exercising consistently and still feel like they're losing ground: the exercise is probably fine. The protein almost certainly isn't.
+Here's what many people discover when they've been exercising consistently and still feel like they're losing ground: the exercise is probably fine. The protein almost certainly isn't.
 
 ## Why Your Protein Needs Go Up As You Age (Not Down)
 

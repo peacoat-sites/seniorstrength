@@ -25,8 +25,7 @@ faqs:
   - q: "What's the best time of day to walk?"
     a: "Honestly, the best time is whenever you'll actually do it. That said, morning walks tend to stick better as habits because fewer things have gone sideways in your day yet. In summer heat (particularly relevant as of July 2026, with temperatures running high across much of the country), early morning or evening walks are also safer to avoid heat stress."
 ---
-
-Most people who come to me have already tried something. They walked every day for two weeks, felt good, then pushed a little too hard one afternoon and spent the next three days with aching knees. Or they bought a fitness tracker, followed a generic "10,000 steps a day" plan, and quit after a month because nothing seemed to be changing. Sound familiar?
+Most people have already tried something before seeking help. They might walk every day for two weeks, feel good, then push a little too hard one afternoon and spend the next three days with aching knees. Or they buy a fitness tracker, follow a generic "10,000 steps a day" plan, and quit after a month because nothing seems to be changing. Sound familiar?
 
 You might be wondering if there's actually a smarter way to approach this, or whether walking for fitness at 60, 70, or 80-something is just wishful thinking. Walking is probably the single most powerful thing you can do for your long-term health as an older adult, but only if you structure it correctly. Done wrong, it's just accumulated fatigue. Done right, it builds real strength, measurably improves balance, and can reduce your fall risk by more than you'd expect.
 

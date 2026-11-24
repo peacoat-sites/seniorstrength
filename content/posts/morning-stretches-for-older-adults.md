@@ -93,7 +93,7 @@ Stretching does not "tear" scar tissue in any meaningful sense. I hear this cons
 
 Warmth helps dramatically. If your bathroom has a heated floor, do your routine there. If not, a warm shower before stretching changes the experience noticeably. This aligns with basic physiology.
 
-Consistency beats intensity every single time. One client, a 71-year-old retired teacher named Dorothy who came to me after a minor fall in her kitchen in late 2024, did a stripped-down version of this routine, just the ankle circles, hip flexor stretch, and chest opener, for six months without adding anything else. At her follow-up, her single-leg stance time (a standard balance test) went from 4 seconds to 11 seconds. She didn't do anything heroic. She just showed up every morning.
+Consistency beats intensity every single time. For example, someone who does a stripped-down version of a balance routine, just ankle circles, hip flexor stretch, and chest opener, for six months without adding anything else can see meaningful results. Single-leg stance time (a standard balance test) can improve from 4 seconds to 11 seconds. The key isn't doing something heroic. It's showing up every morning.
 
 Scenario: Adult male, 74, moderate hip and lower back stiffness, history of one fall, no formal exercise habit for ten years. Started chair-assisted routine five days per week, added a 10-minute walk after week four. Result at 12 weeks: self-reported morning pain scores dropped from 6/10 to 2/10, sit-to-stand test improved from 9 repetitions in 30 seconds to 14.
 

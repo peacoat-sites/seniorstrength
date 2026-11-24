@@ -25,8 +25,7 @@ faqs:
    a: "Most people report some improvement in pain and mobility within four to six weeks of consistent exercise. Significant functional gains tend to show up more clearly around the eight to twelve week mark. If you're three months in without any change, that's worth revisiting with a clinician, because the program may need adjustment."
 lastmod: 2026-11-16T16:00:00Z
 ---
-
-Most people come to me after they've already stopped moving. Not because they wanted to, but because someone, somewhere, told them that pain meant they should rest. And honestly? That advice made sense on the surface. It just happens to be one of the most counterproductive things a person with arthritis can do.
+Most people with arthritis stop moving because they've been told that pain means they should rest. That advice sounds reasonable on the surface. It turns out to be one of the most counterproductive things a person with arthritis can do.
 
 A common pattern with joint pain: it starts, activity drops, stiffness worsens, pain increases, and activity drops further. It's a self-reinforcing cycle, and breaking it can feel almost impossible. So if you're sitting here wondering whether exercise could actually help or whether you'd just be grinding down cartilage that's already struggling, you're in exactly the right place to get a straight answer.
 

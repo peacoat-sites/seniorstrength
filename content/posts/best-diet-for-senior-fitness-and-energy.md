@@ -25,8 +25,7 @@ faqs:
    a: "Yes, and I'd argue it's the lever most people underestimate. Chronic dehydration, protein deficiency, gut inflammation from a low-fiber diet, and micronutrient gaps can all mimic fatigue that people assume is just aging. That's not always the case. Many of my clients have seen meaningful energy improvements by addressing nutrition before changing anything else."
 lastmod: 2026-11-16T16:00:00Z
 ---
-
-Most people I work with come to me having already tried something. They've cut back on sugar, maybe started drinking more water, picked up a protein shake at Costco. They're not starting from zero. They're starting from confused, because everything they read seems to contradict everything else, and their body isn't responding the way it did at 45.
+Most people start from a place of confusion rather than zero. They've already tried something, cut back on sugar, started drinking more water, picked up a protein shake. But the conflicting advice online leaves them uncertain, and their body isn't responding the way it did years ago. That's a common experience: putting in effort without seeing the results expected.
 
 You might be wondering if your diet is the reason your energy crashes by 2pm, or why strength gains feel slower than they should. Honestly? It probably is a factor. Not the only one. But food is where I see the biggest gap between what older adults are actually eating and what their bodies actually need.
 
