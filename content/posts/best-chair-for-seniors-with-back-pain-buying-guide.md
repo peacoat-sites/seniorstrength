@@ -24,7 +24,6 @@ If you're shifting uncomfortably after a few minutes of sitting, you're not alon
 
 The market today is filled with thoughtfully designed chairs built with older adults in mind. This guide covers everything you need to know before you buy.
 
-
 <div class="value-module">
  <div class="vm-head">Chair Type Comparison for Back Pain</div>
  <div class="vm-body">
@@ -142,10 +141,3 @@ Photo by [Priscilla Du Preez 🇨🇦](https://unsplash.com/@priscilladupreez?ut
 - [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 - [Marcelo Leal](https://unsplash.com/@marceloleal80?utm_source=seniorstrength&utm_medium=referral)
 - [Priscilla Du Preez 🇨🇦](https://unsplash.com/@priscilladupreez?utm_source=seniorstrength&utm_medium=referral)
-- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
-
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

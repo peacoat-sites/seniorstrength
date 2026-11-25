@@ -105,16 +105,3 @@ Track your progress in a notebook or on your phone. Noticing that you walked a l
 ## You Have More Strength Than You Think
 
 Living with arthritis takes real courage. Choosing to move your body despite discomfort is one of the bravest things you can do for your long-term health and happiness. These low impact exercises aren't just good for your joints. They improve your mood, strengthen your heart, sharpen your mind, and help you stay independent and active for years to come. Take it one gentle step at a time. Celebrate every bit of progress. Movement truly is medicine.
-
----
-
-## Sources
-
-- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
-- [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-- consistently shows that gentle movement keeps joints lubricated and muscles stro
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

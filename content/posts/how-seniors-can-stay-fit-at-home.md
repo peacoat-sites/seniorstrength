@@ -92,8 +92,6 @@ Ankle mobility is consistently overlooked and consistently implicated in falls. 
 
 ---
 
----
-
 The home-based fitness program that actually works long-term isn't the one with the most variety or the most sophisticated equipment. It's the one you can repeat consistently, progress over time, and still be doing a year from now. Simple, hard enough to matter, and built around the movements your daily life actually demands.
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
@@ -107,12 +105,3 @@ The home-based fitness program that actually works long-term isn't the one with 
 ## Sources
 
 - [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov)
-- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
-- [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-- here is unambiguous
-- from over 55
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

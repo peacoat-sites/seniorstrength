@@ -99,15 +99,3 @@ Simple strength exercises that also support balance: calf raises (stand behind a
 Balance training has a return on investment that's almost unfair. A few minutes a day, a few days a week, done consistently over a couple months, can genuinely change your path forward. Not just your fall statistics, but your confidence walking into a crowded restaurant, your comfort on a hiking trail, your sense that your body still works with you. The only thing separating success from stagnation is starting, then sticking with it.
 
 *This article is for general informational purposes only and does not constitute medical or fitness advice. Consult your physician or a licensed physical therapist before starting a new exercise program, especially if you have existing health conditions.*
-
-## Sources
-
-- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
-- [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-- consistently backs this up
-- in the British Journal of Sports Medicine found that people unable to stand on o
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

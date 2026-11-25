@@ -118,8 +118,6 @@ I'd also strongly encourage working with a physical therapist at least a few tim
 
 ---
 
----
-
 You don't need to do all of this at once. Pick two or three exercises from this list, do them consistently for two weeks, and notice what changes. Most people are surprised by how much difference the basics make when done correctly and regularly. The back you have at 70 can genuinely function better than the one you had at 65, if you give it the right inputs. That's not optimism. That's just what I've watched happen, over and over again.
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
@@ -133,12 +131,3 @@ You don't need to do all of this at once. Pick two or three exercises from this 
 ## Sources
 
 - [RDNE Stock project](https://www.pexels.com/@rdne)
-- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
-- [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-- published in the Annals of Internal Medicine has consistently shown that bed res
-- backs it up
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

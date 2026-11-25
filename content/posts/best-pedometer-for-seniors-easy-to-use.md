@@ -131,17 +131,3 @@ Walking should feel refreshing and energizing, not exhausting. Listen to your bo
 Finding the best pedometer for seniors is really about finding the one that fits your life, your style, your comfort level, and your health goals. Whether you choose the beautifully simple 3DFitBud or the feature-rich Apple Watch SE, what matters most is that you start moving and keep moving.
 
 Every step you take is an investment in your health, your independence, and your joy. You deserve a tool that makes that easier and more fun. Clip it on, strap it up, and get walking. Your best days are still ahead of you.
-
-## Sources
-
-- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
-- [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-- published in _JAMA Internal Medicine_ found that walking just 7
-- automatically
-- like heart rate or sleep tracking
-
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

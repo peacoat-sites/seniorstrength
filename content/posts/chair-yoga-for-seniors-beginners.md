@@ -86,8 +86,6 @@ If you're dealing with serious osteoporosis, balance disorders, or recovering fr
 
 ---
 
----
-
 Frank, the retired electrician, eventually moved into standing yoga classes. Took him about four months. He didn't start chair yoga thinking that was the goal. He just wanted his hip to stop aching when he got out of bed. But that's usually how this goes. You start where you are, you show up consistently, and the body has a way of showing you what it can still do.
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
@@ -101,10 +99,3 @@ Frank, the retired electrician, eventually moved into standing yoga classes. Too
 ## Sources
 
 - [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov)
-- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
-- [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

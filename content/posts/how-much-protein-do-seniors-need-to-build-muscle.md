@@ -108,8 +108,6 @@ If you're working out in the morning, that means breakfast isn't just breakfast.
 
 ---
 
----
-
 Eating more protein at 65 or 70 isn't about following some aggressive bodybuilder protocol. It's about compensating for real, measurable changes in how your body uses what you give it. The goal is to stay strong, stay independent, and keep doing the things that matter to you. The protein target is just one part of that, but it's a part a lot of people are unknowingly getting wrong. Fixing it is usually one of the most impactful single changes I see people make.
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
@@ -123,12 +121,5 @@ Eating more protein at 65 or 70 isn't about following some aggressive bodybuilde
 ## Sources
 
 - [Yan Krukau](https://www.pexels.com/@yankrukov)
-- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
-- [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - Older adults need more dietary protein than younger people to stimulate the same muscle protein synthesis response. The threshold is higher, and ignoring that means leaving real muscle-building potential on the table. This
 - The fear of protein-induced kidney damage in healthy older adults is not well-supported by current evidence and may actually lead people to undereat protein, which has its own serious health consequences. That
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

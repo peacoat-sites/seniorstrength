@@ -109,13 +109,3 @@ Consistency beats intensity when you're managing knee pain. Aim for **3 to 5 ses
 Start slow. Even 10 minutes a day, three days a week is a wonderful beginning. As your strength builds and your comfort level increases, you can gradually extend the time or add more repetitions. Progress at your own pace, and celebrate every small victory along the way.
 
 You'll probably notice improvements in just 2-3 weeks: less stiffness in the morning, greater ease when getting up from a chair, and more confidence on your feet.
-
-## Sources
-
-- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
-- [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

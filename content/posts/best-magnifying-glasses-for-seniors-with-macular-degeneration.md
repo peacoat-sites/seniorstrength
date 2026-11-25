@@ -24,7 +24,6 @@ If you've ever found yourself holding a restaurant menu at arm's length, squinti
 
 Macular degeneration affects the central part of your vision, making it harder to read fine print, recognize faces, or see detail in the center of your visual field. The good news? The right magnifying glass, or a combination of tools, can help you reclaim so many of the activities you love.
 
-
 <div class="value-module">
  <div class="vm-head">Magnifier Type Selection by Daily Task</div>
  <div class="vm-body">
@@ -130,10 +129,3 @@ Photo by [Ryo Ito](https://unsplash.com/@ryokyleito?utm_source=seniorstrength&ut
 - [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 - [Mobio Marketing](https://unsplash.com/@mobio_be?utm_source=seniorstrength&utm_medium=referral)
 - [Ryo Ito](https://unsplash.com/@ryokyleito?utm_source=seniorstrength&utm_medium=referral)
-- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
-
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

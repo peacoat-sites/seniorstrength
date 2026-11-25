@@ -24,7 +24,6 @@ You reach for something on the top shelf, and for just a moment, your feet feel 
 
 But are these wobbly-looking boards actually safe? Worth your time and money? Let's break it down plainly so you can decide what makes sense for your body.
 
-
 <div class="value-module">
  <div class="vm-head">Senior Balance Board Safety Checklist</div>
  <div class="vm-body">
@@ -132,18 +131,3 @@ Combining these exercises with regular balance board use gives your nervous syst
 Improving your balance is one of the most powerful investments you can make in your independence and safety. A **balance board for seniors**, used safely and consistently, can help you feel more confident in your body, reduce your risk of falls, and keep you doing the activities you love for years to come.
 
 Start small, stay safe, and remember that every minute you spend on that wobbly board is a minute you're investing in a stronger, steadier future. You don't have to be an athlete. You just have to show up and try.
-
----
-
-## Sources
-
-- [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
-- [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-- published in geriatric rehabilitation journals consistently shows that balance t
-- behind them for fall prevention in seniors
-
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
