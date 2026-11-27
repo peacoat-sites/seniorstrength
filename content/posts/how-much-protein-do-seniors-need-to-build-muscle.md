@@ -1,6 +1,7 @@
 ---
 title: "The Protein Target for Building Muscle After 60"
 date: 2026-06-27T21:01:56.088370+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how much protein seniors need daily to build and maintain muscle, plus the best food sources and timing tips to maximize strength after 60."
 image: "/img/heroes/6815693.jpg"

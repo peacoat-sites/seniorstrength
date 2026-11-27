@@ -1,6 +1,7 @@
 ---
 title: "Blood Flow Restriction Training: The Low-Weight Method Seniors Need"
 date: 2026-07-21T21:10:02.130772+00:00
+googlebot_noindex: true
 draft: false
 description: "Blood Flow Restriction Training: The Low-Weight Method Seniors Need. Build strength safely with lighter weights using proven BFR techniques designed for older a"
 image: "/img/heroes/6339605.jpg"

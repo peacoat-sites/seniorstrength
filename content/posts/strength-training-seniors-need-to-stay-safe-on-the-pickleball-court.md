@@ -1,6 +1,7 @@
 ---
 title: "Strength Training Seniors Need to Stay Safe on the Pickleball Court"
 date: 2026-07-06T21:30:34.676706+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the essential strength training exercises seniors need to improve stability, prevent injuries, and perform their best on the pickleball court safely."
 image: "/img/heroes/17299526.jpg"

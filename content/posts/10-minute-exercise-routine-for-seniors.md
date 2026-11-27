@@ -1,6 +1,7 @@
 ---
 title: "10 Minute Exercise Routine for Seniors That Works"
 date: 2026-07-01T21:27:23.729415+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover a simple 10 minute exercise routine for seniors to boost strength, balance, and flexibility safely at home with no equipment needed."
 image: "/img/heroes/33768798.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "GLP-1 Users Over 60 Are Moving Less and Losing Muscle"
 date: 2026-07-08T21:06:55.781886+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "GLP-1 medications may reduce appetite, but older adults risk losing vital muscle mass and moving less. Learn what seniors should know before starting treatment."

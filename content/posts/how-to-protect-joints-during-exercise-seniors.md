@@ -1,6 +1,7 @@
 ---
 title: "7 Smart Ways Seniors Can Protect Joints During Exercise"
 date: 2026-07-07T21:23:31.219277+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how seniors can keep joints safe while staying active. Expert tips on low-impact moves, proper form, and gear that reduces pain and injury risk."
 image: "/img/heroes/7530436.jpg"

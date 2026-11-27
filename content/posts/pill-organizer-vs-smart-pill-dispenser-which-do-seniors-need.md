@@ -1,6 +1,7 @@
 ---
 title: "Pill organizer vs smart pill dispenser: which do seniors need?"
 date: 2026-05-28T15:45:45.476680+00:00
+googlebot_noindex: true
 draft: false
 description: "Trying to choose the best pill organizer for seniors? Compare traditional pill organizers vs. smart pill dispensers to find the right medication management t"
 image: "/img/heroes/4058362.jpg"

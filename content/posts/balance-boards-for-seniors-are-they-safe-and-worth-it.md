@@ -1,6 +1,7 @@
 ---
 title: "Balance boards for seniors: are they safe and worth it?"
 date: 2026-05-24T12:54:04.911510+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover whether a balance board for seniors is safe and effective. Learn the benefits, how to get started safely, and the best options for improving stabili"
 image: "/img/heroes/8791158.jpg"

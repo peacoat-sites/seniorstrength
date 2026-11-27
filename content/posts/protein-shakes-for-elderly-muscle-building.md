@@ -1,6 +1,7 @@
 ---
 title: "Protein Shakes for Seniors: Build Muscle After 65"
 date: 2026-07-22T21:08:02.132177+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how protein shakes help elderly adults maintain muscle mass and strength. Evidence-based nutrition for aging bodies and active lifestyles."

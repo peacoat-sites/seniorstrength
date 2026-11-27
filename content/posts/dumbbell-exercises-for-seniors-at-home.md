@@ -1,6 +1,7 @@
 ---
 title: "Strength Training At Home: Dumbbell Workouts For Seniors"
 date: 2026-07-01T21:30:08.938339+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover safe and effective dumbbell exercises for seniors to do at home. Build strength, improve balance, and boost energy with these easy routines."
 image: "/img/heroes/6922140.jpg"

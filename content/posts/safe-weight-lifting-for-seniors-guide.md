@@ -1,6 +1,7 @@
 ---
 title: "Safe Weight Lifting for Seniors: Lift Smarter, Stay Strong"
 date: 2026-06-05T12:23:18.327157+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover safe weight lifting tips for seniors. Learn proper techniques, recommended exercises, and expert advice to build strength, improve balance, and stay in"
 image: "/img/heroes/4720813.jpg"

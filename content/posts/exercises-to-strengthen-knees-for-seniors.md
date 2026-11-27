@@ -1,6 +1,7 @@
 ---
 title: "Strengthen Your Knees: Safe Exercises For Active Seniors"
 date: 2026-05-29T11:37:26.381011+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best exercises to strengthen knees for seniors. Improve mobility, reduce pain, and boost stability with these safe, easy-to-follow workout routines"
 image: "/img/heroes/5067741.jpg"

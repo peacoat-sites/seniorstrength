@@ -1,6 +1,7 @@
 ---
 title: "Kettlebell Exercises for Seniors: Build Strength Safely"
 date: 2026-08-09T20:30:16.600143+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover effective kettlebell exercises designed for seniors to build strength, improve balance, and boost fitness at any age with proper form."

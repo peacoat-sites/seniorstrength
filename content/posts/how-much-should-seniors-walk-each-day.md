@@ -1,6 +1,7 @@
 ---
 title: "6,000 Steps a Day: The Senior Walking Goal That Matters"
 date: 2026-07-11T20:47:17.762014+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how many steps seniors should walk daily for better health, longevity, and mobility, plus tips to reach your goal safely and consistently."

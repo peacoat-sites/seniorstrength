@@ -1,6 +1,7 @@
 ---
 title: "Seated Cardio Workouts That Boost Energy Fast"
 date: 2026-06-04T12:20:45.829899+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover gentle seated cardio exercises designed for elderly adults to boost heart health, improve mobility, and increase energy levels safely from the comfort "
 image: "/img/heroes/6539867.jpg"

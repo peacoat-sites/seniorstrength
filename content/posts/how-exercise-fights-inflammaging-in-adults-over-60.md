@@ -1,6 +1,7 @@
 ---
 title: "How Exercise Fights Inflammaging in Adults Over 60"
 date: 2026-06-23T21:45:55.170963+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how regular exercise helps adults over 60 combat inflammaging, reduce chronic inflammation, and protect long-term health with science-backed movement s"
 image: "/img/heroes/4720787.jpg"

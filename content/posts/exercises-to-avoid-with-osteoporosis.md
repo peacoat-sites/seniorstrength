@@ -1,6 +1,7 @@
 ---
 title: "The Moves To Skip: Safe Exercise For Osteoporosis"
 date: 2026-06-11T22:03:12.908678+00:00
+googlebot_noindex: true
 draft: false
 description: "Protect your bones and prevent fractures by learning which exercises to avoid with osteoporosis, plus safe alternatives to stay active and strong."
 image: "/img/heroes/20552877.jpg"

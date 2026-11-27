@@ -1,6 +1,7 @@
 ---
 title: "Stop Dizziness Fast With These Vestibular Exercises"
 date: 2026-05-18T02:45:21.709066+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best vestibular exercises for seniors with dizziness. Learn 5 gentle, effective movements that improve balance, reduce vertigo, and help you fee"
 image: "/img/heroes/8939923.jpg"

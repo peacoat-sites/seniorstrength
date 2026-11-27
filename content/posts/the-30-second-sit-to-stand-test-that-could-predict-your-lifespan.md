@@ -1,6 +1,7 @@
 ---
 title: "The 30-Second Sit-to-Stand Test That Could Predict Your Lifespan"
 date: 2026-08-13T20:40:05.710402+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how the 30-second sit-to-stand test predicts longevity and overall health. Discover what your performance reveals about your lifespan and fitness level."
 image: "/img/heroes/8124203.jpg"

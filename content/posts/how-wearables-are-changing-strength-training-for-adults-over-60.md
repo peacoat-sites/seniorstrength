@@ -1,6 +1,7 @@
 ---
 title: "How Wearables Are Changing Strength Training for Adults Over 60"
 date: 2026-08-16T20:19:52.089763+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how wearables like smartwatches and fitness trackers are revolutionizing strength training for seniors over 60, improving safety, motivation, and resul"
 image: "/img/heroes/1080745.jpg"

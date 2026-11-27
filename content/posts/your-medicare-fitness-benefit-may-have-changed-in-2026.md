@@ -1,6 +1,7 @@
 ---
 title: "Your Medicare Fitness Benefit May Have Changed in 2026"
 date: 2026-07-02T21:04:49.330738+00:00
+googlebot_noindex: true
 draft: false
 description: "Stay active and save money. Your Medicare fitness benefit may have changed in 2026. Learn what's new, what's covered, and how to keep your membership at no extr"
 image: "/img/heroes/6815669.jpg"

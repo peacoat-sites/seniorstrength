@@ -1,6 +1,7 @@
 ---
 title: "Best chair for seniors with back pain (buying guide)"
 date: 2026-05-29T19:58:28.310464+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best chair for seniors with back pain in this complete buying guide. Learn key features, top chair types, expert tips, and FAQs to find your per"
 image: "/img/heroes/19053240.jpg"

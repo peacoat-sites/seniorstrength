@@ -1,6 +1,7 @@
 ---
 title: "Simple Exercises to Lower Blood Pressure Fast"
 date: 2026-07-02T21:06:45.977229+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover safe, effective exercises to lower blood pressure in seniors. Simple routines including walking, swimming, and stretching to support heart health."
 image: "/img/heroes/8899516.jpg"

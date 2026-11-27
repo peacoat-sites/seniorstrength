@@ -1,6 +1,7 @@
 ---
 title: "Senior Exercise Safety: 5 Injury Prevention Strategies"
 date: 2026-07-18T20:44:45.001134+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Protect yourself while staying active. Learn essential warm-up techniques, proper form, and recovery methods for exercising safely as you age."

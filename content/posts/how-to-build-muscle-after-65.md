@@ -1,6 +1,7 @@
 ---
 title: "Build Strong Muscle in Your 60s and Beyond"
 date: 2026-05-25T04:25:42.854422+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover proven strategies to build muscle after 65. Learn safe exercises, nutrition tips, and recovery techniques to gain strength and improve your health at a"
 image: "/img/heroes/6922178.jpg"

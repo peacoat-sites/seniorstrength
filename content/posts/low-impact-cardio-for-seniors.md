@@ -1,6 +1,7 @@
 ---
 title: "Low Impact Cardio for Seniors That Keeps You Active"
 date: 2026-05-30T10:57:40.029895+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best low impact cardio exercises for seniors to boost heart health, improve mobility, and stay active safely. Start moving better today with these "
 image: "/img/heroes/7020830.jpg"

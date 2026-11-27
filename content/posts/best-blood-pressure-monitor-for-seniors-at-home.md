@@ -1,6 +1,7 @@
 ---
 title: "Best blood pressure monitor for seniors at home"
 date: 2026-05-25T21:52:28.604406+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best blood pressure monitor for seniors with our top picks, expert buying tips, and simple guidance on how to use them accurately at home."
 image: "/img/heroes/7446755.jpg"

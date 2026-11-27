@@ -1,6 +1,7 @@
 ---
 title: "How Often Should Seniors Strength Train for Best Results"
 date: 2026-06-09T21:49:56.169737+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how often seniors should strength train to build muscle, boost balance, and stay independent. Get expert-backed weekly workout recommendations for olde"
 image: "/img/heroes/4720570.jpg"

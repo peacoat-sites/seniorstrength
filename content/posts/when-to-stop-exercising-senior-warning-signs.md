@@ -1,6 +1,7 @@
 ---
 title: "When to Stop Exercising: 7 Warning Signs for Seniors"
 date: 2026-08-12T20:41:30.526884+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the critical warning signs that mean it's time to stop exercising and rest. Protect your health with these senior fitness safety guidelines."

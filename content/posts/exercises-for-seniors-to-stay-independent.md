@@ -1,6 +1,7 @@
 ---
 title: "Stay Independent: Essential Exercises for Active Seniors"
 date: 2026-06-05T21:25:30.765574+00:00
+googlebot_noindex: true
 draft: false
 description: "Stay strong and mobile as you age with these simple exercises for seniors designed to improve balance, flexibility, and strength to help you maintain independen"
 image: "/img/heroes/8417516.jpg"

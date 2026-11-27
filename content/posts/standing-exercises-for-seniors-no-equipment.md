@@ -1,6 +1,7 @@
 ---
 title: "Standing Exercises Seniors Can Do Anywhere"
 date: 2026-06-12T21:45:32.548215+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover simple standing exercises for seniors that require no equipment. Improve balance, strength, and mobility safely at home with these easy, effective rout"
 image: "/img/heroes/6975786.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Chair Yoga for Seniors: Safe Stretches You Can Do Today"
 date: 2026-06-19T21:11:56.733009+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover gentle chair yoga poses perfect for seniors just starting out. Improve flexibility, balance, and strength safely from the comfort of a chair."
 image: "/img/heroes/6975769.jpg"

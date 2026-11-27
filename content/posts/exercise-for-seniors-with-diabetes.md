@@ -1,6 +1,7 @@
 ---
 title: "Safe Workouts for Seniors Managing Diabetes"
 date: 2026-05-31T11:08:13.083651+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover safe and effective exercise tips for seniors with diabetes. Learn how physical activity helps manage blood sugar, boost energy, and improve overall hea"
 image: "/img/heroes/8173545.jpg"

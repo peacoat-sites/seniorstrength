@@ -1,6 +1,7 @@
 ---
 title: "Gentle Stretching Routine for Seniors to Stay Mobile"
 date: 2026-05-24T22:13:01.142265+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover a safe and easy gentle stretching routine for seniors to improve flexibility, reduce stiffness, boost mobility, and enhance overall health and well-bei"
 image: "/img/heroes/7500035.jpg"

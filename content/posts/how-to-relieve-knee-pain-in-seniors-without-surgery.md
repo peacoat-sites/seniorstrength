@@ -1,6 +1,7 @@
 ---
 title: "How to relieve knee pain in seniors without surgery"
 date: 2026-05-22T13:35:38.137767+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover safe, effective ways to relieve knee pain in seniors without surgery, including gentle exercises, nutrition tips, home remedies, and medical treatm"
 image: "/img/heroes/7298669.jpg"

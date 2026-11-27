@@ -1,6 +1,7 @@
 ---
 title: "Stop Senior Falls Before They Start: 7 Home Safety Fixes"
 date: 2026-06-16T22:13:39.927880+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover practical home safety tips to prevent senior falls, from grab bars and better lighting to removing tripping hazards and improving bathroom safety."
 image: "/img/heroes/6924154.jpg"

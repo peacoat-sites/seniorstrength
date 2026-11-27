@@ -1,6 +1,7 @@
 ---
 title: "Easy Exercises That Actually Work For Limited Mobility"
 date: 2026-06-20T21:17:41.874419+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover safe, effective exercises for seniors with limited mobility to boost strength, flexibility, and independence from a chair or bed."
 image: "/img/heroes/35113473.jpg"

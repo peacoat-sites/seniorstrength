@@ -1,6 +1,7 @@
 ---
 title: "Regain Strength After Hip Replacement: A Safe Return to Exercise"
 date: 2026-06-25T21:45:46.499517+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover gentle exercises to rebuild strength and mobility after hip replacement surgery, with expert tips to stay safe and speed up your recovery."
 image: "/img/heroes/10875061.jpg"

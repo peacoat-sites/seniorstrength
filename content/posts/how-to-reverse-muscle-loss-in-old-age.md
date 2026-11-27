@@ -1,6 +1,7 @@
 ---
 title: "Reversing Muscle Loss in Aging: Strength Training That Works"
 date: 2026-07-15T20:59:48.020471+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover evidence-based strategies to rebuild muscle mass and strength as you age, including exercise, nutrition, and lifestyle changes."

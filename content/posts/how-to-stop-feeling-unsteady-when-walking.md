@@ -1,6 +1,7 @@
 ---
 title: "Why You Feel Unsteady Walking and How to Fix It"
 date: 2026-07-09T21:22:42.998765+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Feeling unsteady on your feet? Learn the common causes of walking instability and the proven steps to regain your balance and confidence."

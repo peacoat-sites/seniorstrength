@@ -1,6 +1,7 @@
 ---
 title: "Movement Medicine: How Exercise Eases Arthritis Pain"
 date: 2026-06-29T00:38:47.772897+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how regular exercise reduces arthritis pain, improves joint flexibility, and strengthens muscles to help you move better and live more comfortably."
 image: "/img/heroes/4164453.jpg"

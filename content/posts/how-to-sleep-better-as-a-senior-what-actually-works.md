@@ -1,6 +1,7 @@
 ---
 title: "How to sleep better as a senior (what actually works)"
 date: 2026-05-21T23:05:15.987930+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn proven strategies for better sleep as a senior. Discover 8 science-backed techniques to improve sleep quality, manage insomnia, and wake refreshed"
 image: "/img/heroes/8860200.jpg"

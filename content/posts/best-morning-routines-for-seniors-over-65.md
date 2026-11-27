@@ -1,6 +1,7 @@
 ---
 title: "Start Your Day Right: Morning Routines for Active Seniors"
 date: 2026-05-25T19:30:07.598946+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best morning routine for seniors over 65,  including gentle exercise, nourishing breakfast ideas, mental wellness tips, and simple habits that b"
 image: "/img/heroes/7530851.jpg"

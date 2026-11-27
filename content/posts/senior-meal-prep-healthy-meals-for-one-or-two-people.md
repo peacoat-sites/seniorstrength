@@ -1,6 +1,7 @@
 ---
 title: "Senior meal prep: healthy meals for one or two people"
 date: 2026-05-19T19:53:42.506551+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how meal prep for seniors can simplify your week, reduce food waste, and keep you eating healthy. Practical tips, recipe ideas, and safety advice fo"
 image: "/img/heroes/1640767.jpg"

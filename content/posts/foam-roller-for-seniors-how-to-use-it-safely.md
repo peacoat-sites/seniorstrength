@@ -1,6 +1,7 @@
 ---
 title: "Foam roller for seniors: how to use it safely"
 date: 2026-05-22T21:29:18.575151+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how to use a foam roller for seniors safely and effectively. Learn the best techniques, top benefits, what to avoid, and beginner-friendly moves to"
 image: "/img/heroes/27086488.jpg"

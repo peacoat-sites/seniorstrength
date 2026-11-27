@@ -1,6 +1,7 @@
 ---
 title: "Exercises to Avoid After Knee Replacement"
 date: 2026-07-06T21:28:03.677538+00:00
+googlebot_noindex: true
 draft: false
 description: "Protect your new joint by learning which exercises to avoid after knee replacement surgery and what safe alternatives can support your recovery."
 image: "/img/heroes/9644823.jpg"

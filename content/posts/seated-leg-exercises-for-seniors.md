@@ -1,6 +1,7 @@
 ---
 title: "Strengthen Your Legs Without Standing: Seated Exercises"
 date: 2026-05-21T00:45:03.089364+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best seated leg exercises for seniors to build strength, improve circulation, and boost mobility, all from the comfort of a chair. Safe and easy t"
 image: "/img/heroes/4971007.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Tai Chi for Balance: How 65+ Adults Prevent Falls"
 date: 2026-07-14T21:02:13.086742+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how tai chi improves balance and reduces fall risk in seniors. Evidence-based techniques for older adults to build strength and stability."

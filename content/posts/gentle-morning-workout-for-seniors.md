@@ -1,6 +1,7 @@
 ---
 title: "Gentle Morning Workout for Seniors That Starts the Day Right"
 date: 2026-06-29T00:36:33.166629+00:00
+googlebot_noindex: true
 draft: false
 description: "Start your day right with these gentle morning exercises designed for seniors to boost flexibility, balance, and energy safely from home."
 image: "/img/heroes/8637979.jpg"

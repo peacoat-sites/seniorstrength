@@ -1,6 +1,7 @@
 ---
 title: "Stop Falls Before They Start: Balance Exercises For Seniors"
 date: 2026-05-25T00:16:56.048876+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best balance exercises for seniors to prevent falls, improve stability, and boost confidence. Simple, safe routines to help older adults stay activ"
 image: "/img/heroes/6815698.jpg"

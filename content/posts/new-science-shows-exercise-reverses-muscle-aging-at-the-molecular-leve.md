@@ -1,6 +1,7 @@
 ---
 title: "New Science Shows Exercise Reverses Muscle Aging at the Molecular Level"
 date: 2026-08-10T20:41:00.731581+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "New research reveals exercise can reverse aging in muscles at the molecular level. Discover how physical activity restores youth to aging muscles and improves h"

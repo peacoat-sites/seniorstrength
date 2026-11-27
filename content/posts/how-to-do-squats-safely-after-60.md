@@ -1,6 +1,7 @@
 ---
 title: "Squats After 60: Safe Technique for Stronger Legs"
 date: 2026-08-11T20:41:32.053382+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn proper squat form for adults over 60 to build strength and prevent injury. Expert tips for safe, effective lower body workouts."

@@ -1,6 +1,7 @@
 ---
 title: "Isometric Exercises for Seniors: Build Strength Without Moving"
 date: 2026-07-21T21:07:44.724659+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how isometric exercises help seniors build muscle, improve balance, and stay strong with safe, joint-friendly workouts you can do at home."

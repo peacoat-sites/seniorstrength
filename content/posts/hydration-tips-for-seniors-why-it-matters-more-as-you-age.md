@@ -1,6 +1,7 @@
 ---
 title: "Hydration tips for seniors: why it matters more as you age"
 date: 2026-05-29T01:29:03.215058+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover essential hydration tips for seniors, including how much water to drink daily, warning signs of dehydration, and easy strategies to stay hydrated as"
 image: "/img/heroes/8417423.jpg"

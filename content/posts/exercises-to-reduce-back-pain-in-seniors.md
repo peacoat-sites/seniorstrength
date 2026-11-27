@@ -1,6 +1,7 @@
 ---
 title: "The Best Back Exercises for Active Seniors"
 date: 2026-06-25T21:43:36.025176+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover gentle exercises to reduce back pain in seniors. Improve mobility, strengthen muscles, and enjoy daily life with these safe, effective routines."
 image: "/img/heroes/7020823.jpg"

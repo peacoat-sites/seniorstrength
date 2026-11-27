@@ -1,6 +1,7 @@
 ---
 title: "Bone Health Essentials: Calcium And Vitamin D For Active Seniors"
 date: 2026-06-06T21:05:51.026557+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how calcium and vitamin D support bone health in seniors. Learn recommended daily intake, best food sources, supplement tips, and deficiency warning si"
 image: "/img/heroes/3850750.jpg"

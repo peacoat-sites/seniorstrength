@@ -1,6 +1,7 @@
 ---
 title: "Reclaim Your Strength: Simple Leg Exercises For Seniors"
 date: 2026-06-17T22:00:27.863895+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover safe and effective exercises to strengthen weak legs in seniors, improve balance, and boost independence with simple daily routines."
 image: "/img/heroes/7020965.jpg"

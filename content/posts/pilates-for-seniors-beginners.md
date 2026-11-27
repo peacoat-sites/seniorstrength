@@ -1,6 +1,7 @@
 ---
 title: "Pilates for Seniors: 12 Beginner Exercises to Build Strength"
 date: 2026-07-30T21:08:20.009162+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover gentle pilates exercises designed for seniors and beginners. Build core strength, improve flexibility, and enhance balance with low-impact movements."

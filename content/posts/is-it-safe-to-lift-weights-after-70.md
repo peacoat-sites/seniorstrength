@@ -1,6 +1,7 @@
 ---
 title: "Weight Lifting After 70: Safe Strength Training for Older Adults"
 date: 2026-08-02T20:53:53.542736+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how adults over 70 can safely lift weights to build strength, maintain muscle, and improve health with proper form and progression."

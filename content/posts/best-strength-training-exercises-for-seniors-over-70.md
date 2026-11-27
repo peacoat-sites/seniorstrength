@@ -1,6 +1,7 @@
 ---
 title: "7 Best Strength Exercises for Seniors Over 70"
 date: 2026-07-08T21:09:40.947236+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Build muscle, improve balance, and stay independent with these safe and effective strength training exercises designed specifically for adults over 70."

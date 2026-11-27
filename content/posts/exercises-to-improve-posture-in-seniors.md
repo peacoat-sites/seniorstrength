@@ -1,6 +1,7 @@
 ---
 title: "Stand Taller: Simple Posture Exercises For Active Seniors"
 date: 2026-06-03T14:07:30.995989+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best exercises to improve posture in seniors. Strengthen muscles, reduce back pain, and stand taller with these safe, easy routines for older adult"
 image: "/img/heroes/6787204.jpg"

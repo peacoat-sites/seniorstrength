@@ -1,6 +1,7 @@
 ---
 title: "Foot pain relief exercises for seniors"
 date: 2026-05-28T06:56:19.662799+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best foot pain relief exercises for seniors,  5 gentle, easy moves to reduce heel pain, improve flexibility, and walk more comfortably every day"
 image: "/img/heroes/8637982.jpg"

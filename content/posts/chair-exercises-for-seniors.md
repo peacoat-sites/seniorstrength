@@ -1,6 +1,7 @@
 ---
 title: "Chair Exercises for Seniors: Stay Strong Without Standing"
 date: 2026-05-22T19:16:37.480574+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover safe and effective chair exercises for seniors to improve strength, flexibility, and balance. Stay active and healthy from the comfort of a chair."
 image: "/img/heroes/8899515.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Seated Strength Exercises for Elderly Adults That Build Muscle"
 date: 2026-06-23T21:43:28.379551+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover effective seated strength exercises for elderly adults to build muscle, improve balance, and boost independence safely from a chair."
 image: "/img/heroes/8436630.jpg"

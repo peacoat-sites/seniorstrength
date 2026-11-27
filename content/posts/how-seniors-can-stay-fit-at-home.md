@@ -1,6 +1,7 @@
 ---
 title: "How Seniors Can Stay Fit at Home Without a Gym"
 date: 2026-06-22T22:04:34.111600+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover simple exercises and wellness routines seniors can do at home to build strength, improve balance, and stay active and healthy every day."
 image: "/img/heroes/6973184.jpg"

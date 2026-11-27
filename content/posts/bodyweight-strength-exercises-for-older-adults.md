@@ -1,6 +1,7 @@
 ---
 title: "Build Strength Without Weights: Bodyweight Moves for Older Adults"
 date: 2026-06-02T12:53:30.857563+00:00
+googlebot_noindex: true
 draft: false
 description: "Build functional strength safely with the best bodyweight exercises for older adults. Improve balance, mobility, and independence with no equipment needed."
 image: "/img/heroes/4775197.jpg"

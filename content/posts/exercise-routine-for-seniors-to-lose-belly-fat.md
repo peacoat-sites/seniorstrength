@@ -1,6 +1,7 @@
 ---
 title: "Belly Fat Loss Exercises for Seniors: Proven Routines That Work"
 date: 2026-08-15T20:20:31.540420+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover effective exercise routines designed specifically for seniors to reduce belly fat safely and build strength at any age."

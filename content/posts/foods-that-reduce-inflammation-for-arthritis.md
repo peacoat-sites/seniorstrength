@@ -1,6 +1,7 @@
 ---
 title: "The Arthritis-Fighting Foods That Actually Work"
 date: 2026-06-27T21:04:45.976045+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best anti-inflammatory foods for arthritis relief. Learn how omega-3s, berries, and leafy greens can help reduce joint pain naturally."
 image: "/img/heroes/7890175.jpg"

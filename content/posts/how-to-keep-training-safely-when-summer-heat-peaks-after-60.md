@@ -1,6 +1,7 @@
 ---
 title: "How to Keep Training Safely When Summer Heat Peaks After 60"
 date: 2026-08-07T20:39:35.372029+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Stay fit and healthy during summer heat with expert tips for safe training after 60. Learn hydration, timing, and exercise modifications for older adults."

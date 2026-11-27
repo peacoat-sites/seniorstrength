@@ -1,6 +1,7 @@
 ---
 title: "Best resistance bands for seniors (tested and ranked)"
 date: 2026-05-29T19:15:40.015560+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best resistance bands for seniors,  tested, ranked, and expert-approved. Find the right resistance level, top product picks, and safe beginner t"
 image: "/img/heroes/4920439.jpg"

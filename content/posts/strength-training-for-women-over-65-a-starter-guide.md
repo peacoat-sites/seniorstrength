@@ -1,6 +1,7 @@
 ---
 title: "Strength training for women over 65: a starter guide"
 date: 2026-05-21T03:55:38.576596+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the benefits of strength training for women over 65 with this beginner-friendly guide. Learn safe exercises, weekly schedules, and expert tips to bu"
 image: "/img/heroes/6539801.jpg"

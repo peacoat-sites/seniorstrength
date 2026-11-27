@@ -1,6 +1,7 @@
 ---
 title: "Why Seniors Lose Balance and How to Fix It"
 date: 2026-07-05T21:00:58.665067+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover why seniors lose their balance, including inner ear changes, muscle weakness, and medication effects, plus tips to stay steady and safe."
 image: "/img/heroes/8940020.jpg"
