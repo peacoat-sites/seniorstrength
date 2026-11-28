@@ -29,5 +29,19 @@
       "age"
     ],
     "desc": "See how your strength compares to others your age and sex."
+  },
+  {
+    "label": "Fall-Proof Checklist",
+    "url": "/fall-prevention-checklist/",
+    "icon": "✅",
+    "match": [
+      "fall",
+      "balance",
+      "safety",
+      "home",
+      "stairs",
+      "bathroom"
+    ],
+    "desc": "Room-by-room home safety and health steps that lower fall risk, with a free PDF."
   }
 ]
